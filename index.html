@@ -118,18 +118,28 @@
     .article-arrow svg { width: 13px; height: 13px; stroke: var(--text-muted); fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; transition: stroke var(--transition); }
     .article-card:hover .article-arrow svg { stroke: #fff; }
 
-    /* ── Knowledge Grid ── */
-    .knowledge-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 16px 0 20px; padding: 16px; background: #F7F7FB; border-radius: 8px; border: 1px solid var(--border-light); }
-    .knowledge-item { display: flex; flex-direction: column; gap: 4px; }
-    .knowledge-label { display: flex; align-items: center; gap: 5px; font-size: 10px; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; color: var(--text-muted); }
-    .knowledge-label-dot { width: 5px; height: 5px; border-radius: 50%; flex-shrink: 0; }
-    .knowledge-label-dot.dot-insight { background: #4F46E5; }
-    .knowledge-label-dot.dot-model   { background: #0F766E; }
-    .knowledge-label-dot.dot-spark   { background: #C2410C; }
-    .knowledge-label-dot.dot-action  { background: #059669; }
-    .knowledge-value { font-size: 13px; color: var(--text-primary); line-height: 1.5; font-weight: 450; }
-    .featured-card .knowledge-grid { background: #F3F0FF; border-color: #DDD6FE; }
-    @media (max-width: 600px) { .knowledge-grid { grid-template-columns: 1fr; } }
+    /* ── Article Detail ── */
+    .article-detail { display: none; max-width: var(--content-max); margin: 0 auto; padding: 68px 0 120px; }
+    .article-detail.active { display: block; animation: fadeIn 0.25s ease; }
+    .detail-back { display: inline-flex; align-items: center; gap: 6px; background: none; border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 7px 14px; font-size: 13px; font-weight: 500; color: var(--text-secondary); cursor: pointer; margin-bottom: 40px; transition: border-color var(--transition), color var(--transition); }
+    .detail-back:hover { border-color: var(--accent); color: var(--accent); }
+    .detail-back svg { width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .detail-tag-row { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+    .detail-title { font-size: 32px; font-weight: 700; letter-spacing: -0.7px; line-height: 1.25; color: var(--text-primary); margin-bottom: 10px; }
+    .detail-meta { font-size: 13px; color: var(--text-muted); margin-bottom: 32px; }
+    .detail-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 48px; }
+    .detail-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 22px 24px; border-top: 3px solid transparent; }
+    .detail-card.card-insight { border-top-color: var(--accent); }
+    .detail-card.card-spark   { border-top-color: #C2410C; }
+    .detail-card-label { font-size: 10.5px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 10px; }
+    .detail-card.card-insight .detail-card-label { color: var(--accent); }
+    .detail-card.card-spark   .detail-card-label { color: #C2410C; }
+    .detail-card-text { font-size: 15px; color: var(--text-primary); line-height: 1.65; font-weight: 450; }
+    .detail-divider { border: none; border-top: 1px solid var(--border-light); margin: 0 0 40px; }
+    .detail-body { font-size: 16px; line-height: 1.9; color: var(--text-secondary); }
+    .detail-body p + p { margin-top: 1.3em; }
+    .detail-body h2 { font-size: 20px; font-weight: 650; color: var(--text-primary); margin: 2em 0 0.6em; letter-spacing: -0.3px; }
+    @media (max-width: 600px) { .detail-cards { grid-template-columns: 1fr; } .detail-title { font-size: 26px; } }
 
     /* ── Mobile ── */
     .mobile-header { display: none; position: sticky; top: 0; z-index: 100; background: var(--surface); border-bottom: 1px solid var(--border); padding: 14px 20px; align-items: center; justify-content: space-between; }
@@ -199,48 +209,28 @@
         <p>AI 产品设计最大的误区，是把 AI 当成一个更聪明的功能按钮。真正的认知转变，是理解 AI 带来的是「概率性的能力」，而非「确定性的工具」。</p>
       </div>
       <div class="articles-header"><h2>精选文章</h2></div>
-      <div class="article-card pinned">
+      <div class="article-card pinned" onclick="showArticle('cog-1')">
         <div class="article-card-top"><span class="article-tag">认知基础</span><span class="article-read-time">10 min</span></div>
         <h3 class="article-title">从确定性到概率性：AI 产品设计的思维范式转变</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">AI 输出是概率分布，不是确定结果；「正确」需要重新定义</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">确定性 → 概率性范式迁移模型：输入相同，输出不同</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">界面应展示结果的「可能性范围」，而非单一答案</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">在 AI 输出旁增加置信度或「这是一种可能」的文案说明</div></div>
-        </div>
+        <p class="article-excerpt">AI 打破了「相同输入产生相同输出」的确定性假设。理解这一根本性转变，是做好 AI 产品设计的认知前提——你需要重新定义「正确」，并为不确定性设计界面语言。</p>
         <div class="article-footer"><div class="article-author-avatar">林</div><span class="article-author-name">林晓晴</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('cog-2')">
         <div class="article-card-top"><span class="article-tag tag-green">趋势洞察</span><span class="article-read-time">8 min</span></div>
         <h3 class="article-title">AI 产品的三个阶段：工具、助手与代理</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">AI 产品演进路径决定了 UX 复杂度，每阶段设计重心不同</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">工具（执行）→ 助手（理解）→ 代理（自主）三层进化框架</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">你的产品处于哪个阶段，决定了控制权应给用户多少</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">用这三阶段评估你当前的 AI 功能，明确它的监督设计需求</div></div>
-        </div>
+        <p class="article-excerpt">从命令执行的工具，到理解意图的助手，再到自主行动的代理——AI 产品的演进路径决定了 UX 的复杂度和设计重心。先判断你的产品在哪个阶段，再谈如何设计。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#059669;">张</div><span class="article-author-name">张志远</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('cog-3')">
         <div class="article-card-top"><span class="article-tag tag-orange">方法论</span><span class="article-read-time">7 min</span></div>
         <h3 class="article-title">设计师如何评估一个 AI 功能是否值得做</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">不是所有问题都需要 AI；技术可行 ≠ 值得设计</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">用户价值密度 × 信任门槛 双轴优先级矩阵</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">高价值低信任需求的功能是 AI 落地最佳切入点</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">把 AI 需求 Backlog 放入矩阵，砍掉左下角功能</div></div>
-        </div>
+        <p class="article-excerpt">技术可行性不等于设计值得投入。用「用户价值密度 × 信任门槛」双轴矩阵评估 AI 功能优先级，帮你在纷繁的 AI 需求 Backlog 中找到真正值得下注的切入点。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#C2410C;">王</div><span class="article-author-name">王梦琪</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('cog-4')">
         <div class="article-card-top"><span class="article-tag tag-purple">深度思考</span><span class="article-read-time">12 min</span></div>
         <h3 class="article-title">人机共生设计：让 AI 增强而非替代人的判断</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">最好的 AI 产品让人做出更好的决策，而不是替代决策</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">增强智能（IA）vs 人工智能（AI）：人在回路的设计原则</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">界面中永远保留「人类否决权」的入口，哪怕不常用</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">检查你的 AI 功能：用户是否随时可以修改或拒绝 AI 建议</div></div>
-        </div>
+        <p class="article-excerpt">增强智能（IA）和人工智能（AI）代表两种截然不同的产品哲学。最好的 AI 设计目标是让人做出更好的决策，而不是把决策权完全交给机器——人在回路，才是正确的共生形态。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">陈</div><span class="article-author-name">陈思睿</span><span class="article-dot"></span><span class="article-date">2024年8月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
     </section>
@@ -264,48 +254,28 @@
         <p>用户对 AI 的信任不是一次性建立的，而是在每一次交互中累积或消耗的。设计师的职责，是让每一次输出——无论好坏——都不破坏用户对产品的整体信心。</p>
       </div>
       <div class="articles-header"><h2>精选文章</h2></div>
-      <div class="article-card pinned">
+      <div class="article-card pinned" onclick="showArticle('ux-1')">
         <div class="article-card-top"><span class="article-tag">信任设计</span><span class="article-read-time">8 min</span></div>
         <h3 class="article-title">信任梯度：如何设计让用户真正相信的 AI 界面</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">AI 信任是连续光谱，每次交互都在累积或消耗信任余额</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">信任梯度模型：透明度 + 一致性 + 不确定性诚实表达</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">不要隐藏错误，主动承认并给出弥补路径比沉默更建立信任</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">为 AI 输出设计「不确定」状态样式，而非统一呈现为自信答案</div></div>
-        </div>
+        <p class="article-excerpt">AI 信任是一个连续光谱，在每次交互中累积或消耗。透明度、一致性和诚实表达不确定性，是建立 AI 界面信任的三根支柱——不要隐藏错误，主动承认反而更能建立长期信任。</p>
         <div class="article-footer"><div class="article-author-avatar">苏</div><span class="article-author-name">苏瑞宁</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('ux-2')">
         <div class="article-card-top"><span class="article-tag tag-green">交互模式</span><span class="article-read-time">6 min</span></div>
         <h3 class="article-title">渐进式披露：AI 生成内容该露多少「思考过程」</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">「展示多少」取决于用户专业度与决策风险，没有统一答案</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">用户专业度 × 决策风险 → 分层披露决策矩阵</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">专家用户想看推理链，普通用户只想要结论，界面要支持两种模式</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">在 AI 输出卡片里增加「展开推理过程」的折叠控件</div></div>
-        </div>
+        <p class="article-excerpt">展示多少 AI 的推理过程，取决于用户专业背景和决策风险等级，没有统一答案。设计上需要同时支持「只看结论」和「展开推理」两种模式，满足不同深度需求。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#059669;">马</div><span class="article-author-name">马天翔</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('ux-3')">
         <div class="article-card-top"><span class="article-tag tag-orange">容错设计</span><span class="article-read-time">7 min</span></div>
         <h3 class="article-title">优雅失败：为 AI 功能设计「失败得好看」的体验</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">失败不可避免，失败后用户的掌控感决定了他们会不会再试一次</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">失败分级响应：轻微偏差 / 明显错误 / 完全失败 → 对应三种设计策略</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">失败时给用户「一键重试 + 手动调整」两个出口，而非单纯报错</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">列出产品里所有 AI 失败场景，逐一设计专属的 fallback 体验</div></div>
-        </div>
+        <p class="article-excerpt">AI 失败不可避免，但失败后用户的掌控感决定了他们是否愿意再试。三级失败分级响应策略，配合「一键重试 + 手动调整」双出口设计，让任何失败场景都不会变成死路。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#C2410C;">吴</div><span class="article-author-name">吴嘉敏</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('ux-4')">
         <div class="article-card-top"><span class="article-tag tag-purple">启发式原则</span><span class="article-read-time">10 min</span></div>
         <h3 class="article-title">AI 界面评估启发式原则：尼尔森 10 条的 AI 更新版</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">经典启发式原则无法覆盖 AI 的概率行为、幻觉风险和涌现能力</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">AI 界面 12 条新启发式：增加「不确定性可见」「可逆性保障」等维度</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">AI 产品设计评审时，用这 12 条代替原有启发式清单</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">打印这 12 条，作为下一次 AI 功能设计走查的检查表</div></div>
-        </div>
+        <p class="article-excerpt">尼尔森 10 条原则无法覆盖 AI 的概率行为、幻觉风险和长时延迟。本文在原有框架上扩展出针对 AI 特性的新维度，形成一份可直接用于设计走查的 AI 界面评估清单。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">朴</div><span class="article-author-name">朴恩雷</span><span class="article-dot"></span><span class="article-date">2024年8月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
     </section>
@@ -329,48 +299,28 @@
         <p>能自主浏览网页、写代码、发邮件、管理文件的 Agent，需要全新的 UX 范式。界面必须清晰传达 Agent 正在做什么、为什么这样做，以及如何随时叫停。</p>
       </div>
       <div class="articles-header"><h2>精选文章</h2></div>
-      <div class="article-card pinned">
+      <div class="article-card pinned" onclick="showArticle('agent-1')">
         <div class="article-card-top"><span class="article-tag">监督悖论</span><span class="article-read-time">9 min</span></div>
         <h3 class="article-title">监督悖论：如何设计不让人抓狂的 Agent 控制界面</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">过度监督 = 没有自动化；零监督 = 失去控制；出路是「情境式监督」</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">动作风险 × 可逆性 → 监督必要性矩阵（4 象限）</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">不可逆动作（发邮件、删文件）必须强制确认；低风险动作静默执行</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">为 Agent 的每个动作类型标注风险等级，据此决定是否需要用户审批</div></div>
-        </div>
+        <p class="article-excerpt">过度监督等于没有自动化，零监督则等于失去控制。「情境式监督」是出路——用「动作风险 × 可逆性」矩阵决定哪些操作需要确认，哪些可以静默执行。</p>
         <div class="article-footer"><div class="article-author-avatar">吴</div><span class="article-author-name">吴大伟</span><span class="article-dot"></span><span class="article-date">2024年12月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('agent-2')">
         <div class="article-card-top"><span class="article-tag tag-teal">执行日志</span><span class="article-read-time">7 min</span></div>
         <h3 class="article-title">Agent 日志解剖：如何让 40 步执行过程对用户可读</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">日志不是给 Debug 用的，是给用户建立信任感用的</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">三层日志结构：摘要（1 句）→ 阶段概览（3-5 步）→ 完整追踪</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">默认展示「做了什么」，而非「怎么做的」，减少认知负担</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">设计折叠式日志组件，顶层一句话结论，点击展开详细步骤</div></div>
-        </div>
+        <p class="article-excerpt">Agent 执行日志的设计目标不是 Debug，而是建立信任感。三层日志结构（摘要 → 阶段概览 → 完整追踪）让用户在不同深度上都能理解 Agent 正在做什么。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#0F766E;">方</div><span class="article-author-name">方菲娜</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('agent-3')">
         <div class="article-card-top"><span class="article-tag tag-blue">中断设计</span><span class="article-read-time">8 min</span></div>
         <h3 class="article-title">中断设计：Agent 应该在什么时候停下来问用户</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">中断频率是自动化效率与用户掌控感的核心张力点</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">中断触发条件：歧义 / 超出授权 / 不可逆操作 / 长时间无进展</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">「在任务开始前澄清」比「执行到一半停下来问」体验好得多</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">在 Agent 任务启动时加一个「确认意图」步骤，减少执行中途中断</div></div>
-        </div>
+        <p class="article-excerpt">中断频率是自动化效率与用户掌控感之间的核心张力。明确的触发条件（歧义、超出授权、不可逆操作）加上前置意图确认，是减少执行中途打断的最有效设计策略。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#2563EB;">贾</div><span class="article-author-name">贾明亮</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('agent-4')">
         <div class="article-card-top"><span class="article-tag tag-pink">多智能体</span><span class="article-read-time">11 min</span></div>
         <h3 class="article-title">多 Agent 系统：为协作 AI 团队设计管理界面</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">多 Agent 系统的 UX 挑战是：让用户理解一个他们看不见的组织</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">Agent 任务图可视化：主 Agent → 子 Agent 树状结构 + 状态追踪</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">「撤销」在多 Agent 场景下需要重新定义——是撤销最后一步还是整条链路</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">用流程图而非列表来呈现多 Agent 的执行结构，提升可读性</div></div>
-        </div>
+        <p class="article-excerpt">多 Agent 系统的 UX 挑战是让用户理解一个看不见的「AI 组织」。树状任务图可视化、分层状态追踪，以及重新定义「撤销」的范围——这些是多 Agent 界面设计的核心命题。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#9D174D;">聂</div><span class="article-author-name">聂贝拉</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
     </section>
@@ -394,48 +344,28 @@
         <p>AI 设计系统不只是组件库，更是行为规范。工程师需要的不只是视觉稿，他们需要知道什么时候用流式输出、错误态如何处理、置信度阈值触发什么 UI 变化。</p>
       </div>
       <div class="articles-header"><h2>精选文章</h2></div>
-      <div class="article-card pinned">
+      <div class="article-card pinned" onclick="showArticle('ds-1')">
         <div class="article-card-top"><span class="article-tag">组件分类</span><span class="article-read-time">10 min</span></div>
         <h3 class="article-title">AI 组件分类法：AI 产品需要的 18 种新 UI 基础组件</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">AI 产品需要专属组件库，传统设计系统无法覆盖其特有交互态</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">18 种 AI 组件分类：输出类 / 控制类 / 状态类 / 引用类</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">「重新生成」按钮是 AI 界面的必备控件，代表用户对不确定性的主动权</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">对照 18 种分类检查你的设计系统，补充缺失的 AI 专属组件</div></div>
-        </div>
+        <p class="article-excerpt">传统设计系统的组件无法覆盖 AI 特有的交互态。本文梳理 18 种 AI 产品专属基础组件，分为输出类、控制类、状态类和引用类，为你的设计系统扩展包提供完整的起点清单。</p>
         <div class="article-footer"><div class="article-author-avatar">罗</div><span class="article-author-name">罗伊娜</span><span class="article-dot"></span><span class="article-date">2024年12月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('ds-2')">
         <div class="article-card-top"><span class="article-tag tag-green">动效 Token</span><span class="article-read-time">6 min</span></div>
         <h3 class="article-title">AI 加载态的动效 Token：超越转圈的设计系统</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">AI 响应时长差异巨大，单一 Loading 动效无法传达等待状态的语义</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">动效 Token 分层：thinking（&lt;2s）/ processing（2-15s）/ waiting（&gt;15s）</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">不同等待时长应配合不同的视觉节奏，让用户感受到「进展」而非「卡住了」</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">在 Token 系统里定义三档 AI 加载动效，按响应时长场景分配使用规则</div></div>
-        </div>
+        <p class="article-excerpt">AI 响应时长差异巨大，从不到 1 秒到超过 1 分钟都是常态。三档动效 Token（thinking / processing / waiting）让用户在任何等待时长下都能感受到「进展」而非「卡顿」。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#059669;">拉</div><span class="article-author-name">拉维·库马尔</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('ds-3')">
         <div class="article-card-top"><span class="article-tag tag-orange">组件文档</span><span class="article-read-time">8 min</span></div>
         <h3 class="article-title">写出工程师真正会看的 AI 组件使用指南</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">AI 组件文档的核心价值是「行为说明」，不是「视觉规范」</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">行为优先文档框架：使用场景 → 触发条件 → 状态枚举 → 边界情况</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">每个 AI 组件文档至少要回答：「什么情况下不该用这个组件」</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">重新审视你的设计系统文档，把「外观描述」改写成「行为规范」</div></div>
-        </div>
+        <p class="article-excerpt">AI 组件文档的核心价值是行为说明，不是视觉规范。「行为优先文档」框架：使用场景 → 触发条件 → 状态枚举 → 边界情况，帮工程师真正理解何时用、怎么用、不该用的场景。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#C2410C;">普</div><span class="article-author-name">普里雅·奥赛</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('ds-4')">
         <div class="article-card-top"><span class="article-tag tag-purple">无障碍</span><span class="article-read-time">9 min</span></div>
         <h3 class="article-title">无障碍 AI：让流式输出对屏幕阅读器友好</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">流式文本对屏幕阅读器是灾难性体验，无障碍设计不能事后补救</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">ARIA Live Region 策略：polite（低优先级通知）vs assertive（紧急通知）</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">为流式输出设计「完成后朗读」模式，而非实时逐字播报</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">用 VoiceOver 测试你的 AI 输出体验，记录所有感知断点并逐一修复</div></div>
-        </div>
+        <p class="article-excerpt">AI 流式文本输出对屏幕阅读器是灾难性的体验，每个 Token 的出现都会打断读屏播报。本文介绍「完成后朗读」的双轨制无障碍架构，从设计系统层面根治这个被忽视的盲区。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">田</div><span class="article-author-name">田娜·中村</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
     </section>
@@ -459,48 +389,28 @@
         <p>最高效的设计师不是用 AI 替代自己的工作流，而是用 AI 压缩其中价值最低的部分。目标是花更少时间在机械执行上，把判断力和策略思考留给只有人类才能做好的事。</p>
       </div>
       <div class="articles-header"><h2>精选文章</h2></div>
-      <div class="article-card pinned">
+      <div class="article-card pinned" onclick="showArticle('wf-1')">
         <div class="article-card-top"><span class="article-tag">工具评测</span><span class="article-read-time">8 min</span></div>
         <h3 class="article-title">2024 设计师 AI 工具栈：12 个月测试 40+ 工具后的真实评价</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">Demo 效果好的工具 ≠ 工作流里有价值的工具；真实使用才是检验标准</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">工具评估框架：工作流嵌入深度 × 实际时间节省 × 输出质量稳定性</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">最值钱的 AI 工具是那些能加速「最无聊环节」的工具，而非最酷炫的</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">列出你设计流程中最耗时的 3 个环节，针对性寻找 AI 工具替代</div></div>
-        </div>
+        <p class="article-excerpt">Demo 效果好的工具不等于工作流里有价值的工具。12 个月、40+ 款工具的真实测试，最终留在工具栈里的只有 7 个——它们共同的特点是能加速「最无聊的环节」，而不是最酷炫的。</p>
         <div class="article-footer"><div class="article-author-avatar">金</div><span class="article-author-name">金昭昭</span><span class="article-dot"></span><span class="article-date">2024年12月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('wf-2')">
         <div class="article-card-top"><span class="article-tag tag-teal">提示词</span><span class="article-read-time">7 min</span></div>
         <h3 class="article-title">设计师的提示词工程入门：不需要懂技术的实用指南</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">好提示词的本质是「给 AI 提供足够的上下文做出判断」，不是技术技巧</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">提示词四要素：角色 + 任务 + 约束 + 输出格式</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">把常用设计任务的提示词模板化，建立自己的「提示词库」</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">为 UX 文案、用研总结、竞品分析各写一个可复用的提示词模板</div></div>
-        </div>
+        <p class="article-excerpt">好提示词的本质是给 AI 足够的上下文，让它做出正确判断——这正是设计师每天都在练习的能力。角色 + 任务 + 约束 + 输出格式的四要素框架，帮你建立可复用的「提示词库」。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#0F766E;">艾</div><span class="article-author-name">艾里斯·拉森</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('wf-3')">
         <div class="article-card-top"><span class="article-tag tag-purple">快速原型</span><span class="article-read-time">9 min</span></div>
         <h3 class="article-title">20 分钟从草图到可点击原型：AI 辅助快速原型实践</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">AI 把原型制作的时间成本降低了 80%，设计师可以用同样时间测试更多假设</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">AI 原型流水线：草图 → 图生图 → 代码组件 → 可交互原型（全程 &lt;20min）</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">原型保真度由「测试目的」决定，而非时间——AI 让低保真测试变得更快</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">下次设计评审前用这套流程做一版 AI 辅助原型，感受速度差异</div></div>
-        </div>
+        <p class="article-excerpt">AI 把原型制作时间成本降低了约 80%，这意味着你可以在同等时间内测试 3 个方向而非打磨 1 个。草图 → 图生图 → 代码原型的四步流水线，全程不超过 20 分钟。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">丹</div><span class="article-author-name">丹·奥卡福</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('wf-4')">
         <div class="article-card-top"><span class="article-tag tag-orange">用户研究</span><span class="article-read-time">7 min</span></div>
         <h3 class="article-title">AI 辅助用研：规模化分析不能以损失洞察为代价</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">AI 做数据汇总，人做洞察提炼；两者分工错了，用研价值就消失了</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">用研 AI 协作模型：AI 负责分类归并，人负责解读异常和弱信号</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">主动关注 AI「没有归类进去」的内容——那里往往藏着最有价值的边缘案例</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">下次用研完成后，先让 AI 跑一遍主题分析，再人工逐条复核「被忽略的」条目</div></div>
-        </div>
+        <p class="article-excerpt">AI 做数据汇总，人做洞察提炼——分工错位，用研价值就消失了。主动关注 AI「没有归类进去」的内容：那里往往藏着最有价值的边缘案例和意外发现。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#C2410C;">佐</div><span class="article-author-name">佐伊·贝尔</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
     </section>
@@ -524,48 +434,28 @@
         <p>很多设计师对 AI 的快速发展感到不安。最有效的设计领导者，是那些正视这种情绪的人——为坦诚对话创造空间，把技能建设和意义感连接起来，用好奇心代替防御性。</p>
       </div>
       <div class="articles-header"><h2>精选文章</h2></div>
-      <div class="article-card pinned">
+      <div class="article-card pinned" onclick="showArticle('mgmt-1')">
         <div class="article-card-top"><span class="article-tag">团队结构</span><span class="article-read-time">9 min</span></div>
         <h3 class="article-title">新设计团队：AI 原生组织的角色、技能与结构</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">AI 时代不是设计师变少，而是每个人需要担起更高层次的判断责任</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">四新角色：AI 用研设计师 / 提示词设计师 / 系统思维者 / AI 产品 Lead</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">重新评估你团队的技能矩阵，识别 AI 时代最需要补充的能力缺口</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">用四角色框架对团队现有成员做一次能力匹配评估，找出发展路径</div></div>
-        </div>
+        <p class="article-excerpt">AI 时代不是设计师变少，而是每个人需要担起更高层次的判断责任。四个正在涌现的新角色——AI 用研设计师、提示词设计师、系统思维者、AI 产品 Lead——正在重新定义设计团队的结构。</p>
         <div class="article-footer"><div class="article-author-avatar">韩</div><span class="article-author-name">韩娜·恩科斯</span><span class="article-dot"></span><span class="article-date">2024年12月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('mgmt-2')">
         <div class="article-card-top"><span class="article-tag tag-green">招聘</span><span class="article-read-time">6 min</span></div>
         <h3 class="article-title">招聘 AI 产品设计师时，你应该看什么</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">视觉打磨能力在 AI 时代贬值，对模型行为的好奇心和系统思维在升值</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">AI 设计师评估维度：概率思维 / 不确定性容忍度 / AI 工具实操能力</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">面试时问「你最近一次改变对 AI 能力边界的认知是什么时候」比看作品集更有效</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">更新 JD，把「熟悉 AI 工具」改写为具体的能力描述和作品集考察维度</div></div>
-        </div>
+        <p class="article-excerpt">视觉打磨能力在 AI 时代的相对价值在下降；对模型行为的好奇心、概率思维和对不确定性的容忍度正在升值。如何更新招聘标准和面试题，才能找到真正适合 AI 时代的设计师。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#059669;">瓦</div><span class="article-author-name">瓦尔·默瑟</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('mgmt-3')">
         <div class="article-card-top"><span class="article-tag tag-orange">评审文化</span><span class="article-read-time">7 min</span></div>
         <h3 class="article-title">AI 时代的设计评审：如何评价「人 + AI」协作的作品</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">AI 共创作品的评审核心是「人的判断力质量」，而非最终视觉输出</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">评审三维度：作者性（谁决定的）/ 迭代深度（探索了几个方向）/ 品味校准</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">评审时要问「你拒绝了 AI 的哪些建议，为什么」，而不只是「你做了什么」</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">在下次设计评审中，增加一个「AI 协作说明」环节，要求设计师呈现决策过程</div></div>
-        </div>
+        <p class="article-excerpt">当 AI 可以快速生成大量方案，设计评审的核心转向「人的判断力质量」。作者性、迭代深度、品味校准——三个新维度帮你评价一个「人 + AI」协作产出的作品是否真的出色。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#C2410C;">贾</div><span class="article-author-name">贾尔斯·罗</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card">
+      <div class="article-card" onclick="showArticle('mgmt-4')">
         <div class="article-card-top"><span class="article-tag tag-blue">AI 素养</span><span class="article-read-time">10 min</span></div>
         <h3 class="article-title">在设计团队里建立 AI 素养：一个 12 周课程框架</h3>
-        <div class="knowledge-grid">
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-insight"></span>核心观点</div><div class="knowledge-value">AI 素养不是技术课，是认知课——帮设计师建立和 AI 协作的心智模型</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-model"></span>关键模型</div><div class="knowledge-value">12 周课程结构：认知 (1-4) → 工具实操 (5-8) → 产品设计应用 (9-12)</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-spark"></span>设计启发</div><div class="knowledge-value">最有效的 AI 素养培育是「边做边学」，把 AI 融入真实项目而非培训课</div></div>
-          <div class="knowledge-item"><div class="knowledge-label"><span class="knowledge-label-dot dot-action"></span>可落地动作</div><div class="knowledge-value">下个季度在一个真实项目里强制使用 AI 工具，复盘时记录学习曲线</div></div>
-        </div>
+        <p class="article-excerpt">AI 素养是认知课，不是技术课。12 周三阶段框架（认知 → 工具实操 → 产品应用），以「边做边学」为核心方法——把 AI 融入真实项目，比任何培训课都更有效。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#2563EB;">西</div><span class="article-author-name">西蒙·哈特</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
     </section>
@@ -590,25 +480,25 @@
         <p>我们关注的不是视觉层面的「好不好看」，而是设计决策层面的「为什么这样做」——每一个交互细节背后的产品逻辑、用户心理和商业考量。</p>
       </div>
       <div class="articles-header"><h2>最新期刊</h2></div>
-      <div class="article-card pinned featured-card">
+      <div class="article-card pinned featured-card" onclick="showArticle('td-1')">
         <div class="article-card-top"><span class="article-tag tag-purple">产品拆解</span><span class="article-read-time">15 min</span></div>
         <h3 class="article-title">Cursor 的 AI 编辑器体验拆解：为什么它让开发者欲罢不能</h3>
         <p class="article-excerpt">Cursor 在短时间内俘获了大量开发者，但它的成功不只是技术上的。本期从 UX 视角深度拆解：Tab 补全的交互哲学、内联编辑的信任机制、对话面板的信息架构，以及「Composer」模式如何重新定义 AI 辅助编程体验。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">李</div><span class="article-author-name">李子轩</span><span class="article-dot"></span><span class="article-date">2024年12月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card featured-card">
+      <div class="article-card featured-card" onclick="showArticle('td-2')">
         <div class="article-card-top"><span class="article-tag tag-blue">产品拆解</span><span class="article-read-time">12 min</span></div>
         <h3 class="article-title">Perplexity 的搜索体验拆解：答案引擎如何重新定义搜索 UX</h3>
         <p class="article-excerpt">Perplexity 没有按照 Google 的路径优化，而是从零开始重构了「搜索」这件事的用户体验。引用系统的信任设计、追问交互的对话流、结果页的信息密度控制——每个细节都值得学习。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#2563EB;">赵</div><span class="article-author-name">赵思涵</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card featured-card">
+      <div class="article-card featured-card" onclick="showArticle('td-3')">
         <div class="article-card-top"><span class="article-tag tag-teal">产品拆解</span><span class="article-read-time">13 min</span></div>
         <h3 class="article-title">Notion AI 的集成策略拆解：如何把 AI 嵌入存量产品而不破坏原有体验</h3>
         <p class="article-excerpt">Notion 面临的不是从零构建 AI 体验，而是把 AI 融入一个已有数百万用户的成熟产品。本期拆解他们如何处理 AI 与原有编辑器的边界、权限与协作、以及用户分层的体验策略。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#0F766E;">钱</div><span class="article-author-name">钱雨晴</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card featured-card">
+      <div class="article-card featured-card" onclick="showArticle('td-4')">
         <div class="article-card-top"><span class="article-tag tag-pink">产品拆解</span><span class="article-read-time">11 min</span></div>
         <h3 class="article-title">Claude.ai 对话界面拆解：长对话体验的设计哲学</h3>
         <p class="article-excerpt">Claude.ai 的界面看似简单，实则有大量精心的设计决策藏在细节里。长上下文的可视化处理、Projects 功能的信息架构、Artifacts 侧边栏的空间逻辑——本期一一拆开。</p>
@@ -636,25 +526,25 @@
         <p>这里的内容不面向执行层面的「怎么做」，而面向决策层面的「做什么」和「为什么」。如果你要在董事会汇报 AI 设计战略，或者正在重新思考设计组织的未来形态，这里是你的起点。</p>
       </div>
       <div class="articles-header"><h2>精选文章</h2></div>
-      <div class="article-card pinned featured-card">
+      <div class="article-card pinned featured-card" onclick="showArticle('dd-1')">
         <div class="article-card-top"><span class="article-tag tag-purple">战略</span><span class="article-read-time">14 min</span></div>
         <h3 class="article-title">设计在 AI 公司的位置：从执行者到战略资产</h3>
         <p class="article-excerpt">在 AI 驱动的产品组织里，设计的话语权是在扩大还是在萎缩？本文从 10 家头部 AI 公司的组织结构出发，分析设计功能在不同商业模型下的战略定位，以及设计 Leader 如何在这场转型中争取主动。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">周</div><span class="article-author-name">周凯文</span><span class="article-dot"></span><span class="article-date">2024年12月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card featured-card">
+      <div class="article-card featured-card" onclick="showArticle('dd-2')">
         <div class="article-card-top"><span class="article-tag tag-blue">组织</span><span class="article-read-time">11 min</span></div>
         <h3 class="article-title">设计团队的 AI 转型路线图：从抵触到赋能的 18 个月</h3>
         <p class="article-excerpt">一份实操性的设计团队 AI 转型路线图，覆盖工具引入、流程重构、人才培养和文化建设四个维度。基于对 20+ 设计团队负责人的深度访谈，还原那些真实发生的转型故事。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#2563EB;">许</div><span class="article-author-name">许雅婷</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card featured-card">
+      <div class="article-card featured-card" onclick="showArticle('dd-3')">
         <div class="article-card-top"><span class="article-tag tag-amber">汇报语言</span><span class="article-read-time">9 min</span></div>
         <h3 class="article-title">如何向 CEO 和董事会汇报 AI 设计的商业价值</h3>
         <p class="article-excerpt">设计质量很难量化，AI 时代更难。本文提供一套向业务高管传递设计价值的语言框架——把设计决策翻译成商业语言，让你的 AI UX 投入在预算会议上站得住脚。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#B45309;">何</div><span class="article-author-name">何思齐</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card featured-card">
+      <div class="article-card featured-card" onclick="showArticle('dd-4')">
         <div class="article-card-top"><span class="article-tag tag-pink">人才</span><span class="article-read-time">10 min</span></div>
         <h3 class="article-title">留住顶尖设计师：AI 时代设计团队的人才保留策略</h3>
         <p class="article-excerpt">当 AI 工具降低了执行门槛，如何保留那些真正有判断力的顶尖设计人才？职业通道设计、有意义的工作定义、以及如何用清晰的 AI 战略让设计师感到被需要而不是被替代。</p>
@@ -682,31 +572,40 @@
         <p>我们只收录「信号」，不收录「噪音」。每一条入选的内容，都需要通过一个问题的检验：「一个认真做 AI 产品的设计师，真的需要知道这件事吗？」</p>
       </div>
       <div class="articles-header"><h2>近期周报</h2></div>
-      <div class="article-card pinned featured-card">
+      <div class="article-card pinned featured-card" onclick="showArticle('wk-1')">
         <div class="article-card-top"><span class="article-tag tag-purple">第 #48 期</span><span class="article-read-time">10 min</span></div>
         <h3 class="article-title">本周精选：Sora 正式上线、Gemini 2.0 发布，以及 AI 设计工具的新一轮洗牌</h3>
         <p class="article-excerpt">本期收录：① OpenAI Sora 正式发布对设计生产流程的影响分析；② Google Gemini 2.0 的多模态能力对产品交互的启示；③ Figma AI 新功能评测：真实工作流测试报告；④ 一篇关于 AI 疲劳的重要研究；⑤ 本周值得读的 3 篇长文。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">编</div><span class="article-author-name">编辑部</span><span class="article-dot"></span><span class="article-date">2024年12月9日</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card featured-card">
+      <div class="article-card featured-card" onclick="showArticle('wk-2')">
         <div class="article-card-top"><span class="article-tag tag-blue">第 #47 期</span><span class="article-read-time">9 min</span></div>
         <h3 class="article-title">本周精选：Claude 的 Computer Use、AI 原生设计工具 v0 的爆发，以及设计师需要学编程吗</h3>
         <p class="article-excerpt">① Anthropic Computer Use 的 UX 含义深度解读；② v0 by Vercel 的设计师使用指南；③ 「设计师要不要学写代码」这个老问题在 AI 时代有了新答案；④ 微软 Copilot 设计回顾；⑤ 三个值得收藏的 AI 提示词资源。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#2563EB;">编</div><span class="article-author-name">编辑部</span><span class="article-dot"></span><span class="article-date">2024年12月2日</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card featured-card">
+      <div class="article-card featured-card" onclick="showArticle('wk-3')">
         <div class="article-card-top"><span class="article-tag tag-teal">第 #46 期</span><span class="article-read-time">8 min</span></div>
         <h3 class="article-title">本周精选：ChatGPT 推出 Canvas、苹果 Intelligence 的设计语言分析</h3>
         <p class="article-excerpt">① OpenAI Canvas 的协作编辑 UX 拆解；② Apple Intelligence 发布后的设计语言深度分析——苹果如何把 AI 融入系统级体验；③ 一份关于 AI 对话界面疲劳的用研报告；④ 本周最值得关注的 2 个 AI 设计案例。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#0F766E;">编</div><span class="article-author-name">编辑部</span><span class="article-dot"></span><span class="article-date">2024年11月25日</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-      <div class="article-card featured-card">
+      <div class="article-card featured-card" onclick="showArticle('wk-4')">
         <div class="article-card-top"><span class="article-tag tag-amber">第 #45 期</span><span class="article-read-time">11 min</span></div>
         <h3 class="article-title">本周精选：Runway Gen-3 视频生成评测、AI 搜索体验的竞品对比分析</h3>
         <p class="article-excerpt">① Runway Gen-3 对设计师视频工作流的影响实测；② Perplexity vs SearchGPT vs Gemini——三款 AI 搜索产品的 UX 深度对比；③ 一个让我反思 AI 依赖度的用户故事；④ 本周值得订阅的 3 位 AI 设计创作者。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#B45309;">编</div><span class="article-author-name">编辑部</span><span class="article-dot"></span><span class="article-date">2024年11月18日</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
     </section>
+
+    <!-- Article Detail View -->
+    <div id="article-detail" class="article-detail">
+      <button class="detail-back" onclick="backToList()">
+        <svg viewBox="0 0 24 24"><path d="M19 12H5M12 5l-7 7 7 7"/></svg>
+        返回列表
+      </button>
+      <div id="detail-content"></div>
+    </div>
 
   </main>
 </div>
@@ -801,6 +700,339 @@
     if (e.target === document.getElementById('mobileOverlay'))
       document.getElementById('mobileOverlay').classList.remove('open');
   });
+
+  // ── Article Data ──
+  const articles = {
+    'cog-1': {
+      title: '从确定性到概率性：AI 产品设计的思维范式转变',
+      tag: '认知基础', tagClass: '', readTime: '10 min',
+      author: '林晓晴', authorColor: 'var(--accent)', date: '2024年11月',
+      insight: 'AI 输出是概率分布，不是确定结果。同一个输入在不同时刻可能产生完全不同的输出——「正确」这个概念需要在 AI 语境下重新定义。',
+      spark: '界面应当展示结果的「可能性范围」，而非呈现单一确定答案。让用户感知到 AI 的概率性本质，而不是误以为得到了唯一正解。',
+      body: '<p>传统软件遵循确定性逻辑：相同输入必然产生相同输出。这个假设深深嵌入了我们的设计直觉——按钮要有固定反馈，表单要有精确校验，流程要有可预测的结果。</p><p>AI 打破了这个假设。语言模型的每一次推理都是在高维概率空间中进行的采样，本质上是不确定的。这不是 bug，而是 AI 工作方式的根本特征。设计师如果不接受这一点，就会不断试图用确定性 UI 模式去包装一个概率性系统，最终导致体验的撕裂感。</p><h2>范式迁移的三个层次</h2><p>认知层面：放弃「AI 给出正确答案」的期望，接受「AI 给出一个合理的可能答案」；设计层面：从单一状态设计转向多态设计，为 AI 输出的高、中、低置信度分别设计界面表达；沟通层面：用「这是一种可能性」而非「这是答案」的文案语气，主动管理用户预期。</p>'
+    },
+    'cog-2': {
+      title: 'AI 产品的三个阶段：工具、助手与代理',
+      tag: '趋势洞察', tagClass: 'tag-green', readTime: '8 min',
+      author: '张志远', authorColor: '#059669', date: '2024年10月',
+      insight: 'AI 产品存在三个演进阶段：工具（执行指令）、助手（理解意图）、代理（自主行动）。每个阶段的 UX 设计重心完全不同，设计师需要先判断产品处于哪个阶段。',
+      spark: '你的产品当前所处的阶段，决定了控制权应该给用户多少。工具阶段用户全程掌控；代理阶段则需要重新设计监督机制，让自动化和可控性并存。',
+      body: '<p>工具阶段的 AI 是高级命令执行器，用户发出精确指令，AI 精确执行。这个阶段 UX 的核心是「降低使用门槛」——如何让不懂 AI 的用户也能给出好的指令。</p><p>助手阶段的 AI 开始理解模糊意图，能从「帮我写个邮件」推断出语气、长度、对象。这个阶段 UX 的核心是「建立信任」——用户需要相信 AI 真的「理解」了他，而不只是在做字面匹配。</p><p>代理阶段的 AI 可以自主规划和执行多步骤任务，用户只需要设定目标。这个阶段 UX 的核心是「监督设计」——如何让用户在不干预日常操作的同时，能在关键节点保持掌控感。</p>'
+    },
+    'cog-3': {
+      title: '设计师如何评估一个 AI 功能是否值得做',
+      tag: '方法论', tagClass: 'tag-orange', readTime: '7 min',
+      author: '王梦琪', authorColor: '#C2410C', date: '2024年9月',
+      insight: '不是所有问题都需要 AI 来解决。技术可行性不等于设计值得投入——AI 功能的优先级应该由用户价值密度和信任门槛共同决定，而非由技术团队的兴趣驱动。',
+      spark: '高价值、低信任门槛的需求是 AI 功能落地的最佳切入点。在这个区间，用户愿意尝试，收益也足够明显——两者结合才能建立正向的产品飞轮。',
+      body: '<p>设计师在 AI 时代面临的一个新挑战，是如何说「不」。当 AI 能力快速扩张，产品经理和工程师会不断提出 AI 功能需求，但并非每一个「AI 能做到」就等于「值得设计进产品」。</p><p>用户价值密度：这个 AI 功能为用户节省了多少时间？减少了多少摩擦？创造了多少以前无法实现的价值？这个问题的答案决定了天花板。信任门槛：用户愿意在多大程度上相信 AI 的输出并据此行动？医疗建议和购物推荐的信任门槛天差地别。</p><p>把当前 AI 功能 Backlog 放进这个 2×2 矩阵，右上角优先做，左下角砍掉，其余的需要额外投资来提升其中一个维度再做。</p>'
+    },
+    'cog-4': {
+      title: '人机共生设计：让 AI 增强而非替代人的判断',
+      tag: '深度思考', tagClass: 'tag-purple', readTime: '12 min',
+      author: '陈思睿', authorColor: '#7C3AED', date: '2024年8月',
+      insight: '最好的 AI 产品设计目标不是「AI 替代人做决策」，而是「让人在 AI 帮助下做出更好的决策」。这两个目标看起来相近，但产品设计思路截然不同。',
+      spark: '界面中永远保留「人类否决权」的入口，哪怕用户极少使用它。这个入口存在本身就在向用户传递信号：这里仍然是你的地盘，AI 只是助手。',
+      body: '<p>增强智能（Intelligence Amplification，IA）和人工智能（AI）代表了两种不同的产品设计哲学。前者以人为中心，把 AI 当作扩展人类能力的工具；后者以 AI 为中心，倾向于让 AI 承担越来越多的决策职责。</p><p>在实际产品设计中，这两种哲学在每个微决策点都会产生分叉：当 AI 生成一份报告摘要时，是直接呈现结论，还是同时展示原始数据供用户核查？当 AI 推荐一个操作时，是默认执行，还是先展示再确认？</p><p>「人在回路」不是技术术语，是设计原则。即使用户 99% 的时候不会使用「否决」按钮，那 1% 的存在也在持续维护着一种关键的心理安全感——用户知道他们随时可以叫停，于是能更放松地使用 AI 功能。</p>'
+    },
+    'ux-1': {
+      title: '信任梯度：如何设计让用户真正相信的 AI 界面',
+      tag: '信任设计', tagClass: '', readTime: '8 min',
+      author: '苏瑞宁', authorColor: 'var(--accent)', date: '2024年11月',
+      insight: 'AI 信任不是二元的「信 / 不信」，而是一个连续光谱。用户对 AI 的信任余额在每一次交互中都在累积或消耗，设计师的工作是让这个账户保持健康。',
+      spark: '不要隐藏 AI 的错误，主动承认并提供弥补路径。一次透明的失败往往比一次完美的成功更能建立长期信任——用户会记住你诚实面对出错时的方式。',
+      body: '<p>信任梯度模型把用户对 AI 的信任分为三个层次：能力信任（AI 能做到它说能做的事）、诚实信任（AI 不会在不知道时假装知道）、意图信任（AI 的目标和我一致）。大多数 AI 产品只关注能力层，却忽视了诚实层和意图层。</p><p>诚实信任的核心设计原则是「不确定性可见化」——当 AI 给出的答案置信度较低时，界面应该主动表达这种不确定性，而不是统一以自信的语气呈现所有输出。</p><p>意图信任则需要在产品设计中持续传递一个信号：AI 是为用户服务的，而不是为平台的商业目标服务的。这需要在推荐逻辑、通知策略、默认设置等每一个细节上都保持一致性。</p>'
+    },
+    'ux-2': {
+      title: '渐进式披露：AI 生成内容该露多少「思考过程」',
+      tag: '交互模式', tagClass: 'tag-green', readTime: '6 min',
+      author: '马天翔', authorColor: '#059669', date: '2024年10月',
+      insight: '「展示多少 AI 的推理过程」没有统一答案。这个决策取决于两个变量：用户的专业背景，以及他们基于 AI 输出所做决策的风险等级。',
+      spark: '专家用户想看推理链，普通用户只想要结论。设计时要同时支持两种模式——默认展示结论，提供展开推理过程的入口，满足不同深度需求。',
+      body: '<p>渐进式披露是经典的 UX 原则，但在 AI 界面中有了新的维度：我们不只是在问「要不要展示这个功能」，而是在问「要不要让用户看见 AI 是怎么想的」。</p><p>用户专业度和决策风险的交叉矩阵给出了四种场景：普通用户 + 低风险决策（如推荐餐厅）：只需结论；普通用户 + 高风险决策（如医疗建议）：需要简化版推理 + 来源；专家用户 + 低风险决策：结论 + 可选推理链；专家用户 + 高风险决策：必须展示完整推理和数据来源。</p><p>实现上，折叠式「展开推理过程」控件是最轻量的方案，在不打扰不需要的用户的同时，给需要深挖的用户提供了路径。</p>'
+    },
+    'ux-3': {
+      title: '优雅失败：为 AI 功能设计「失败得好看」的体验',
+      tag: '容错设计', tagClass: 'tag-orange', readTime: '7 min',
+      author: '吴嘉敏', authorColor: '#C2410C', date: '2024年9月',
+      insight: 'AI 功能的失败不可避免，但失败后用户的掌控感决定了他们是否愿意再试。失败本身不是问题，失败后没有出路才是真正的体验崩塌。',
+      spark: '失败时给用户两个出口：「一键重试」和「手动调整」。前者满足懒用户，后者满足想要更精准结果的用户，两个出口加在一起覆盖了大多数真实场景。',
+      body: '<p>AI 失败有三个等级：轻微偏差（AI 给出了答案，但质量不符合预期）、明显错误（AI 给出了错误信息）、完全失败（AI 无法完成任务）。这三个等级需要完全不同的设计响应。</p><p>轻微偏差：不要报错，提供「优化」入口。用「还不够好？告诉我哪里需要调整」而不是「生成失败，请重试」。明显错误：主动承认，提供来源核查路径。「这个答案可能不够准确，建议参考原始数据」比沉默更能维护信任。完全失败：诚实说明原因，给出替代路径。「这个任务目前无法完成，但你可以试试……」</p><p>所有失败场景的共同原则是：永远给用户一个「下一步」，绝不让他们面对死路。</p>'
+    },
+    'ux-4': {
+      title: 'AI 界面评估启发式原则：尼尔森 10 条的 AI 更新版',
+      tag: '启发式原则', tagClass: 'tag-purple', readTime: '10 min',
+      author: '朴恩雷', authorColor: '#7C3AED', date: '2024年8月',
+      insight: '经典的尼尔森 10 条启发式原则无法覆盖 AI 产品的特有挑战：概率性输出、幻觉风险、涌现能力、长时延迟。我们需要为 AI 界面定制新的评估框架。',
+      spark: 'AI 产品的设计评审应该用针对 AI 特性扩展的启发式清单，而非沿用传统原则。其中最关键的两条新增原则：「不确定性可见」和「操作可逆性保障」。',
+      body: '<p>尼尔森的 10 条启发式原则是 1994 年总结的，当时软件的交互是确定性的。AI 的出现引入了几个传统原则无法处理的新变量：输出的概率性（同一输入可能产生不同输出）、幻觉风险（AI 可能以自信语气输出错误信息）、长时延迟（AI 推理可能需要数秒甚至数分钟）。</p><p>针对这些特性，可以在原有 10 条基础上增加：不确定性可见（让用户感知 AI 输出的置信度）、可逆性保障（AI 执行的任何操作都应可撤销）、来源透明（重要输出应提供信息来源）、延迟沟通（长时任务需要进度可见性）。</p><p>在下一次 AI 功能设计走查中，把这份扩展清单打印出来逐条对照，你会发现很多此前忽视的设计盲区。</p>'
+    },
+    'agent-1': {
+      title: '监督悖论：如何设计不让人抓狂的 Agent 控制界面',
+      tag: '监督悖论', tagClass: '', readTime: '9 min',
+      author: '吴大伟', authorColor: 'var(--accent)', date: '2024年12月',
+      insight: '过度监督等于没有自动化；零监督等于失去控制。Agent UX 的核心命题是找到「情境式监督」的平衡点——在风险高的节点要求确认，在低风险操作上静默执行。',
+      spark: '不可逆操作（发送邮件、删除文件、发起付款）必须强制用户确认；低风险的可逆操作应静默执行并提供事后撤销。这个分层原则能大幅减少不必要的打扰。',
+      body: '<p>监督悖论是 Agent 产品设计的根本性张力：用户使用 Agent 是为了减少自己的工作量，但如果 Agent 每做一步都来问「确认吗？」，用户宁愿自己动手。然而完全不问，又会在某个关键操作上犯下不可撤回的错误。</p><p>解决这个悖论的关键是「动作风险 × 可逆性」矩阵。高风险 + 不可逆（如删除重要文件、发送正式邮件）：强制确认；高风险 + 可逆（如修改文档内容）：执行后通知，提供撤销；低风险 + 不可逆（如读取网页）：静默执行；低风险 + 可逆（如生成草稿）：静默执行。</p><p>把这个矩阵应用到你的 Agent 所有动作类型上，你会得到一份清晰的「哪里需要确认，哪里可以省略」的设计决策地图。</p>'
+    },
+    'agent-2': {
+      title: 'Agent 日志解剖：如何让 40 步执行过程对用户可读',
+      tag: '执行日志', tagClass: 'tag-teal', readTime: '7 min',
+      author: '方菲娜', authorColor: '#0F766E', date: '2024年11月',
+      insight: 'Agent 的执行日志不是为开发者 Debug 设计的，而是为用户建立信任感设计的。「AI 正在做什么」的可见性直接决定了用户是否愿意放手让 Agent 继续执行。',
+      spark: '三层日志结构：摘要层（1 句话）→ 阶段概览（3-5 步）→ 完整追踪（按需展开）。默认展示「做了什么」，而非「怎么做的」，大幅降低认知负担。',
+      body: '<p>当 Agent 执行一个复杂任务时，底层可能发生了数十次 API 调用、文件读写和决策分支。把所有这些原始日志直接暴露给用户，是一种信息暴力。用户不是工程师，他们需要的不是透明，而是「可理解的透明」。</p><p>三层日志设计原则：第一层是任务摘要，一句话描述 Agent 完成了什么（「已整理 23 封邮件，归类到 5 个文件夹」）；第二层是阶段概览，3-5 个主要步骤的简要说明，让用户能快速扫描理解执行路径；第三层是完整追踪，技术细节按需展开，满足想深挖的高级用户。</p><p>设计上，折叠式日志组件是最佳实现形式：默认展示第一层，点击展开第二层，再次点击可以看到第三层原始日志。</p>'
+    },
+    'agent-3': {
+      title: '中断设计：Agent 应该在什么时候停下来问用户',
+      tag: '中断设计', tagClass: 'tag-blue', readTime: '8 min',
+      author: '贾明亮', authorColor: '#2563EB', date: '2024年10月',
+      insight: 'Agent 中断的频率是自动化效率与用户掌控感之间的核心张力。中断太多破坏效率；中断太少在关键时刻失控。触发中断的标准应该是明确的、一致的。',
+      spark: '「任务开始前澄清意图」远比「执行到一半停下来问」体验好。前置的确认步骤能减少执行中途的中断，同时让用户感到 Agent 真正理解了他们的目标。',
+      body: '<p>Agent 中断的触发条件应该被显式设计，而不是由 Agent 自由裁量。四个核心触发条件：输入存在歧义（用户的指令可以被解读为两种以上不同操作）；超出授权范围（Agent 需要访问它没有被明确授权的资源）；即将执行不可逆操作；长时间没有进展（可能陷入循环或遇到障碍）。</p><p>在任务启动时加入一个「确认意图」步骤是减少执行中中断的最有效方法。类似于在手术前做 checklist，而不是在手术中途停下来核查。这个步骤可以是一个简短的确认界面，展示 Agent 对任务的理解，让用户在开始前做出必要的修正。</p>'
+    },
+    'agent-4': {
+      title: '多 Agent 系统：为协作 AI 团队设计管理界面',
+      tag: '多智能体', tagClass: 'tag-pink', readTime: '11 min',
+      author: '聂贝拉', authorColor: '#9D174D', date: '2024年9月',
+      insight: '多 Agent 系统的核心 UX 挑战是：让用户理解一个他们看不见的「AI 组织」在做什么。当多个 Agent 协同工作时，责任归属和状态可见性变得极为复杂。',
+      spark: '用流程图而非列表来呈现多 Agent 的执行结构。树状可视化（主 Agent → 子 Agent）能让用户快速理解协作关系，比文字列表有效得多。',
+      body: '<p>单个 Agent 的界面设计已经够复杂，多 Agent 系统把这个复杂度提升了一个数量级。用户面临的根本性认知挑战是：谁在做什么？现在做到哪一步了？如果出错了，是哪个 Agent 的问题？</p><p>Multi-Agent 系统的界面设计需要解决三个层次的可见性问题：结构可见性（这些 Agent 的协作关系是什么，用流程图表示）；状态可见性（每个 Agent 当前的执行状态，用颜色和进度条表示）；因果可见性（A Agent 的输出是 B Agent 的输入，用连接线和数据流表示）。</p><p>「撤销」在多 Agent 场景下需要重新定义。撤销最后一步操作？还是撤销整条 Agent 链路？这个问题没有简单答案，但界面需要给用户提供清晰的选择，而不是让他们猜测。</p>'
+    },
+    'ds-1': {
+      title: 'AI 组件分类法：AI 产品需要的 18 种新 UI 基础组件',
+      tag: '组件分类', tagClass: '', readTime: '10 min',
+      author: '罗伊娜', authorColor: 'var(--accent)', date: '2024年12月',
+      insight: 'AI 产品需要一套专属的组件库。传统设计系统的组件（按钮、输入框、下拉菜单）无法覆盖 AI 特有的交互态：流式输出、置信度指示器、重新生成控件、长时加载态。',
+      spark: '「重新生成」按钮是 AI 界面最具代表性的必备控件，它代表了用户对概率性输出的主动权。没有这个控件的 AI 界面，等于剥夺了用户与 AI 协作的基本能力。',
+      body: '<p>在开始为你的 AI 产品构建组件库之前，先做一件事：列出所有传统组件无法处理的交互场景。你很快会发现一个长长的列表：流式文字输出的光标效果、AI 思考中的多阶段加载态、不确定性的视觉表达、引用来源的展示组件、用户对 AI 输出的反馈机制……</p><p>这 18 种 AI 组件可以分为四类：输出类（流式文本组件、Markdown 渲染器、代码块、引用卡片）；控制类（重新生成、优化调整、停止生成、反馈按钮）；状态类（AI 思考态、处理态、等待态、错误态）；引用类（来源卡片、置信度指示器、不确定性标注）。</p><p>建议把这份清单作为设计系统 AI 扩展包的起点，逐步补充缺失的组件，而不是在每个项目中重新发明轮子。</p>'
+    },
+    'ds-2': {
+      title: 'AI 加载态的动效 Token：超越转圈的设计系统',
+      tag: '动效 Token', tagClass: 'tag-green', readTime: '6 min',
+      author: '拉维·库马尔', authorColor: '#059669', date: '2024年11月',
+      insight: 'AI 响应时长差异巨大，从不到 1 秒到超过 1 分钟都是常态。单一的 Loading 转圈动效无法传达这种时长差异的语义——用户会误判「还没好」和「已经卡住了」。',
+      spark: '不同等待时长应搭配不同视觉节奏的动效，让用户感受到「进展中」而非「卡住了」。关键是节奏匹配：短等待用快速动效，长等待用缓慢呼吸式动效。',
+      body: '<p>动效 Token 是设计系统中的一个新维度，专门用于定义 AI 产品中时间相关的视觉表达。在 AI 产品中，等待时间的感知管理是核心体验问题之一。</p><p>三档 AI 加载动效的设计建议：Thinking（0-2 秒）：快速脉冲，暗示 AI 正在快速处理，用户感知为「即将完成」；Processing（2-15 秒）：流式光标加进度条，明确传递「内容正在生成中」而非「系统卡住了」；Waiting（15 秒以上）：慢速呼吸动效加进度说明文案（「正在分析 47 个文档……」），传递「这是一个耗时任务，但有进展」。</p><p>把这三档动效定义为设计系统中的 Token，确保全产品范围内的一致性，同时避免每个功能团队各自为战。</p>'
+    },
+    'ds-3': {
+      title: '写出工程师真正会看的 AI 组件使用指南',
+      tag: '组件文档', tagClass: 'tag-orange', readTime: '8 min',
+      author: '普里雅·奥赛', authorColor: '#C2410C', date: '2024年10月',
+      insight: 'AI 组件文档的核心价值是「行为说明」，不是「视觉规范」。工程师看设计系统文档，最想知道的是：什么情况下触发这个组件，它会经历哪些状态，边界情况怎么处理。',
+      spark: '每个 AI 组件文档都必须回答一个问题：「什么情况下不该用这个组件」。这个问题的答案往往比「什么时候用」更有价值，能防止大量的错误使用。',
+      body: '<p>传统设计系统文档的重心是视觉规范：颜色、间距、字体、状态样式。这些对 UI 组件完全够用，但对 AI 组件来说是远远不够的。</p><p>AI 组件的使用指南需要回答的是行为问题：这个组件在什么业务场景下触发？它的输入是什么，输出是什么？它能处于哪些状态，每个状态的触发条件是什么？异常情况（超时、报错、空结果）分别如何处理？</p><p>「行为优先文档」框架：使用场景（2-3 个典型例子）→ 触发条件（精确描述，不要含糊）→ 状态枚举（每个状态的视觉和行为）→ 边界情况（What happens when things go wrong）。用这个框架重新审视你的设计系统文档，把描述改成规范。</p>'
+    },
+    'ds-4': {
+      title: '无障碍 AI：让流式输出对屏幕阅读器友好',
+      tag: '无障碍', tagClass: 'tag-purple', readTime: '9 min',
+      author: '田娜·中村', authorColor: '#7C3AED', date: '2024年9月',
+      insight: 'AI 流式文本输出对屏幕阅读器是灾难性的体验：每个新 Token 的出现都会打断读屏，造成混乱的碎片化播报。无障碍设计不能在 AI 功能开发完成后再补救。',
+      spark: '为流式输出设计「完成后朗读」模式，而非实时逐字播报。当 AI 完成输出后，使用 ARIA Live Region 一次性通知读屏器，而不是在流式过程中持续触发更新。',
+      body: '<p>ARIA Live Region 是 Web 无障碍技术中用于动态内容的核心机制。但 AI 流式输出的特性让这个机制面临挑战：如果把流式文本容器设置为 aria-live="polite"，屏幕阅读器会在每次 DOM 更新时打断当前播报——对于流式输出来说，这意味着每秒可能被打断数十次。</p><p>解决方案是双轨制无障碍架构：视觉层继续进行流式渲染，同时维护一个视觉上隐藏的「完成输出」容器，当流式输出完成时，将完整内容一次性写入这个容器，并用 aria-live="polite" 触发一次性朗读。</p><p>实施建议：用 VoiceOver（macOS）或 TalkBack（Android）测试你所有的 AI 输出界面，记录所有感知断点，优先修复流式输出场景。这是一个被大多数 AI 产品团队忽视但影响真实用户的设计盲区。</p>'
+    },
+    'wf-1': {
+      title: '2024 设计师 AI 工具栈：12 个月测试 40+ 工具后的真实评价',
+      tag: '工具评测', tagClass: '', readTime: '8 min',
+      author: '金昭昭', authorColor: 'var(--accent)', date: '2024年12月',
+      insight: 'Demo 效果惊艳的工具不等于工作流里有价值的工具。12 个月的真实使用测试表明，最终留在工具栈里的 AI 工具，无一例外都是能加速「最无聊环节」的那些。',
+      spark: '找到你设计流程中最耗时、最重复、最缺乏创造性的 3 个环节，然后专门为这 3 个环节寻找 AI 工具。这是构建有效 AI 工具栈的最短路径。',
+      body: '<p>40 多个工具，12 个月，最终留在每周工作流里的只有 7 个。淘汰的原因各不相同：有的 Demo 很酷但输出质量不稳定；有的功能强大但嵌入工作流的摩擦成本太高；有的在特定场景下很好用但使用频率太低。</p><p>评估框架的三个维度：工作流嵌入深度（需要多少步骤才能用上这个工具？它能在 Figma 或代码编辑器内直接使用吗？）；实际时间节省（不是 Demo 的时间节省，而是在真实项目中反复使用后的时间节省）；输出质量稳定性（第 1 次使用和第 100 次使用，输出质量是否一致？）。</p><p>最终留下的 7 个工具覆盖了：UX 文案生成、用研访谈分析、竞品截图分析、设计说明文档撰写、Handoff 内容整理、原型代码生成、视觉灵感探索。</p>'
+    },
+    'wf-2': {
+      title: '设计师的提示词工程入门：不需要懂技术的实用指南',
+      tag: '提示词', tagClass: 'tag-teal', readTime: '7 min',
+      author: '艾里斯·拉森', authorColor: '#0F766E', date: '2024年11月',
+      insight: '好提示词的本质是「给 AI 提供足够的上下文，让它做出正确的判断」，而不是掌握某些特殊的技术技巧。设计师已经具备了写好提示词所需的核心能力：定义问题。',
+      spark: '把常用设计任务的提示词模板化，建立自己的「提示词库」。与其每次从头想怎么描述需求，不如把经过验证的好提示词记录下来，像组件库一样复用。',
+      body: '<p>提示词工程这个词让很多设计师望而生畏，以为需要掌握技术知识。实际上，写好提示词的核心能力——清晰定义问题、描述约束条件、说明期望输出格式——正是优秀设计师每天都在练习的东西。</p><p>四要素框架：角色（你希望 AI 扮演什么角色，「作为一个资深 UX 文案撰稿人」）；任务（清晰描述要做的事）；约束（限制条件，如「不超过 20 字」「保持专业但亲切的语气」）；输出格式（期望得到什么格式，「输出 3 个备选版本，每个说明选择理由」）。</p><p>建立提示词库的实践建议：为你最常用的 5 个设计工作场景各写一个模板提示词，在 Notion 或备忘录里存档，每次使用后根据效果迭代。3 个月后你会拥有一套高质量的个人提示词资产。</p>'
+    },
+    'wf-3': {
+      title: '20 分钟从草图到可点击原型：AI 辅助快速原型实践',
+      tag: '快速原型', tagClass: 'tag-purple', readTime: '9 min',
+      author: '丹·奥卡福', authorColor: '#7C3AED', date: '2024年10月',
+      insight: 'AI 把原型制作的时间成本降低了约 80%，这意味着设计师可以用同样的时间测试更多假设，而不只是更快地制作一个原型。效率提升应该被转化为更多探索，而非更早收工。',
+      spark: '原型的保真度应该由「测试目的」决定，而非时间预算。AI 工具让低保真快速测试变得极为廉价，这正是它最有价值的地方——在还没有定论的阶段快速验证方向。',
+      body: '<p>AI 原型流水线：从手绘草图到可点击原型，标准流程分为四步。草图拍照或扫描（2 分钟）；用图生图工具生成 Figma 可用的线框结构（5 分钟）；用代码生成工具（v0、Bolt）把线框转化为可交互的 HTML 原型（8 分钟）；在浏览器中调整细节并录制演示视频（5 分钟）。全程不超过 20 分钟。</p><p>这个流程的核心价值不是「快」，而是「快到可以做 3 个方向然后再选择」。当原型制作的边际成本趋近于零，设计师应该改变工作方式——不再在第一个方案上做精细化，而是先快速生成多个方向，再决定深入哪一个。</p><p>适用场景：概念验证、早期用户测试、设计评审前的快速备选方案、向非设计背景的 stakeholder 解释交互逻辑。不适用：高保真设计稿、准备开发交付的精细组件。</p>'
+    },
+    'wf-4': {
+      title: 'AI 辅助用研：规模化分析不能以损失洞察为代价',
+      tag: '用户研究', tagClass: 'tag-orange', readTime: '7 min',
+      author: '佐伊·贝尔', authorColor: '#C2410C', date: '2024年9月',
+      insight: 'AI 做数据汇总，人做洞察提炼——这是 AI 辅助用研的正确分工。当 AI 承担了主题分析和数据归并的工作，研究员的精力应该专注于解读异常、识别弱信号、理解情感背后的原因。',
+      spark: '主动关注 AI「没有归类进去」的内容——那里往往藏着最有价值的边缘案例和意外洞察。AI 擅长找共性，而最重要的设计洞察有时恰恰来自那些不符合模式的例外。',
+      body: '<p>AI 辅助用研在效率上的提升是真实的：一份 30 人访谈的转录文本，AI 可以在几分钟内完成主题归并和频次统计，这个工作以前需要研究员花半天时间。但效率提升之后，省出来的时间应该用来做什么？</p><p>正确答案不是「更早收工」，而是「做更深的分析」。AI 完成数据层的工作后，研究员应该把精力集中在四件事：验证 AI 的归类是否合理（有没有把性质不同的内容错误归在一起）；深挖频率高的主题（为什么用户反复提到这个？）；重点关注频率低但情绪强烈的内容（少数强烈的声音有时比多数温和的声音更重要）；寻找 AI 没有归类的「剩余物」。</p><p>最后这一点尤其重要：请 AI 单独列出所有「未能归入任何主题的内容」，逐条人工阅读。这里是意外洞察最密集的地方。</p>'
+    },
+    'mgmt-1': {
+      title: '新设计团队：AI 原生组织的角色、技能与结构',
+      tag: '团队结构', tagClass: '', readTime: '9 min',
+      author: '韩娜·恩科斯', authorColor: 'var(--accent)', date: '2024年12月',
+      insight: 'AI 时代不是设计师变少，而是每个人需要担起更高层次的判断责任。那些被 AI 工具替代的，是机械执行工作；而放大的，是设计师在系统设计、策略决策和品味判断上的价值。',
+      spark: '重新评估团队的技能矩阵，识别 AI 时代最需要补充的能力缺口。四个新角色已经开始出现在头部 AI 公司的 JD 里：AI 用研设计师、提示词设计师、系统思维者、AI 产品 Lead。',
+      body: '<p>AI 原生设计团队的结构与传统设计团队有几个根本性的不同：更少的「执行型」设计师岗位，更多的「决策型」和「系统型」岗位；跨职能协作边界更模糊，设计师需要具备更强的产品和技术对话能力；AI 工具使用能力成为基础技能，而非加分项。</p><p>四个正在涌现的新角色：AI 用研设计师（专注于 AI 系统的用户研究，理解人机信任建立的机制）；提示词设计师（为产品的 AI 功能设计最优的提示词策略，处于设计与工程的交界）；系统思维者（关注 AI 产品的整体行为模式，而非单一界面）；AI 产品 Lead（能同时对话工程团队和设计团队，理解 AI 能力边界）。</p><p>用四角色框架对团队现有成员做一次技能匹配评估——不是为了给人贴标签，而是为了找到每个人最有潜力发展的方向，以及团队最需要通过招聘补充的能力。</p>'
+    },
+    'mgmt-2': {
+      title: '招聘 AI 产品设计师时，你应该看什么',
+      tag: '招聘', tagClass: 'tag-green', readTime: '6 min',
+      author: '瓦尔·默瑟', authorColor: '#059669', date: '2024年11月',
+      insight: '视觉打磨能力在 AI 时代的相对价值在下降，而对模型行为的好奇心、系统思维能力和对不确定性的容忍度正在升值。招聘标准需要相应地更新。',
+      spark: '面试时问「你最近一次改变对 AI 能力边界认知是什么时候」，比看作品集更有效。这个问题考察的是候选人对 AI 领域的持续关注度和认知迭代能力——这正是 AI 时代设计师最需要的元能力。',
+      body: '<p>AI 产品设计师招聘的三个维度评估：概率思维（候选人是否能理解 AI 输出的不确定性，并将其融入设计决策中？）；不确定性容忍度（在 AI 能力边界不清晰、输出质量不稳定的情况下，是否能做出好的设计决策而不是等待确定性？）；AI 工具实操能力（不是会不会用，而是在什么场景下用什么工具，以及如何评估工具是否真的提升了工作质量）。</p><p>作品集评审时新增的考察维度：候选人是否展示了「人 + AI」协作的设计过程？他们在什么地方选择拒绝 AI 的建议，为什么？他们的 AI 辅助设计和纯人工设计在质量上有什么区别？</p><p>更新 JD 建议：把「熟悉 AI 设计工具」改写为具体的能力描述，例如「能使用 AI 工具加速用研分析，并能识别 AI 分析中的偏差和错误」。</p>'
+    },
+    'mgmt-3': {
+      title: 'AI 时代的设计评审：如何评价「人 + AI」协作的作品',
+      tag: '评审文化', tagClass: 'tag-orange', readTime: '7 min',
+      author: '贾尔斯·罗', authorColor: '#C2410C', date: '2024年10月',
+      insight: '当 AI 工具可以快速生成大量视觉方案时，设计评审的核心不再是「最终视觉输出好不好看」，而是「设计师在这个过程中做出了哪些好的判断」。评审框架需要相应调整。',
+      spark: '评审时要问「你拒绝了 AI 的哪些建议，为什么」，而不只是「你做了什么」。拒绝能力——知道什么时候 AI 的建议不该采纳——是 AI 时代最重要的设计判断力之一。',
+      body: '<p>设计评审在 AI 时代面临的根本性挑战：当两个设计师的视觉输出质量相近，但一个是花了 3 天手工精打细磨，另一个是用 AI 工具用半天完成的，评审应该如何评价？</p><p>三维度评审框架：作者性（谁在这个设计过程中做了真正的决策？哪些是设计师的判断，哪些是 AI 的建议被直接采纳？）；迭代深度（这个设计探索了多少方向，在哪个维度上做了深度思考而非快速生成）；品味校准（在 AI 生成的众多选项中，设计师是否做出了有品味的筛选，而非简单地选了「生成质量最好的那个」）。</p><p>在评审流程中增加「AI 协作说明」环节：要求设计师简要呈现 AI 在哪些环节参与了，以及自己做了哪些关键的修正和选择。这不是为了区分「人的部分」和「AI 的部分」，而是让设计决策过程变得可见和可讨论。</p>'
+    },
+    'td-1': {
+      title: 'Cursor 的 AI 编辑器体验拆解：为什么它让开发者欲罢不能',
+      tag: '产品拆解', tagClass: 'tag-purple', readTime: '15 min',
+      author: '李子轩', authorColor: '#7C3AED', date: '2024年12月',
+      insight: 'Cursor 的护城河不是技术能力，而是交互哲学：Tab 键补全把 AI 建议变成了「最小阻力路径」，让开发者在不打断思维流的前提下获得 AI 增强。',
+      spark: 'AI 功能的最高境界是「感觉不到在用 AI」——Cursor 的 Tab 补全告诉我们，把 AI 融入最自然的操作手势，远比设计一个显眼的 AI 入口更有效。',
+      body: '<p>Cursor 的 Tab 补全是一个绝妙的 UX 案例：它没有打断开发者的工作流，而是把 AI 建议藏进了最自然的键盘操作里。按 Tab 接受建议，继续打字拒绝——决策成本无限低，接受建议的摩擦几乎为零。</p><p>内联编辑（Cmd+K）的设计同样值得深思：它在光标位置直接打开一个小型输入框，让 AI 修改发生在代码上下文里，而不是把代码复制到对话窗口里。这个小小的空间决策，大幅降低了上下文切换的认知成本。</p><p>Composer 模式代表了 Agent 编程体验的雏形：用自然语言描述需求，AI 跨文件完成修改。这里最关键的设计决策是 diff 视图——用户在接受修改前能清楚看到 AI 改了什么，这个可逆性保障是整个 Composer 体验能被接受的前提。</p>'
+    },
+    'td-2': {
+      title: 'Perplexity 的搜索体验拆解：答案引擎如何重新定义搜索 UX',
+      tag: '产品拆解', tagClass: 'tag-blue', readTime: '12 min',
+      author: '赵思涵', authorColor: '#2563EB', date: '2024年11月',
+      insight: 'Perplexity 没有优化传统搜索，而是用「答案引擎」重新定义了搜索体验的基础假设——用户想要的不是链接列表，而是整合过的答案加上可验证的来源。',
+      spark: '引用编号系统是 Perplexity 最重要的信任设计：每个陈述都标注了来源角标，让用户随时可以核查。这个设计把 AI 生成内容的「幻觉风险」转化成了「可验证的答案」。',
+      body: '<p>Perplexity 的核心设计赌注是：用户在搜索时真正需要的是一个整合性答案，而不是被迫从 10 个链接里自己提取信息。这个假设如果成立，整个界面设计逻辑就成立。</p><p>引用系统是整个产品的信任基础设施：每个段落旁边的数字角标，把「AI 说的」和「来源说的」联系起来，让可疑陈述变得可查。这是在 AI 输出中嵌入信任验证机制的范本设计。</p><p>追问交互是另一个关键设计：在答案底部预生成的相关问题，把单次查询扩展成了一个探索会话，大幅提升了信息获取的深度和效率。这个设计把搜索从「一问一答」变成了「对话式探索」。</p>'
+    },
+    'td-3': {
+      title: 'Notion AI 的集成策略拆解：如何把 AI 嵌入存量产品而不破坏原有体验',
+      tag: '产品拆解', tagClass: 'tag-teal', readTime: '13 min',
+      author: '钱雨晴', authorColor: '#0F766E', date: '2024年10月',
+      insight: 'Notion AI 面临的不是「从零构建 AI 体验」，而是「如何把 AI 嫁接到已有数百万用户的成熟编辑器上，同时不破坏任何人的现有工作流」。这是比从零构建更难的设计挑战。',
+      spark: 'Notion 选择了「空格键唤起 AI」作为入口设计——利用编辑器的空白区域触发 AI，让 AI 功能融入已有的编辑习惯而不是另起一套操作逻辑。这是存量产品嵌入新功能的教科书级案例。',
+      body: '<p>存量产品引入 AI 功能面临的最大设计风险是「功能污染」——新功能的入口和交互挤占了原有的操作空间，让老用户感到不适。Notion 通过两个关键决策规避了这个风险：入口隐藏在空白区域（只有在真正需要时才出现），以及保留原有编辑体验的完整性（AI 功能是叠加层，不是替代层）。</p><p>权限和协作场景是 Notion AI 最复杂的设计挑战：多人协作文档里，AI 生成的内容如何标注来源？AI 修改如何在版本历史里追踪？这些问题没有简单答案，Notion 的解法是把 AI 操作融入现有的版本控制系统，而不是另建一套 AI 专属的历史追踪机制。</p>'
+    },
+    'td-4': {
+      title: 'Claude.ai 对话界面拆解：长对话体验的设计哲学',
+      tag: '产品拆解', tagClass: 'tag-pink', readTime: '11 min',
+      author: '孙若溪', authorColor: '#9D174D', date: '2024年9月',
+      insight: 'Claude.ai 的界面克制背后是一个明确的设计哲学：让内容成为主角，让 AI 的存在感尽量低调。这种克制在长对话场景下带来的好处，是用户注意力能完全集中在对话内容本身。',
+      spark: 'Artifacts 侧边栏的空间设计揭示了一个重要原则：当 AI 生成的内容（代码、文档、图表）需要被单独使用时，应该把它从对话流中「升格」为独立内容，而不是淹没在聊天记录里。',
+      body: '<p>Claude.ai 的长对话设计面临一个独特挑战：当对话上下文超过数万字时，用户如何感知「当前对话到底有多长」？如何快速定位到之前的某个讨论节点？这些问题在短对话产品里从不存在，但在 Claude 的使用场景里是真实的日常痛点。</p><p>Projects 功能的信息架构值得深思：它把多个对话组织在一个项目空间里，共享上下文和文档。这个设计本质上是在做「AI 工作室」——让 AI 成为一个长期合作的项目伙伴，而不只是一个回答问题的工具。</p><p>Artifacts 的侧边栏设计代表了一种新的对话范式：AI 生成的可用内容（代码、文档）不再消失在聊天记录里，而是被「固定」在侧边成为可持续访问和修改的工作成果。这是从「问答」走向「协作创作」的关键界面进化。</p>'
+    },
+    'dd-1': {
+      title: '设计在 AI 公司的位置：从执行者到战略资产',
+      tag: '战略', tagClass: 'tag-purple', readTime: '14 min',
+      author: '周凯文', authorColor: '#7C3AED', date: '2024年12月',
+      insight: '设计在 AI 公司的战略价值正在分化：在以模型能力为核心竞争力的公司，设计话语权在萎缩；在以用户体验为差异化的公司，设计正在获得前所未有的战略地位。',
+      spark: '设计 Leader 在 AI 时代最重要的能力转变，是学会用商业语言表达设计价值——不是「这个界面更好看」，而是「这个设计决策会影响用户留存率和 NPS」。',
+      body: '<p>研究 10 家头部 AI 公司的组织结构后，一个清晰的模式浮现：凡是把 AI 模型能力作为核心竞争力的公司（API 服务商、基础模型公司），设计团队往往处于支撑角色；而把终端用户体验作为差异化的公司，设计正在获得越来越高的战略地位。</p><p>设计 Leader 在 AI 时代面临的身份挑战是：当 AI 工具能自动生成视觉稿，你的价值不再在于「会做设计」，而在于「能判断什么是好设计，以及为什么」。这个判断力是无法被 AI 自动化的，但需要通过新的方式向组织证明它的商业价值。</p><p>从执行者到战略资产的转变路径：参与产品策略讨论（而不是等待需求），建立设计指标体系（让设计影响可量化），主导用户研究（让数据说话而非凭感觉）。这三件事能系统性地提升设计在 AI 公司的战略定位。</p>'
+    },
+    'dd-2': {
+      title: '设计团队的 AI 转型路线图：从抵触到赋能的 18 个月',
+      tag: '组织', tagClass: 'tag-blue', readTime: '11 min',
+      author: '许雅婷', authorColor: '#2563EB', date: '2024年11月',
+      insight: 'AI 转型失败的团队，通常都跳过了「认知重建」阶段，直接进入工具引入。当团队成员还没有建立对 AI 能力的正确预期，工具使用只会带来失望和抵触。',
+      spark: '转型路线图的最关键节点不是工具选择，而是「第一次用 AI 完成一个真实项目」的体验。这个体验如果是正向的，能带动整个团队的态度转变；如果是负向的，会固化抵触情绪。',
+      body: '<p>18 个月的设计团队 AI 转型路线图，基于对 20+ 设计团队负责人的深度访谈提炼，覆盖四个维度：工具引入（选什么工具、怎么推广）、流程重构（哪些环节值得用 AI 加速）、人才培养（如何提升团队 AI 素养）、文化建设（如何处理焦虑和抵触）。</p><p>最反直觉的发现：转型速度最快的团队，往往不是强制推行 AI 工具的，而是找到了 1-2 个「AI 明显比人工好」的场景，让团队自发产生「我也想用」的动力，然后再逐步扩展到其他场景。</p><p>文化建设是最被低估的维度：很多管理者关注工具选型，却没有给团队足够的空间来处理「AI 会不会取代我」的焦虑。正视这种情绪，把它转化为学习动力而非防御性抵触，是转型成功的前提。</p>'
+    },
+    'dd-3': {
+      title: '如何向 CEO 和董事会汇报 AI 设计的商业价值',
+      tag: '汇报语言', tagClass: 'tag-amber', readTime: '9 min',
+      author: '何思齐', authorColor: '#B45309', date: '2024年10月',
+      insight: '设计师向高管汇报的最大误区是用「设计语言」讲「商业故事」——提到的是美观度、一致性、设计原则，而高管听到的是：这些能影响 ARR 吗？',
+      spark: '把设计决策翻译成高管能理解的语言：「这个 AI 信任设计减少了用户对 AI 输出的二次验证行为，预计节省用户平均 2.3 分钟/次，对应每月 X 万次任务完成，折合时间价值 Y 元」。',
+      body: '<p>设计的商业价值叙事框架分三个层次：效率价值（AI 功能帮用户节省了多少时间，减少了多少摩擦）；质量价值（AI 辅助后任务完成质量提升了多少，错误率降低了多少）；体验价值（用户满意度、NPS、留存率的变化）。</p><p>在预算会议上，效率价值最容易量化，也最容易被接受。「用户完成某任务的平均时间从 15 分钟降低到 6 分钟，按 10 万月活用户计算，每月节省用户时间约 X 小时，折合劳动力成本 Y 元」——这个算法简单粗暴，但在董事会层面非常有说服力。</p><p>关键原则：永远先讲结论，再讲过程；用数字说话，但要说明数字的来源和局限性；把「好的设计」和「好的商业结果」之间的因果链说清楚——这是大多数设计师在向高管汇报时最容易忽略的一步。</p>'
+    },
+    'dd-4': {
+      title: '留住顶尖设计师：AI 时代设计团队的人才保留策略',
+      tag: '人才', tagClass: 'tag-pink', readTime: '10 min',
+      author: '郑可欣', authorColor: '#9D174D', date: '2024年9月',
+      insight: '在 AI 工具降低执行门槛的大背景下，顶尖设计师最担心的不是被 AI 替代，而是「判断力和品味不再被需要」——当一切都可以快速生成，精细化的感知力还有价值吗？',
+      spark: '留住顶尖设计师的关键不是薪资，而是让他们感受到「只有我才能做好这件事」。在 AI 时代，这意味着为他们创造需要深度判断力的工作，而不是让他们成为 AI 输出的审核员。',
+      body: '<p>顶尖设计师在 AI 时代的离职风险来自一个根本性的不安：当 AI 可以快速生成大量方案，他们花了多年培养的审美感知力和设计判断力，在组织里的价值是否在降低？</p><p>回应这个不安的管理策略是：明确「AI 做什么，人做什么」的边界，并在组织层面大声说出来。AI 生成选项，顶尖设计师做筛选和深化——但这需要组织认可筛选能力的价值，并在评价体系中体现出来。</p><p>职业通道设计是另一个关键：顶尖设计师需要看到一条清晰的「成为 AI 时代设计领导者」的路径。这条路不是越来越熟练地使用 AI 工具，而是越来越强的策略思考能力、系统设计能力和跨职能影响力——这些是 AI 工具增强不了的核心竞争力。</p>'
+    },
+    'wk-1': {
+      title: '本周精选：Sora 正式上线、Gemini 2.0 发布，以及 AI 设计工具的新一轮洗牌',
+      tag: '第 #48 期', tagClass: 'tag-purple', readTime: '10 min',
+      author: '编辑部', authorColor: '#7C3AED', date: '2024年12月9日',
+      insight: '本周最重要的信号：AI 设计工具市场正在进入第二轮洗牌。第一轮比拼的是「能生成什么」，第二轮比拼的是「能否真正融入设计师的工作流」。',
+      spark: 'Sora 的发布对设计生产流程的影响被高估了（短期），也被低估了（长期）。短期内大多数设计团队还没有足够的 prompt 能力来稳定输出可用的视频素材；长期来看，它会重新定义「动效设计」这个岗位的边界。',
+      body: '<p>① OpenAI Sora 正式发布：从设计生产流程的角度，最直接的影响是品牌视频和产品演示视频的制作成本将大幅降低。但短期内的限制是「质量稳定性」——Sora 目前的输出在品牌一致性上还不够可控，还无法替代专业级视频制作。</p><p>② Google Gemini 2.0 的多模态能力对产品交互的启示：当 AI 能够同时处理文字、图片、音频和视频，「多模态界面」的设计复杂度呈指数级上升。设计师需要开始思考：在同一个交互中，如何优雅地整合不同模态的输入和输出？</p><p>③ Figma AI 新功能评测：真实工作流测试报告。本期对 Figma 最新发布的三个 AI 功能做了两周的真实使用测试。结论：「设计补全」功能在重复性工作中非常好用，但「从描述生成组件」还需要大量人工修正，目前更像一个快速草稿工具而非最终输出工具。</p>'
+    },
+    'wk-2': {
+      title: '本周精选：Claude 的 Computer Use、AI 原生设计工具 v0 的爆发，以及设计师需要学编程吗',
+      tag: '第 #47 期', tagClass: 'tag-blue', readTime: '9 min',
+      author: '编辑部', authorColor: '#2563EB', date: '2024年12月2日',
+      insight: 'Computer Use 的发布标志着 Agent 从「对话界面」走向「直接操作界面」。这对 UI/UX 设计的影响是深远的：当 AI 可以直接操作界面，界面本身的「可被机器理解」成为新的设计约束。',
+      spark: 'v0 by Vercel 让「设计师直接生成前端代码」从概念变成了现实。这不是说设计师需要学编程，而是说设计师和工程师之间的「交付边界」正在发生根本性的迁移。',
+      body: '<p>① Anthropic Computer Use 的 UX 含义深度解读：当 AI 能像人一样操作电脑界面——移动鼠标、点击按钮、填写表单——界面设计需要增加一个新维度：对机器操作的友好性。可能的含义包括：更清晰的可点击区域标注、更一致的 UI 元素命名规范、更可预测的操作反馈。</p><p>② v0 by Vercel 的设计师使用指南：在真实测试中，v0 在生成信息密度适中的界面时表现出色，但在处理复杂交互逻辑时仍需要人工介入。最高效的使用方式是：用 v0 生成 80% 的结构，然后手动精调剩余的 20%——而这 20% 往往是最需要设计判断力的部分。</p><p>③ 「设计师要不要学写代码」在 AI 时代的新答案：不是学写代码，而是学会「阅读代码」和「用自然语言描述设计意图」。AI 工具链已经可以把准确的自然语言描述转化为可用代码，设计师需要的是更精准的表达能力，而不是 JavaScript 语法。</p>'
+    },
+    'wk-3': {
+      title: '本周精选：ChatGPT 推出 Canvas、苹果 Intelligence 的设计语言分析',
+      tag: '第 #46 期', tagClass: 'tag-teal', readTime: '8 min',
+      author: '编辑部', authorColor: '#0F766E', date: '2024年11月25日',
+      insight: 'Canvas 代表了 ChatGPT 从「对话工具」向「协作创作平台」的战略转型。这个界面的核心假设是：当 AI 生成的内容足够长、足够复杂，用户需要一个独立的编辑空间，而不只是一个聊天气泡。',
+      spark: 'Apple Intelligence 的设计语言揭示了苹果的 AI 哲学：AI 功能应该是系统级的、隐形的、无处不在的——而不是一个单独的 AI 应用。这与大多数 AI 产品「建一个对话界面」的思路截然不同。',
+      body: '<p>① OpenAI Canvas 的协作编辑 UX 拆解：Canvas 把「对话 + 文档编辑」整合进了同一个界面，左侧是对话，右侧是可编辑的内容画布。这个双栏布局的关键设计决策是：内容和对话同时可见，避免了「在对话里描述修改 vs 直接在文档里修改」的认知分裂。</p><p>② Apple Intelligence 发布后的设计语言深度分析：苹果选择把 AI 功能嵌入到每一个原生应用里（邮件、备忘录、Safari、照片），而不是做一个独立的「AI 应用」。这个策略的 UX 含义是：用户不需要切换到 AI 模式——AI 就在他们原来的工作流里，以增强功能的形式出现。</p><p>③ 关于 AI 对话界面疲劳的用研报告摘要：一项对 2000 名 AI 工具重度用户的研究发现，使用对话界面超过 2 小时后，60% 的用户报告出现「对话疲劳」——不断维护上下文、解释需求、处理 AI 误解的累积认知负担。这个研究对「对话作为主要 AI 交互范式」的假设提出了重要质疑。</p>'
+    },
+    'wk-4': {
+      title: '本周精选：Runway Gen-3 视频生成评测、AI 搜索体验的竞品对比分析',
+      tag: '第 #45 期', tagClass: 'tag-amber', readTime: '11 min',
+      author: '编辑部', authorColor: '#B45309', date: '2024年11月18日',
+      insight: 'AI 搜索体验的竞品对比揭示了一个核心设计分叉点：「给你答案」（Perplexity）vs「帮你探索」（SearchGPT）。这两种哲学对应不同的用户场景，也对应截然不同的界面设计逻辑。',
+      spark: 'Runway Gen-3 的最大启发不是「视频生成有多厉害」，而是它暴露了一个设计机会：当 AI 能生成视频，「动效说明文档」这种低效的设计交付方式，可以被「AI 生成的动效演示视频」替代了。',
+      body: '<p>① Runway Gen-3 对设计师视频工作流的影响实测：在品牌视频素材、UI 演示、概念动画三个场景下进行了对比测试。结论：概念动画场景的价值最高（快速验证想法，生成成本极低）；品牌视频场景需要大量 prompt 调试（风格一致性难以控制）；UI 演示场景目前还不如屏幕录制直接（AI 无法还原精确的 UI 细节）。</p><p>② Perplexity vs SearchGPT vs Gemini——三款 AI 搜索产品的 UX 深度对比：信息来源透明度上，Perplexity 最好（每句话都有来源角标）；探索深度上，SearchGPT 的追问体验最流畅；多模态整合上，Gemini 在图片和视频内容的整合上领先。</p><p>③ 一个让我反思 AI 依赖度的用户故事：一位资深设计师分享了他「尝试一周不用任何 AI 工具」的实验。最大的发现不是工作效率下降，而是他意识到自己对 AI 的依赖已经影响到了独立判断能力——他在做决策时会不自觉地想「AI 会怎么说」，而不是先形成自己的判断。这个故事值得所有 AI 工具重度用户反思。</p>'
+    },
+    'mgmt-4': {
+      title: '在设计团队里建立 AI 素养：一个 12 周课程框架',
+      tag: 'AI 素养', tagClass: 'tag-blue', readTime: '10 min',
+      author: '西蒙·哈特', authorColor: '#2563EB', date: '2024年9月',
+      insight: 'AI 素养不是技术课，是认知课。帮助设计师建立和 AI 协作的正确心智模型，比教他们使用某个具体工具更重要——因为工具在变，心智模型是底层资产。',
+      spark: '最有效的 AI 素养培育是「边做边学」——把 AI 工具融入一个真实项目，而不是组织专项培训课。在真实任务中遭遇 AI 的局限性，比在培训中听讲印象深刻十倍。',
+      body: '<p>12 周 AI 素养课程框架的设计原则是「从认知到应用」，分三个阶段：认知阶段（第 1-4 周）：不是教工具，而是帮团队建立对 AI 的正确认知——它能做什么，不能做什么，为什么会出错，为什么有时候表现很好有时候又很差。</p><p>工具实操阶段（第 5-8 周）：针对设计师日常工作的具体场景，实操 5-8 个核心工具。每个工具的学习以「完成一个真实任务」为标准，而非「掌握所有功能」。产品设计应用阶段（第 9-12 周）：把 AI 工具融入一个真实的在研项目，每周复盘 AI 的实际贡献和局限性，积累团队级别的最佳实践。</p><p>实施建议：不要把这 12 周设计成「课程」，而是设计成「实验项目」。找一个愿意作为试验田的真实项目，让团队在其中强制使用 AI 工具，最后做一次深度复盘，把学到的东西文档化为团队的 AI 协作手册。</p>'
+    }
+  };
+
+  let currentSection = 'ai-cognition';
+
+  function showArticle(articleId) {
+    const a = articles[articleId];
+    if (!a) return;
+    const tagHtml = `<span class="article-tag ${a.tagClass || ''}">${a.tag}</span><span class="article-read-time">${a.readTime}</span>`;
+    document.getElementById('detail-content').innerHTML = `
+      <div class="detail-tag-row">${tagHtml}</div>
+      <h1 class="detail-title">${a.title}</h1>
+      <div class="detail-meta">${a.author} · ${a.date}</div>
+      <div class="detail-cards">
+        <div class="detail-card card-insight">
+          <div class="detail-card-label">核心观点</div>
+          <div class="detail-card-text">${a.insight}</div>
+        </div>
+        <div class="detail-card card-spark">
+          <div class="detail-card-label">设计启发</div>
+          <div class="detail-card-text">${a.spark}</div>
+        </div>
+      </div>
+      <hr class="detail-divider">
+      <div class="detail-body">${a.body}</div>
+    `;
+    document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+    document.getElementById('article-detail').classList.add('active');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  function backToList() {
+    document.getElementById('article-detail').classList.remove('active');
+    showSection(currentSection);
+  }
+
+  const _origShowSection = showSection;
+  // Override showSection to track current section
+  window.showSection = function(id) {
+    currentSection = id;
+    document.getElementById('article-detail').classList.remove('active');
+    _origShowSection(id);
+  };
 </script>
 </body>
 </html>
