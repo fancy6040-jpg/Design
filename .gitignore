@@ -1,3 +1,4 @@
 .claude/
 node_modules/
 npm-debug.log*
+screenshot-weekly.js
