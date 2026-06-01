@@ -141,6 +141,50 @@
     .detail-body h2 { font-size: 20px; font-weight: 650; color: var(--text-primary); margin: 2em 0 0.6em; letter-spacing: -0.3px; }
     @media (max-width: 600px) { .detail-cards { grid-template-columns: 1fr; } .detail-title { font-size: 26px; } }
 
+    /* ── Weekly Feed ── */
+    .feed-filters { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
+    .feed-filter { background: var(--surface); border: 1px solid var(--border); border-radius: 20px; padding: 6px 14px; font-size: 12.5px; font-weight: 500; color: var(--text-secondary); cursor: pointer; transition: all var(--transition); display: flex; align-items: center; gap: 5px; }
+    .feed-filter:hover { border-color: var(--featured); color: var(--featured); }
+    .feed-filter.active { background: var(--featured); border-color: var(--featured); color: #fff; }
+    .feed-filter-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+    .feed-filter-dot.p0 { background: #EF4444; }
+    .feed-filter-dot.p1 { background: #3B82F6; }
+    .feed-filter-dot.p2 { background: #10B981; }
+    .feed-filter.active .feed-filter-dot { background: rgba(255,255,255,0.8); }
+
+    .feed-item { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 22px 28px; margin-bottom: 12px; cursor: pointer; transition: border-color var(--transition), box-shadow var(--transition), transform var(--transition); position: relative; overflow: hidden; text-decoration: none; display: block; }
+    .feed-item::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: var(--featured); opacity: 0; transition: opacity var(--transition); }
+    .feed-item:hover { border-color: #c4b5fd; box-shadow: 0 4px 20px rgba(124,58,237,0.07); transform: translateY(-1px); }
+    .feed-item:hover::before { opacity: 1; }
+    .feed-item-top { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+    .feed-source-badge { display: inline-flex; align-items: center; gap: 5px; font-size: 10.5px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; padding: 3px 9px; border-radius: 20px; white-space: nowrap; }
+    .feed-source-badge.badge-p0 { background: #FEF2F2; color: #991B1B; }
+    .feed-source-badge.badge-p1 { background: #EFF6FF; color: #1D4ED8; }
+    .feed-source-badge.badge-p2 { background: #ECFDF5; color: #065F46; }
+    .feed-priority-dot { width: 5px; height: 5px; border-radius: 50%; }
+    .badge-p0 .feed-priority-dot { background: #EF4444; }
+    .badge-p1 .feed-priority-dot { background: #3B82F6; }
+    .badge-p2 .feed-priority-dot { background: #10B981; }
+    .feed-date { font-size: 12px; color: var(--text-muted); margin-left: auto; white-space: nowrap; }
+    .feed-tags { display: flex; gap: 5px; flex-wrap: wrap; }
+    .feed-tag { font-size: 10.5px; font-weight: 500; color: var(--text-muted); background: var(--tag-bg); padding: 1px 8px; border-radius: 10px; }
+    .feed-title { font-size: 16px; font-weight: 620; letter-spacing: -0.2px; line-height: 1.4; color: var(--text-primary); margin-bottom: 8px; }
+    .feed-excerpt { font-size: 13.5px; color: var(--text-secondary); line-height: 1.7; margin-bottom: 12px; }
+    .feed-arrow { position: absolute; right: 20px; bottom: 20px; width: 28px; height: 28px; border-radius: 6px; border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; transition: background var(--transition), border-color var(--transition); }
+    .feed-item:hover .feed-arrow { background: var(--featured); border-color: var(--featured); }
+    .feed-arrow svg { width: 12px; height: 12px; stroke: var(--text-muted); fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; transition: stroke var(--transition); }
+    .feed-item:hover .feed-arrow svg { stroke: #fff; }
+
+    .weekly-status { font-size: 11.5px; color: var(--text-muted); }
+    .weekly-status.loading { color: var(--featured); }
+    .weekly-status.error { color: #EF4444; }
+
+    .feed-skeleton { background: linear-gradient(90deg, var(--border-light) 25%, #EBEBF0 50%, var(--border-light) 75%); background-size: 200% 100%; animation: shimmer 1.4s infinite; height: 100px; border-radius: var(--radius); margin-bottom: 12px; }
+    @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+    .feed-empty { text-align: center; padding: 60px 20px; color: var(--text-muted); font-size: 14px; }
+    .feed-empty svg { width: 40px; height: 40px; stroke: var(--border); fill: none; stroke-width: 1.5; display: block; margin: 0 auto 16px; }
+
     /* ── Mobile ── */
     .mobile-header { display: none; position: sticky; top: 0; z-index: 100; background: var(--surface); border-bottom: 1px solid var(--border); padding: 14px 20px; align-items: center; justify-content: space-between; }
     .mobile-brand { display: flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 700; color: var(--text-primary); }
@@ -558,43 +602,48 @@
         <div class="featured-banner">⭐ 重点栏目</div>
         <span class="section-eyebrow featured-eyebrow"><span class="section-eyebrow-dot"></span>AI 周报</span>
         <h1 class="section-title">每周精选，<br/>不错过重要信号</h1>
-        <p class="section-desc">每周一期，精选 AI 设计领域最值得关注的动态——新产品、新研究、新工具、新思考。帮你在信息爆炸中抓住真正重要的信号。</p>
-        <div class="section-meta">
-          <div class="section-meta-item"><span class="section-meta-value">每周</span><span class="section-meta-label">更新</span></div>
+        <p class="section-desc">自动追踪 OpenAI、Anthropic、DeepMind、Stanford HAI 等 13 个顶级来源，每日更新，精选近 30 天最值得 AI 设计师关注的内容。</p>
+        <div class="section-meta" id="weekly-meta">
+          <div class="section-meta-item"><span class="section-meta-value" id="weekly-count">—</span><span class="section-meta-label">条内容</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">5–8</span><span class="section-meta-label">条精选/期</span></div>
+          <div class="section-meta-item"><span class="section-meta-value" id="weekly-sources">13</span><span class="section-meta-label">个来源</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">10 min</span><span class="section-meta-label">平均阅读</span></div>
+          <div class="section-meta-item"><span class="section-meta-value" id="weekly-updated">—</span><span class="section-meta-label">最近更新</span></div>
         </div>
       </div>
+
+      <!-- Source filter bar -->
+      <div class="feed-filters" id="feed-filters">
+        <button class="feed-filter active" data-priority="all">全部</button>
+        <button class="feed-filter" data-priority="0">
+          <span class="feed-filter-dot p0"></span>P0 核心
+        </button>
+        <button class="feed-filter" data-priority="1">
+          <span class="feed-filter-dot p1"></span>P1 设计
+        </button>
+        <button class="feed-filter" data-priority="2">
+          <span class="feed-filter-dot p2"></span>P2 战略
+        </button>
+      </div>
+
       <div class="highlight-block featured-highlight">
-        <h3>选题标准</h3>
-        <p>我们只收录「信号」，不收录「噪音」。每一条入选的内容，都需要通过一个问题的检验：「一个认真做 AI 产品的设计师，真的需要知道这件事吗？」</p>
+        <h3>来源优先级</h3>
+        <p>
+          <strong>P0</strong> OpenAI · Anthropic · Google DeepMind · Microsoft AI · Stanford HAI
+          <strong>P1</strong> NNGroup · Figma · Linear · Notion
+          <strong>P2</strong> HBR · MIT Sloan · McKinsey · BCG
+        </p>
       </div>
-      <div class="articles-header"><h2>近期周报</h2></div>
-      <div class="article-card pinned featured-card" onclick="showArticle('wk-1')">
-        <div class="article-card-top"><span class="article-tag tag-purple">第 #48 期</span><span class="article-read-time">10 min</span></div>
-        <h3 class="article-title">本周精选：Sora 正式上线、Gemini 2.0 发布，以及 AI 设计工具的新一轮洗牌</h3>
-        <p class="article-excerpt">本期收录：① OpenAI Sora 正式发布对设计生产流程的影响分析；② Google Gemini 2.0 的多模态能力对产品交互的启示；③ Figma AI 新功能评测：真实工作流测试报告；④ 一篇关于 AI 疲劳的重要研究；⑤ 本周值得读的 3 篇长文。</p>
-        <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">编</div><span class="article-author-name">编辑部</span><span class="article-dot"></span><span class="article-date">2024年12月9日</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+
+      <div class="articles-header">
+        <h2 id="weekly-list-label">最新动态</h2>
+        <span id="weekly-status" class="weekly-status"></span>
       </div>
-      <div class="article-card featured-card" onclick="showArticle('wk-2')">
-        <div class="article-card-top"><span class="article-tag tag-blue">第 #47 期</span><span class="article-read-time">9 min</span></div>
-        <h3 class="article-title">本周精选：Claude 的 Computer Use、AI 原生设计工具 v0 的爆发，以及设计师需要学编程吗</h3>
-        <p class="article-excerpt">① Anthropic Computer Use 的 UX 含义深度解读；② v0 by Vercel 的设计师使用指南；③ 「设计师要不要学写代码」这个老问题在 AI 时代有了新答案；④ 微软 Copilot 设计回顾；⑤ 三个值得收藏的 AI 提示词资源。</p>
-        <div class="article-footer"><div class="article-author-avatar" style="background:#2563EB;">编</div><span class="article-author-name">编辑部</span><span class="article-dot"></span><span class="article-date">2024年12月2日</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
-      </div>
-      <div class="article-card featured-card" onclick="showArticle('wk-3')">
-        <div class="article-card-top"><span class="article-tag tag-teal">第 #46 期</span><span class="article-read-time">8 min</span></div>
-        <h3 class="article-title">本周精选：ChatGPT 推出 Canvas、苹果 Intelligence 的设计语言分析</h3>
-        <p class="article-excerpt">① OpenAI Canvas 的协作编辑 UX 拆解；② Apple Intelligence 发布后的设计语言深度分析——苹果如何把 AI 融入系统级体验；③ 一份关于 AI 对话界面疲劳的用研报告；④ 本周最值得关注的 2 个 AI 设计案例。</p>
-        <div class="article-footer"><div class="article-author-avatar" style="background:#0F766E;">编</div><span class="article-author-name">编辑部</span><span class="article-dot"></span><span class="article-date">2024年11月25日</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
-      </div>
-      <div class="article-card featured-card" onclick="showArticle('wk-4')">
-        <div class="article-card-top"><span class="article-tag tag-amber">第 #45 期</span><span class="article-read-time">11 min</span></div>
-        <h3 class="article-title">本周精选：Runway Gen-3 视频生成评测、AI 搜索体验的竞品对比分析</h3>
-        <p class="article-excerpt">① Runway Gen-3 对设计师视频工作流的影响实测；② Perplexity vs SearchGPT vs Gemini——三款 AI 搜索产品的 UX 深度对比；③ 一个让我反思 AI 依赖度的用户故事；④ 本周值得订阅的 3 位 AI 设计创作者。</p>
-        <div class="article-footer"><div class="article-author-avatar" style="background:#B45309;">编</div><span class="article-author-name">编辑部</span><span class="article-dot"></span><span class="article-date">2024年11月18日</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      <div id="weekly-feed">
+        <!-- Skeleton loaders -->
+        <div class="feed-skeleton"></div>
+        <div class="feed-skeleton"></div>
+        <div class="feed-skeleton"></div>
       </div>
     </section>
 
@@ -1032,7 +1081,136 @@
     currentSection = id;
     document.getElementById('article-detail').classList.remove('active');
     _origShowSection(id);
+    if (id === 'ai-weekly') initWeeklyFeed();
   };
+
+  // ── Weekly Feed ──────────────────────────────────────────────────────────────
+
+  const SOURCE_COLORS = {
+    'openai':        { cls: 'badge-p0', label: 'OpenAI' },
+    'anthropic':     { cls: 'badge-p0', label: 'Anthropic' },
+    'deepmind':      { cls: 'badge-p0', label: 'DeepMind' },
+    'microsoft-ai':  { cls: 'badge-p0', label: 'Microsoft AI' },
+    'stanford-hai':  { cls: 'badge-p0', label: 'Stanford HAI' },
+    'nngroup':       { cls: 'badge-p1', label: 'NNGroup' },
+    'figma':         { cls: 'badge-p1', label: 'Figma' },
+    'linear':        { cls: 'badge-p1', label: 'Linear' },
+    'notion':        { cls: 'badge-p1', label: 'Notion' },
+    'hbr':           { cls: 'badge-p2', label: 'HBR' },
+    'mit-sloan':     { cls: 'badge-p2', label: 'MIT Sloan' },
+    'mckinsey':      { cls: 'badge-p2', label: 'McKinsey' },
+    'bcg':           { cls: 'badge-p2', label: 'BCG' },
+  };
+
+  let feedData = null;
+  let feedFilter = 'all';
+  let feedInitialized = false;
+
+  function formatFeedDate(iso) {
+    if (!iso) return '';
+    const d = new Date(iso);
+    const now = new Date();
+    const diff = Math.floor((now - d) / 86400000);
+    if (diff === 0) return '今天';
+    if (diff === 1) return '昨天';
+    if (diff < 7) return `${diff} 天前`;
+    return d.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
+  }
+
+  function formatGeneratedDate(iso) {
+    if (!iso) return '—';
+    const d = new Date(iso);
+    return d.toLocaleDateString('zh-CN', { month: 'numeric', day: 'numeric' }) + ' 更新';
+  }
+
+  function renderFeedItems(items) {
+    const container = document.getElementById('weekly-feed');
+    if (!items || items.length === 0) {
+      container.innerHTML = `
+        <div class="feed-empty">
+          <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 8v4M12 16h.01"/></svg>
+          暂无内容，数据采集进行中…
+        </div>`;
+      return;
+    }
+
+    const filtered = feedFilter === 'all'
+      ? items
+      : items.filter(i => String(i.priority) === String(feedFilter));
+
+    document.getElementById('weekly-list-label').textContent =
+      feedFilter === 'all' ? `最新动态（${filtered.length} 条）` :
+      `P${feedFilter} 内容（${filtered.length} 条）`;
+
+    if (filtered.length === 0) {
+      container.innerHTML = `<div class="feed-empty"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 8v4M12 16h.01"/></svg>该优先级暂无内容</div>`;
+      return;
+    }
+
+    container.innerHTML = filtered.map((item, idx) => {
+      const src = SOURCE_COLORS[item.source_id] || { cls: 'badge-p2', label: item.source_name };
+      const tags = (item.tags || []).slice(0, 3).map(t =>
+        `<span class="feed-tag">${t}</span>`).join('');
+      const pinned = idx === 0 ? ' pinned' : '';
+      return `
+        <a class="feed-item${pinned}" href="${item.link || '#'}" target="_blank" rel="noopener noreferrer">
+          <div class="feed-item-top">
+            <span class="feed-source-badge ${src.cls}">
+              <span class="feed-priority-dot"></span>${src.label}
+            </span>
+            <div class="feed-tags">${tags}</div>
+            <span class="feed-date">${formatFeedDate(item.date)}</span>
+          </div>
+          <h3 class="feed-title">${item.title}</h3>
+          ${item.excerpt ? `<p class="feed-excerpt">${item.excerpt}</p>` : ''}
+          <div class="feed-arrow">
+            <svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </div>
+        </a>`;
+    }).join('');
+  }
+
+  async function initWeeklyFeed() {
+    if (feedInitialized && feedData) { renderFeedItems(feedData.items); return; }
+    feedInitialized = true;
+
+    const statusEl = document.getElementById('weekly-status');
+    statusEl.textContent = '加载中…';
+    statusEl.className = 'weekly-status loading';
+
+    try {
+      // Try local data file first, then fall back to a CORS proxy
+      const dataUrl = 'data/weekly.json';
+      const res = await fetch(dataUrl);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      feedData = await res.json();
+    } catch (e) {
+      statusEl.textContent = '加载失败，显示缓存内容';
+      statusEl.className = 'weekly-status error';
+      document.getElementById('weekly-feed').innerHTML =
+        `<div class="feed-empty"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 8v4M12 16h.01"/></svg>内容加载失败，请稍后刷新重试</div>`;
+      return;
+    }
+
+    // Update meta bar
+    document.getElementById('weekly-count').textContent = feedData.total || feedData.items?.length || '—';
+    document.getElementById('weekly-updated').textContent = formatGeneratedDate(feedData.generated);
+
+    statusEl.textContent = `数据来自 ${feedData.sources_attempted || 13} 个来源 · 近 30 天`;
+    statusEl.className = 'weekly-status';
+
+    renderFeedItems(feedData.items);
+
+    // Wire up filter buttons
+    document.querySelectorAll('.feed-filter').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.feed-filter').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        feedFilter = btn.dataset.priority;
+        renderFeedItems(feedData.items);
+      });
+    });
+  }
 </script>
 </body>
 </html>

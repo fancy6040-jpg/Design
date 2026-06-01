@@ -1,0 +1,15 @@
+{
+  "name": "ai-design-weekly",
+  "version": "1.0.0",
+  "description": "AI Design Knowledge Base — weekly content collector",
+  "scripts": {
+    "collect": "node scripts/collect.js",
+    "collect:watch": "node --watch scripts/collect.js"
+  },
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.10"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

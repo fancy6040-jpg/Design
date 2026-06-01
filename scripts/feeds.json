@@ -1,0 +1,108 @@
+{
+  "sources": [
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "priority": 0,
+      "url": "https://openai.com/news/rss.xml",
+      "fallback": "https://openai.com/blog/rss.xml",
+      "tags": ["AI", "模型", "产品"]
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "priority": 0,
+      "url": "https://www.anthropic.com/rss.xml",
+      "fallback": "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml",
+      "tags": ["AI", "模型", "安全"]
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "priority": 0,
+      "url": "https://deepmind.google/blog/rss.xml",
+      "fallback": "https://blog.google/technology/ai/rss/",
+      "tags": ["AI", "研究", "模型"]
+    },
+    {
+      "id": "microsoft-ai",
+      "name": "Microsoft AI",
+      "priority": 0,
+      "url": "https://blogs.microsoft.com/ai/feed/",
+      "fallback": null,
+      "tags": ["AI", "产品", "企业"]
+    },
+    {
+      "id": "stanford-hai",
+      "name": "Stanford HAI",
+      "priority": 0,
+      "url": "https://hai.stanford.edu/news/rss",
+      "fallback": "https://hai.stanford.edu/feed",
+      "tags": ["AI", "研究", "政策"]
+    },
+    {
+      "id": "nngroup",
+      "name": "NNGroup",
+      "priority": 1,
+      "url": "https://www.nngroup.com/feed/rss/",
+      "fallback": null,
+      "tags": ["UX", "设计", "研究"]
+    },
+    {
+      "id": "figma",
+      "name": "Figma",
+      "priority": 1,
+      "url": "https://www.figma.com/blog/feed/",
+      "fallback": "https://figma.com/blog/feed/atom.xml",
+      "tags": ["设计", "工具", "产品"]
+    },
+    {
+      "id": "linear",
+      "name": "Linear",
+      "priority": 1,
+      "url": "https://linear.app/blog/feed.xml",
+      "fallback": "https://linear.app/blog/rss.xml",
+      "tags": ["产品", "工具", "工程"]
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "priority": 1,
+      "url": "https://www.notion.com/blog/rss.xml",
+      "fallback": "https://www.notion.so/blog/rss.xml",
+      "tags": ["产品", "AI", "工具"]
+    },
+    {
+      "id": "hbr",
+      "name": "HBR",
+      "priority": 2,
+      "url": "https://feeds.harvardbusiness.org/harvardbusiness",
+      "fallback": "https://hbr.org/resources/rss/",
+      "tags": ["管理", "战略", "领导力"]
+    },
+    {
+      "id": "mit-sloan",
+      "name": "MIT Sloan",
+      "priority": 2,
+      "url": "https://sloanreview.mit.edu/feed/",
+      "fallback": null,
+      "tags": ["管理", "AI", "战略"]
+    },
+    {
+      "id": "mckinsey",
+      "name": "McKinsey",
+      "priority": 2,
+      "url": "https://www.mckinsey.com/insights/rss",
+      "fallback": "https://www.mckinsey.com/featured-insights/rss",
+      "tags": ["战略", "管理", "AI"]
+    },
+    {
+      "id": "bcg",
+      "name": "BCG",
+      "priority": 2,
+      "url": "https://www.bcg.com/rss/insights.xml",
+      "fallback": "https://www.bcg.com/publications/rss",
+      "tags": ["战略", "管理", "AI"]
+    }
+  ]
+}

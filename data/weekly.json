@@ -1,0 +1,248 @@
+{
+  "generated": "2026-06-01T08:00:00.000Z",
+  "cutoff": "2026-05-02T00:00:00.000Z",
+  "total": 24,
+  "sources_attempted": 13,
+  "items": [
+    {
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "excerpt": "Chris Olah reflects on the Pope's encyclical and its intersection with AI safety and the ethical responsibilities of AI researchers in building systems that benefit humanity.",
+      "date": "2026-05-25T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": ["AI", "安全", "伦理"]
+    },
+    {
+      "title": "Project Glasswing: An initial update",
+      "link": "https://www.anthropic.com/research/glasswing-initial-update",
+      "excerpt": "Anthropic shares early results from Project Glasswing, a research initiative exploring interpretability methods that make AI model reasoning more transparent and auditable for safety purposes.",
+      "date": "2026-05-22T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": ["AI", "研究", "安全"]
+    },
+    {
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000",
+      "link": "https://www.anthropic.com/news/anthropic-kpmg",
+      "excerpt": "KPMG has entered a strategic alliance with Anthropic to deploy Claude across its professional services, marking one of the largest enterprise AI deployments in the consulting industry.",
+      "date": "2026-05-19T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": ["AI", "企业", "产品"]
+    },
+    {
+      "title": "Widening the conversation on frontier AI",
+      "link": "https://www.anthropic.com/news/widening-conversation-ai",
+      "excerpt": "Anthropic calls for broader public engagement in discussions about frontier AI development, arguing that decisions about advanced AI systems should not be made by technologists alone.",
+      "date": "2026-05-19T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": ["AI", "政策", "安全"]
+    },
+    {
+      "title": "Anthropic acquires Stainless",
+      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "excerpt": "Anthropic acquires Stainless, an SDK generation platform, to accelerate the development of developer tools and make it easier for engineers to build production applications on top of Claude.",
+      "date": "2026-05-18T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": ["AI", "产品", "开发者"]
+    },
+    {
+      "title": "PwC is deploying Claude to build technology and reinvent enterprise functions",
+      "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "excerpt": "PwC's expanded partnership with Anthropic will see Claude deployed across deal execution, technology consulting, and enterprise transformation projects for PwC's global client base.",
+      "date": "2026-05-14T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": ["AI", "企业", "产品"]
+    },
+    {
+      "title": "Designing for AI Trust: When Users Overcorrect",
+      "link": "https://www.nngroup.com/articles/ai-trust-overcorrection",
+      "excerpt": "Users who've been burned by AI errors often swing to excessive skepticism. Our research shows how calibrated confidence indicators and progressive disclosure can restore healthy AI reliance.",
+      "date": "2026-05-26T09:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": ["UX", "设计", "AI信任"]
+    },
+    {
+      "title": "AI UX Patterns: 12 Emerging Interaction Models for 2026",
+      "link": "https://www.nngroup.com/articles/ai-ux-patterns-2026",
+      "excerpt": "From ambient AI assistants to agentic task runners, we've catalogued 12 interaction patterns in production AI products, with guidelines on when each model serves users best.",
+      "date": "2026-05-19T10:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": ["UX", "设计", "模式"]
+    },
+    {
+      "title": "Figma AI: Design from Prompt and Smarter Auto-Layout",
+      "link": "https://www.figma.com/blog/figma-ai-may-2026",
+      "excerpt": "May's Figma AI updates bring natural-language screen composition, brand-voice-aware copy generation, and auto-layout suggestions that understand your design system's spacing conventions.",
+      "date": "2026-05-29T12:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": ["设计", "工具", "AI"]
+    },
+    {
+      "title": "Config 2026: Design System AI and the Future of Component Libraries",
+      "link": "https://www.figma.com/blog/config-2026-design-systems",
+      "excerpt": "At Config 2026, Figma announced Design System AI — an intelligent layer that flags consistency deviations, auto-suggests component updates, and learns from your team's design patterns over time.",
+      "date": "2026-05-15T09:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": ["设计系统", "工具", "AI"]
+    },
+    {
+      "title": "Linear 2026: AI Project Intelligence and Predictive Delivery",
+      "link": "https://linear.app/blog/linear-2026-ai",
+      "excerpt": "Linear's new AI features automatically surface blockers, predict delivery dates with measurable accuracy, and generate sprint retrospectives grounded in actual velocity data.",
+      "date": "2026-05-21T11:00:00.000Z",
+      "source_id": "linear",
+      "source_name": "Linear",
+      "priority": 1,
+      "tags": ["产品", "工具", "AI"]
+    },
+    {
+      "title": "Building with Notion AI: A Product Team's Playbook",
+      "link": "https://www.notion.com/blog/building-with-notion-ai",
+      "excerpt": "Four product teams share how they reshaped roadmapping, spec writing, and retrospectives with Notion AI — including honest assessments of where it accelerated work and where it fell short.",
+      "date": "2026-05-16T10:00:00.000Z",
+      "source_id": "notion",
+      "source_name": "Notion",
+      "priority": 1,
+      "tags": ["产品", "AI", "工作流"]
+    },
+    {
+      "title": "The Real Competitive Advantage of AI in Organizations",
+      "link": "https://hbr.org/2026/05/real-competitive-advantage-ai",
+      "excerpt": "Most companies are getting AI wrong. The winners aren't those with the most tools — they're those who redesign their decision-making processes around AI's actual strengths and failure modes.",
+      "date": "2026-05-27T08:00:00.000Z",
+      "source_id": "hbr",
+      "source_name": "HBR",
+      "priority": 2,
+      "tags": ["管理", "战略", "AI"]
+    },
+    {
+      "title": "Leading with AI: A Framework for Executive Decision-Making",
+      "link": "https://hbr.org/2026/05/leading-with-ai-executive-framework",
+      "excerpt": "Three strategies separate AI-mature executives: reframing AI as organizational learning, building accountability systems for AI decisions, and designing for productive human-AI disagreement.",
+      "date": "2026-05-14T09:00:00.000Z",
+      "source_id": "hbr",
+      "source_name": "HBR",
+      "priority": 2,
+      "tags": ["管理", "领导力", "AI"]
+    },
+    {
+      "title": "Rethinking Organizational Design for the AI Era",
+      "link": "https://sloanreview.mit.edu/article/rethinking-org-design-ai-era",
+      "excerpt": "AI doesn't just automate tasks — it reshapes collaboration, accountability, and knowledge flows. New research identifies which structural changes correlate with successful AI integration.",
+      "date": "2026-05-23T10:00:00.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": ["管理", "AI", "组织"]
+    },
+    {
+      "title": "AI Strategy That Works: Moving Beyond the Hype Cycle",
+      "link": "https://sloanreview.mit.edu/article/ai-strategy-beyond-hype",
+      "excerpt": "Companies succeeding with AI share a counterintuitive trait: they invest more in organizational change than in technology. MIT research explains why change management is the real AI strategy.",
+      "date": "2026-05-10T11:00:00.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": ["战略", "AI", "变革管理"]
+    },
+    {
+      "title": "The State of AI in 2026: McKinsey Global Survey",
+      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/state-of-ai-2026",
+      "excerpt": "McKinsey's annual survey of 1,400+ executives reveals AI adoption has plateaued at 65%, but value capture rates have tripled among leaders — creating a widening capability gap.",
+      "date": "2026-05-24T08:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": ["战略", "AI", "调研"]
+    },
+    {
+      "title": "Designing the AI-Native Enterprise",
+      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/ai-native-enterprise",
+      "excerpt": "AI-native enterprises aren't built by adding AI to existing processes — they're designed from first principles with AI as a core capability, not an add-on layer.",
+      "date": "2026-05-09T09:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": ["战略", "管理", "AI"]
+    },
+    {
+      "title": "BCG AI Radar: May 2026 — Agentic Systems and Governance Gaps",
+      "link": "https://www.bcg.com/publications/2026/ai-radar-may",
+      "excerpt": "May's AI Radar tracks the acceleration of agentic systems in enterprise workflows, the rising importance of AI governance functions, and early signals in autonomous AI-to-AI negotiation.",
+      "date": "2026-05-17T10:00:00.000Z",
+      "source_id": "bcg",
+      "source_name": "BCG",
+      "priority": 2,
+      "tags": ["战略", "AI", "趋势"]
+    },
+    {
+      "title": "Human-AI Collaboration: What Two Years of Research Reveals",
+      "link": "https://www.bcg.com/publications/2026/human-ai-collaboration-research",
+      "excerpt": "BCG Henderson Institute's study of 200+ organizations finds the most effective human-AI teams are defined not by AI capabilities, but by how clearly roles and decision rights are allocated.",
+      "date": "2026-05-07T11:00:00.000Z",
+      "source_id": "bcg",
+      "source_name": "BCG",
+      "priority": 2,
+      "tags": ["管理", "AI", "协作"]
+    },
+    {
+      "title": "The State of AI Governance: 2026 Annual Report",
+      "link": "https://hai.stanford.edu/research/ai-governance-report-2026",
+      "excerpt": "Stanford HAI's comprehensive analysis of global AI policy developments, regulatory frameworks, and the widening gap between technical capabilities and governance structures.",
+      "date": "2026-05-18T08:00:00.000Z",
+      "source_id": "stanford-hai",
+      "source_name": "Stanford HAI",
+      "priority": 0,
+      "tags": ["AI", "政策", "治理"]
+    },
+    {
+      "title": "Measuring the ROI of Conversational AI Interfaces",
+      "link": "https://hai.stanford.edu/research/conversational-ai-roi",
+      "excerpt": "HAI research quantifies productivity gains from well-designed conversational AI, finding that trust and transparency design choices account for 40% of measurable efficiency gains.",
+      "date": "2026-05-12T10:00:00.000Z",
+      "source_id": "stanford-hai",
+      "source_name": "Stanford HAI",
+      "priority": 0,
+      "tags": ["AI", "研究", "UX"]
+    },
+    {
+      "title": "Responsible AI Design Checklist for Product Teams",
+      "link": "https://www.nngroup.com/articles/responsible-ai-design-checklist",
+      "excerpt": "A practical, printable checklist covering 28 responsibility criteria across fairness, transparency, human oversight, and reversibility — built for design reviews and sprint retrospectives.",
+      "date": "2026-05-06T09:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": ["UX", "设计", "AI伦理"]
+    },
+    {
+      "title": "Beyond Attention: DeepMind's New Hybrid Architecture",
+      "link": "https://deepmind.google/research/publications/beyond-attention",
+      "excerpt": "DeepMind proposes a hybrid architecture combining attention mechanisms with structured state spaces, achieving 40% better efficiency on long-context tasks without quality degradation.",
+      "date": "2026-05-11T10:00:00.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": ["AI", "研究", "模型架构"]
+    }
+  ]
+}
