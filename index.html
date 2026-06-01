@@ -1,1189 +1,577 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI Design Knowledge Base</title>
+  <title>AI 设计知识库</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
   <style>
-    *, *::before, *::after {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     :root {
-      --bg: #FAFAFA;
-      --surface: #FFFFFF;
-      --border: #E8E8EC;
-      --border-light: #F0F0F4;
-      --text-primary: #1A1A1A;
-      --text-secondary: #5A5A6A;
-      --text-muted: #8A8A9A;
-      --accent: #4F46E5;
-      --accent-light: #EEF2FF;
-      --accent-hover: #4338CA;
-      --tag-bg: #F4F4F8;
-      --radius: 12px;
-      --radius-sm: 8px;
-      --sidebar-width: 260px;
-      --content-max: 760px;
-      --transition: 200ms ease;
+      --bg: #FAFAFA; --surface: #FFFFFF; --border: #E8E8EC; --border-light: #F0F0F4;
+      --text-primary: #1A1A1A; --text-secondary: #5A5A6A; --text-muted: #8A8A9A;
+      --accent: #4F46E5; --accent-light: #EEF2FF;
+      --featured: #7C3AED; --featured-light: #F5F3FF;
+      --tag-bg: #F4F4F8; --radius: 12px; --radius-sm: 8px;
+      --sidebar-width: 272px; --content-max: 760px; --transition: 200ms ease;
     }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
-    body {
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      background: var(--bg);
-      color: var(--text-primary);
-      line-height: 1.75;
-      font-size: 16px;
-      -webkit-font-smoothing: antialiased;
-    }
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; background: var(--bg); color: var(--text-primary); line-height: 1.75; font-size: 16px; -webkit-font-smoothing: antialiased; }
 
     /* ── Layout ── */
-    .layout {
-      display: flex;
-      min-height: 100vh;
-    }
+    .layout { display: flex; min-height: 100vh; }
 
     /* ── Sidebar ── */
-    .sidebar {
-      width: var(--sidebar-width);
-      flex-shrink: 0;
-      position: sticky;
-      top: 0;
-      height: 100vh;
-      overflow-y: auto;
-      background: var(--surface);
-      border-right: 1px solid var(--border);
-      display: flex;
-      flex-direction: column;
-      padding: 40px 0 40px;
-      scrollbar-width: none;
-    }
-
+    .sidebar { width: var(--sidebar-width); flex-shrink: 0; position: sticky; top: 0; height: 100vh; overflow-y: auto; background: var(--surface); border-right: 1px solid var(--border); display: flex; flex-direction: column; scrollbar-width: none; }
     .sidebar::-webkit-scrollbar { display: none; }
+    .sidebar-brand { padding: 32px 24px 28px; border-bottom: 1px solid var(--border-light); flex-shrink: 0; }
+    .brand-logo { display: flex; align-items: center; gap: 10px; text-decoration: none; margin-bottom: 5px; }
+    .brand-icon { width: 32px; height: 32px; background: var(--accent); border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+    .brand-icon svg { width: 17px; height: 17px; fill: none; stroke: #fff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .brand-name { font-size: 15px; font-weight: 700; color: var(--text-primary); letter-spacing: -0.3px; }
+    .brand-tagline { font-size: 11.5px; color: var(--text-muted); padding-left: 42px; }
 
-    .sidebar-brand {
-      padding: 0 28px 36px;
-      border-bottom: 1px solid var(--border-light);
-    }
+    /* Nav groups */
+    .nav { padding: 20px 16px; flex: 1; display: flex; flex-direction: column; gap: 24px; }
+    .nav-group {}
+    .nav-group-label { font-size: 10px; font-weight: 600; letter-spacing: 0.09em; text-transform: uppercase; color: var(--text-muted); padding: 0 10px; margin-bottom: 6px; display: block; }
+    .nav-list { list-style: none; display: flex; flex-direction: column; gap: 1px; }
+    .nav-item a { display: flex; align-items: center; gap: 9px; padding: 8px 10px; border-radius: var(--radius-sm); text-decoration: none; font-size: 13.5px; font-weight: 500; color: var(--text-secondary); transition: background var(--transition), color var(--transition); cursor: pointer; }
+    .nav-item a:hover { background: var(--tag-bg); color: var(--text-primary); }
+    .nav-item a.active { background: var(--accent-light); color: var(--accent); }
+    .nav-item.featured-item a.active { background: var(--featured-light); color: var(--featured); }
+    .nav-item.featured-item a:hover { background: var(--featured-light); color: var(--featured); }
+    .nav-icon { width: 16px; height: 16px; opacity: 0.65; flex-shrink: 0; }
+    .nav-item a.active .nav-icon { opacity: 1; }
+    .nav-badge { margin-left: auto; font-size: 10px; font-weight: 700; letter-spacing: 0.03em; padding: 2px 7px; border-radius: 20px; background: #FEF3C7; color: #92400E; white-space: nowrap; }
+    .nav-count { margin-left: auto; font-size: 11px; font-weight: 600; color: var(--text-muted); background: var(--tag-bg); padding: 1px 7px; border-radius: 20px; }
+    .nav-item a.active .nav-count { background: #dde4fd; color: var(--accent); }
+    .nav-item.featured-item a.active .nav-count { background: #ede9fe; color: var(--featured); }
 
-    .brand-logo {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      text-decoration: none;
-      margin-bottom: 6px;
-    }
+    .sidebar-footer { padding: 16px 24px 24px; border-top: 1px solid var(--border-light); flex-shrink: 0; }
+    .sidebar-footer p { font-size: 11.5px; color: var(--text-muted); line-height: 1.6; }
 
-    .brand-icon {
-      width: 32px;
-      height: 32px;
-      background: var(--accent);
-      border-radius: 8px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-shrink: 0;
-    }
-
-    .brand-icon svg {
-      width: 18px;
-      height: 18px;
-      fill: none;
-      stroke: #fff;
-      stroke-width: 2;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-    }
-
-    .brand-name {
-      font-size: 15px;
-      font-weight: 600;
-      color: var(--text-primary);
-      letter-spacing: -0.2px;
-    }
-
-    .brand-tagline {
-      font-size: 12px;
-      color: var(--text-muted);
-      padding-left: 42px;
-    }
-
-    .nav {
-      padding: 28px 16px 0;
-      flex: 1;
-    }
-
-    .nav-label {
-      font-size: 10px;
-      font-weight: 600;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      color: var(--text-muted);
-      padding: 0 12px;
-      margin-bottom: 8px;
-    }
-
-    .nav-list {
-      list-style: none;
-      display: flex;
-      flex-direction: column;
-      gap: 2px;
-    }
-
-    .nav-item a {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      padding: 9px 12px;
-      border-radius: var(--radius-sm);
-      text-decoration: none;
-      font-size: 14px;
-      font-weight: 500;
-      color: var(--text-secondary);
-      transition: background var(--transition), color var(--transition);
-      cursor: pointer;
-    }
-
-    .nav-item a:hover {
-      background: var(--tag-bg);
-      color: var(--text-primary);
-    }
-
-    .nav-item a.active {
-      background: var(--accent-light);
-      color: var(--accent);
-    }
-
-    .nav-icon {
-      width: 18px;
-      height: 18px;
-      opacity: 0.7;
-      flex-shrink: 0;
-    }
-
-    .nav-item a.active .nav-icon {
-      opacity: 1;
-    }
-
-    .nav-count {
-      margin-left: auto;
-      font-size: 11px;
-      font-weight: 600;
-      color: var(--text-muted);
-      background: var(--tag-bg);
-      padding: 1px 7px;
-      border-radius: 20px;
-    }
-
-    .nav-item a.active .nav-count {
-      background: #dde4fd;
-      color: var(--accent);
-    }
-
-    .sidebar-footer {
-      padding: 20px 28px 0;
-      border-top: 1px solid var(--border-light);
-    }
-
-    .sidebar-footer p {
-      font-size: 12px;
-      color: var(--text-muted);
-      line-height: 1.5;
-    }
-
-    /* ── Main content ── */
-    .main {
-      flex: 1;
-      min-width: 0;
-      padding: 0 48px;
-    }
-
-    .section {
-      display: none;
-      max-width: var(--content-max);
-      margin: 0 auto;
-      padding: 72px 0 120px;
-    }
-
-    .section.active {
-      display: block;
-      animation: fadeIn 0.3s ease;
-    }
-
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(8px); }
-      to   { opacity: 1; transform: translateY(0); }
-    }
+    /* ── Main ── */
+    .main { flex: 1; min-width: 0; padding: 0 52px; }
+    .section { display: none; max-width: var(--content-max); margin: 0 auto; padding: 68px 0 120px; }
+    .section.active { display: block; animation: fadeIn 0.25s ease; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
 
     /* ── Section Hero ── */
-    .section-hero {
-      margin-bottom: 64px;
-    }
+    .section-hero { margin-bottom: 56px; }
+    .section-eyebrow { display: inline-flex; align-items: center; gap: 7px; font-size: 11.5px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); margin-bottom: 14px; }
+    .section-eyebrow.featured-eyebrow { color: var(--featured); }
+    .section-eyebrow-dot { width: 6px; height: 6px; border-radius: 50%; background: currentColor; }
+    .section-title { font-size: 38px; font-weight: 700; letter-spacing: -1px; line-height: 1.15; color: var(--text-primary); margin-bottom: 18px; }
+    .section-desc { font-size: 17px; color: var(--text-secondary); line-height: 1.75; max-width: 600px; }
+    .section-meta { display: flex; align-items: center; gap: 24px; margin-top: 28px; padding-top: 24px; border-top: 1px solid var(--border-light); }
+    .section-meta-item { display: flex; flex-direction: column; gap: 2px; }
+    .section-meta-value { font-size: 22px; font-weight: 700; color: var(--text-primary); letter-spacing: -0.5px; }
+    .section-meta-label { font-size: 11.5px; color: var(--text-muted); font-weight: 500; }
+    .section-meta-divider { width: 1px; height: 32px; background: var(--border); }
 
-    .section-eyebrow {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      font-size: 12px;
-      font-weight: 600;
-      letter-spacing: 0.07em;
-      text-transform: uppercase;
-      color: var(--accent);
-      margin-bottom: 16px;
-    }
+    /* Featured section hero variant */
+    .section-hero.is-featured .section-title { color: var(--text-primary); }
+    .featured-banner { display: inline-flex; align-items: center; gap: 6px; background: #FEF3C7; color: #92400E; font-size: 11px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 4px 10px; border-radius: 20px; margin-bottom: 16px; }
 
-    .section-eyebrow-dot {
-      width: 6px;
-      height: 6px;
-      border-radius: 50%;
-      background: var(--accent);
-    }
-
-    .section-title {
-      font-size: 40px;
-      font-weight: 700;
-      letter-spacing: -1px;
-      line-height: 1.15;
-      color: var(--text-primary);
-      margin-bottom: 20px;
-    }
-
-    .section-desc {
-      font-size: 18px;
-      color: var(--text-secondary);
-      line-height: 1.7;
-      max-width: 620px;
-    }
-
-    .section-meta {
-      display: flex;
-      align-items: center;
-      gap: 24px;
-      margin-top: 28px;
-      padding-top: 28px;
-      border-top: 1px solid var(--border-light);
-    }
-
-    .section-meta-item {
-      display: flex;
-      flex-direction: column;
-      gap: 2px;
-    }
-
-    .section-meta-value {
-      font-size: 24px;
-      font-weight: 700;
-      color: var(--text-primary);
-      letter-spacing: -0.5px;
-    }
-
-    .section-meta-label {
-      font-size: 12px;
-      color: var(--text-muted);
-      font-weight: 500;
-    }
-
-    .section-meta-divider {
-      width: 1px;
-      height: 36px;
-      background: var(--border);
-    }
+    /* ── Highlight Block ── */
+    .highlight-block { background: var(--accent-light); border: 1px solid #C7D2FE; border-radius: var(--radius); padding: 24px 28px; margin-bottom: 16px; }
+    .highlight-block.featured-highlight { background: var(--featured-light); border-color: #DDD6FE; }
+    .highlight-block h3 { font-size: 13px; font-weight: 700; color: var(--accent); margin-bottom: 6px; text-transform: uppercase; letter-spacing: 0.05em; }
+    .highlight-block.featured-highlight h3 { color: var(--featured); }
+    .highlight-block p { font-size: 14px; color: #3730A3; line-height: 1.65; }
+    .highlight-block.featured-highlight p { color: #5B21B6; }
 
     /* ── Article Cards ── */
-    .articles-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 24px;
-    }
-
-    .articles-header h2 {
-      font-size: 13px;
-      font-weight: 600;
-      color: var(--text-muted);
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-    }
-
-    .article-card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 32px;
-      cursor: pointer;
-      transition: border-color var(--transition), box-shadow var(--transition), transform var(--transition);
-      margin-bottom: 16px;
-      position: relative;
-      overflow: hidden;
-    }
-
-    .article-card::before {
-      content: '';
-      position: absolute;
-      left: 0;
-      top: 0;
-      bottom: 0;
-      width: 3px;
-      background: var(--accent);
-      opacity: 0;
-      transition: opacity var(--transition);
-    }
-
-    .article-card:hover {
-      border-color: #d0d0e8;
-      box-shadow: 0 4px 24px rgba(79, 70, 229, 0.06);
-      transform: translateY(-1px);
-    }
-
-    .article-card:hover::before {
-      opacity: 1;
-    }
-
-    .article-card.featured {
-      background: linear-gradient(135deg, #F8F7FF 0%, #FAFAFA 100%);
-    }
-
-    .article-card-top {
-      display: flex;
-      align-items: flex-start;
-      justify-content: space-between;
-      gap: 16px;
-      margin-bottom: 14px;
-    }
-
-    .article-tag {
-      display: inline-flex;
-      align-items: center;
-      font-size: 11px;
-      font-weight: 600;
-      letter-spacing: 0.04em;
-      text-transform: uppercase;
-      padding: 4px 10px;
-      border-radius: 20px;
-      background: var(--accent-light);
-      color: var(--accent);
-      white-space: nowrap;
-    }
-
+    .articles-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; margin-top: 32px; }
+    .articles-header h2 { font-size: 11.5px; font-weight: 600; color: var(--text-muted); letter-spacing: 0.06em; text-transform: uppercase; }
+    .article-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px 32px; cursor: pointer; transition: border-color var(--transition), box-shadow var(--transition), transform var(--transition); margin-bottom: 14px; position: relative; overflow: hidden; }
+    .article-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: var(--accent); opacity: 0; transition: opacity var(--transition); }
+    .article-card.featured-card::before { background: var(--featured); }
+    .article-card:hover { border-color: #d0d0e8; box-shadow: 0 4px 20px rgba(79,70,229,0.07); transform: translateY(-1px); }
+    .article-card.featured-card:hover { border-color: #c4b5fd; box-shadow: 0 4px 20px rgba(124,58,237,0.07); }
+    .article-card:hover::before { opacity: 1; }
+    .article-card.pinned { background: linear-gradient(135deg, #F8F7FF 0%, #FAFAFA 100%); }
+    .article-card.pinned.featured-card { background: linear-gradient(135deg, #F5F3FF 0%, #FAFAFA 100%); }
+    .article-card-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; margin-bottom: 12px; }
+    .article-tag { display: inline-flex; align-items: center; font-size: 10.5px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; padding: 3px 9px; border-radius: 20px; background: var(--accent-light); color: var(--accent); white-space: nowrap; }
     .article-tag.tag-green  { background: #ECFDF5; color: #059669; }
     .article-tag.tag-orange { background: #FFF7ED; color: #C2410C; }
     .article-tag.tag-purple { background: #FAF5FF; color: #7C3AED; }
     .article-tag.tag-blue   { background: #EFF6FF; color: #2563EB; }
     .article-tag.tag-pink   { background: #FDF2F8; color: #9D174D; }
     .article-tag.tag-teal   { background: #F0FDFA; color: #0F766E; }
-
-    .article-read-time {
-      font-size: 12px;
-      color: var(--text-muted);
-      white-space: nowrap;
-      font-weight: 500;
-      padding-top: 2px;
-    }
-
-    .article-title {
-      font-size: 20px;
-      font-weight: 650;
-      letter-spacing: -0.3px;
-      line-height: 1.3;
-      color: var(--text-primary);
-      margin-bottom: 10px;
-    }
-
-    .article-excerpt {
-      font-size: 15px;
-      color: var(--text-secondary);
-      line-height: 1.7;
-      margin-bottom: 20px;
-    }
-
-    .article-footer {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-
-    .article-author-avatar {
-      width: 28px;
-      height: 28px;
-      border-radius: 50%;
-      background: var(--accent);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 11px;
-      font-weight: 600;
-      color: #fff;
-      flex-shrink: 0;
-    }
-
-    .article-author-name {
-      font-size: 13px;
-      font-weight: 500;
-      color: var(--text-secondary);
-    }
-
-    .article-dot {
-      width: 3px;
-      height: 3px;
-      border-radius: 50%;
-      background: var(--border);
-    }
-
-    .article-date {
-      font-size: 13px;
-      color: var(--text-muted);
-    }
-
-    .article-arrow {
-      margin-left: auto;
-      width: 32px;
-      height: 32px;
-      border-radius: 8px;
-      border: 1px solid var(--border);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      transition: background var(--transition), border-color var(--transition);
-      flex-shrink: 0;
-    }
-
-    .article-card:hover .article-arrow {
-      background: var(--accent);
-      border-color: var(--accent);
-    }
-
-    .article-arrow svg {
-      width: 14px;
-      height: 14px;
-      stroke: var(--text-muted);
-      fill: none;
-      stroke-width: 2;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-      transition: stroke var(--transition);
-    }
-
-    .article-card:hover .article-arrow svg {
-      stroke: #fff;
-    }
-
-    /* ── Highlight Block ── */
-    .highlight-block {
-      background: var(--accent-light);
-      border: 1px solid #C7D2FE;
-      border-radius: var(--radius);
-      padding: 28px 32px;
-      margin-bottom: 16px;
-    }
-
-    .highlight-block h3 {
-      font-size: 15px;
-      font-weight: 600;
-      color: var(--accent);
-      margin-bottom: 8px;
-    }
-
-    .highlight-block p {
-      font-size: 14px;
-      color: #3730A3;
-      line-height: 1.65;
-    }
+    .article-tag.tag-amber  { background: #FFFBEB; color: #B45309; }
+    .article-read-time { font-size: 12px; color: var(--text-muted); white-space: nowrap; font-weight: 500; padding-top: 1px; }
+    .article-title { font-size: 19px; font-weight: 650; letter-spacing: -0.3px; line-height: 1.35; color: var(--text-primary); margin-bottom: 9px; }
+    .article-excerpt { font-size: 14.5px; color: var(--text-secondary); line-height: 1.72; margin-bottom: 20px; }
+    .article-footer { display: flex; align-items: center; gap: 8px; }
+    .article-author-avatar { width: 26px; height: 26px; border-radius: 50%; background: var(--accent); display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; color: #fff; flex-shrink: 0; }
+    .article-author-name { font-size: 12.5px; font-weight: 500; color: var(--text-secondary); }
+    .article-dot { width: 3px; height: 3px; border-radius: 50%; background: var(--border); }
+    .article-date { font-size: 12.5px; color: var(--text-muted); }
+    .article-arrow { margin-left: auto; width: 30px; height: 30px; border-radius: 7px; border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; transition: background var(--transition), border-color var(--transition); flex-shrink: 0; }
+    .article-card:hover .article-arrow { background: var(--accent); border-color: var(--accent); }
+    .article-card.featured-card:hover .article-arrow { background: var(--featured); border-color: var(--featured); }
+    .article-arrow svg { width: 13px; height: 13px; stroke: var(--text-muted); fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; transition: stroke var(--transition); }
+    .article-card:hover .article-arrow svg { stroke: #fff; }
 
     /* ── Mobile ── */
-    .mobile-header {
-      display: none;
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      background: var(--surface);
-      border-bottom: 1px solid var(--border);
-      padding: 16px 20px;
-      align-items: center;
-      justify-content: space-between;
-    }
-
-    .mobile-brand {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 14px;
-      font-weight: 600;
-      color: var(--text-primary);
-    }
-
-    .mobile-brand-icon {
-      width: 28px;
-      height: 28px;
-      background: var(--accent);
-      border-radius: 6px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .mobile-brand-icon svg {
-      width: 15px;
-      height: 15px;
-      fill: none;
-      stroke: #fff;
-      stroke-width: 2;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-    }
-
-    .hamburger {
-      background: none;
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      width: 36px;
-      height: 36px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      gap: 4px;
-      cursor: pointer;
-    }
-
-    .hamburger span {
-      display: block;
-      width: 16px;
-      height: 1.5px;
-      background: var(--text-primary);
-      border-radius: 2px;
-    }
-
-    .mobile-nav-overlay {
-      display: none;
-      position: fixed;
-      inset: 0;
-      z-index: 200;
-      background: rgba(0,0,0,0.4);
-    }
-
+    .mobile-header { display: none; position: sticky; top: 0; z-index: 100; background: var(--surface); border-bottom: 1px solid var(--border); padding: 14px 20px; align-items: center; justify-content: space-between; }
+    .mobile-brand { display: flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 700; color: var(--text-primary); }
+    .mobile-brand-icon { width: 28px; height: 28px; background: var(--accent); border-radius: 6px; display: flex; align-items: center; justify-content: center; }
+    .mobile-brand-icon svg { width: 15px; height: 15px; fill: none; stroke: #fff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .hamburger { background: none; border: 1px solid var(--border); border-radius: 8px; width: 36px; height: 36px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; cursor: pointer; }
+    .hamburger span { display: block; width: 16px; height: 1.5px; background: var(--text-primary); border-radius: 2px; }
+    .mobile-nav-overlay { display: none; position: fixed; inset: 0; z-index: 200; background: rgba(0,0,0,0.4); }
     .mobile-nav-overlay.open { display: block; }
+    .mobile-nav-panel { position: absolute; top: 0; left: 0; bottom: 0; width: 290px; background: var(--surface); padding: 24px 16px; overflow-y: auto; transform: translateX(-100%); transition: transform 0.25s ease; }
+    .mobile-nav-overlay.open .mobile-nav-panel { transform: translateX(0); }
+    .mobile-nav-close { background: none; border: none; font-size: 20px; cursor: pointer; color: var(--text-secondary); margin-bottom: 20px; display: block; }
 
-    .mobile-nav-panel {
-      position: absolute;
-      top: 0;
-      left: 0;
-      bottom: 0;
-      width: 280px;
-      background: var(--surface);
-      padding: 24px 16px;
-      overflow-y: auto;
-      transform: translateX(-100%);
-      transition: transform 0.25s ease;
-    }
-
-    .mobile-nav-overlay.open .mobile-nav-panel {
-      transform: translateX(0);
-    }
-
-    .mobile-nav-close {
-      background: none;
-      border: none;
-      font-size: 20px;
-      cursor: pointer;
-      color: var(--text-secondary);
-      margin-bottom: 20px;
-      display: block;
-    }
-
-    @media (max-width: 900px) {
-      .sidebar { display: none; }
-      .mobile-header { display: flex; }
-      .main { padding: 0 24px; }
-      .section { padding: 48px 0 80px; }
-      .section-title { font-size: 30px; }
-      .section-desc { font-size: 16px; }
-    }
-
-    @media (max-width: 600px) {
-      .main { padding: 0 16px; }
-      .article-card { padding: 24px; }
-      .article-title { font-size: 17px; }
-      .section-meta { flex-wrap: wrap; gap: 16px; }
-      .section-meta-divider { display: none; }
-    }
+    @media (max-width: 960px) { .sidebar { display: none; } .mobile-header { display: flex; } .main { padding: 0 24px; } .section { padding: 48px 0 80px; } .section-title { font-size: 30px; } .section-desc { font-size: 16px; } }
+    @media (max-width: 600px) { .main { padding: 0 16px; } .article-card { padding: 22px; } .article-title { font-size: 17px; } .section-meta { flex-wrap: wrap; gap: 16px; } .section-meta-divider { display: none; } }
   </style>
 </head>
 <body>
 
-<!-- Mobile header -->
 <div class="mobile-header">
   <div class="mobile-brand">
-    <div class="mobile-brand-icon">
-      <svg viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
-    </div>
-    AI Design KB
+    <div class="mobile-brand-icon"><svg viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg></div>
+    AI 设计知识库
   </div>
-  <button class="hamburger" id="hamburgerBtn" aria-label="Open menu">
-    <span></span><span></span><span></span>
-  </button>
+  <button class="hamburger" id="hamburgerBtn" aria-label="打开菜单"><span></span><span></span><span></span></button>
 </div>
 
-<!-- Mobile overlay -->
 <div class="mobile-nav-overlay" id="mobileOverlay">
   <nav class="mobile-nav-panel">
     <button class="mobile-nav-close" id="mobileClose">✕</button>
-    <p class="nav-label" style="padding:0 12px;margin-bottom:8px;">Sections</p>
-    <ul class="nav-list" id="mobileNavList"></ul>
+    <div id="mobileNavContent"></div>
   </nav>
 </div>
 
 <div class="layout">
-  <!-- Sidebar -->
   <aside class="sidebar">
     <div class="sidebar-brand">
-      <a class="brand-logo" href="#" onclick="showSection('ai-ux');return false;">
-        <div class="brand-icon">
-          <svg viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
-        </div>
-        <span class="brand-name">AI Design KB</span>
+      <a class="brand-logo" href="#" onclick="showSection('ai-cognition');return false;">
+        <div class="brand-icon"><svg viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg></div>
+        <span class="brand-name">AI 设计知识库</span>
       </a>
-      <span class="brand-tagline">Knowledge for modern designers</span>
+      <span class="brand-tagline">为设计师的学习与成长而建</span>
     </div>
-    <nav class="nav">
-      <p class="nav-label">Sections</p>
-      <ul class="nav-list" id="desktopNavList"></ul>
-    </nav>
-    <div class="sidebar-footer">
-      <p>Curated resources for product designers navigating the age of AI.</p>
-    </div>
+    <nav class="nav" id="desktopNav"></nav>
+    <div class="sidebar-footer"><p>为 AI 时代的产品设计师提供精选内容与深度洞察。</p></div>
   </aside>
 
-  <!-- Main -->
   <main class="main">
 
-    <!-- ── AI UX ── -->
-    <section id="ai-ux" class="section">
+    <!-- AI 产品认知 -->
+    <section id="ai-cognition" class="section">
       <div class="section-hero">
-        <span class="section-eyebrow"><span class="section-eyebrow-dot"></span>AI UX</span>
-        <h1 class="section-title">Designing Intelligent<br/>User Experiences</h1>
-        <p class="section-desc">Principles, patterns, and frameworks for creating AI-powered products that feel intuitive, trustworthy, and genuinely useful — without overwhelming the humans using them.</p>
+        <span class="section-eyebrow"><span class="section-eyebrow-dot"></span>AI 产品认知</span>
+        <h1 class="section-title">建立 AI 产品<br/>思维底座</h1>
+        <p class="section-desc">理解 AI 产品的本质逻辑——从概率输出到人机共生，帮助设计师建立在 AI 时代做好产品决策的认知框架。</p>
         <div class="section-meta">
-          <div class="section-meta-item"><span class="section-meta-value">12</span><span class="section-meta-label">Articles</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">10</span><span class="section-meta-label">篇文章</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">~4h</span><span class="section-meta-label">Read time</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">~3h</span><span class="section-meta-label">阅读时长</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">2024</span><span class="section-meta-label">Updated</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">持续</span><span class="section-meta-label">更新中</span></div>
         </div>
       </div>
-
       <div class="highlight-block">
-        <h3>Editor's Note</h3>
-        <p>The most critical challenge in AI UX isn't capability — it's calibrating user expectations, communicating uncertainty gracefully, and designing for the full range of model behaviors, including failure modes.</p>
+        <h3>编辑推荐</h3>
+        <p>AI 产品设计最大的误区，是把 AI 当成一个更聪明的功能按钮。真正的认知转变，是理解 AI 带来的是「概率性的能力」，而非「确定性的工具」。</p>
       </div>
-
-      <div class="articles-header" style="margin-top:32px;"><h2>Featured Articles</h2></div>
-
-      <div class="article-card featured">
-        <div class="article-card-top">
-          <span class="article-tag">Foundations</span>
-          <span class="article-read-time">8 min read</span>
-        </div>
-        <h3 class="article-title">The Trust Gradient: How to Design AI Interfaces Users Actually Believe</h3>
-        <p class="article-excerpt">Trust in AI is not binary. It exists on a spectrum that shifts with each interaction, each error, and each unexplained output. Learn how to design interfaces that earn trust incrementally — through transparency, consistency, and honest communication of uncertainty.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar">SR</div>
-          <span class="article-author-name">Sarah Renne</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Nov 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+      <div class="articles-header"><h2>精选文章</h2></div>
+      <div class="article-card pinned">
+        <div class="article-card-top"><span class="article-tag">认知基础</span><span class="article-read-time">10 min</span></div>
+        <h3 class="article-title">从确定性到概率性：AI 产品设计的思维范式转变</h3>
+        <p class="article-excerpt">传统软件的每个按钮都有可预期的结果。AI 产品不同——同样的输入，可能产生不同的输出。这种概率性特质，要求设计师重新理解「正确」的含义，并为结果的不确定性做好界面设计。</p>
+        <div class="article-footer"><div class="article-author-avatar">林</div><span class="article-author-name">林晓晴</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-green">Interaction</span>
-          <span class="article-read-time">6 min read</span>
-        </div>
-        <h3 class="article-title">Progressive Disclosure in Generative UI: When to Show the Machine's Work</h3>
-        <p class="article-excerpt">Should you reveal chain-of-thought reasoning to users? Expose confidence scores? Show alternative outputs? The answer depends on context, user expertise, and what decision they're making. This piece breaks down a decision framework for AI output transparency.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#059669;">MT</div>
-          <span class="article-author-name">Marcus Tan</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Oct 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-green">趋势洞察</span><span class="article-read-time">8 min</span></div>
+        <h3 class="article-title">AI 产品的三个阶段：工具、助手与代理</h3>
+        <p class="article-excerpt">AI 产品正从「执行命令的工具」演变为「理解意图的助手」，再进化为「自主完成任务的代理」。每个阶段对设计师的要求截然不同，你的认知需要同步升级。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#059669;">张</div><span class="article-author-name">张志远</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-orange">Patterns</span>
-          <span class="article-read-time">7 min read</span>
-        </div>
-        <h3 class="article-title">Graceful Degradation: Designing AI Features That Fail Well</h3>
-        <p class="article-excerpt">Every AI feature will eventually produce a bad output. The question isn't whether to plan for failure — it's how to design the fallback experience so users remain in control and retain confidence in the product. Explore real patterns from production AI products.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#C2410C;">AK</div>
-          <span class="article-author-name">Amara Kone</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Sep 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-orange">方法论</span><span class="article-read-time">7 min</span></div>
+        <h3 class="article-title">设计师如何评估一个 AI 功能是否值得做</h3>
+        <p class="article-excerpt">不是所有问题都需要 AI 来解决。用「用户价值密度 × 信任门槛」双轴矩阵，帮你快速筛选出真正值得投入的 AI 功能，避免为技术而技术的陷阱。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#C2410C;">王</div><span class="article-author-name">王梦琪</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-purple">Research</span>
-          <span class="article-read-time">10 min read</span>
-        </div>
-        <h3 class="article-title">Human-AI Interaction Heuristics: A Revised Framework for 2024</h3>
-        <p class="article-excerpt">Nielsen's 10 heuristics were written for deterministic software. AI introduces probabilistic behavior, latency, hallucination risk, and emergent capabilities. This article proposes an updated set of 12 heuristics designed specifically for evaluating AI-powered interfaces.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#7C3AED;">LP</div>
-          <span class="article-author-name">Leila Park</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Aug 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-purple">深度思考</span><span class="article-read-time">12 min</span></div>
+        <h3 class="article-title">人机共生设计：让 AI 增强而非替代人的判断</h3>
+        <p class="article-excerpt">最好的 AI 产品设计，不是让机器替代人做决策，而是让人借助机器做出更好的决策。探讨「增强智能」设计原则，以及如何在界面中保留人的主导权与掌控感。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">陈</div><span class="article-author-name">陈思睿</span><span class="article-dot"></span><span class="article-date">2024年8月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
     </section>
 
-    <!-- ── AI Agent ── -->
+    <!-- AI 用户体验 -->
+    <section id="ai-ux" class="section">
+      <div class="section-hero">
+        <span class="section-eyebrow"><span class="section-eyebrow-dot"></span>AI 用户体验</span>
+        <h1 class="section-title">设计值得信赖的<br/>AI 交互体验</h1>
+        <p class="section-desc">AI 界面的核心挑战不是能力，而是信任。探索让用户感到安心、可控、且愿意持续使用的 AI 交互设计原则与模式。</p>
+        <div class="section-meta">
+          <div class="section-meta-item"><span class="section-meta-value">12</span><span class="section-meta-label">篇文章</span></div>
+          <div class="section-meta-divider"></div>
+          <div class="section-meta-item"><span class="section-meta-value">~4h</span><span class="section-meta-label">阅读时长</span></div>
+          <div class="section-meta-divider"></div>
+          <div class="section-meta-item"><span class="section-meta-value">持续</span><span class="section-meta-label">更新中</span></div>
+        </div>
+      </div>
+      <div class="highlight-block">
+        <h3>核心命题</h3>
+        <p>用户对 AI 的信任不是一次性建立的，而是在每一次交互中累积或消耗的。设计师的职责，是让每一次输出——无论好坏——都不破坏用户对产品的整体信心。</p>
+      </div>
+      <div class="articles-header"><h2>精选文章</h2></div>
+      <div class="article-card pinned">
+        <div class="article-card-top"><span class="article-tag">信任设计</span><span class="article-read-time">8 min</span></div>
+        <h3 class="article-title">信任梯度：如何设计让用户真正相信的 AI 界面</h3>
+        <p class="article-excerpt">对 AI 的信任不是非此即彼的。它存在于一个动态的光谱上，随着每次交互、每次错误、每个无法解释的输出而变化。学习如何通过透明度、一致性和对不确定性的诚实表达，逐步赢得用户信任。</p>
+        <div class="article-footer"><div class="article-author-avatar">苏</div><span class="article-author-name">苏瑞宁</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      </div>
+      <div class="article-card">
+        <div class="article-card-top"><span class="article-tag tag-green">交互模式</span><span class="article-read-time">6 min</span></div>
+        <h3 class="article-title">渐进式披露：AI 生成内容该露多少「思考过程」</h3>
+        <p class="article-excerpt">是否展示推理链？要不要显示置信度？要不要给出多个候选结果？答案取决于用户的专业程度和当前决策场景。本文提供一套分层披露的决策框架。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#059669;">马</div><span class="article-author-name">马天翔</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      </div>
+      <div class="article-card">
+        <div class="article-card-top"><span class="article-tag tag-orange">容错设计</span><span class="article-read-time">7 min</span></div>
+        <h3 class="article-title">优雅失败：为 AI 功能设计「失败得好看」的体验</h3>
+        <p class="article-excerpt">每个 AI 功能都终将产生一次糟糕的输出。问题不是要不要为失败设计，而是如何让用户在 AI 失误时仍然感到自己在掌控，并保持对产品的信心。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#C2410C;">吴</div><span class="article-author-name">吴嘉敏</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      </div>
+      <div class="article-card">
+        <div class="article-card-top"><span class="article-tag tag-purple">启发式原则</span><span class="article-read-time">10 min</span></div>
+        <h3 class="article-title">AI 界面评估启发式原则：尼尔森 10 条的 AI 更新版</h3>
+        <p class="article-excerpt">尼尔森的 10 条可用性原则是为确定性软件设计的。AI 引入了概率行为、延迟、幻觉风险与涌现能力。本文提出专为 AI 界面设计的 12 条新启发式原则。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">朴</div><span class="article-author-name">朴恩雷</span><span class="article-dot"></span><span class="article-date">2024年8月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      </div>
+    </section>
+
+    <!-- AI Agent -->
     <section id="ai-agent" class="section">
       <div class="section-hero">
         <span class="section-eyebrow"><span class="section-eyebrow-dot"></span>AI Agent</span>
-        <h1 class="section-title">Designing for<br/>Autonomous Agents</h1>
-        <p class="section-desc">As AI agents take multi-step actions on behalf of users, the design space expands dramatically. Explore patterns for oversight, interruption, delegation, and the critical concept of human-in-the-loop control.</p>
+        <h1 class="section-title">为自主 Agent<br/>设计监督体验</h1>
+        <p class="section-desc">当 AI Agent 开始代替用户执行多步骤任务，设计的核心问题变成：如何让自动化既高效又可控？探索 Agent UX 的核心模式与原则。</p>
         <div class="section-meta">
-          <div class="section-meta-item"><span class="section-meta-value">9</span><span class="section-meta-label">Articles</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">9</span><span class="section-meta-label">篇文章</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">~3h</span><span class="section-meta-label">Read time</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">~3h</span><span class="section-meta-label">阅读时长</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">2024</span><span class="section-meta-label">Updated</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">持续</span><span class="section-meta-label">更新中</span></div>
         </div>
       </div>
-
       <div class="highlight-block">
-        <h3>Why This Matters Now</h3>
-        <p>Agents that browse the web, write and execute code, send emails, and manage files on your behalf require fundamentally new UX paradigms. The interface must communicate what the agent is doing, why, and how to stop it.</p>
+        <h3>为什么现在重要</h3>
+        <p>能自主浏览网页、写代码、发邮件、管理文件的 Agent，需要全新的 UX 范式。界面必须清晰传达 Agent 正在做什么、为什么这样做，以及如何随时叫停。</p>
       </div>
-
-      <div class="articles-header" style="margin-top:32px;"><h2>Featured Articles</h2></div>
-
-      <div class="article-card featured">
-        <div class="article-card-top">
-          <span class="article-tag">Agent UX</span>
-          <span class="article-read-time">9 min read</span>
-        </div>
-        <h3 class="article-title">The Oversight Paradox: Designing Agent Interfaces That Don't Overwhelm</h3>
-        <p class="article-excerpt">If users must approve every agent action, you've eliminated the value of automation. If they approve nothing, you've created an uncontrollable system. The key is designing contextual oversight — showing the right control at the right moment — based on action risk and reversibility.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar">DW</div>
-          <span class="article-author-name">David Wu</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Dec 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+      <div class="articles-header"><h2>精选文章</h2></div>
+      <div class="article-card pinned">
+        <div class="article-card-top"><span class="article-tag">监督悖论</span><span class="article-read-time">9 min</span></div>
+        <h3 class="article-title">监督悖论：如何设计不让人抓狂的 Agent 控制界面</h3>
+        <p class="article-excerpt">要求用户审批每个 Agent 动作，自动化价值荡然无存；什么都不审批，又产生失控风险。解法是「情境式监督」——根据动作风险和可逆性，在恰当的时机展示恰当的控制权。</p>
+        <div class="article-footer"><div class="article-author-avatar">吴</div><span class="article-author-name">吴大伟</span><span class="article-dot"></span><span class="article-date">2024年12月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-teal">Patterns</span>
-          <span class="article-read-time">7 min read</span>
-        </div>
-        <h3 class="article-title">Anatomy of an Agent Log: Making AI Execution Legible to Humans</h3>
-        <p class="article-excerpt">When an agent takes 40 steps to complete a task, how do you surface what actually happened? Explore patterns for structured activity logs — from collapsed summaries to full step-by-step traces — that give users confidence without overwhelming them with information.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#0F766E;">FC</div>
-          <span class="article-author-name">Fiona Chen</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Nov 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-teal">执行日志</span><span class="article-read-time">7 min</span></div>
+        <h3 class="article-title">Agent 日志解剖：如何让 40 步执行过程对用户可读</h3>
+        <p class="article-excerpt">当 Agent 执行了 40 个步骤完成任务，你如何呈现发生了什么？从折叠摘要到完整步骤追踪，探索结构化活动日志的设计模式。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#0F766E;">方</div><span class="article-author-name">方菲娜</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-blue">Strategy</span>
-          <span class="article-read-time">8 min read</span>
-        </div>
-        <h3 class="article-title">Interruption Design: When Should an Agent Stop and Ask?</h3>
-        <p class="article-excerpt">Designing the right interruption points is one of the most nuanced challenges in agent UX. Too many interruptions destroy flow. Too few create dangerous autonomy. Learn the principles behind effective interruption models, with case studies from coding agents and research assistants.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#2563EB;">JM</div>
-          <span class="article-author-name">Jamie Morales</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Oct 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-blue">中断设计</span><span class="article-read-time">8 min</span></div>
+        <h3 class="article-title">中断设计：Agent 应该在什么时候停下来问用户</h3>
+        <p class="article-excerpt">设计 Agent 的中断节点是最微妙的 UX 挑战之一。中断太多破坏流畅性，中断太少制造危险自主性。学习有效中断模型背后的设计原则。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#2563EB;">贾</div><span class="article-author-name">贾明亮</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-pink">Research</span>
-          <span class="article-read-time">11 min read</span>
-        </div>
-        <h3 class="article-title">Multi-Agent Systems: Designing Interfaces for Coordinated AI Teams</h3>
-        <p class="article-excerpt">When one agent spawns sub-agents, delegates tasks, and synthesizes results, the UX challenge multiplies. How do you represent a hierarchy of autonomous actors? What does undo mean across a multi-agent graph? A deep-dive into emerging patterns for multi-agent product design.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#9D174D;">NB</div>
-          <span class="article-author-name">Nina Bassi</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Sep 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-pink">多智能体</span><span class="article-read-time">11 min</span></div>
+        <h3 class="article-title">多 Agent 系统：为协作 AI 团队设计管理界面</h3>
+        <p class="article-excerpt">当一个 Agent 派生子 Agent、分配任务、汇总结果，UX 挑战成倍增加。如何呈现 AI 层级结构？跨 Agent 图的「撤销」意味着什么？</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#9D174D;">聂</div><span class="article-author-name">聂贝拉</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
     </section>
 
-    <!-- ── Design System ── -->
-    <section id="design-system" class="section">
+    <!-- AI 设计系统 -->
+    <section id="ai-design-system" class="section">
       <div class="section-hero">
-        <span class="section-eyebrow"><span class="section-eyebrow-dot"></span>Design System</span>
-        <h1 class="section-title">AI-Ready<br/>Design Systems</h1>
-        <p class="section-desc">Component libraries, token architectures, and documentation patterns built to support the dynamic, probabilistic nature of AI-powered interfaces. Systems that scale without breaking consistency.</p>
+        <span class="section-eyebrow"><span class="section-eyebrow-dot"></span>AI 设计系统</span>
+        <h1 class="section-title">为 AI 产品构建<br/>可扩展设计系统</h1>
+        <p class="section-desc">传统设计系统假设组件是确定性的。AI 引入了流式文本、动态布局、置信度指示器和长时加载态——你的设计系统需要为这些场景做好准备。</p>
         <div class="section-meta">
-          <div class="section-meta-item"><span class="section-meta-value">14</span><span class="section-meta-label">Articles</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">14</span><span class="section-meta-label">篇文章</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">~5h</span><span class="section-meta-label">Read time</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">~5h</span><span class="section-meta-label">阅读时长</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">2024</span><span class="section-meta-label">Updated</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">持续</span><span class="section-meta-label">更新中</span></div>
         </div>
       </div>
-
       <div class="highlight-block">
-        <h3>The Core Challenge</h3>
-        <p>Traditional design systems assume deterministic components. AI introduces streaming text, dynamic layouts, confidence indicators, and loading states that last 30 seconds. Your design system needs components for all of it.</p>
+        <h3>核心挑战</h3>
+        <p>AI 设计系统不只是组件库，更是行为规范。工程师需要的不只是视觉稿，他们需要知道什么时候用流式输出、错误态如何处理、置信度阈值触发什么 UI 变化。</p>
       </div>
-
-      <div class="articles-header" style="margin-top:32px;"><h2>Featured Articles</h2></div>
-
-      <div class="article-card featured">
-        <div class="article-card-top">
-          <span class="article-tag">Components</span>
-          <span class="article-read-time">10 min read</span>
-        </div>
-        <h3 class="article-title">The AI Component Taxonomy: 18 New UI Primitives for AI Products</h3>
-        <p class="article-excerpt">Message bubbles, streaming indicators, regeneration controls, confidence badges, citation blocks, tool-call visualizations — AI products require components that simply didn't exist five years ago. A comprehensive taxonomy with design rationale for each component category.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar">EL</div>
-          <span class="article-author-name">Elena Luo</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Dec 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+      <div class="articles-header"><h2>精选文章</h2></div>
+      <div class="article-card pinned">
+        <div class="article-card-top"><span class="article-tag">组件分类</span><span class="article-read-time">10 min</span></div>
+        <h3 class="article-title">AI 组件分类法：AI 产品需要的 18 种新 UI 基础组件</h3>
+        <p class="article-excerpt">消息气泡、流式指示器、重新生成控件、置信度徽章、引用块、工具调用可视化——AI 产品需要五年前根本不存在的组件。一份附设计理由的完整分类学。</p>
+        <div class="article-footer"><div class="article-author-avatar">罗</div><span class="article-author-name">罗伊娜</span><span class="article-dot"></span><span class="article-date">2024年12月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-green">Tokens</span>
-          <span class="article-read-time">6 min read</span>
-        </div>
-        <h3 class="article-title">Motion Tokens for AI Loading States: Beyond the Spinner</h3>
-        <p class="article-excerpt">AI responses can take 200ms or 45 seconds depending on the task. A single spinner communicates nothing. This article explores a motion token system for AI — from "thinking" micro-animations to streaming text choreography to timeout affordances — all systematized in a design token layer.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#059669;">RK</div>
-          <span class="article-author-name">Ravi Kumar</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Nov 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-green">动效 Token</span><span class="article-read-time">6 min</span></div>
+        <h3 class="article-title">AI 加载态的动效 Token：超越转圈的设计系统</h3>
+        <p class="article-excerpt">AI 响应时间从 200ms 到 45 秒不等。一个转圈传达不了任何信息。探索 AI 动效 Token 体系——从「思考中」微动效到流式文本节奏，全部系统化为 Token 层。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#059669;">拉</div><span class="article-author-name">拉维·库马尔</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-orange">Documentation</span>
-          <span class="article-read-time">8 min read</span>
-        </div>
-        <h3 class="article-title">Writing AI Component Guidelines That Engineers Actually Use</h3>
-        <p class="article-excerpt">Design system documentation for AI components must go beyond visual specs. Engineers need guidance on when to use streaming vs. static output, how to handle error states, and when confidence thresholds should trigger UI changes. A practical guide to writing behavior-first component docs.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#C2410C;">PO</div>
-          <span class="article-author-name">Priya Osei</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Oct 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-orange">组件文档</span><span class="article-read-time">8 min</span></div>
+        <h3 class="article-title">写出工程师真正会看的 AI 组件使用指南</h3>
+        <p class="article-excerpt">AI 组件文档必须超越视觉规范。工程师需要知道何时使用流式 vs 静态输出、错误态如何处理。一份以行为为优先的组件文档写作实践指南。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#C2410C;">普</div><span class="article-author-name">普里雅·奥赛</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-purple">Accessibility</span>
-          <span class="article-read-time">9 min read</span>
-        </div>
-        <h3 class="article-title">Accessible AI: Making Streaming Responses Work for Screen Readers</h3>
-        <p class="article-excerpt">Streaming text presents significant accessibility challenges. Live regions, focus management, and interruption controls all need to work correctly for users who can't rely on visual feedback. A practical implementation guide with ARIA patterns, keyboard controls, and testing strategies.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#7C3AED;">TN</div>
-          <span class="article-author-name">Tanya Nakamura</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Sep 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-purple">无障碍</span><span class="article-read-time">9 min</span></div>
+        <h3 class="article-title">无障碍 AI：让流式输出对屏幕阅读器友好</h3>
+        <p class="article-excerpt">流式文本带来严重的无障碍挑战。Live Region、焦点管理和中断控件都需要为无法依赖视觉反馈的用户正常工作。包含 ARIA 模式、键盘控制和测试策略的实践指南。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">田</div><span class="article-author-name">田娜·中村</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
     </section>
 
-    <!-- ── AI Product ── -->
-    <section id="ai-product" class="section">
+    <!-- AI 工作流 -->
+    <section id="ai-workflow" class="section">
       <div class="section-hero">
-        <span class="section-eyebrow"><span class="section-eyebrow-dot"></span>AI Product</span>
-        <h1 class="section-title">Product Strategy<br/>for AI Products</h1>
-        <p class="section-desc">From identifying genuine AI use cases to measuring value in probabilistic products, this section explores the product thinking required to build AI features that earn long-term user adoption.</p>
+        <span class="section-eyebrow"><span class="section-eyebrow-dot"></span>AI 工作流</span>
+        <h1 class="section-title">用 AI 重构<br/>设计师的工作方式</h1>
+        <p class="section-desc">少谈概念，多聊实践。把 AI 工具真正融入日常设计流程——从概念发散到原型交付，哪些环节值得用 AI 加速，如何用好。</p>
         <div class="section-meta">
-          <div class="section-meta-item"><span class="section-meta-value">11</span><span class="section-meta-label">Articles</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">16</span><span class="section-meta-label">篇文章</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">~4h</span><span class="section-meta-label">Read time</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">~6h</span><span class="section-meta-label">阅读时长</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">2024</span><span class="section-meta-label">Updated</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">持续</span><span class="section-meta-label">更新中</span></div>
         </div>
       </div>
-
       <div class="highlight-block">
-        <h3>The Right Question</h3>
-        <p>The question isn't "how do we add AI to this?" — it's "what human struggle does this genuinely alleviate?" Products that start with capability tend to find no audience. Products that start with a real problem and find AI is the right solution tend to stick.</p>
+        <h3>实用主义立场</h3>
+        <p>最高效的设计师不是用 AI 替代自己的工作流，而是用 AI 压缩其中价值最低的部分。目标是花更少时间在机械执行上，把判断力和策略思考留给只有人类才能做好的事。</p>
       </div>
-
-      <div class="articles-header" style="margin-top:32px;"><h2>Featured Articles</h2></div>
-
-      <div class="article-card featured">
-        <div class="article-card-top">
-          <span class="article-tag">Strategy</span>
-          <span class="article-read-time">12 min read</span>
-        </div>
-        <h3 class="article-title">The AI Feature Prioritization Matrix: Separating Gimmicks from Genuine Value</h3>
-        <p class="article-excerpt">Not all AI features are worth building. This framework helps product designers evaluate AI features across two axes: user value density (how much genuine work does this save?) and trust requirements (how much does the user need to trust the AI output to act on it?). Use this matrix to cut your AI backlog in half.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar">CG</div>
-          <span class="article-author-name">Carlos Garcia</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Dec 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+      <div class="articles-header"><h2>精选文章</h2></div>
+      <div class="article-card pinned">
+        <div class="article-card-top"><span class="article-tag">工具评测</span><span class="article-read-time">8 min</span></div>
+        <h3 class="article-title">2024 设计师 AI 工具栈：12 个月测试 40+ 工具后的真实评价</h3>
+        <p class="article-excerpt">哪些 AI 工具真正留在了工作流里，哪些在演示之外毫无价值。包括发散工具、图像生成、提示词模板，以及那些 Demo 很好看、实际完全用不上的工具清单。</p>
+        <div class="article-footer"><div class="article-author-avatar">金</div><span class="article-author-name">金昭昭</span><span class="article-dot"></span><span class="article-date">2024年12月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-teal">Metrics</span>
-          <span class="article-read-time">8 min read</span>
-        </div>
-        <h3 class="article-title">How Do You Measure Success When Your Product's Output Is Probabilistic?</h3>
-        <p class="article-excerpt">Traditional product metrics — conversion rate, time on task, error rate — break down for AI products. When the "right" output varies by user and context, what does success look like? A practical guide to AI-specific product metrics, from satisfaction sampling to output quality benchmarking.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#0F766E;">AF</div>
-          <span class="article-author-name">Aiko Fujita</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Nov 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-teal">提示词</span><span class="article-read-time">7 min</span></div>
+        <h3 class="article-title">设计师的提示词工程入门：不需要懂技术的实用指南</h3>
+        <p class="article-excerpt">你不需要理解 Transformer 架构才能写出好的提示词。你需要的是一套可复用的提示词模式库，覆盖 UX 文案、用研报告总结、设计评审、概念发散和需求文档。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#0F766E;">艾</div><span class="article-author-name">艾里斯·拉森</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-blue">Onboarding</span>
-          <span class="article-read-time">7 min read</span>
-        </div>
-        <h3 class="article-title">Onboarding to Uncertainty: Teaching Users What AI Can and Cannot Do</h3>
-        <p class="article-excerpt">The single biggest driver of AI product abandonment isn't bugs — it's miscalibrated expectations. Users who expect AI to be infallible become disillusioned on first failure. Design an onboarding experience that honestly sets expectations, demonstrates capability range, and builds durable mental models from day one.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#2563EB;">BS</div>
-          <span class="article-author-name">Bea Svensson</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Oct 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-purple">快速原型</span><span class="article-read-time">9 min</span></div>
+        <h3 class="article-title">20 分钟从草图到可点击原型：AI 辅助快速原型实践</h3>
+        <p class="article-excerpt">AI 生图工具从根本上改变了 30 分钟设计冲刺能做到什么。本文完整演示一套流程：手绘线框图 → AI 转换 → 组件生成 → 可交互原型 → 用户测试，附真实耗时数据。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">丹</div><span class="article-author-name">丹·奥卡福</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-pink">Ethics</span>
-          <span class="article-read-time">9 min read</span>
-        </div>
-        <h3 class="article-title">Responsible AI Product Design: A Practical Ethics Checklist</h3>
-        <p class="article-excerpt">Ethics in AI isn't just about avoiding harm — it's about actively designing systems that respect user autonomy, provide recourse for errors, and avoid manipulative engagement patterns. A 20-point design review checklist grounded in real product decisions, not abstract principles.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#9D174D;">OA</div>
-          <span class="article-author-name">Ola Adeyemi</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Sep 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-orange">用户研究</span><span class="article-read-time">7 min</span></div>
+        <h3 class="article-title">AI 辅助用研：规模化分析不能以损失洞察为代价</h3>
+        <p class="article-excerpt">AI 可以在几分钟内总结 50 份访谈记录——但它也会压平细节、遗漏边界案例、忽略那些让某句话真正有意义的语境。一套把 AI 当加速器、把人的判断留在中心的用研方法论。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#C2410C;">佐</div><span class="article-author-name">佐伊·贝尔</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
     </section>
 
-    <!-- ── Management ── -->
-    <section id="management" class="section">
+    <!-- AI 组织管理 -->
+    <section id="ai-management" class="section">
       <div class="section-hero">
-        <span class="section-eyebrow"><span class="section-eyebrow-dot"></span>Management</span>
-        <h1 class="section-title">Leading Design Teams<br/>in the AI Era</h1>
-        <p class="section-desc">How design leadership, team structure, hiring criteria, and creative culture are evolving as AI reshapes what designers do — and what they're expected to know.</p>
+        <span class="section-eyebrow"><span class="section-eyebrow-dot"></span>AI 组织管理</span>
+        <h1 class="section-title">在 AI 时代<br/>领导设计团队</h1>
+        <p class="section-desc">AI 正在重塑设计师的角色分工、招聘标准和团队文化。设计管理者如何带领团队穿越这场转型，同时保持创造力与人文价值？</p>
         <div class="section-meta">
-          <div class="section-meta-item"><span class="section-meta-value">8</span><span class="section-meta-label">Articles</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">8</span><span class="section-meta-label">篇文章</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">~3h</span><span class="section-meta-label">Read time</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">~3h</span><span class="section-meta-label">阅读时长</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">2024</span><span class="section-meta-label">Updated</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">持续</span><span class="section-meta-label">更新中</span></div>
         </div>
       </div>
-
       <div class="highlight-block">
-        <h3>A Note on Anxiety</h3>
-        <p>Many designers feel unsettled by AI's rapid advancement. The most effective design leaders are those who address this directly — creating space for honest conversation, connecting skill-building to meaning, and modeling intellectual curiosity over defensiveness.</p>
+        <h3>关于焦虑</h3>
+        <p>很多设计师对 AI 的快速发展感到不安。最有效的设计领导者，是那些正视这种情绪的人——为坦诚对话创造空间，把技能建设和意义感连接起来，用好奇心代替防御性。</p>
       </div>
-
-      <div class="articles-header" style="margin-top:32px;"><h2>Featured Articles</h2></div>
-
-      <div class="article-card featured">
-        <div class="article-card-top">
-          <span class="article-tag">Leadership</span>
-          <span class="article-read-time">9 min read</span>
-        </div>
-        <h3 class="article-title">The New Design Team: Roles, Skills, and Structures for AI-Native Organizations</h3>
-        <p class="article-excerpt">The generalist-specialist debate is being reframed by AI. Teams that once needed 8 people may now need 4 — but those 4 need different skills than before. This article maps the emerging roles on AI-focused design teams: the AI UX researcher, the prompt designer, the systems thinker, and the AI product lead.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar">HN</div>
-          <span class="article-author-name">Hana Nkosi</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Dec 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+      <div class="articles-header"><h2>精选文章</h2></div>
+      <div class="article-card pinned">
+        <div class="article-card-top"><span class="article-tag">团队结构</span><span class="article-read-time">9 min</span></div>
+        <h3 class="article-title">新设计团队：AI 原生组织的角色、技能与结构</h3>
+        <p class="article-excerpt">以前需要 8 个人的团队，现在可能只需要 4 个——但这 4 个人需要完全不同的技能。本文梳理 AI 设计团队的新兴角色：AI 用研设计师、提示词设计师、系统思维者和 AI 产品设计 Lead。</p>
+        <div class="article-footer"><div class="article-author-avatar">韩</div><span class="article-author-name">韩娜·恩科斯</span><span class="article-dot"></span><span class="article-date">2024年12月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-green">Hiring</span>
-          <span class="article-read-time">6 min read</span>
-        </div>
-        <h3 class="article-title">What to Look for When Hiring Designers for AI Products</h3>
-        <p class="article-excerpt">Visual polish matters less. Curiosity about model behavior matters more. This guide to hiring AI-product designers outlines the portfolio signals, interview questions, and evaluation frameworks that reveal whether a candidate can navigate probabilistic systems, communicate uncertainty, and thrive in fast-moving ambiguity.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#059669;">VM</div>
-          <span class="article-author-name">Val Mercer</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Nov 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-green">招聘</span><span class="article-read-time">6 min</span></div>
+        <h3 class="article-title">招聘 AI 产品设计师时，你应该看什么</h3>
+        <p class="article-excerpt">视觉打磨越来越不重要，对模型行为的好奇心越来越关键。这份招聘指南告诉你什么样的作品集信号、面试问题和评估维度，能识别出真正适合 AI 产品设计的候选人。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#059669;">瓦</div><span class="article-author-name">瓦尔·默瑟</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-orange">Culture</span>
-          <span class="article-read-time">7 min read</span>
-        </div>
-        <h3 class="article-title">Critique in the Age of AI: Rethinking How We Review AI-Generated Design Work</h3>
-        <p class="article-excerpt">When a designer presents work co-created with an AI tool, traditional critique frameworks don't fully apply. How do you evaluate the quality of human judgment layered over AI output? New norms for design critique adapted for AI-assisted workflows, covering authorship, iteration depth, and taste calibration.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#C2410C;">GR</div>
-          <span class="article-author-name">Giles Rowe</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Oct 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-orange">评审文化</span><span class="article-read-time">7 min</span></div>
+        <h3 class="article-title">AI 时代的设计评审：如何评价「人 + AI」协作的作品</h3>
+        <p class="article-excerpt">当设计师提交的是与 AI 共创的作品，传统的 Critique 框架不完全适用了。如何评估人类判断力叠加在 AI 输出上的质量？探讨涵盖作者性、迭代深度和品味校准的新评审规范。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#C2410C;">贾</div><span class="article-author-name">贾尔斯·罗</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
       <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-blue">Org Design</span>
-          <span class="article-read-time">10 min read</span>
-        </div>
-        <h3 class="article-title">Embedding AI Literacy Across Your Design Organization</h3>
-        <p class="article-excerpt">You don't need every designer to become an AI engineer. But every designer needs a working mental model of how LLMs behave, where they break, and how UI can compensate. A structured 12-week curriculum for building AI literacy across a design team of any size — with zero engineering prerequisites.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#2563EB;">SH</div>
-          <span class="article-author-name">Simone Hart</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Sep 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+        <div class="article-card-top"><span class="article-tag tag-blue">AI 素养</span><span class="article-read-time">10 min</span></div>
+        <h3 class="article-title">在设计团队里建立 AI 素养：一个 12 周课程框架</h3>
+        <p class="article-excerpt">不需要每个设计师都成为 AI 工程师。但每个设计师都需要理解 LLM 的基本行为方式、失效场景，以及如何用界面设计来弥补。一套无需技术背景、适合任何规模团队的 AI 素养培育方案。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#2563EB;">西</div><span class="article-author-name">西蒙·哈特</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
     </section>
 
-    <!-- ── Workflow ── -->
-    <section id="workflow" class="section">
-      <div class="section-hero">
-        <span class="section-eyebrow"><span class="section-eyebrow-dot"></span>Workflow</span>
-        <h1 class="section-title">AI-Powered<br/>Design Workflow</h1>
-        <p class="section-desc">Practical guides to integrating AI tools into your daily design process — from ideation and prototyping to handoff and iteration. Less hype, more actual workflow improvement.</p>
+    <!-- AI 产品拆解 -->
+    <section id="ai-teardown" class="section">
+      <div class="section-hero is-featured">
+        <div class="featured-banner">⭐ 重点栏目</div>
+        <span class="section-eyebrow featured-eyebrow"><span class="section-eyebrow-dot"></span>AI 产品拆解</span>
+        <h1 class="section-title">拆开来看，<br/>好产品怎么做的</h1>
+        <p class="section-desc">深度解析市场上最值得研究的 AI 产品——交互决策、设计细节、增长逻辑背后的真正原因。不只是「好看」，而是「为什么这样设计」。</p>
         <div class="section-meta">
-          <div class="section-meta-item"><span class="section-meta-value">16</span><span class="section-meta-label">Articles</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">18</span><span class="section-meta-label">期内容</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">~6h</span><span class="section-meta-label">Read time</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">双周</span><span class="section-meta-label">更新频率</span></div>
           <div class="section-meta-divider"></div>
-          <div class="section-meta-item"><span class="section-meta-value">2024</span><span class="section-meta-label">Updated</span></div>
+          <div class="section-meta-item"><span class="section-meta-value">深度</span><span class="section-meta-label">分析为主</span></div>
         </div>
       </div>
-
-      <div class="highlight-block">
-        <h3>The Practical Mindset</h3>
-        <p>The most productive designers using AI aren't replacing their process — they're accelerating the lowest-value parts of it. The goal is to spend less time on mechanical production and more time on judgment, strategy, and the decisions only humans can make well.</p>
+      <div class="highlight-block featured-highlight">
+        <h3>拆解视角</h3>
+        <p>我们关注的不是视觉层面的「好不好看」，而是设计决策层面的「为什么这样做」——每一个交互细节背后的产品逻辑、用户心理和商业考量。</p>
       </div>
-
-      <div class="articles-header" style="margin-top:32px;"><h2>Featured Articles</h2></div>
-
-      <div class="article-card featured">
-        <div class="article-card-top">
-          <span class="article-tag">Productivity</span>
-          <span class="article-read-time">8 min read</span>
-        </div>
-        <h3 class="article-title">The Designer's AI Stack in 2024: A Practical Toolkit Review</h3>
-        <p class="article-excerpt">After testing 40+ AI tools over 12 months, here's what actually stays in a working designer's toolkit: the ideation tools with genuine ROI, the image generators worth paying for, the prompt patterns that work consistently, and the tools that looked good in demos but failed in real workflows.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar">KZ</div>
-          <span class="article-author-name">Kim Zhao</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Dec 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+      <div class="articles-header"><h2>最新期刊</h2></div>
+      <div class="article-card pinned featured-card">
+        <div class="article-card-top"><span class="article-tag tag-purple">产品拆解</span><span class="article-read-time">15 min</span></div>
+        <h3 class="article-title">Cursor 的 AI 编辑器体验拆解：为什么它让开发者欲罢不能</h3>
+        <p class="article-excerpt">Cursor 在短时间内俘获了大量开发者，但它的成功不只是技术上的。本期从 UX 视角深度拆解：Tab 补全的交互哲学、内联编辑的信任机制、对话面板的信息架构，以及「Composer」模式如何重新定义 AI 辅助编程体验。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">李</div><span class="article-author-name">李子轩</span><span class="article-dot"></span><span class="article-date">2024年12月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
-
-      <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-teal">Prompting</span>
-          <span class="article-read-time">7 min read</span>
-        </div>
-        <h3 class="article-title">Prompt Engineering for Designers: A Practical Guide Without the Jargon</h3>
-        <p class="article-excerpt">You don't need to understand transformer architecture to write good prompts. What you need is a clear mental model of how language models interpret instructions, plus a library of reusable prompt patterns for common design tasks: UX copy, user research synthesis, design critique, concept generation, and spec writing.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#0F766E;">IL</div>
-          <span class="article-author-name">Iris Larsson</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Nov 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+      <div class="article-card featured-card">
+        <div class="article-card-top"><span class="article-tag tag-blue">产品拆解</span><span class="article-read-time">12 min</span></div>
+        <h3 class="article-title">Perplexity 的搜索体验拆解：答案引擎如何重新定义搜索 UX</h3>
+        <p class="article-excerpt">Perplexity 没有按照 Google 的路径优化，而是从零开始重构了「搜索」这件事的用户体验。引用系统的信任设计、追问交互的对话流、结果页的信息密度控制——每个细节都值得学习。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#2563EB;">赵</div><span class="article-author-name">赵思涵</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
+      <div class="article-card featured-card">
+        <div class="article-card-top"><span class="article-tag tag-teal">产品拆解</span><span class="article-read-time">13 min</span></div>
+        <h3 class="article-title">Notion AI 的集成策略拆解：如何把 AI 嵌入存量产品而不破坏原有体验</h3>
+        <p class="article-excerpt">Notion 面临的不是从零构建 AI 体验，而是把 AI 融入一个已有数百万用户的成熟产品。本期拆解他们如何处理 AI 与原有编辑器的边界、权限与协作、以及用户分层的体验策略。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#0F766E;">钱</div><span class="article-author-name">钱雨晴</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      </div>
+      <div class="article-card featured-card">
+        <div class="article-card-top"><span class="article-tag tag-pink">产品拆解</span><span class="article-read-time">11 min</span></div>
+        <h3 class="article-title">Claude.ai 对话界面拆解：长对话体验的设计哲学</h3>
+        <p class="article-excerpt">Claude.ai 的界面看似简单，实则有大量精心的设计决策藏在细节里。长上下文的可视化处理、Projects 功能的信息架构、Artifacts 侧边栏的空间逻辑——本期一一拆开。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#9D174D;">孙</div><span class="article-author-name">孙若溪</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      </div>
+    </section>
 
-      <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-purple">Prototyping</span>
-          <span class="article-read-time">9 min read</span>
-        </div>
-        <h3 class="article-title">From Sketch to Prototype in 20 Minutes: AI-Assisted Rapid Prototyping</h3>
-        <p class="article-excerpt">AI-to-code tools have fundamentally changed what's possible in a 30-minute design sprint. This hands-on tutorial walks through a complete workflow: rough wireframe to AI image description to component generation to interactive prototype to usability test — with real timing data and quality assessments at each step.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#7C3AED;">DO</div>
-          <span class="article-author-name">Dan Okafor</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Oct 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
+    <!-- 设计总监专区 -->
+    <section id="design-director" class="section">
+      <div class="section-hero is-featured">
+        <div class="featured-banner">⭐ 重点栏目</div>
+        <span class="section-eyebrow featured-eyebrow"><span class="section-eyebrow-dot"></span>设计总监专区</span>
+        <h1 class="section-title">给设计决策者<br/>的深度内容</h1>
+        <p class="section-desc">专为设计总监、设计 VP 和设计 Leader 准备的内容——战略视角、组织议题、与高管对话的语言，以及如何在 AI 转型中为设计赢得更大话语权。</p>
+        <div class="section-meta">
+          <div class="section-meta-item"><span class="section-meta-value">专属</span><span class="section-meta-label">深度内容</span></div>
+          <div class="section-meta-divider"></div>
+          <div class="section-meta-item"><span class="section-meta-value">每月</span><span class="section-meta-label">更新频率</span></div>
+          <div class="section-meta-divider"></div>
+          <div class="section-meta-item"><span class="section-meta-value">战略</span><span class="section-meta-label">视角为主</span></div>
         </div>
       </div>
+      <div class="highlight-block featured-highlight">
+        <h3>写给谁看</h3>
+        <p>这里的内容不面向执行层面的「怎么做」，而面向决策层面的「做什么」和「为什么」。如果你要在董事会汇报 AI 设计战略，或者正在重新思考设计组织的未来形态，这里是你的起点。</p>
+      </div>
+      <div class="articles-header"><h2>精选文章</h2></div>
+      <div class="article-card pinned featured-card">
+        <div class="article-card-top"><span class="article-tag tag-purple">战略</span><span class="article-read-time">14 min</span></div>
+        <h3 class="article-title">设计在 AI 公司的位置：从执行者到战略资产</h3>
+        <p class="article-excerpt">在 AI 驱动的产品组织里，设计的话语权是在扩大还是在萎缩？本文从 10 家头部 AI 公司的组织结构出发，分析设计功能在不同商业模型下的战略定位，以及设计 Leader 如何在这场转型中争取主动。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">周</div><span class="article-author-name">周凯文</span><span class="article-dot"></span><span class="article-date">2024年12月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      </div>
+      <div class="article-card featured-card">
+        <div class="article-card-top"><span class="article-tag tag-blue">组织</span><span class="article-read-time">11 min</span></div>
+        <h3 class="article-title">设计团队的 AI 转型路线图：从抵触到赋能的 18 个月</h3>
+        <p class="article-excerpt">一份实操性的设计团队 AI 转型路线图，覆盖工具引入、流程重构、人才培养和文化建设四个维度。基于对 20+ 设计团队负责人的深度访谈，还原那些真实发生的转型故事。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#2563EB;">许</div><span class="article-author-name">许雅婷</span><span class="article-dot"></span><span class="article-date">2024年11月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      </div>
+      <div class="article-card featured-card">
+        <div class="article-card-top"><span class="article-tag tag-amber">汇报语言</span><span class="article-read-time">9 min</span></div>
+        <h3 class="article-title">如何向 CEO 和董事会汇报 AI 设计的商业价值</h3>
+        <p class="article-excerpt">设计质量很难量化，AI 时代更难。本文提供一套向业务高管传递设计价值的语言框架——把设计决策翻译成商业语言，让你的 AI UX 投入在预算会议上站得住脚。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#B45309;">何</div><span class="article-author-name">何思齐</span><span class="article-dot"></span><span class="article-date">2024年10月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      </div>
+      <div class="article-card featured-card">
+        <div class="article-card-top"><span class="article-tag tag-pink">人才</span><span class="article-read-time">10 min</span></div>
+        <h3 class="article-title">留住顶尖设计师：AI 时代设计团队的人才保留策略</h3>
+        <p class="article-excerpt">当 AI 工具降低了执行门槛，如何保留那些真正有判断力的顶尖设计人才？职业通道设计、有意义的工作定义、以及如何用清晰的 AI 战略让设计师感到被需要而不是被替代。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#9D174D;">郑</div><span class="article-author-name">郑可欣</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      </div>
+    </section>
 
-      <div class="article-card">
-        <div class="article-card-top">
-          <span class="article-tag tag-orange">Research</span>
-          <span class="article-read-time">7 min read</span>
+    <!-- AI 周报 -->
+    <section id="ai-weekly" class="section">
+      <div class="section-hero is-featured">
+        <div class="featured-banner">⭐ 重点栏目</div>
+        <span class="section-eyebrow featured-eyebrow"><span class="section-eyebrow-dot"></span>AI 周报</span>
+        <h1 class="section-title">每周精选，<br/>不错过重要信号</h1>
+        <p class="section-desc">每周一期，精选 AI 设计领域最值得关注的动态——新产品、新研究、新工具、新思考。帮你在信息爆炸中抓住真正重要的信号。</p>
+        <div class="section-meta">
+          <div class="section-meta-item"><span class="section-meta-value">每周</span><span class="section-meta-label">更新</span></div>
+          <div class="section-meta-divider"></div>
+          <div class="section-meta-item"><span class="section-meta-value">5–8</span><span class="section-meta-label">条精选/期</span></div>
+          <div class="section-meta-divider"></div>
+          <div class="section-meta-item"><span class="section-meta-value">10 min</span><span class="section-meta-label">平均阅读</span></div>
         </div>
-        <h3 class="article-title">AI-Assisted User Research: Synthesis at Scale Without Losing the Signal</h3>
-        <p class="article-excerpt">AI can synthesize 50 interview transcripts in minutes — but it can also flatten nuance, miss edge cases, and miss the body-language context that makes a quote meaningful. A practical methodology for using AI as a research accelerator while keeping human judgment at the center of insight generation.</p>
-        <div class="article-footer">
-          <div class="article-author-avatar" style="background:#C2410C;">ZB</div>
-          <span class="article-author-name">Zoe Bell</span>
-          <span class="article-dot"></span>
-          <span class="article-date">Sep 2024</span>
-          <div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
-        </div>
+      </div>
+      <div class="highlight-block featured-highlight">
+        <h3>选题标准</h3>
+        <p>我们只收录「信号」，不收录「噪音」。每一条入选的内容，都需要通过一个问题的检验：「一个认真做 AI 产品的设计师，真的需要知道这件事吗？」</p>
+      </div>
+      <div class="articles-header"><h2>近期周报</h2></div>
+      <div class="article-card pinned featured-card">
+        <div class="article-card-top"><span class="article-tag tag-purple">第 #48 期</span><span class="article-read-time">10 min</span></div>
+        <h3 class="article-title">本周精选：Sora 正式上线、Gemini 2.0 发布，以及 AI 设计工具的新一轮洗牌</h3>
+        <p class="article-excerpt">本期收录：① OpenAI Sora 正式发布对设计生产流程的影响分析；② Google Gemini 2.0 的多模态能力对产品交互的启示；③ Figma AI 新功能评测：真实工作流测试报告；④ 一篇关于 AI 疲劳的重要研究；⑤ 本周值得读的 3 篇长文。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">编</div><span class="article-author-name">编辑部</span><span class="article-dot"></span><span class="article-date">2024年12月9日</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      </div>
+      <div class="article-card featured-card">
+        <div class="article-card-top"><span class="article-tag tag-blue">第 #47 期</span><span class="article-read-time">9 min</span></div>
+        <h3 class="article-title">本周精选：Claude 的 Computer Use、AI 原生设计工具 v0 的爆发，以及设计师需要学编程吗</h3>
+        <p class="article-excerpt">① Anthropic Computer Use 的 UX 含义深度解读；② v0 by Vercel 的设计师使用指南；③ 「设计师要不要学写代码」这个老问题在 AI 时代有了新答案；④ 微软 Copilot 设计回顾；⑤ 三个值得收藏的 AI 提示词资源。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#2563EB;">编</div><span class="article-author-name">编辑部</span><span class="article-dot"></span><span class="article-date">2024年12月2日</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      </div>
+      <div class="article-card featured-card">
+        <div class="article-card-top"><span class="article-tag tag-teal">第 #46 期</span><span class="article-read-time">8 min</span></div>
+        <h3 class="article-title">本周精选：ChatGPT 推出 Canvas、苹果 Intelligence 的设计语言分析</h3>
+        <p class="article-excerpt">① OpenAI Canvas 的协作编辑 UX 拆解；② Apple Intelligence 发布后的设计语言深度分析——苹果如何把 AI 融入系统级体验；③ 一份关于 AI 对话界面疲劳的用研报告；④ 本周最值得关注的 2 个 AI 设计案例。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#0F766E;">编</div><span class="article-author-name">编辑部</span><span class="article-dot"></span><span class="article-date">2024年11月25日</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
+      </div>
+      <div class="article-card featured-card">
+        <div class="article-card-top"><span class="article-tag tag-amber">第 #45 期</span><span class="article-read-time">11 min</span></div>
+        <h3 class="article-title">本周精选：Runway Gen-3 视频生成评测、AI 搜索体验的竞品对比分析</h3>
+        <p class="article-excerpt">① Runway Gen-3 对设计师视频工作流的影响实测；② Perplexity vs SearchGPT vs Gemini——三款 AI 搜索产品的 UX 深度对比；③ 一个让我反思 AI 依赖度的用户故事；④ 本周值得订阅的 3 位 AI 设计创作者。</p>
+        <div class="article-footer"><div class="article-author-avatar" style="background:#B45309;">编</div><span class="article-author-name">编辑部</span><span class="article-dot"></span><span class="article-date">2024年11月18日</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
     </section>
 
@@ -1191,39 +579,73 @@
 </div>
 
 <script>
-  const sections = [
-    { id: 'ai-ux',         label: 'AI UX',         count: '12',
-      icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M12 1v4M12 19v4M4.22 4.22l2.83 2.83M16.95 16.95l2.83 2.83M1 12h4M19 12h4M4.22 19.78l2.83-2.83M16.95 7.05l2.83-2.83"/></svg>' },
-    { id: 'ai-agent',      label: 'AI Agent',      count: '9',
-      icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6M9 12h6M9 15h4"/></svg>' },
-    { id: 'design-system', label: 'Design System', count: '14',
-      icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="7" height="7" rx="1"/><rect x="15" y="3" width="7" height="7" rx="1"/><rect x="2" y="14" width="7" height="7" rx="1"/><rect x="15" y="14" width="7" height="7" rx="1"/></svg>' },
-    { id: 'ai-product',    label: 'AI Product',    count: '11',
-      icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>' },
-    { id: 'management',    label: 'Management',    count: '8',
-      icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>' },
-    { id: 'workflow',      label: 'Workflow',      count: '16',
-      icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>' },
+  const navGroups = [
+    {
+      label: '知识体系',
+      items: [
+        { id: 'ai-cognition',     label: 'AI 产品认知',  count: '10', featured: false,
+          icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 8v4M12 16h.01"/></svg>' },
+        { id: 'ai-ux',            label: 'AI 用户体验',  count: '12', featured: false,
+          icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M12 1v4M12 19v4M4.22 4.22l2.83 2.83M16.95 16.95l2.83 2.83M1 12h4M19 12h4M4.22 19.78l2.83-2.83M16.95 7.05l2.83-2.83"/></svg>' },
+        { id: 'ai-agent',         label: 'AI Agent',     count: '9',  featured: false,
+          icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6M9 12h6M9 15h4"/></svg>' },
+        { id: 'ai-design-system', label: 'AI 设计系统',  count: '14', featured: false,
+          icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="7" height="7" rx="1"/><rect x="15" y="3" width="7" height="7" rx="1"/><rect x="2" y="14" width="7" height="7" rx="1"/><rect x="15" y="14" width="7" height="7" rx="1"/></svg>' },
+        { id: 'ai-workflow',      label: 'AI 工作流',    count: '16', featured: false,
+          icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>' },
+        { id: 'ai-management',    label: 'AI 组织管理',  count: '8',  featured: false,
+          icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>' },
+      ]
+    },
+    {
+      label: '重点栏目',
+      items: [
+        { id: 'ai-teardown',      label: 'AI 产品拆解',  count: '18', featured: true,
+          icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>' },
+        { id: 'design-director',  label: '设计总监专区', count: null,  featured: true, badge: '专属',
+          icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>' },
+        { id: 'ai-weekly',        label: 'AI 周报',      count: null,  featured: true, badge: '每周更新',
+          icon: '<svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>' },
+      ]
+    }
   ];
 
-  function buildNav(listEl, onClickExtra) {
-    sections.forEach(s => {
-      const li = document.createElement('li');
-      li.className = 'nav-item';
-      li.innerHTML = `<a href="#" data-id="${s.id}">${s.icon}${s.label}<span class="nav-count">${s.count}</span></a>`;
-      li.querySelector('a').addEventListener('click', e => {
-        e.preventDefault();
-        showSection(s.id);
-        if (onClickExtra) onClickExtra();
+  function buildNavHTML(groups, onClickExtra) {
+    const container = document.createDocumentFragment();
+    groups.forEach(group => {
+      const groupEl = document.createElement('div');
+      groupEl.className = 'nav-group';
+      const label = document.createElement('span');
+      label.className = 'nav-group-label';
+      label.textContent = group.label;
+      groupEl.appendChild(label);
+      const ul = document.createElement('ul');
+      ul.className = 'nav-list';
+      group.items.forEach(s => {
+        const li = document.createElement('li');
+        li.className = 'nav-item' + (s.featured ? ' featured-item' : '');
+        const badge = s.badge ? `<span class="nav-badge">${s.badge}</span>` : (s.count ? `<span class="nav-count">${s.count}</span>` : '');
+        li.innerHTML = `<a href="#" data-id="${s.id}">${s.icon}${s.label}${badge}</a>`;
+        li.querySelector('a').addEventListener('click', e => {
+          e.preventDefault();
+          showSection(s.id);
+          if (onClickExtra) onClickExtra();
+        });
+        ul.appendChild(li);
       });
-      listEl.appendChild(li);
+      groupEl.appendChild(ul);
+      container.appendChild(groupEl);
     });
+    return container;
   }
 
-  buildNav(document.getElementById('desktopNavList'));
-  buildNav(document.getElementById('mobileNavList'), () => {
+  const desktopNav = document.getElementById('desktopNav');
+  desktopNav.appendChild(buildNavHTML(navGroups));
+
+  const mobileContent = document.getElementById('mobileNavContent');
+  mobileContent.appendChild(buildNavHTML(navGroups, () => {
     document.getElementById('mobileOverlay').classList.remove('open');
-  });
+  }));
 
   function showSection(id) {
     document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
@@ -1234,7 +656,7 @@
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
-  showSection('ai-ux');
+  showSection('ai-cognition');
 
   document.getElementById('hamburgerBtn').addEventListener('click', () => {
     document.getElementById('mobileOverlay').classList.add('open');
