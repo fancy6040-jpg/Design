@@ -12,7 +12,12 @@
       "source_id": "anthropic",
       "source_name": "Anthropic",
       "priority": 0,
-      "tags": ["AI", "安全", "伦理"]
+      "tags": ["AI", "安全", "伦理"],
+      "category": "ai-cognition",
+      "tldr": "Anthropic联创Chris Olah回应教皇通谕，探讨AI安全研究者的伦理责任。AI不仅是技术问题，更是关乎人类尊严的文明命题。",
+      "insight": "→ 在产品决策中引入伦理审视层，让「对人类有益」成为可量化的设计标准",
+      "suggestion": "建议团队每季度开展一次AI伦理审查，用具体产品决策校准价值取向",
+      "enriched": true
     },
     {
       "title": "Project Glasswing: An initial update",
@@ -22,7 +27,12 @@
       "source_id": "anthropic",
       "source_name": "Anthropic",
       "priority": 0,
-      "tags": ["AI", "研究", "安全"]
+      "tags": ["AI", "研究", "安全"],
+      "category": "ai-ux",
+      "tldr": "Anthropic的Glasswing项目致力于让AI推理过程可解释、可审计。可解释性是AI信任设计的底层基础，直接影响用户对AI决策的接受度。",
+      "insight": "→ 将AI的推理链路可视化呈现给用户，而非只展示最终结论",
+      "suggestion": "试试在AI功能旁增加「为什么这样推荐」的折叠说明，降低用户认知焦虑",
+      "enriched": true
     },
     {
       "title": "KPMG integrates Claude across its core business and workforce of more than 276,000",
@@ -32,7 +42,12 @@
       "source_id": "anthropic",
       "source_name": "Anthropic",
       "priority": 0,
-      "tags": ["AI", "企业", "产品"]
+      "tags": ["AI", "企业", "产品"],
+      "category": "ai-management",
+      "tldr": "KPMG在27.6万员工中全面部署Claude，是咨询行业最大规模企业AI落地案例之一。大型组织的AI转型需要系统性的变革管理，而非单点工具替换。",
+      "insight": "→ 大规模AI部署的成败关键在于变革管理，设计团队需主导员工心智转型",
+      "suggestion": "建议参考KPMG案例，为AI工具上线制定分阶段的员工适应路线图",
+      "enriched": true
     },
     {
       "title": "Widening the conversation on frontier AI",
@@ -42,7 +57,12 @@
       "source_id": "anthropic",
       "source_name": "Anthropic",
       "priority": 0,
-      "tags": ["AI", "政策", "安全"]
+      "tags": ["AI", "政策", "安全"],
+      "category": "design-director",
+      "tldr": "Anthropic呼吁将前沿AI讨论扩展至更广泛的公众参与。设计师作为用户代言人，有责任将用户声音带入AI产品决策层。",
+      "insight": "→ 设计师应主动参与AI产品的伦理讨论，而非等待技术团队的单向输出",
+      "suggestion": "建议设计总监在AI产品立项时引入用户顾问委员会，扩大决策代表性",
+      "enriched": true
     },
     {
       "title": "Anthropic acquires Stainless",
@@ -52,7 +72,12 @@
       "source_id": "anthropic",
       "source_name": "Anthropic",
       "priority": 0,
-      "tags": ["AI", "产品", "开发者"]
+      "tags": ["AI", "产品", "开发者"],
+      "category": "ai-workflow",
+      "tldr": "Anthropic收购SDK生成平台Stainless，降低开发者基于Claude构建应用的门槛。开发者体验是AI产品生态的关键乘数，工具易用性决定采用率。",
+      "insight": "→ 降低AI能力接入门槛是产品生态增长的杠杆点，优先设计开发者入门体验",
+      "suggestion": "下次评估AI工具时，重点考察SDK质量和文档完整性，这决定实际落地速度",
+      "enriched": true
     },
     {
       "title": "PwC is deploying Claude to build technology and reinvent enterprise functions",
@@ -62,7 +87,12 @@
       "source_id": "anthropic",
       "source_name": "Anthropic",
       "priority": 0,
-      "tags": ["AI", "企业", "产品"]
+      "tags": ["AI", "企业", "产品"],
+      "category": "ai-management",
+      "tldr": "普华永道扩大与Anthropic合作，将Claude部署至交易执行和企业转型项目。专业服务业的AI转型正在重塑顾问工作边界，设计服务亦面临类似挑战。",
+      "insight": "→ 专业服务AI化的核心是重新定义人类专家的不可替代价值边界",
+      "suggestion": "建议设计团队明确「AI做不到的设计判断」清单，强化差异化核心竞争力",
+      "enriched": true
     },
     {
       "title": "Designing for AI Trust: When Users Overcorrect",
@@ -72,7 +102,12 @@
       "source_id": "nngroup",
       "source_name": "NNGroup",
       "priority": 1,
-      "tags": ["UX", "设计", "AI信任"]
+      "tags": ["UX", "设计", "AI信任"],
+      "category": "ai-ux",
+      "tldr": "曾被AI出错伤害的用户往往走向过度怀疑。研究表明，校准的置信度指标和渐进披露可恢复用户对AI的健康依赖，避免过度纠正带来的效率损失。",
+      "insight": "→ 在AI输出旁显示置信度区间而非单一答案，帮助用户建立校准信任",
+      "suggestion": "试试将AI错误案例纳入用户研究，专门设计「AI出错后的修复体验」",
+      "enriched": true
     },
     {
       "title": "AI UX Patterns: 12 Emerging Interaction Models for 2026",
@@ -82,7 +117,12 @@
       "source_id": "nngroup",
       "source_name": "NNGroup",
       "priority": 1,
-      "tags": ["UX", "设计", "模式"]
+      "tags": ["UX", "设计", "模式"],
+      "category": "ai-ux",
+      "tldr": "NNGroup归纳2026年12种AI交互模式，从环境感知助手到自主任务执行。不同场景需要不同交互范式，照搬聊天框模式已成最常见的AI UX反模式。",
+      "insight": "→ 针对具体任务场景选择匹配的AI交互模式，而非默认使用对话界面",
+      "suggestion": "建议对照这12种模式审视当前产品的AI交互，识别是否有更合适的范式可替换",
+      "enriched": true
     },
     {
       "title": "Figma AI: Design from Prompt and Smarter Auto-Layout",
@@ -92,7 +132,12 @@
       "source_id": "figma",
       "source_name": "Figma",
       "priority": 1,
-      "tags": ["设计", "工具", "AI"]
+      "tags": ["设计", "工具", "AI"],
+      "category": "ai-workflow",
+      "tldr": "Figma AI新增自然语言界面生成、品牌语调感知文案和智能Auto-Layout建议。AI正从辅助工具升级为设计流程的主动参与者，改变设计师的工作起点。",
+      "insight": "→ 将AI生成作为设计探索的起点而非终点，用人工判断筛选和提炼",
+      "suggestion": "下次启动新项目时，先用Figma AI生成3个方向草稿，再进入深度设计",
+      "enriched": true
     },
     {
       "title": "Config 2026: Design System AI and the Future of Component Libraries",
@@ -102,7 +147,12 @@
       "source_id": "figma",
       "source_name": "Figma",
       "priority": 1,
-      "tags": ["设计系统", "工具", "AI"]
+      "tags": ["设计系统", "工具", "AI"],
+      "category": "ai-design-system",
+      "tldr": "Figma Design System AI能自动检测一致性偏差、建议组件更新并学习团队设计模式。设计系统正从静态规范向动态智能层演进，AI是这一转型的核心驱动力。",
+      "insight": "→ 让AI成为设计系统的「一致性守卫」，自动捕获人工审查中的遗漏",
+      "suggestion": "建议设计系统团队制定AI审查规则清单，定义哪些偏差需人工确认、哪些可自动修复",
+      "enriched": true
     },
     {
       "title": "Linear 2026: AI Project Intelligence and Predictive Delivery",
@@ -112,7 +162,12 @@
       "source_id": "linear",
       "source_name": "Linear",
       "priority": 1,
-      "tags": ["产品", "工具", "AI"]
+      "tags": ["产品", "工具", "AI"],
+      "category": "ai-workflow",
+      "tldr": "Linear新AI功能可自动识别阻塞项、预测交付日期并生成基于真实速度数据的迭代复盘。数据驱动的项目智能让团队从「感觉」驱动转向「证据」驱动的决策。",
+      "insight": "→ 用AI预测交付风险，让设计团队提前而非事后应对资源和时间瓶颈",
+      "suggestion": "试试将Linear的AI预测数据纳入每周设计同步会，让风险讨论有数据支撑",
+      "enriched": true
     },
     {
       "title": "Building with Notion AI: A Product Team's Playbook",
@@ -122,7 +177,12 @@
       "source_id": "notion",
       "source_name": "Notion",
       "priority": 1,
-      "tags": ["产品", "AI", "工作流"]
+      "tags": ["产品", "AI", "工作流"],
+      "category": "ai-workflow",
+      "tldr": "4个产品团队分享用Notion AI重塑路线图规划、需求写作和复盘的实践，诚实评估了提速和失效的场景。AI工具落地的最大障碍是团队习惯，而非技术能力。",
+      "insight": "→ AI工作流落地需从最高频、最痛苦的重复任务切入，而非全面铺开",
+      "suggestion": "建议团队列出每周最耗时的3个重复任务，逐一评估Notion AI的替代可行性",
+      "enriched": true
     },
     {
       "title": "The Real Competitive Advantage of AI in Organizations",
@@ -132,7 +192,12 @@
       "source_id": "hbr",
       "source_name": "HBR",
       "priority": 2,
-      "tags": ["管理", "战略", "AI"]
+      "tags": ["管理", "战略", "AI"],
+      "category": "design-director",
+      "tldr": "HBR研究显示AI竞争优势不在工具数量，而在于围绕AI能力重新设计决策流程。拥有最多AI工具的公司未必赢，最会与AI协同决策的公司才能胜出。",
+      "insight": "→ 重新审视设计决策中哪些环节可由AI加速，哪些必须保留人的判断",
+      "suggestion": "建议设计总监主导一次「AI决策流程重设计」工作坊，识别高杠杆改造点",
+      "enriched": true
     },
     {
       "title": "Leading with AI: A Framework for Executive Decision-Making",
@@ -142,7 +207,12 @@
       "source_id": "hbr",
       "source_name": "HBR",
       "priority": 2,
-      "tags": ["管理", "领导力", "AI"]
+      "tags": ["管理", "领导力", "AI"],
+      "category": "design-director",
+      "tldr": "AI成熟高管的三个特征：将AI视为组织学习机制、建立AI决策问责体系、设计人机有益分歧。领导力的新维度是学会与AI高效协作并对结果负责。",
+      "insight": "→ 建立「人机分歧协议」，明确何时设计师判断优先于AI推荐",
+      "suggestion": "建议设计领导者制定AI辅助决策的问责框架，避免「AI说的所以对」的懒惰思维",
+      "enriched": true
     },
     {
       "title": "Rethinking Organizational Design for the AI Era",
@@ -152,7 +222,12 @@
       "source_id": "mit-sloan",
       "source_name": "MIT Sloan",
       "priority": 2,
-      "tags": ["管理", "AI", "组织"]
+      "tags": ["管理", "AI", "组织"],
+      "category": "ai-management",
+      "tldr": "AI不只自动化任务，更重塑协作模式、问责机制和知识流动。MIT研究识别出与AI成功整合高度相关的组织结构变量，为设计组织转型提供路线图。",
+      "insight": "→ 在设计组织引入AI时同步重新定义职责边界，避免「旧职责+新工具」的低效叠加",
+      "suggestion": "建议参照MIT框架评估设计团队的知识流动路径，识别AI可优化的信息传递环节",
+      "enriched": true
     },
     {
       "title": "AI Strategy That Works: Moving Beyond the Hype Cycle",
@@ -162,7 +237,12 @@
       "source_id": "mit-sloan",
       "source_name": "MIT Sloan",
       "priority": 2,
-      "tags": ["战略", "AI", "变革管理"]
+      "tags": ["战略", "AI", "变革管理"],
+      "category": "ai-management",
+      "tldr": "AI成功落地公司的反直觉共性：在组织变革上的投入远超技术本身。真正的AI战略是变革管理战略，工具只是载体。",
+      "insight": "→ 在推进AI工具落地前，先确保团队有足够的变革能力和心理安全感",
+      "suggestion": "建议用3个月时间先做AI文化建设，再做工具推广，顺序决定成败",
+      "enriched": true
     },
     {
       "title": "The State of AI in 2026: McKinsey Global Survey",
@@ -172,7 +252,12 @@
       "source_id": "mckinsey",
       "source_name": "McKinsey",
       "priority": 2,
-      "tags": ["战略", "AI", "调研"]
+      "tags": ["战略", "AI", "调研"],
+      "category": "ai-management",
+      "tldr": "麦肯锡调研1400+高管发现AI采用率停滞在65%，但领先者价值捕获率提升了3倍。AI差距正在拉大：采用AI与真正用AI创造价值之间隔着一条鸿沟。",
+      "insight": "→ AI价值捕获的关键在「深度使用」而非「广泛采用」，聚焦核心场景做深",
+      "suggestion": "建议团队选定2-3个高价值设计场景做AI深度应用，而非在所有环节浅尝",
+      "enriched": true
     },
     {
       "title": "Designing the AI-Native Enterprise",
@@ -182,7 +267,12 @@
       "source_id": "mckinsey",
       "source_name": "McKinsey",
       "priority": 2,
-      "tags": ["战略", "管理", "AI"]
+      "tags": ["战略", "管理", "AI"],
+      "category": "ai-cognition",
+      "tldr": "AI原生企业不是在现有流程上叠加AI，而是以AI为核心能力从第一原理重新设计。「AI加法」和「AI原生」是两种本质不同的转型路径，终点截然不同。",
+      "insight": "→ 用「如果AI原生设计这个功能会怎样」的视角重新审视现有产品流程",
+      "suggestion": "下次产品规划时，尝试以「AI First」为约束条件重写一个核心用户旅程",
+      "enriched": true
     },
     {
       "title": "BCG AI Radar: May 2026 — Agentic Systems and Governance Gaps",
@@ -192,7 +282,12 @@
       "source_id": "bcg",
       "source_name": "BCG",
       "priority": 2,
-      "tags": ["战略", "AI", "趋势"]
+      "tags": ["战略", "AI", "趋势"],
+      "category": "ai-agent",
+      "tldr": "BCG五月AI雷达追踪企业工作流中Agent系统加速落地、AI治理职能重要性上升及AI间自主谈判的早期信号。Agent时代的治理缺口正成为企业最大的AI风险敞口。",
+      "insight": "→ 在设计Agent产品时同步设计监督机制，治理不能滞后于能力",
+      "suggestion": "建议为每个Agent功能定义「人工干预触发条件」，防止自主化程度超出用户预期",
+      "enriched": true
     },
     {
       "title": "Human-AI Collaboration: What Two Years of Research Reveals",
@@ -202,7 +297,12 @@
       "source_id": "bcg",
       "source_name": "BCG",
       "priority": 2,
-      "tags": ["管理", "AI", "协作"]
+      "tags": ["管理", "AI", "协作"],
+      "category": "ai-management",
+      "tldr": "BCG研究200+组织发现，最有效的人机团队取决于角色和决策权的清晰分配，而非AI能力强弱。模糊的人机边界是协作失效的首要原因。",
+      "insight": "→ 在AI产品设计中明确标注「此决策由AI负责」vs「此决策需人工确认」",
+      "suggestion": "建议团队为每个AI辅助场景绘制RACI矩阵，明确人与AI的责任边界",
+      "enriched": true
     },
     {
       "title": "The State of AI Governance: 2026 Annual Report",
@@ -212,7 +312,12 @@
       "source_id": "stanford-hai",
       "source_name": "Stanford HAI",
       "priority": 0,
-      "tags": ["AI", "政策", "治理"]
+      "tags": ["AI", "政策", "治理"],
+      "category": "ai-cognition",
+      "tldr": "Stanford HAI全面分析全球AI政策动态和监管框架，揭示技术能力与治理结构之间不断扩大的缺口。产品设计师需要理解监管趋势，提前为合规设计做准备。",
+      "insight": "→ 将AI合规需求转化为设计约束，让监管成为产品差异化的驱动力而非负担",
+      "suggestion": "建议设计团队指定一名成员持续跟踪AI政策动态，定期在团队内分享影响预判",
+      "enriched": true
     },
     {
       "title": "Measuring the ROI of Conversational AI Interfaces",
@@ -222,7 +327,12 @@
       "source_id": "stanford-hai",
       "source_name": "Stanford HAI",
       "priority": 0,
-      "tags": ["AI", "研究", "UX"]
+      "tags": ["AI", "研究", "UX"],
+      "category": "ai-ux",
+      "tldr": "Stanford HAI量化对话式AI的生产力收益，发现信任和透明度设计选择贡献了40%的效率提升。设计质量不只是美学问题，更是可量化的商业价值来源。",
+      "insight": "→ 用「信任设计」作为对话AI的核心指标，而非停留在完成率和满意度",
+      "suggestion": "建议将「用户对AI输出的信任度」纳入对话产品的核心度量指标体系",
+      "enriched": true
     },
     {
       "title": "Responsible AI Design Checklist for Product Teams",
@@ -232,7 +342,12 @@
       "source_id": "nngroup",
       "source_name": "NNGroup",
       "priority": 1,
-      "tags": ["UX", "设计", "AI伦理"]
+      "tags": ["UX", "设计", "AI伦理"],
+      "category": "ai-ux",
+      "tldr": "NNGroup发布28条AI责任设计清单，覆盖公平性、透明度、人工监督和可逆性，专为设计评审和迭代复盘设计。负责任的AI设计需要系统性工具，而非个人直觉。",
+      "insight": "→ 将责任设计清单嵌入设计评审流程，让伦理检查成为交付标准的一部分",
+      "suggestion": "建议在设计评审模板中增加「AI责任设计」检查项，逐条确认后才能进入开发",
+      "enriched": true
     },
     {
       "title": "Beyond Attention: DeepMind's New Hybrid Architecture",
@@ -242,7 +357,12 @@
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
-      "tags": ["AI", "研究", "模型架构"]
+      "tags": ["AI", "研究", "模型架构"],
+      "category": "ai-cognition",
+      "tldr": "DeepMind提出混合架构，结合注意力机制和结构化状态空间，在长上下文任务中效率提升40%。模型架构进化直接影响AI产品的能力边界和交互设计空间。",
+      "insight": "→ 关注模型能力进化趋势，提前布局长上下文场景的新交互设计机会",
+      "suggestion": "建议设计团队每季度梳理一次模型能力边界变化，评估对产品设计策略的影响",
+      "enriched": true
     }
   ]
 }

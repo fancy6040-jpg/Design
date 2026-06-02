@@ -10,9 +10,11 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 const { DOMParser } = require('@xmldom/xmldom');
+const { enrichArticles } = require('./enrich');
 
 const FEEDS_PATH = path.join(__dirname, 'feeds.json');
 const OUTPUT_PATH = path.join(__dirname, '..', 'data', 'weekly.json');
+const CACHE_PATH = path.join(__dirname, '..', 'data', 'cache.json');
 const DAYS_BACK = 30;
 const REQUEST_TIMEOUT_MS = 12000;
 const MAX_ITEMS_PER_SOURCE = 10;
@@ -243,27 +245,66 @@ async function main() {
       return (b.date?.getTime() ?? 0) - (a.date?.getTime() ?? 0);
     });
 
+  // Normalise items to flat structure for enrichment
+  const flatItems = filtered.map(item => ({
+    title: item.title,
+    link: item.link,
+    excerpt: item.excerpt,
+    date: item.date?.toISOString() ?? null,
+    source_id: item.source.id,
+    source_name: item.source.name,
+    priority: sourceMeta[item.source.id]?.priority ?? 9,
+    tags: sourceMeta[item.source.id]?.tags ?? [],
+  }));
+
+  // Load cache (URL-keyed enriched articles)
+  let cache = {};
+  try { cache = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8')); } catch {}
+
+  // Separate already-cached vs new articles
+  const cached = [];
+  const toEnrich = [];
+  for (const item of flatItems) {
+    if (cache[item.link]) {
+      cached.push({ ...item, ...cache[item.link] });
+    } else {
+      toEnrich.push(item);
+    }
+  }
+
+  // Enrich new articles
+  let enriched = [];
+  if (toEnrich.length > 0) {
+    console.log(`\nEnriching ${toEnrich.length} new articles…`);
+    enriched = await enrichArticles(toEnrich);
+    // Update cache
+    for (const a of enriched) {
+      cache[a.link] = {
+        category: a.category, tldr: a.tldr,
+        insight: a.insight, suggestion: a.suggestion, enriched: a.enriched,
+      };
+    }
+    fs.mkdirSync(path.dirname(CACHE_PATH), { recursive: true });
+    fs.writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 2), 'utf8');
+  }
+
+  const allItems = [...cached, ...enriched].sort((a, b) => {
+    if (a.priority !== b.priority) return a.priority - b.priority;
+    return new Date(b.date ?? 0) - new Date(a.date ?? 0);
+  });
+
   // Serialise
   const output = {
     generated: new Date().toISOString(),
     cutoff: cutoff.toISOString(),
-    total: filtered.length,
+    total: allItems.length,
     sources_attempted: sources.length,
-    items: filtered.map(item => ({
-      title: item.title,
-      link: item.link,
-      excerpt: item.excerpt,
-      date: item.date?.toISOString() ?? null,
-      source_id: item.source.id,
-      source_name: item.source.name,
-      priority: sourceMeta[item.source.id]?.priority ?? 9,
-      tags: sourceMeta[item.source.id]?.tags ?? [],
-    })),
+    items: allItems,
   };
 
   fs.mkdirSync(path.dirname(OUTPUT_PATH), { recursive: true });
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2), 'utf8');
-  console.log(`\nDone: ${filtered.length} items written to ${OUTPUT_PATH}`);
+  console.log(`\nDone: ${allItems.length} items written to ${OUTPUT_PATH}`);
 
   // Print summary by source
   const bySource = {};

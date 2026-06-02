@@ -7,8 +7,8 @@
     "collect:watch": "node --watch scripts/collect.js"
   },
   "dependencies": {
-    "@xmldom/xmldom": "^0.8.10",
-    "selenium-webdriver": "^4.44.0"
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@xmldom/xmldom": "^0.8.10"
   },
   "engines": {
     "node": ">=18"

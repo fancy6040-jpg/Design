@@ -169,12 +169,20 @@
     .feed-tags { display: flex; gap: 5px; flex-wrap: wrap; }
     .feed-tag { font-size: 10.5px; font-weight: 500; color: var(--text-muted); background: var(--tag-bg); padding: 1px 8px; border-radius: 10px; }
     .feed-title { font-size: 16px; font-weight: 620; letter-spacing: -0.2px; line-height: 1.4; color: var(--text-primary); margin-bottom: 8px; }
-    .feed-excerpt { font-size: 13.5px; color: var(--text-secondary); line-height: 1.7; margin-bottom: 12px; }
+    .feed-excerpt { font-size: 13.5px; color: var(--text-secondary); line-height: 1.7; margin-bottom: 10px; }
+    .feed-tldr { font-size: 13px; color: var(--text-secondary); line-height: 1.65; margin-bottom: 10px; }
+    .feed-enriched-row { display: flex; gap: 10px; margin-bottom: 14px; flex-wrap: wrap; }
+    .feed-insight { font-size: 12px; font-weight: 500; color: #1D4ED8; background: #EFF6FF; border-radius: 6px; padding: 5px 10px; line-height: 1.5; flex: 1; min-width: 0; }
+    .feed-suggestion { font-size: 12px; font-weight: 500; color: #065F46; background: #ECFDF5; border-radius: 6px; padding: 5px 10px; line-height: 1.5; flex: 1; min-width: 0; }
     .feed-arrow { position: absolute; right: 20px; bottom: 20px; width: 28px; height: 28px; border-radius: 6px; border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; transition: background var(--transition), border-color var(--transition); }
     .feed-item:hover .feed-arrow { background: var(--featured); border-color: var(--featured); }
     .feed-arrow svg { width: 12px; height: 12px; stroke: var(--text-muted); fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; transition: stroke var(--transition); }
     .feed-item:hover .feed-arrow svg { stroke: #fff; }
 
+    .section-feed-header { display: flex; align-items: center; justify-content: space-between; margin: 40px 0 16px; padding-top: 32px; border-top: 1px solid var(--border); }
+    .section-feed-label { font-size: 12px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--text-muted); }
+    .section-feed-more { background: none; border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 5px 12px; font-size: 12px; color: var(--text-secondary); cursor: pointer; transition: border-color var(--transition), color var(--transition); }
+    .section-feed-more:hover { border-color: var(--featured); color: var(--featured); }
     .weekly-status { font-size: 11.5px; color: var(--text-muted); }
     .weekly-status.loading { color: var(--featured); }
     .weekly-status.error { color: #EF4444; }
@@ -277,6 +285,8 @@
         <p class="article-excerpt">增强智能（IA）和人工智能（AI）代表两种截然不同的产品哲学。最好的 AI 设计目标是让人做出更好的决策，而不是把决策权完全交给机器——人在回路，才是正确的共生形态。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">陈</div><span class="article-author-name">陈思睿</span><span class="article-dot"></span><span class="article-date">2024年8月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
+
+      <div id="section-feed-ai-cognition"></div>
     </section>
 
     <!-- AI 用户体验 -->
@@ -322,6 +332,8 @@
         <p class="article-excerpt">尼尔森 10 条原则无法覆盖 AI 的概率行为、幻觉风险和长时延迟。本文在原有框架上扩展出针对 AI 特性的新维度，形成一份可直接用于设计走查的 AI 界面评估清单。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">朴</div><span class="article-author-name">朴恩雷</span><span class="article-dot"></span><span class="article-date">2024年8月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
+
+      <div id="section-feed-ai-ux"></div>
     </section>
 
     <!-- AI Agent -->
@@ -367,6 +379,8 @@
         <p class="article-excerpt">多 Agent 系统的 UX 挑战是让用户理解一个看不见的「AI 组织」。树状任务图可视化、分层状态追踪，以及重新定义「撤销」的范围——这些是多 Agent 界面设计的核心命题。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#9D174D;">聂</div><span class="article-author-name">聂贝拉</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
+
+      <div id="section-feed-ai-agent"></div>
     </section>
 
     <!-- AI 设计系统 -->
@@ -412,6 +426,8 @@
         <p class="article-excerpt">AI 流式文本输出对屏幕阅读器是灾难性的体验，每个 Token 的出现都会打断读屏播报。本文介绍「完成后朗读」的双轨制无障碍架构，从设计系统层面根治这个被忽视的盲区。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#7C3AED;">田</div><span class="article-author-name">田娜·中村</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
+
+      <div id="section-feed-ai-design-system"></div>
     </section>
 
     <!-- AI 工作流 -->
@@ -457,6 +473,8 @@
         <p class="article-excerpt">AI 做数据汇总，人做洞察提炼——分工错位，用研价值就消失了。主动关注 AI「没有归类进去」的内容：那里往往藏着最有价值的边缘案例和意外发现。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#C2410C;">佐</div><span class="article-author-name">佐伊·贝尔</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
+
+      <div id="section-feed-ai-workflow"></div>
     </section>
 
     <!-- AI 组织管理 -->
@@ -502,6 +520,8 @@
         <p class="article-excerpt">AI 素养是认知课，不是技术课。12 周三阶段框架（认知 → 工具实操 → 产品应用），以「边做边学」为核心方法——把 AI 融入真实项目，比任何培训课都更有效。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#2563EB;">西</div><span class="article-author-name">西蒙·哈特</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
+
+      <div id="section-feed-ai-management"></div>
     </section>
 
     <!-- AI 产品拆解 -->
@@ -548,6 +568,8 @@
         <p class="article-excerpt">Claude.ai 的界面看似简单，实则有大量精心的设计决策藏在细节里。长上下文的可视化处理、Projects 功能的信息架构、Artifacts 侧边栏的空间逻辑——本期一一拆开。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#9D174D;">孙</div><span class="article-author-name">孙若溪</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
+
+      <div id="section-feed-ai-teardown"></div>
     </section>
 
     <!-- 设计总监专区 -->
@@ -594,6 +616,8 @@
         <p class="article-excerpt">当 AI 工具降低了执行门槛，如何保留那些真正有判断力的顶尖设计人才？职业通道设计、有意义的工作定义、以及如何用清晰的 AI 战略让设计师感到被需要而不是被替代。</p>
         <div class="article-footer"><div class="article-author-avatar" style="background:#9D174D;">郑</div><span class="article-author-name">郑可欣</span><span class="article-dot"></span><span class="article-date">2024年9月</span><div class="article-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div></div>
       </div>
+
+      <div id="section-feed-design-director"></div>
     </section>
 
     <!-- AI 周报 -->
@@ -1082,6 +1106,7 @@
     document.getElementById('article-detail').classList.remove('active');
     _origShowSection(id);
     if (id === 'ai-weekly') initWeeklyFeed();
+    else renderSectionFeed(id);
   };
 
   // ── Weekly Feed ──────────────────────────────────────────────────────────────
@@ -1105,6 +1130,51 @@
   let feedData = null;
   let feedFilter = 'all';
   let feedInitialized = false;
+  let weeklyDataPromise = null;
+
+  async function loadWeeklyData() {
+    if (feedData) return feedData;
+    if (!weeklyDataPromise) {
+      weeklyDataPromise = fetch('data/weekly.json')
+        .then(r => r.ok ? r.json() : Promise.reject(r.status))
+        .then(d => { feedData = d; return d; })
+        .catch(() => null);
+    }
+    return weeklyDataPromise;
+  }
+
+  async function renderSectionFeed(sectionId) {
+    const containerId = `section-feed-${sectionId}`;
+    const container = document.getElementById(containerId);
+    if (!container) return;
+    const data = await loadWeeklyData();
+    if (!data) { container.innerHTML = ''; return; }
+    const items = data.items.filter(i => i.category === sectionId).slice(0, 4);
+    if (items.length === 0) { container.innerHTML = ''; return; }
+    container.innerHTML = `
+      <div class="section-feed-header">
+        <span class="section-feed-label">最新动态 · 自动采集</span>
+        <button class="section-feed-more" onclick="showSection('ai-weekly')">查看全部 →</button>
+      </div>
+      ${items.map(item => {
+        const src = SOURCE_COLORS[item.source_id] || { cls: 'badge-p2', label: item.source_name };
+        return `
+        <a class="feed-item" href="${item.link || '#'}" target="_blank" rel="noopener noreferrer">
+          <div class="feed-item-top">
+            <span class="feed-source-badge ${src.cls}"><span class="feed-priority-dot"></span>${src.label}</span>
+            <span class="feed-date">${formatFeedDate(item.date)}</span>
+          </div>
+          <h3 class="feed-title">${item.title}</h3>
+          ${item.tldr ? `<p class="feed-tldr">${item.tldr}</p>` : item.excerpt ? `<p class="feed-excerpt">${item.excerpt}</p>` : ''}
+          ${(item.insight || item.suggestion) ? `
+          <div class="feed-enriched-row">
+            ${item.insight ? `<span class="feed-insight">${item.insight}</span>` : ''}
+            ${item.suggestion ? `<span class="feed-suggestion">${item.suggestion}</span>` : ''}
+          </div>` : ''}
+          <div class="feed-arrow"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
+        </a>`;
+      }).join('')}`;
+  }
 
   function formatFeedDate(iso) {
     if (!iso) return '';
@@ -1162,7 +1232,12 @@
             <span class="feed-date">${formatFeedDate(item.date)}</span>
           </div>
           <h3 class="feed-title">${item.title}</h3>
-          ${item.excerpt ? `<p class="feed-excerpt">${item.excerpt}</p>` : ''}
+          ${item.tldr ? `<p class="feed-tldr">${item.tldr}</p>` : item.excerpt ? `<p class="feed-excerpt">${item.excerpt}</p>` : ''}
+          ${(item.insight || item.suggestion) ? `
+          <div class="feed-enriched-row">
+            ${item.insight ? `<span class="feed-insight">${item.insight}</span>` : ''}
+            ${item.suggestion ? `<span class="feed-suggestion">${item.suggestion}</span>` : ''}
+          </div>` : ''}
           <div class="feed-arrow">
             <svg viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
           </div>
