@@ -1,1 +1,450 @@
-{}
+{
+  "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
+    "category": "ai-cognition",
+    "tldr": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/stargate-michigan-data-center": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/boston-childrens-hospital": {
+    "category": "ai-cognition",
+    "tldr": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/braintrust": {
+    "category": "ai-ux",
+    "tldr": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": {
+    "category": "ai-ux",
+    "tldr": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/trustworthy-third-party-evaluations-foundations": {
+    "category": "ai-ux",
+    "tldr": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/endava": {
+    "category": "ai-agent",
+    "tldr": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/openai-frontier-governance-framework": {
+    "category": "ai-cognition",
+    "tldr": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/mufg": {
+    "category": "ai-management",
+    "tldr": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical": {
+    "category": "ai-cognition",
+    "tldr": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/research/glasswing-initial-update": {
+    "category": "ai-cognition",
+    "tldr": "Project Glasswing: An initial update",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/anthropic-kpmg": {
+    "category": "ai-cognition",
+    "tldr": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/widening-conversation-ai": {
+    "category": "ai-cognition",
+    "tldr": "Widening the conversation on frontier AI",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/": {
+    "category": "ai-cognition",
+    "tldr": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/anthropic-acquires-stainless": {
+    "category": "ai-cognition",
+    "tldr": "Anthropic acquires Stainless",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/": {
+    "category": "ai-cognition",
+    "tldr": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/introducing-gemini-omni/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/introducing-google-antigravity-2-0/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/": {
+    "category": "ai-workflow",
+    "tldr": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/": {
+    "category": "ai-workflow",
+    "tldr": "We're expanding our tools to help you understand how content was created and edited across the web.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/": {
+    "category": "ai-cognition",
+    "tldr": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/": {
+    "category": "ai-cognition",
+    "tldr": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/opening-new-paths-in-aging-research/": {
+    "category": "ai-cognition",
+    "tldr": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/pwc-expanded-partnership": {
+    "category": "ai-cognition",
+    "tldr": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/research-recommendations-roadmap/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "To influence the roadmap: join planning early, learn constraints, tie research to PM metrics, and give clear recommendations at the right time.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/ras-research-resource-allocation/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "RAS helps managers allocate resources based on actual impact, shifting focus from outputs to outcomes and enabling data-driven UX strategies.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/4-new-ways-to-go-from-idea-to-product-with-ai-tools/": {
+    "category": "ai-ux",
+    "tldr": "AI tools are changing how teams build products—from where they start to what carries through to production. Here's what that shift looks like across four…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/figma-make-now-on-your-local-code/": {
+    "category": "ai-ux",
+    "tldr": "From visual editing to contextual prompting and collaboration, Figma Make is expanding how teams can design with code.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/trust-the-process/": {
+    "category": "ai-agent",
+    "tldr": "Between new model drops and agentic tools, how design happens is changing fast.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/design-disposables/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Design disposables are rough artifacts you make to think, not to deliver. Learn to tell them apart from deliverables and avoid the sunk-cost trap.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/after-design-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Most designers invest in running critiques but skip the followup. That missing step is often why feedback culture breaks down.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/what-matters-when-anyone-can-build/": {
+    "category": "ai-ux",
+    "tldr": "If AI can make anyone a product builder, the real edge is knowing what’s worth shipping.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/7-tips-for-using-figma-make-credits-more-efficiently/": {
+    "category": "ai-ux",
+    "tldr": "While everyone’s talking about “tokenmaxxing,” we’ve compiled seven best practices to help you build smarter—without prompting more—in Figma Make.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/the-figma-agent-is-here/": {
+    "category": "ai-agent",
+    "tldr": "Starting today, work with an agent that is built for Figma—directly on the canvas.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/friends-of-figma-brand-refresh/": {
+    "category": "ai-ux",
+    "tldr": "From São Paulo to Seoul, Friends of Figma chapters around the world are distinct, vibrant, and locally rooted. Our new brand gives them a more authentic way to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/training/august/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/lean-design-system-teams/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Lean design-system teams, when strategically planned, can move faster, prioritize sharply, and scale impact beyond their size.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/designers-product-teams/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Designers' top struggles aren't about design skills. They're about alignment, influence, and navigating org complexity — the work no one taught them to do.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/what-the-design-to-code-loop-unlocks/": {
+    "category": "ai-ux",
+    "tldr": "With work moving more fluidly between code and canvas, workflows aren’t just changing—they’re converging.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/designing-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-agent",
+    "tldr": "A study of Qwen's AI agent reveals 4 design lessons: support discoverability, reuse familiar patterns, handle personal data carefully, and protect user…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/ux-writing-faqs/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Get answers to frequently asked questions about UX writing from attendees of NN/G’s Writing Compelling Digital Copy course.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/pgkeeper-building-the-bouncer-we-needed-for-postgres/": {
+    "category": "ai-ux",
+    "tldr": "This is the story of why and how we built PGKeeper, a scalable and reliable service to support Figma’s rapidly growing products and database workload.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/three-things-to-know-about-assessing-customer-reviews/": {
+    "category": "ai-management",
+    "tldr": "master1305/Getty Images How should companies effectively use or respond to an unwieldy array of customer opinions? While consumer feedback can be invaluable,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/a-three-minute-protocol-to-reduce-ai-manipulation-risk/": {
+    "category": "ai-management",
+    "tldr": "izusek/Getty Images Of the potential weaknesses of any security system, the human layer has always posed a key risk. The arrival of AI tools has made human…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/does-cultural-training-help-expats-succeed/": {
+    "category": "ai-management",
+    "tldr": "funky-data/Getty Images Every year, multinational corporations invest billions in global mobility programs. The standard playbook includes training in the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/audio/ai-for-interoperability-in-health-care-philipss-carla-goulart-peron/": {
+    "category": "ai-management",
+    "tldr": "In this episode of the Me, Myself, and AI podcast, Philips’s chief medical officer Carla Goulart Peron shares how artificial intelligence is reshaping health…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/travel/our-insights/airline-premium-cabins-profitability-at-the-front-of-the-plane": {
+    "category": "ai-management",
+    "tldr": "Airlines can modernize their approach to business- and first-class revenue. Premium cabins call for differentiated strategies.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/transformation/our-insights/leading-from-the-field-transformation-in-distributed-operations": {
+    "category": "ai-management",
+    "tldr": "Don’t let your production network transformation get bogged down. For faster, stronger results, put site leaders in front—while providing direction from the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/future-of-asia/the-next-wow-factor-a-conversation-with-sidney-lu-chairman-and-ceo-foxconn-interconnect-technology": {
+    "category": "design-director",
+    "tldr": "Sidney Lu has spent four decades building things no one thought Taiwan could build. His rule: every three years, deliver something that genuinely surprises —…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/your-budget-is-killing-your-strategy-here-are-four-ways-to-fix-it": {
+    "category": "ai-management",
+    "tldr": "Traditional budgeting can undermine performance. Today, leading CFOs use budgets to turn strategy into action.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/media-center/the-future-of-ai-and-trade": {
+    "category": "ai-management",
+    "tldr": "For all the constant buzz around AI, broad-based announcements about how AI has boosted profits are noticeably missing. The reason for this loud silence: it…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/ai-is-already-rewiring-the-aftermarket-and-services": {
+    "category": "ai-management",
+    "tldr": "For industrial companies, applying AI to the aftermarket and services could provide a source for differentiation on top of cost and time savings and enhanced…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/retail/our-insights/when-ai-meets-desire-innovating-human-centered-luxury-experiences-in-the-agentic-age": {
+    "category": "ai-management",
+    "tldr": "With luxury consumers rapidly embracing AI, the strategic question for merchants is no longer whether agents will mediate the journey, but who controls how…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence": {
+    "category": "design-director",
+    "tldr": "Oil price increases impact production costs and household budgets, while growth loses momentum; nevertheless, the broader economy continues to expand, leaving…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/when-employees-are-drowning-in-change/": {
+    "category": "ai-management",
+    "tldr": "Patrick George/Ikon Images In 2021-2022, CareRx was handling an ambitious expansion. In a span of 20 months, the Canadian pharmacy services company tripled its…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-surprising-economics-of-b2b-growth-the-new-survival-threshold-and-what-it-takes-to-thrive": {
+    "category": "ai-management",
+    "tldr": "The 2026 Global B2B Pulse Survey finds a divide between leaders and laggards—and shows how integrating hyperpersonalization, AI, and sales accountability…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/move-first-or-fall-behind-how-ai-is-rewriting-the-rules-of-banking": {
+    "category": "ai-management",
+    "tldr": "AI is poised to reshape banking not just by cutting costs, but by redistributing profits, redefining customer relationships, and accelerating competition. How…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/video/what-ai-still-cant-do-for-leaders/": {
+    "category": "ai-management",
+    "tldr": "As leaders weave generative AI tools like ChatGPT and Claude into their daily workflows, where does the output fall short? Moreover, where are leaders falling…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/ask-sanyin-why-cant-they-see-that-im-visionary/": {
+    "category": "ai-management",
+    "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images I’ve been trying to move up to the next level and want to be considered a candidate for senior leadership…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/data-transformation-is-the-ceos-business/": {
+    "category": "design-director",
+    "tldr": "Aeriform/Ikon Image The Research The MIT Sloan Center for Information Systems Research conducted case study research at Caterpillar, a member of the MIT CISR…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/what-it-takes-to-scale-value-based-industrial-solutions/": {
+    "category": "ai-management",
+    "tldr": "Dante Terzigni/theispot.com B2B sales is fiercely competitive. Companies selling big-ticket products and services to other businesses must design solutions…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/companies-dont-have-to-slash-jobs-because-of-ai/": {
+    "category": "ai-management",
+    "tldr": "Harry Haysom/Ikon Images &#124; Carolyn Geason-Beissel &#8220;If AI is going to destroy all the jobs, why don&#8217;t we just stop?&#8221; That was the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  }
+}
