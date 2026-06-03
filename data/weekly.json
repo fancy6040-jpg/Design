@@ -1,9 +1,85 @@
 {
-  "generated": "2026-06-02T06:28:05.879Z",
-  "cutoff": "2026-05-03T06:26:58.303Z",
+  "generated": "2026-06-03T06:44:37.686Z",
+  "cutoff": "2026-05-04T06:43:39.419Z",
   "total": 64,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "link": "https://openai.com/index/travelers",
+      "excerpt": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak…",
+      "date": "2026-06-02T12:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Codex for every role, tool, and workflow",
+      "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "excerpt": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "date": "2026-06-02T09:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-management",
+      "tldr": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "excerpt": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "date": "2026-06-02T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Codex is becoming a productivity tool for everyone",
+      "link": "https://openai.com/index/codex-for-knowledge-work",
+      "excerpt": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and…",
+      "date": "2026-06-02T02:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Our views on AI policy and political advocacy",
       "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
@@ -119,77 +195,39 @@
       "enriched": false
     },
     {
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "excerpt": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "date": "2026-05-29T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
+      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "link": "https://www.anthropic.com/news/milan-office-opening",
+      "excerpt": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "date": "2026-05-27T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
       "priority": 0,
       "tags": [
         "AI",
         "模型",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How Endava builds an agentic organization with Codex",
-      "link": "https://openai.com/index/endava",
-      "excerpt": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "date": "2026-05-28T12:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "OpenAI’s Frontier Governance Framework",
-      "link": "https://openai.com/index/openai-frontier-governance-framework",
-      "excerpt": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "date": "2026-05-28T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
+        "安全"
       ],
       "category": "ai-cognition",
-      "tldr": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "tldr": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "link": "https://openai.com/index/mufg",
-      "excerpt": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "date": "2026-05-28T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
+      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+      "excerpt": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "date": "2026-05-26T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
       "priority": 0,
       "tags": [
         "AI",
         "模型",
-        "产品"
+        "安全"
       ],
-      "category": "ai-management",
-      "tldr": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "category": "ai-cognition",
+      "tldr": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -304,25 +342,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Anthropic acquires Stainless",
-      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "excerpt": "Anthropic acquires Stainless",
-      "date": "2026-05-18T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Anthropic acquires Stainless",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -475,25 +494,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
-      "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
-      "excerpt": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
-      "date": "2026-05-14T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -841,6 +841,158 @@
       "enriched": false
     },
     {
+      "title": "How Nespresso Builds Sustainability Into Its Business Model",
+      "link": "https://sloanreview.mit.edu/article/how-nespresso-builds-sustainability-into-its-business-model/",
+      "excerpt": "Photo courtesy of Nestlé Jean-Christophe Jaunin became CEO of Nespresso North America, the Nestlé unit that sells coffee brewing machines and capsules, on Jan.…",
+      "date": "2026-06-02T14:02:57.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "design-director",
+      "tldr": "Photo courtesy of Nestlé Jean-Christophe Jaunin became CEO of Nespresso North America, the Nestlé unit that sells coffee brewing machines and capsules, on Jan.…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Our Guide to the Summer 2026 Issue",
+      "link": "https://sloanreview.mit.edu/article/our-guide-to-the-summer-2026-issue/",
+      "excerpt": "Create Generative AI Value at Scale Kevin Schmitt, Gregory Vial, and Ivo Blohm Key Insight: Organizations are expanding their GenAI use by implementing…",
+      "date": "2026-06-02T13:48:06.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Create Generative AI Value at Scale Kevin Schmitt, Gregory Vial, and Ivo Blohm Key Insight: Organizations are expanding their GenAI use by implementing…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "What Wise Leaders Understand About Business Ecosystems",
+      "link": "https://sloanreview.mit.edu/article/what-wise-leaders-understand-about-business-ecosystems/",
+      "excerpt": "It’s safe to say that most people who rise to the top of their companies like to win. A healthy competitive streak is energizing and motivates individuals and…",
+      "date": "2026-06-02T13:47:51.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "It’s safe to say that most people who rise to the top of their companies like to win. A healthy competitive streak is energizing and motivates individuals and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Why AI Isn’t Transforming Finance Yet",
+      "link": "https://sloanreview.mit.edu/article/why-ai-isnt-transforming-finance-yet/",
+      "excerpt": "Christian Gralingen The Research The authors engaged in two complementary research streams. One was a multiyear program of action design research conducted…",
+      "date": "2026-06-02T13:45:01.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Christian Gralingen The Research The authors engaged in two complementary research streams. One was a multiyear program of action design research conducted…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Scaling AI With Adaptive Governance",
+      "link": "https://sloanreview.mit.edu/article/scaling-ai-with-adaptive-governance/",
+      "excerpt": "Christian Gralingen The Research From 2022 to 2025, the authors conducted in-depth, semistructured interviews with senior leaders and practitioners responsible…",
+      "date": "2026-06-02T13:41:46.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Christian Gralingen The Research From 2022 to 2025, the authors conducted in-depth, semistructured interviews with senior leaders and practitioners responsible…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Create Generative AI Value at Scale",
+      "link": "https://sloanreview.mit.edu/article/create-generative-ai-value-at-scale/",
+      "excerpt": "Christian Gralingen The Research Over three years (2022-2025), two of the authors (Kevin and Ivo) engaged with 23 Swiss companies that were members of a…",
+      "date": "2026-06-02T13:36:36.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Christian Gralingen The Research Over three years (2022-2025), two of the authors (Kevin and Ivo) engaged with 23 Swiss companies that were members of a…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "From Family Business to Diversified Powerhouse: A Conversation with Daniel Tsai, Chairman, Fubon Group",
+      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/leading-asia/from-family-business-to-diversified-powerhouse-a-conversation-with-daniel-tsai-chairman-fubon-group",
+      "excerpt": "How Daniel Tsai transformed a family insurer into one of Asia’s most diversified — and most resilient — business empires.",
+      "date": "2026-06-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "How Daniel Tsai transformed a family insurer into one of Asia’s most diversified — and most resilient — business empires.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The next gold rush: How the Bay Area can keep its edge in the AI era",
+      "link": "https://www.mckinsey.com/industries/social-sector/our-insights/the-next-gold-rush-how-the-bay-area-can-keep-its-edge-in-the-ai-era",
+      "excerpt": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
+      "date": "2026-06-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Three Things to Know About Assessing Customer Reviews",
       "link": "https://sloanreview.mit.edu/article/three-things-to-know-about-assessing-customer-reviews/",
       "excerpt": "master1305/Getty Images How should companies effectively use or respond to an unwieldy array of customer opinions? While consumer feedback can be invaluable,…",
@@ -955,8 +1107,27 @@
       "enriched": false
     },
     {
+      "title": "When AI becomes part of the workflow: Redesigning how software gets built",
+      "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/overview/when-ai-becomes-part-of-the-workflow-redesigning-how-software-gets-built",
+      "excerpt": "AI is already transforming how software is built—but most organizations are capturing only a fraction of its value. At Sonar, teams redesigned the product…",
+      "date": "2026-06-01T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "AI is already transforming how software is built—but most organizations are capturing only a fraction of its value. At Sonar, teams redesigned the product…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The Next Wow Factor: A Conversation with Sidney Lu, Chairman and CEO, Foxconn Interconnect Technology (FIT)",
-      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/the-next-wow-factor-a-conversation-with-sidney-lu-chairman-and-ceo-foxconn-interconnect-technology",
+      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/leading-asia/the-next-wow-factor-a-conversation-with-sidney-lu-chairman-and-ceo-foxconn-interconnect-technology",
       "excerpt": "Sidney Lu has spent four decades building things no one thought Taiwan could build. His rule: every three years, deliver something that genuinely surprises —…",
       "date": "2026-05-31T00:00:00.000Z",
       "source_id": "mckinsey",
@@ -1045,177 +1216,6 @@
       ],
       "category": "ai-management",
       "tldr": "With luxury consumers rapidly embracing AI, the strategic question for merchants is no longer whether agents will mediate the journey, but who controls how…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Global Economics Intelligence executive summary, April 2026",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
-      "excerpt": "Oil price increases impact production costs and household budgets, while growth loses momentum; nevertheless, the broader economy continues to expand, leaving…",
-      "date": "2026-05-29T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Oil price increases impact production costs and household budgets, while growth loses momentum; nevertheless, the broader economy continues to expand, leaving…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "When Employees Are Drowning in Change",
-      "link": "https://sloanreview.mit.edu/article/when-employees-are-drowning-in-change/",
-      "excerpt": "Patrick George/Ikon Images In 2021-2022, CareRx was handling an ambitious expansion. In a span of 20 months, the Canadian pharmacy services company tripled its…",
-      "date": "2026-05-28T11:00:15.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Patrick George/Ikon Images In 2021-2022, CareRx was handling an ambitious expansion. In a span of 20 months, the Canadian pharmacy services company tripled its…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The surprising economics of B2B growth: The new survival threshold—and what it takes to thrive",
-      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-surprising-economics-of-b2b-growth-the-new-survival-threshold-and-what-it-takes-to-thrive",
-      "excerpt": "The 2026 Global B2B Pulse Survey finds a divide between leaders and laggards—and shows how integrating hyperpersonalization, AI, and sales accountability…",
-      "date": "2026-05-28T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The 2026 Global B2B Pulse Survey finds a divide between leaders and laggards—and shows how integrating hyperpersonalization, AI, and sales accountability…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Move first or fall behind: How AI is rewriting the rules of banking",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/move-first-or-fall-behind-how-ai-is-rewriting-the-rules-of-banking",
-      "excerpt": "AI is poised to reshape banking not just by cutting costs, but by redistributing profits, redefining customer relationships, and accelerating competition. How…",
-      "date": "2026-05-28T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "AI is poised to reshape banking not just by cutting costs, but by redistributing profits, redefining customer relationships, and accelerating competition. How…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "What AI Still Can’t Do for Leaders",
-      "link": "https://sloanreview.mit.edu/video/what-ai-still-cant-do-for-leaders/",
-      "excerpt": "As leaders weave generative AI tools like ChatGPT and Claude into their daily workflows, where does the output fall short? Moreover, where are leaders falling…",
-      "date": "2026-05-27T11:00:09.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "As leaders weave generative AI tools like ChatGPT and Claude into their daily workflows, where does the output fall short? Moreover, where are leaders falling…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Ask Sanyin: Why Can’t They See That I’m Visionary?",
-      "link": "https://sloanreview.mit.edu/article/ask-sanyin-why-cant-they-see-that-im-visionary/",
-      "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images I’ve been trying to move up to the next level and want to be considered a candidate for senior leadership…",
-      "date": "2026-05-26T11:00:04.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images I’ve been trying to move up to the next level and want to be considered a candidate for senior leadership…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Data Transformation Is the CEO’s Business",
-      "link": "https://sloanreview.mit.edu/article/data-transformation-is-the-ceos-business/",
-      "excerpt": "Aeriform/Ikon Image The Research The MIT Sloan Center for Information Systems Research conducted case study research at Caterpillar, a member of the MIT CISR…",
-      "date": "2026-05-21T11:00:08.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "design-director",
-      "tldr": "Aeriform/Ikon Image The Research The MIT Sloan Center for Information Systems Research conducted case study research at Caterpillar, a member of the MIT CISR…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "What It Takes to Scale Value-Based Industrial Solutions",
-      "link": "https://sloanreview.mit.edu/article/what-it-takes-to-scale-value-based-industrial-solutions/",
-      "excerpt": "Dante Terzigni/theispot.com B2B sales is fiercely competitive. Companies selling big-ticket products and services to other businesses must design solutions…",
-      "date": "2026-05-20T11:00:55.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Dante Terzigni/theispot.com B2B sales is fiercely competitive. Companies selling big-ticket products and services to other businesses must design solutions…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Companies Don’t Have to Slash Jobs Because of AI",
-      "link": "https://sloanreview.mit.edu/article/companies-dont-have-to-slash-jobs-because-of-ai/",
-      "excerpt": "Harry Haysom/Ikon Images &#124; Carolyn Geason-Beissel &#8220;If AI is going to destroy all the jobs, why don&#8217;t we just stop?&#8221; That was the…",
-      "date": "2026-05-19T17:00:08.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Harry Haysom/Ikon Images &#124; Carolyn Geason-Beissel &#8220;If AI is going to destroy all the jobs, why don&#8217;t we just stop?&#8221; That was the…",
       "insight": "",
       "suggestion": "",
       "enriched": false

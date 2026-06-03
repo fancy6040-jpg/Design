@@ -446,5 +446,117 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/travelers": {
+    "category": "ai-cognition",
+    "tldr": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/codex-for-every-role-tool-workflow": {
+    "category": "ai-management",
+    "tldr": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/codex-for-knowledge-work": {
+    "category": "ai-workflow",
+    "tldr": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/milan-office-opening": {
+    "category": "ai-cognition",
+    "tldr": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea": {
+    "category": "ai-cognition",
+    "tldr": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/how-nespresso-builds-sustainability-into-its-business-model/": {
+    "category": "design-director",
+    "tldr": "Photo courtesy of Nestlé Jean-Christophe Jaunin became CEO of Nespresso North America, the Nestlé unit that sells coffee brewing machines and capsules, on Jan.…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/our-guide-to-the-summer-2026-issue/": {
+    "category": "ai-management",
+    "tldr": "Create Generative AI Value at Scale Kevin Schmitt, Gregory Vial, and Ivo Blohm Key Insight: Organizations are expanding their GenAI use by implementing…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/what-wise-leaders-understand-about-business-ecosystems/": {
+    "category": "ai-management",
+    "tldr": "It’s safe to say that most people who rise to the top of their companies like to win. A healthy competitive streak is energizing and motivates individuals and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/why-ai-isnt-transforming-finance-yet/": {
+    "category": "ai-management",
+    "tldr": "Christian Gralingen The Research The authors engaged in two complementary research streams. One was a multiyear program of action design research conducted…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/scaling-ai-with-adaptive-governance/": {
+    "category": "ai-management",
+    "tldr": "Christian Gralingen The Research From 2022 to 2025, the authors conducted in-depth, semistructured interviews with senior leaders and practitioners responsible…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/create-generative-ai-value-at-scale/": {
+    "category": "ai-management",
+    "tldr": "Christian Gralingen The Research Over three years (2022-2025), two of the authors (Kevin and Ivo) engaged with 23 Swiss companies that were members of a…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/future-of-asia/leading-asia/from-family-business-to-diversified-powerhouse-a-conversation-with-daniel-tsai-chairman-fubon-group": {
+    "category": "ai-management",
+    "tldr": "How Daniel Tsai transformed a family insurer into one of Asia’s most diversified — and most resilient — business empires.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/social-sector/our-insights/the-next-gold-rush-how-the-bay-area-can-keep-its-edge-in-the-ai-era": {
+    "category": "ai-management",
+    "tldr": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/mckinsey-technology/overview/when-ai-becomes-part-of-the-workflow-redesigning-how-software-gets-built": {
+    "category": "ai-management",
+    "tldr": "AI is already transforming how software is built—but most organizations are capturing only a fraction of its value. At Sonar, teams redesigned the product…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/future-of-asia/leading-asia/the-next-wow-factor-a-conversation-with-sidney-lu-chairman-and-ceo-foxconn-interconnect-technology": {
+    "category": "design-director",
+    "tldr": "Sidney Lu has spent four decades building things no one thought Taiwan could build. His rule: every three years, deliver something that genuinely surprises —…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
