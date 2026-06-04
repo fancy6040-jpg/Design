@@ -558,5 +558,61 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind": {
+    "category": "ai-workflow",
+    "tldr": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/wasmer": {
+    "category": "ai-cognition",
+    "tldr": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/frontier-safety-blueprint": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/public-policy-agenda": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/series-h": {
+    "category": "ai-cognition",
+    "tldr": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/claude-opus-4-8": {
+    "category": "ai-cognition",
+    "tldr": "Introducing Claude Opus 4.8",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/training/september/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/when-warranty-costs-rival-r-and-d-spend-remaking-vehicle-quality-with-ai": {
+    "category": "ai-management",
+    "tldr": "As warranty costs surge, automakers are turning to AI-enabled quality systems to detect risks earlier and reduce financial exposure.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
