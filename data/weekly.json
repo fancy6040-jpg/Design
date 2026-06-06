@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T06:13:13.296Z",
-  "cutoff": "2026-05-06T06:11:49.994Z",
+  "generated": "2026-06-06T05:46:35.486Z",
+  "cutoff": "2026-05-07T05:45:36.987Z",
   "total": 64,
   "sources_attempted": 13,
   "items": [
@@ -100,25 +100,6 @@
       "enriched": false
     },
     {
-      "title": "OpenAI public policy agenda",
-      "link": "https://openai.com/index/public-policy-agenda",
-      "excerpt": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "date": "2026-06-03T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "A blueprint for democratic governance of frontier AI",
       "link": "https://openai.com/index/frontier-safety-blueprint",
       "excerpt": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
@@ -133,6 +114,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "OpenAI public policy agenda",
+      "link": "https://openai.com/index/public-policy-agenda",
+      "excerpt": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "date": "2026-06-03T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -499,6 +499,44 @@
       "enriched": false
     },
     {
+      "title": "The Hidden Why: Behavioral Economics for UX",
+      "link": "https://www.nngroup.com/articles/behavioral-economics-for-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Use behavioral-economics frameworks to uncover hidden friction in your experience and design UX solutions that better support user action.",
+      "date": "2026-06-05T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Use behavioral-economics frameworks to uncover hidden friction in your experience and design UX solutions that better support user action.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The Four Design Jobs AI Created (So Far)",
+      "link": "https://www.nngroup.com/articles/design-jobs-ai-created/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "\"AI design\" is one label but has forked into four different types of work.",
+      "date": "2026-06-05T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "\"AI design\" is one label but has forked into four different types of work.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "UX Conference September Announced (Sep 14 - Sep 25)",
       "link": "https://www.nngroup.com/training/september/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
@@ -803,44 +841,6 @@
       "enriched": false
     },
     {
-      "title": "Designing AI Agents: 4 Lessons from China’s Qwen Agent",
-      "link": "https://www.nngroup.com/articles/designing-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "A study of Qwen's AI agent reveals 4 design lessons: support discoverability, reuse familiar patterns, handle personal data carefully, and protect user…",
-      "date": "2026-05-08T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-agent",
-      "tldr": "A study of Qwen's AI agent reveals 4 design lessons: support discoverability, reuse familiar patterns, handle personal data carefully, and protect user…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "UX Writing: FAQs from Practitioners",
-      "link": "https://www.nngroup.com/articles/ux-writing-faqs/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Get answers to frequently asked questions about UX writing from attendees of NN/G’s Writing Compelling Digital Copy course.",
-      "date": "2026-05-08T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Get answers to frequently asked questions about UX writing from attendees of NN/G’s Writing Compelling Digital Copy course.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Author Talks: How to succeed when systems fail",
       "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-to-succeed-when-systems-fail",
       "excerpt": "What if the fastest way to transform an organization is through crisis? Marina Nitze explains how crises expose hidden failures—and create rare opportunities…",
@@ -855,6 +855,25 @@
       ],
       "category": "ai-management",
       "tldr": "What if the fastest way to transform an organization is through crisis? Marina Nitze explains how crises expose hidden failures—and create rare opportunities…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Resetting cost competitiveness in pulp and paper packaging",
+      "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/resetting-cost-competitiveness-in-pulp-and-paper-packaging",
+      "excerpt": "Overcapacity, volatile costs, and weak demand are compressing margins. Successful companies are harnessing AI to pursue cross-functional interventions that…",
+      "date": "2026-06-05T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Overcapacity, volatile costs, and weak demand are compressing margins. Successful companies are harnessing AI to pursue cross-functional interventions that…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1069,25 +1088,6 @@
       "enriched": false
     },
     {
-      "title": "From Family Business to Diversified Powerhouse: A Conversation with Daniel Tsai, Chairman, Fubon Group",
-      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/leading-asia/from-family-business-to-diversified-powerhouse-a-conversation-with-daniel-tsai-chairman-fubon-group",
-      "excerpt": "How Daniel Tsai transformed a family insurer into one of Asia’s most diversified — and most resilient — business empires.",
-      "date": "2026-06-02T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "How Daniel Tsai transformed a family insurer into one of Asia’s most diversified — and most resilient — business empires.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The next gold rush: How the Bay Area can keep its edge in the AI era",
       "link": "https://www.mckinsey.com/industries/social-sector/our-insights/the-next-gold-rush-how-the-bay-area-can-keep-its-edge-in-the-ai-era",
       "excerpt": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
@@ -1102,6 +1102,25 @@
       ],
       "category": "ai-management",
       "tldr": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "From Family Business to Diversified Powerhouse: A Conversation with Daniel Tsai, Chairman, Fubon Group",
+      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/leading-asia/from-family-business-to-diversified-powerhouse-a-conversation-with-daniel-tsai-chairman-fubon-group",
+      "excerpt": "How Daniel Tsai transformed a family insurer into one of Asia’s most diversified — and most resilient — business empires.",
+      "date": "2026-06-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "How Daniel Tsai transformed a family insurer into one of Asia’s most diversified — and most resilient — business empires.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1197,25 +1216,6 @@
       ],
       "category": "ai-management",
       "tldr": "Airlines can modernize their approach to business- and first-class revenue. Premium cabins call for differentiated strategies.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "When AI becomes part of the workflow: Redesigning how software gets built",
-      "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/overview/when-ai-becomes-part-of-the-workflow-redesigning-how-software-gets-built",
-      "excerpt": "AI is already transforming how software is built—but most organizations are capturing only a fraction of its value. At Sonar, teams redesigned the product…",
-      "date": "2026-06-01T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "AI is already transforming how software is built—but most organizations are capturing only a fraction of its value. At Sonar, teams redesigned the product…",
       "insight": "",
       "suggestion": "",
       "enriched": false

@@ -670,5 +670,26 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://www.nngroup.com/articles/behavioral-economics-for-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Use behavioral-economics frameworks to uncover hidden friction in your experience and design UX solutions that better support user action.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/design-jobs-ai-created/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "\"AI design\" is one label but has forked into four different types of work.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/resetting-cost-competitiveness-in-pulp-and-paper-packaging": {
+    "category": "ai-management",
+    "tldr": "Overcapacity, volatile costs, and weak demand are compressing margins. Successful companies are harnessing AI to pursue cross-functional interventions that…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
