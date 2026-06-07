@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-06T05:46:35.486Z",
-  "cutoff": "2026-05-07T05:45:36.987Z",
+  "generated": "2026-06-07T06:13:54.112Z",
+  "cutoff": "2026-05-08T06:12:57.859Z",
   "total": 64,
   "sources_attempted": 13,
   "items": [
@@ -841,25 +841,6 @@
       "enriched": false
     },
     {
-      "title": "Author Talks: How to succeed when systems fail",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-to-succeed-when-systems-fail",
-      "excerpt": "What if the fastest way to transform an organization is through crisis? Marina Nitze explains how crises expose hidden failures—and create rare opportunities…",
-      "date": "2026-06-05T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "What if the fastest way to transform an organization is through crisis? Marina Nitze explains how crises expose hidden failures—and create rare opportunities…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Resetting cost competitiveness in pulp and paper packaging",
       "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/resetting-cost-competitiveness-in-pulp-and-paper-packaging",
       "excerpt": "Overcapacity, volatile costs, and weak demand are compressing margins. Successful companies are harnessing AI to pursue cross-functional interventions that…",
@@ -874,6 +855,25 @@
       ],
       "category": "ai-management",
       "tldr": "Overcapacity, volatile costs, and weak demand are compressing margins. Successful companies are harnessing AI to pursue cross-functional interventions that…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Author Talks: How to succeed when systems fail",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-to-succeed-when-systems-fail",
+      "excerpt": "What if the fastest way to transform an organization is through crisis? Marina Nitze explains how crises expose hidden failures—and create rare opportunities…",
+      "date": "2026-06-05T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "What if the fastest way to transform an organization is through crisis? Marina Nitze explains how crises expose hidden failures—and create rare opportunities…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1088,25 +1088,6 @@
       "enriched": false
     },
     {
-      "title": "The next gold rush: How the Bay Area can keep its edge in the AI era",
-      "link": "https://www.mckinsey.com/industries/social-sector/our-insights/the-next-gold-rush-how-the-bay-area-can-keep-its-edge-in-the-ai-era",
-      "excerpt": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
-      "date": "2026-06-02T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "From Family Business to Diversified Powerhouse: A Conversation with Daniel Tsai, Chairman, Fubon Group",
       "link": "https://www.mckinsey.com/featured-insights/future-of-asia/leading-asia/from-family-business-to-diversified-powerhouse-a-conversation-with-daniel-tsai-chairman-fubon-group",
       "excerpt": "How Daniel Tsai transformed a family insurer into one of Asia’s most diversified — and most resilient — business empires.",
@@ -1121,6 +1102,25 @@
       ],
       "category": "ai-management",
       "tldr": "How Daniel Tsai transformed a family insurer into one of Asia’s most diversified — and most resilient — business empires.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The next gold rush: How the Bay Area can keep its edge in the AI era",
+      "link": "https://www.mckinsey.com/industries/social-sector/our-insights/the-next-gold-rush-how-the-bay-area-can-keep-its-edge-in-the-ai-era",
+      "excerpt": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
+      "date": "2026-06-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
       "insight": "",
       "suggestion": "",
       "enriched": false
