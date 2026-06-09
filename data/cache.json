@@ -691,5 +691,75 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/openai-submits-confidential-s-1": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/built-to-benefit-everyone-our-plan": {
+    "category": "ai-cognition",
+    "tldr": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/economic-research-exchange": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/you-never-stop-cultivating-taste/": {
+    "category": "ai-ux",
+    "tldr": "Having the right tools can only take you so far. To become a master of your craft, you need to hone a point of view.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/the-empathy-tax-female-leaders-pay/": {
+    "category": "ai-management",
+    "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The consulting manager took a call at 7:30 p.m., while volunteering at her son’s soccer practice, from an…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/mckinsey-explainers/banking-and-ai-when-the-tech-starts-doing-the-work-not-just-assisting-it": {
+    "category": "ai-management",
+    "tldr": "Three McKinsey experts explain how AI is reshaping banking from the inside out—and why the biggest obstacle isn’t the technology.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/energy-and-materials/our-insights/the-next-wave-of-value-in-the-materials-supply-chain": {
+    "category": "ai-management",
+    "tldr": "A slew of forces is expanding roles for overlooked players in the materials supply chain in North America and Europe.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organizational-performance/how-we-help-clients/blackstones-legal-and-compliance-ai-transformation-started-with-technology": {
+    "category": "ai-management",
+    "tldr": "By first redesigning how decisions flow—clarifying ownership and codifying precedent—the financial services firm was able to rewire its Legal & Compliance…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/hr-monitor": {
+    "category": "ai-management",
+    "tldr": "A comprehensive benchmark survey of workforce and HR trends across Europe, the United States, and China delivers critical insights for today’s HR leaders.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/public-sector/our-insights/reimagining-federal-procurement-in-the-digital-and-ai-age": {
+    "category": "ai-management",
+    "tldr": "Digitalizing federal procurement can improve decision-making, increase efficiency and transparency, and bolster resilience—all of which are critical in today’s…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

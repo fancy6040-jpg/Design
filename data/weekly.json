@@ -1,9 +1,66 @@
 {
-  "generated": "2026-06-08T06:28:14.901Z",
-  "cutoff": "2026-05-09T06:27:24.446Z",
-  "total": 64,
+  "generated": "2026-06-09T06:00:53.814Z",
+  "cutoff": "2026-05-10T06:00:00.646Z",
+  "total": 65,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "link": "https://openai.com/index/openai-submits-confidential-s-1",
+      "excerpt": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "date": "2026-06-08T14:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Built to benefit everyone: our plan",
+      "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "excerpt": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "date": "2026-06-08T01:30:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "link": "https://openai.com/index/economic-research-exchange",
+      "excerpt": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research…",
+      "date": "2026-06-08T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "How Endava is redesigning software delivery around AI agents",
       "link": "https://openai.com/index/endava-frontiers",
@@ -133,63 +190,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "link": "https://openai.com/index/travelers",
-      "excerpt": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak…",
-      "date": "2026-06-02T12:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Codex for every role, tool, and workflow",
-      "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "excerpt": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-      "date": "2026-06-02T09:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "excerpt": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-      "date": "2026-06-02T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -494,6 +494,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "You never stop cultivating taste",
+      "link": "https://www.figma.com/blog/you-never-stop-cultivating-taste/",
+      "excerpt": "Having the right tools can only take you so far. To become a master of your craft, you need to hone a point of view.",
+      "date": "2026-06-08T16:26:36.446Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "Having the right tools can only take you so far. To become a master of your craft, you need to hone a point of view.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -841,6 +860,120 @@
       "enriched": false
     },
     {
+      "title": "The Empathy Tax Female Leaders Pay",
+      "link": "https://sloanreview.mit.edu/article/the-empathy-tax-female-leaders-pay/",
+      "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The consulting manager took a call at 7:30 p.m., while volunteering at her son’s soccer practice, from an…",
+      "date": "2026-06-08T12:30:26.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The consulting manager took a call at 7:30 p.m., while volunteering at her son’s soccer practice, from an…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Banking and AI: When the tech starts doing the work, not just assisting it",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/banking-and-ai-when-the-tech-starts-doing-the-work-not-just-assisting-it",
+      "excerpt": "Three McKinsey experts explain how AI is reshaping banking from the inside out—and why the biggest obstacle isn’t the technology.",
+      "date": "2026-06-08T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Three McKinsey experts explain how AI is reshaping banking from the inside out—and why the biggest obstacle isn’t the technology.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The next wave of value in the materials supply chain",
+      "link": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/the-next-wave-of-value-in-the-materials-supply-chain",
+      "excerpt": "A slew of forces is expanding roles for overlooked players in the materials supply chain in North America and Europe.",
+      "date": "2026-06-08T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "A slew of forces is expanding roles for overlooked players in the materials supply chain in North America and Europe.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Blackstone’s Legal & Compliance AI transformation started with technology. It succeeded because it put people first",
+      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/how-we-help-clients/blackstones-legal-and-compliance-ai-transformation-started-with-technology",
+      "excerpt": "By first redesigning how decisions flow—clarifying ownership and codifying precedent—the financial services firm was able to rewire its Legal & Compliance…",
+      "date": "2026-06-08T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "By first redesigning how decisions flow—clarifying ownership and codifying precedent—the financial services firm was able to rewire its Legal & Compliance…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "HR Monitor 2026: A turning point for the people function",
+      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/hr-monitor",
+      "excerpt": "A comprehensive benchmark survey of workforce and HR trends across Europe, the United States, and China delivers critical insights for today’s HR leaders.",
+      "date": "2026-06-08T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "A comprehensive benchmark survey of workforce and HR trends across Europe, the United States, and China delivers critical insights for today’s HR leaders.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Reimagining federal procurement in the digital and AI age",
+      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/reimagining-federal-procurement-in-the-digital-and-ai-age",
+      "excerpt": "Digitalizing federal procurement can improve decision-making, increase efficiency and transparency, and bolster resilience—all of which are critical in today’s…",
+      "date": "2026-06-08T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Digitalizing federal procurement can improve decision-making, increase efficiency and transparency, and bolster resilience—all of which are critical in today’s…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Resetting cost competitiveness in pulp and paper packaging",
       "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/resetting-cost-competitiveness-in-pulp-and-paper-packaging",
       "excerpt": "Overcapacity, volatile costs, and weak demand are compressing margins. Successful companies are harnessing AI to pursue cross-functional interventions that…",
@@ -931,44 +1064,6 @@
       ],
       "category": "ai-management",
       "tldr": "The German retail and tourism group’s chief digital and technology officer says AI is “the most fundamental change in the way we do business in 50 years.”",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Embracing complexity: Parloa’s vision for next-gen customer experience",
-      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/embracing-complexity-parloas-vision-for-next-gen-customer-experience",
-      "excerpt": "Chris Silver, chief revenue officer at Parloa, talks with McKinsey partner Brian Blackader about the shift to adopting AI technologies in customer care,…",
-      "date": "2026-06-04T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Chris Silver, chief revenue officer at Parloa, talks with McKinsey partner Brian Blackader about the shift to adopting AI technologies in customer care,…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "When warranty costs rival R&D spend: Remaking vehicle quality with AI",
-      "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/when-warranty-costs-rival-r-and-d-spend-remaking-vehicle-quality-with-ai",
-      "excerpt": "As warranty costs surge, automakers are turning to AI-enabled quality systems to detect risks earlier and reduce financial exposure.",
-      "date": "2026-06-03T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "As warranty costs surge, automakers are turning to AI-enabled quality systems to detect risks earlier and reduce financial exposure.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1088,44 +1183,6 @@
       "enriched": false
     },
     {
-      "title": "From Family Business to Diversified Powerhouse: A Conversation with Daniel Tsai, Chairman, Fubon Group",
-      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/leading-asia/from-family-business-to-diversified-powerhouse-a-conversation-with-daniel-tsai-chairman-fubon-group",
-      "excerpt": "How Daniel Tsai transformed a family insurer into one of Asia’s most diversified — and most resilient — business empires.",
-      "date": "2026-06-02T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "How Daniel Tsai transformed a family insurer into one of Asia’s most diversified — and most resilient — business empires.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The next gold rush: How the Bay Area can keep its edge in the AI era",
-      "link": "https://www.mckinsey.com/industries/social-sector/our-insights/the-next-gold-rush-how-the-bay-area-can-keep-its-edge-in-the-ai-era",
-      "excerpt": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
-      "date": "2026-06-02T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Three Things to Know About Assessing Customer Reviews",
       "link": "https://sloanreview.mit.edu/article/three-things-to-know-about-assessing-customer-reviews/",
       "excerpt": "master1305/Getty Images How should companies effectively use or respond to an unwieldy array of customer opinions? While consumer feedback can be invaluable,…",
@@ -1178,44 +1235,6 @@
       ],
       "category": "ai-management",
       "tldr": "funky-data/Getty Images Every year, multinational corporations invest billions in global mobility programs. The standard playbook includes training in the…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "AI for Interoperability in Health Care: Philips’s Carla Goulart Peron",
-      "link": "https://sloanreview.mit.edu/audio/ai-for-interoperability-in-health-care-philipss-carla-goulart-peron/",
-      "excerpt": "In this episode of the Me, Myself, and AI podcast, Philips’s chief medical officer Carla Goulart Peron shares how artificial intelligence is reshaping health…",
-      "date": "2026-06-01T11:00:18.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "In this episode of the Me, Myself, and AI podcast, Philips’s chief medical officer Carla Goulart Peron shares how artificial intelligence is reshaping health…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Airline premium cabins: Profitability at the front of the plane",
-      "link": "https://www.mckinsey.com/industries/travel/our-insights/airline-premium-cabins-profitability-at-the-front-of-the-plane",
-      "excerpt": "Airlines can modernize their approach to business- and first-class revenue. Premium cabins call for differentiated strategies.",
-      "date": "2026-06-01T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Airlines can modernize their approach to business- and first-class revenue. Premium cabins call for differentiated strategies.",
       "insight": "",
       "suggestion": "",
       "enriched": false
