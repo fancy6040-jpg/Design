@@ -1,9 +1,123 @@
 {
-  "generated": "2026-06-09T06:00:53.814Z",
-  "cutoff": "2026-05-10T06:00:00.646Z",
-  "total": 65,
+  "generated": "2026-06-10T06:14:04.033Z",
+  "cutoff": "2026-05-11T06:12:45.743Z",
+  "total": 68,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "excerpt": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "date": "2026-06-09T15:16:25.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "excerpt": "",
+      "date": "2026-06-09T14:10:19.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Powering the future of robotics in Europe",
+      "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "excerpt": "",
+      "date": "2026-06-09T14:02:33.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "link": "https://openai.com/index/nextdoor",
+      "excerpt": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "date": "2026-06-09T12:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "What Codex unlocks for Notion",
+      "link": "https://openai.com/index/notion",
+      "excerpt": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "date": "2026-06-09T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-management",
+      "tldr": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Industrial policy for the Intelligence Age",
+      "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "excerpt": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient…",
+      "date": "2026-06-09T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Confidential submission of draft S-1 to the SEC",
       "link": "https://openai.com/index/openai-submits-confidential-s-1",
@@ -19,6 +133,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "link": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "excerpt": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "date": "2026-06-08T13:04:59.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -138,58 +271,39 @@
       "enriched": false
     },
     {
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "link": "https://openai.com/index/wasmer",
-      "excerpt": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "date": "2026-06-03T12:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
+      "title": "Expanding Project Glasswing",
+      "link": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "excerpt": "Expanding Project Glasswing",
+      "date": "2026-06-02T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
       "priority": 0,
       "tags": [
         "AI",
         "模型",
-        "产品"
+        "安全"
       ],
       "category": "ai-cognition",
-      "tldr": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "tldr": "Expanding Project Glasswing",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "link": "https://openai.com/index/frontier-safety-blueprint",
-      "excerpt": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "date": "2026-06-03T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "excerpt": "Anthropic confidentially submits draft S-1 to the SEC",
+      "date": "2026-06-01T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
       "priority": 0,
       "tags": [
         "AI",
         "模型",
-        "产品"
+        "安全"
       ],
       "category": "ai-cognition",
-      "tldr": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "OpenAI public policy agenda",
-      "link": "https://openai.com/index/public-policy-agenda",
-      "excerpt": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "date": "2026-06-03T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "tldr": "Anthropic confidentially submits draft S-1 to the SEC",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -328,6 +442,25 @@
       "enriched": false
     },
     {
+      "title": "Widening the conversation on frontier AI",
+      "link": "https://www.anthropic.com/news/widening-conversation-ai",
+      "excerpt": "Widening the conversation on frontier AI",
+      "date": "2026-05-19T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Widening the conversation on frontier AI",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Fast-tracking genetic leads to reverse cellular aging",
       "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
       "excerpt": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
@@ -418,82 +551,6 @@
       ],
       "category": "ai-workflow",
       "tldr": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Making it easier to understand how content was created and edited",
-      "link": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
-      "excerpt": "We're expanding our tools to help you understand how content was created and edited across the web.",
-      "date": "2026-05-17T13:43:50.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-workflow",
-      "tldr": "We're expanding our tools to help you understand how content was created and edited across the web.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
-      "link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-      "excerpt": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
-      "date": "2026-05-16T09:13:34.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Finding the molecular switches behind new infectious diseases",
-      "link": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
-      "excerpt": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
-      "date": "2026-05-16T08:16:06.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Opening new paths in aging research",
-      "link": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
-      "excerpt": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
-      "date": "2026-05-16T08:08:44.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -860,6 +917,139 @@
       "enriched": false
     },
     {
+      "title": "Productivity reimagined",
+      "link": "https://www.mckinsey.com/featured-insights/insights-on-europe/productivity-reimagined",
+      "excerpt": "Bold moves to redefine growth in Germany.",
+      "date": "2026-06-10T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Bold moves to redefine growth in Germany.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The AI Atrophy Problem: How CIOs Fight It",
+      "link": "https://sloanreview.mit.edu/video/the-ai-atrophy-problem-how-cios-fight-it/",
+      "excerpt": "AI tools can help teams become faster and more efficient. But as organizations race to integrate artificial intelligence into more workflows, a problem is…",
+      "date": "2026-06-09T11:00:35.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "AI tools can help teams become faster and more efficient. But as organizations race to integrate artificial intelligence into more workflows, a problem is…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Reinventing autonomous driving in the age of generative AI",
+      "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/reinventing-autonomous-driving-in-the-age-of-generative-ai",
+      "excerpt": "As AI-native systems take hold, autonomous driving is becoming a race for compute power, software, data, and semiconductors.",
+      "date": "2026-06-09T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As AI-native systems take hold, autonomous driving is becoming a race for compute power, software, data, and semiconductors.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Reimagining trade spend: From cost center to growth catalyst",
+      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/reimagining-trade-spend-from-cost-center-to-growth-catalyst",
+      "excerpt": "Despite costing companies 8 to 11 percent of revenue, trade spend underdelivers. Companies could reset their approach through six design principles to unlock…",
+      "date": "2026-06-09T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Despite costing companies 8 to 11 percent of revenue, trade spend underdelivers. Companies could reset their approach through six design principles to unlock…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Private credit in 2025: A maturing industry navigates change",
+      "link": "https://www.mckinsey.com/industries/private-capital/our-insights/global-private-markets-report/private-credit",
+      "excerpt": "Complexity is increasing and competitive pressures are on the rise. The asset class is becoming less about deploying capital at pace—and more about deploying…",
+      "date": "2026-06-09T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Complexity is increasing and competitive pressures are on the rise. The asset class is becoming less about deploying capital at pace—and more about deploying…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Where value is won and lost in distribution",
+      "link": "https://www.mckinsey.com/industries/industrials/our-insights/where-value-is-won-and-lost-in-distribution",
+      "excerpt": "The state of distribution in the United States is defined by permanent volatility, especially from the emergence of AI. The ability to address five current…",
+      "date": "2026-06-09T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The state of distribution in the United States is defined by permanent volatility, especially from the emergence of AI. The ability to address five current…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "AI in life sciences explained: The technology that could reinvent medicine",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-in-life-sciences-explained-the-technology-that-could-reinvent-medicine",
+      "excerpt": "Three McKinsey experts explain how AI is reshaping life sciences—where it’s creating value today, why so many efforts stall, and what the next decade could…",
+      "date": "2026-06-09T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Three McKinsey experts explain how AI is reshaping life sciences—where it’s creating value today, why so many efforts stall, and what the next decade could…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The Empathy Tax Female Leaders Pay",
       "link": "https://sloanreview.mit.edu/article/the-empathy-tax-female-leaders-pay/",
       "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The consulting manager took a call at 7:30 p.m., while volunteering at her son’s soccer practice, from an…",
@@ -950,120 +1140,6 @@
       ],
       "category": "ai-management",
       "tldr": "A comprehensive benchmark survey of workforce and HR trends across Europe, the United States, and China delivers critical insights for today’s HR leaders.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Reimagining federal procurement in the digital and AI age",
-      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/reimagining-federal-procurement-in-the-digital-and-ai-age",
-      "excerpt": "Digitalizing federal procurement can improve decision-making, increase efficiency and transparency, and bolster resilience—all of which are critical in today’s…",
-      "date": "2026-06-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Digitalizing federal procurement can improve decision-making, increase efficiency and transparency, and bolster resilience—all of which are critical in today’s…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Resetting cost competitiveness in pulp and paper packaging",
-      "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/resetting-cost-competitiveness-in-pulp-and-paper-packaging",
-      "excerpt": "Overcapacity, volatile costs, and weak demand are compressing margins. Successful companies are harnessing AI to pursue cross-functional interventions that…",
-      "date": "2026-06-05T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Overcapacity, volatile costs, and weak demand are compressing margins. Successful companies are harnessing AI to pursue cross-functional interventions that…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Author Talks: How to succeed when systems fail",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-to-succeed-when-systems-fail",
-      "excerpt": "What if the fastest way to transform an organization is through crisis? Marina Nitze explains how crises expose hidden failures—and create rare opportunities…",
-      "date": "2026-06-05T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "What if the fastest way to transform an organization is through crisis? Marina Nitze explains how crises expose hidden failures—and create rare opportunities…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Latino economic mobility: Insights from five years of research",
-      "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/latino-economic-mobility-insights-from-five-years-of-research",
-      "excerpt": "This compendium brings together five years of McKinsey research on how Latinos are reshaping America’s economic future and why expanding opportunity for this…",
-      "date": "2026-06-04T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "This compendium brings together five years of McKinsey research on how Latinos are reshaping America’s economic future and why expanding opportunity for this…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How CEOs can navigate the new era of trade",
-      "link": "https://www.mckinsey.com/mgi/our-research/how-ceos-can-navigate-the-new-era-of-trade",
-      "excerpt": "AI, geopolitical realignment, and shifting capital flows are redrawing trade corridors and reshaping competitive advantage—forcing leaders to rethink where and…",
-      "date": "2026-06-04T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "AI, geopolitical realignment, and shifting capital flows are redrawing trade corridors and reshaping competitive advantage—forcing leaders to rethink where and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Preparing for agentic commerce: REWE’s AI transformation",
-      "link": "https://www.mckinsey.com/industries/retail/our-insights/preparing-for-agentic-commerce-rewes-ai-transformation",
-      "excerpt": "The German retail and tourism group’s chief digital and technology officer says AI is “the most fundamental change in the way we do business in 50 years.”",
-      "date": "2026-06-04T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The German retail and tourism group’s chief digital and technology officer says AI is “the most fundamental change in the way we do business in 50 years.”",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1216,25 +1292,6 @@
       ],
       "category": "ai-management",
       "tldr": "izusek/Getty Images Of the potential weaknesses of any security system, the human layer has always posed a key risk. The arrival of AI tools has made human…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Does Cultural Training Help Expats Succeed?",
-      "link": "https://sloanreview.mit.edu/article/does-cultural-training-help-expats-succeed/",
-      "excerpt": "funky-data/Getty Images Every year, multinational corporations invest billions in global mobility programs. The standard playbook includes training in the…",
-      "date": "2026-06-01T11:00:19.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "funky-data/Getty Images Every year, multinational corporations invest billions in global mobility programs. The standard playbook includes training in the…",
       "insight": "",
       "suggestion": "",
       "enriched": false

@@ -761,5 +761,117 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": {
+    "category": "ai-cognition",
+    "tldr": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/nextdoor": {
+    "category": "ai-cognition",
+    "tldr": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/notion": {
+    "category": "ai-management",
+    "tldr": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/industrial-policy-for-the-intelligence-age": {
+    "category": "ai-cognition",
+    "tldr": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/": {
+    "category": "ai-cognition",
+    "tldr": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/expanding-project-glasswing": {
+    "category": "ai-cognition",
+    "tldr": "Expanding Project Glasswing",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/confidential-draft-s1-sec": {
+    "category": "ai-cognition",
+    "tldr": "Anthropic confidentially submits draft S-1 to the SEC",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/insights-on-europe/productivity-reimagined": {
+    "category": "ai-management",
+    "tldr": "Bold moves to redefine growth in Germany.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/video/the-ai-atrophy-problem-how-cios-fight-it/": {
+    "category": "ai-management",
+    "tldr": "AI tools can help teams become faster and more efficient. But as organizations race to integrate artificial intelligence into more workflows, a problem is…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/reinventing-autonomous-driving-in-the-age-of-generative-ai": {
+    "category": "ai-management",
+    "tldr": "As AI-native systems take hold, autonomous driving is becoming a race for compute power, software, data, and semiconductors.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/reimagining-trade-spend-from-cost-center-to-growth-catalyst": {
+    "category": "ai-management",
+    "tldr": "Despite costing companies 8 to 11 percent of revenue, trade spend underdelivers. Companies could reset their approach through six design principles to unlock…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/private-capital/our-insights/global-private-markets-report/private-credit": {
+    "category": "ai-management",
+    "tldr": "Complexity is increasing and competitive pressures are on the rise. The asset class is becoming less about deploying capital at pace—and more about deploying…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/industrials/our-insights/where-value-is-won-and-lost-in-distribution": {
+    "category": "ai-management",
+    "tldr": "The state of distribution in the United States is defined by permanent volatility, especially from the emergence of AI. The ability to address five current…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-in-life-sciences-explained-the-technology-that-could-reinvent-medicine": {
+    "category": "ai-management",
+    "tldr": "Three McKinsey experts explain how AI is reshaping life sciences—where it’s creating value today, why so many efforts stall, and what the next decade could…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
