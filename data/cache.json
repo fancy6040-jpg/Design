@@ -873,5 +873,96 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/using-codex-to-simulate-black-holes": {
+    "category": "ai-cognition",
+    "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/openai-on-oracle-cloud": {
+    "category": "ai-cognition",
+    "tldr": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/prc-linked-influence-operations-ai-debates": {
+    "category": "ai-cognition",
+    "tldr": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/lseg": {
+    "category": "ai-ux",
+    "tldr": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/steal-this-template-bring-a-user-persona-to-life-with-figma-weave/": {
+    "category": "ai-ux",
+    "tldr": "Lead Product Designer at Dropbox Sara Clayton used Figma Weave to add dimension to an Ideal Customer Profile in under two minutes. Steal her template to make…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/geopolitics/our-insights/the-art-science-and-technology-of-geopolitical-scenario-planning": {
+    "category": "ai-management",
+    "tldr": "Strategic foresight is not about predicting the future but setting strategy and building capabilities to navigate multiple potential futures. Here’s how to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/cn/updates/launch-of-china-auto-consumer-survey-2026": {
+    "category": "ai-management",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/cn/updates/ai-usage-among-white-collar-workers-and-students-in-hong-kong-survey-findings": {
+    "category": "ai-management",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/cn/updates/computex2026-is-over-what-did-we-actually-learn": {
+    "category": "ai-management",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/how-corporate-scale-up-partnering-can-boost-europes-tech-competitiveness": {
+    "category": "ai-management",
+    "tldr": "Stronger, more systematic partnerships between corporates and scale-ups have the potential to enable both to thrive while helping more innovation reach…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/retail/our-insights/rewiring-retail-in-europe-the-ai-imperative": {
+    "category": "ai-management",
+    "tldr": "AI is already reshaping the European retail value chain. The question now is how leaders modernize while strengthening the human experience—with a €240 billion…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/europes-new-ecommerce-agenda-how-ai-is-resetting-growth-and-competition": {
+    "category": "ai-management",
+    "tldr": "From agentic shopping to retail media and omnichannel intelligence, AI is changing the economics of digital commerce. Here’s how leaders can turn…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

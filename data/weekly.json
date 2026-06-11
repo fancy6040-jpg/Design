@@ -1,9 +1,104 @@
 {
-  "generated": "2026-06-10T06:14:04.033Z",
-  "cutoff": "2026-05-11T06:12:45.743Z",
-  "total": 68,
+  "generated": "2026-06-11T06:40:07.444Z",
+  "cutoff": "2026-05-12T06:39:14.455Z",
+  "total": 69,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "excerpt": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of…",
+      "date": "2026-06-11T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "link": "https://openai.com/index/openai-on-oracle-cloud",
+      "excerpt": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "date": "2026-06-10T20:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "excerpt": "",
+      "date": "2026-06-10T16:24:11.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "excerpt": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about…",
+      "date": "2026-06-10T12:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "link": "https://openai.com/index/lseg",
+      "excerpt": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "date": "2026-06-10T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
@@ -190,82 +285,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "link": "https://openai.com/index/endava-frontiers",
-      "excerpt": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across…",
-      "date": "2026-06-04T12:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "link": "https://openai.com/index/chatgpt-memory-dreaming",
-      "excerpt": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "date": "2026-06-04T09:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Biodefense in the Intelligence Age",
-      "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "excerpt": "An action plan for AI-powered biological resilience",
-      "date": "2026-06-04T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "An action plan for AI-powered biological resilience",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "excerpt": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow…",
-      "date": "2026-06-03T13:15:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-workflow",
-      "tldr": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -537,20 +556,20 @@
       "enriched": false
     },
     {
-      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
-      "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
-      "excerpt": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
-      "date": "2026-05-17T13:50:34.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
+      "title": "Steal this template: Bring a user persona to life with Figma Weave",
+      "link": "https://www.figma.com/blog/steal-this-template-bring-a-user-persona-to-life-with-figma-weave/",
+      "excerpt": "Lead Product Designer at Dropbox Sara Clayton used Figma Weave to add dimension to an Ideal Customer Profile in under two minutes. Steal her template to make…",
+      "date": "2026-06-10T17:23:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "研究",
-        "模型"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-workflow",
-      "tldr": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "category": "ai-ux",
+      "tldr": "Lead Product Designer at Dropbox Sara Clayton used Figma Weave to add dimension to an Ideal Customer Profile in under two minutes. Steal her template to make…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -936,6 +955,139 @@
       "enriched": false
     },
     {
+      "title": "The art, science, and technology of geopolitical scenario planning",
+      "link": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/the-art-science-and-technology-of-geopolitical-scenario-planning",
+      "excerpt": "Strategic foresight is not about predicting the future but setting strategy and building capabilities to navigate multiple potential futures. Here’s how to…",
+      "date": "2026-06-10T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Strategic foresight is not about predicting the future but setting strategy and building capabilities to navigate multiple potential futures. Here’s how to…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Launch of China Auto Consumer Survey, 2026",
+      "link": "https://www.mckinsey.com/cn/updates/launch-of-china-auto-consumer-survey-2026",
+      "excerpt": "",
+      "date": "2026-06-10T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "AI usage among white-collar workers and students in Hong Kong: survey findings",
+      "link": "https://www.mckinsey.com/cn/updates/ai-usage-among-white-collar-workers-and-students-in-hong-kong-survey-findings",
+      "excerpt": "",
+      "date": "2026-06-10T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Computex2026 is over. The booths are packed up. The keynotes are done. What did we actually learn?",
+      "link": "https://www.mckinsey.com/cn/updates/computex2026-is-over-what-did-we-actually-learn",
+      "excerpt": "",
+      "date": "2026-06-10T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How corporate–scale-up partnering can boost Europe’s tech competitiveness",
+      "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/how-corporate-scale-up-partnering-can-boost-europes-tech-competitiveness",
+      "excerpt": "Stronger, more systematic partnerships between corporates and scale-ups have the potential to enable both to thrive while helping more innovation reach…",
+      "date": "2026-06-10T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Stronger, more systematic partnerships between corporates and scale-ups have the potential to enable both to thrive while helping more innovation reach…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Rewiring retail in Europe: The AI imperative",
+      "link": "https://www.mckinsey.com/industries/retail/our-insights/rewiring-retail-in-europe-the-ai-imperative",
+      "excerpt": "AI is already reshaping the European retail value chain. The question now is how leaders modernize while strengthening the human experience—with a €240 billion…",
+      "date": "2026-06-10T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "AI is already reshaping the European retail value chain. The question now is how leaders modernize while strengthening the human experience—with a €240 billion…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Europe’s new e‑commerce agenda: How AI is resetting growth and competition",
+      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/europes-new-ecommerce-agenda-how-ai-is-resetting-growth-and-competition",
+      "excerpt": "From agentic shopping to retail media and omnichannel intelligence, AI is changing the economics of digital commerce. Here’s how leaders can turn…",
+      "date": "2026-06-10T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "From agentic shopping to retail media and omnichannel intelligence, AI is changing the economics of digital commerce. Here’s how leaders can turn…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The AI Atrophy Problem: How CIOs Fight It",
       "link": "https://sloanreview.mit.edu/video/the-ai-atrophy-problem-how-cios-fight-it/",
       "excerpt": "AI tools can help teams become faster and more efficient. But as organizations race to integrate artificial intelligence into more workflows, a problem is…",
@@ -950,25 +1102,6 @@
       ],
       "category": "ai-management",
       "tldr": "AI tools can help teams become faster and more efficient. But as organizations race to integrate artificial intelligence into more workflows, a problem is…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Reinventing autonomous driving in the age of generative AI",
-      "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/reinventing-autonomous-driving-in-the-age-of-generative-ai",
-      "excerpt": "As AI-native systems take hold, autonomous driving is becoming a race for compute power, software, data, and semiconductors.",
-      "date": "2026-06-09T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "As AI-native systems take hold, autonomous driving is becoming a race for compute power, software, data, and semiconductors.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -993,9 +1126,9 @@
       "enriched": false
     },
     {
-      "title": "Private credit in 2025: A maturing industry navigates change",
-      "link": "https://www.mckinsey.com/industries/private-capital/our-insights/global-private-markets-report/private-credit",
-      "excerpt": "Complexity is increasing and competitive pressures are on the rise. The asset class is becoming less about deploying capital at pace—and more about deploying…",
+      "title": "Reinventing autonomous driving in the age of generative AI",
+      "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/reinventing-autonomous-driving-in-the-age-of-generative-ai",
+      "excerpt": "As AI-native systems take hold, autonomous driving is becoming a race for compute power, software, data, and semiconductors.",
       "date": "2026-06-09T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
@@ -1006,45 +1139,7 @@
         "AI"
       ],
       "category": "ai-management",
-      "tldr": "Complexity is increasing and competitive pressures are on the rise. The asset class is becoming less about deploying capital at pace—and more about deploying…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Where value is won and lost in distribution",
-      "link": "https://www.mckinsey.com/industries/industrials/our-insights/where-value-is-won-and-lost-in-distribution",
-      "excerpt": "The state of distribution in the United States is defined by permanent volatility, especially from the emergence of AI. The ability to address five current…",
-      "date": "2026-06-09T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The state of distribution in the United States is defined by permanent volatility, especially from the emergence of AI. The ability to address five current…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "AI in life sciences explained: The technology that could reinvent medicine",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-in-life-sciences-explained-the-technology-that-could-reinvent-medicine",
-      "excerpt": "Three McKinsey experts explain how AI is reshaping life sciences—where it’s creating value today, why so many efforts stall, and what the next decade could…",
-      "date": "2026-06-09T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Three McKinsey experts explain how AI is reshaping life sciences—where it’s creating value today, why so many efforts stall, and what the next decade could…",
+      "tldr": "As AI-native systems take hold, autonomous driving is becoming a race for compute power, software, data, and semiconductors.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1064,82 +1159,6 @@
       ],
       "category": "ai-management",
       "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The consulting manager took a call at 7:30 p.m., while volunteering at her son’s soccer practice, from an…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Banking and AI: When the tech starts doing the work, not just assisting it",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/banking-and-ai-when-the-tech-starts-doing-the-work-not-just-assisting-it",
-      "excerpt": "Three McKinsey experts explain how AI is reshaping banking from the inside out—and why the biggest obstacle isn’t the technology.",
-      "date": "2026-06-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Three McKinsey experts explain how AI is reshaping banking from the inside out—and why the biggest obstacle isn’t the technology.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The next wave of value in the materials supply chain",
-      "link": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/the-next-wave-of-value-in-the-materials-supply-chain",
-      "excerpt": "A slew of forces is expanding roles for overlooked players in the materials supply chain in North America and Europe.",
-      "date": "2026-06-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "A slew of forces is expanding roles for overlooked players in the materials supply chain in North America and Europe.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Blackstone’s Legal & Compliance AI transformation started with technology. It succeeded because it put people first",
-      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/how-we-help-clients/blackstones-legal-and-compliance-ai-transformation-started-with-technology",
-      "excerpt": "By first redesigning how decisions flow—clarifying ownership and codifying precedent—the financial services firm was able to rewire its Legal & Compliance…",
-      "date": "2026-06-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "By first redesigning how decisions flow—clarifying ownership and codifying precedent—the financial services firm was able to rewire its Legal & Compliance…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "HR Monitor 2026: A turning point for the people function",
-      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/hr-monitor",
-      "excerpt": "A comprehensive benchmark survey of workforce and HR trends across Europe, the United States, and China delivers critical insights for today’s HR leaders.",
-      "date": "2026-06-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "A comprehensive benchmark survey of workforce and HR trends across Europe, the United States, and China delivers critical insights for today’s HR leaders.",
       "insight": "",
       "suggestion": "",
       "enriched": false
