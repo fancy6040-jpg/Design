@@ -964,5 +964,82 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/bbva": {
+    "category": "ai-cognition",
+    "tldr": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/openai-to-acquire-ona": {
+    "category": "ai-agent",
+    "tldr": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem": {
+    "category": "ai-ux",
+    "tldr": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/": {
+    "category": "ai-agent",
+    "tldr": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/improving-performance-in-the-layers-panel/": {
+    "category": "ai-ux",
+    "tldr": "The layers panel is the central blueprint of a Figma file. We rearchitected it with new computation and caching strategies, resulting in 30–50% faster…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/video/agentic-ai-what-leaders-wish-they-knew-sooner/": {
+    "category": "ai-management",
+    "tldr": "As AI agents go beyond the hypothetical and enter actual workflows, many leaders see a gap between the promise and the reality. Are the agents ready? Moreover,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/business-building/our-insights/the-seven-operating-truths-of-ai-native-companies": {
+    "category": "ai-management",
+    "tldr": "Almost every company has AI tools, but few really know how to use them. Leaders at 15 AI-savvy companies say the difference comes down to seven operating…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/prudentials-charles-lowrey-on-finishing-strong-as-ceo": {
+    "category": "design-director",
+    "tldr": "Much has been written about a CEO’s first 100 days, but what about the other end of the journey?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/from-risk-to-resilience-new-approaches-to-navigating-disruption-in-asia": {
+    "category": "ai-management",
+    "tldr": "Facing disruption on multiple fronts, organizations in Asia are drawing on lessons from past crises to boost their resilience.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/retail/our-insights/the-world-is-changing-can-fashion-keep-up": {
+    "category": "ai-management",
+    "tldr": "Smart glasses. Preloved luxury. Style tips via chatbots. Tech, tariffs, and a temperamental economy are reshaping what consumers value—and how they discover,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/retail/our-insights/elevating-the-customer-experience-ikeas-agentic-ai-journey": {
+    "category": "ai-management",
+    "tldr": "The Swedish home-furnishing giant’s chief digital officer discusses the need to prioritize AI initiatives amid ‘the risk of doing everything but maybe nothing.’",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
