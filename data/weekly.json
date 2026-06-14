@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T06:08:20.627Z",
-  "cutoff": "2026-05-14T06:07:04.549Z",
+  "generated": "2026-06-14T06:26:03.879Z",
+  "cutoff": "2026-05-15T06:24:59.361Z",
   "total": 69,
   "sources_attempted": 13,
   "items": [
@@ -974,25 +974,6 @@
       "enriched": false
     },
     {
-      "title": "Prudential’s Charles Lowrey on finishing strong as CEO",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/prudentials-charles-lowrey-on-finishing-strong-as-ceo",
-      "excerpt": "Much has been written about a CEO’s first 100 days, but what about the other end of the journey?",
-      "date": "2026-06-11T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Much has been written about a CEO’s first 100 days, but what about the other end of the journey?",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "From risk to resilience: New approaches to navigating disruption in Asia",
       "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/from-risk-to-resilience-new-approaches-to-navigating-disruption-in-asia",
       "excerpt": "Facing disruption on multiple fronts, organizations in Asia are drawing on lessons from past crises to boost their resilience.",
@@ -1007,6 +988,25 @@
       ],
       "category": "ai-management",
       "tldr": "Facing disruption on multiple fronts, organizations in Asia are drawing on lessons from past crises to boost their resilience.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Prudential’s Charles Lowrey on finishing strong as CEO",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/prudentials-charles-lowrey-on-finishing-strong-as-ceo",
+      "excerpt": "Much has been written about a CEO’s first 100 days, but what about the other end of the journey?",
+      "date": "2026-06-11T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Much has been written about a CEO’s first 100 days, but what about the other end of the journey?",
       "insight": "",
       "suggestion": "",
       "enriched": false
