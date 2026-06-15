@@ -1,9 +1,28 @@
 {
-  "generated": "2026-06-14T06:26:03.879Z",
-  "cutoff": "2026-05-15T06:24:59.361Z",
+  "generated": "2026-06-15T07:08:42.197Z",
+  "cutoff": "2026-05-16T07:07:20.572Z",
   "total": 69,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Introducing the OpenAI Partner Network",
+      "link": "https://openai.com/index/introducing-openai-partner-network",
+      "excerpt": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "date": "2026-06-14T17:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "New OpenAI Academy courses for the next era of work",
       "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
@@ -266,25 +285,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "link": "https://openai.com/index/nextdoor",
-      "excerpt": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "date": "2026-06-09T12:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
       "insight": "",
       "suggestion": "",
       "enriched": false

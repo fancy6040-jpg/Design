@@ -1069,5 +1069,12 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/introducing-openai-partner-network": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
