@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-15T07:08:42.197Z",
-  "cutoff": "2026-05-16T07:07:20.572Z",
+  "generated": "2026-06-16T07:14:42.771Z",
+  "cutoff": "2026-05-17T07:13:18.163Z",
   "total": 69,
   "sources_attempted": 13,
   "items": [
@@ -62,9 +62,9 @@
       "enriched": false
     },
     {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "excerpt": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "excerpt": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of…",
       "date": "2026-06-11T00:00:00.000Z",
       "source_id": "openai",
       "source_name": "OpenAI",
@@ -74,8 +74,8 @@
         "模型",
         "产品"
       ],
-      "category": "ai-ux",
-      "tldr": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "category": "ai-cognition",
+      "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -119,9 +119,9 @@
       "enriched": false
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "excerpt": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of…",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "excerpt": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "date": "2026-06-11T00:00:00.000Z",
       "source_id": "openai",
       "source_name": "OpenAI",
@@ -131,8 +131,8 @@
         "模型",
         "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of…",
+      "category": "ai-ux",
+      "tldr": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -936,6 +936,82 @@
       "enriched": false
     },
     {
+      "title": "How to Grow Without Betting Big",
+      "link": "https://sloanreview.mit.edu/article/how-to-grow-without-betting-big/",
+      "excerpt": "Matt Harrison Clough/Ikon Images Some of the most spectacular stories of corporate growth revolve around big bets — long-term investments, bold pivots, and…",
+      "date": "2026-06-15T11:00:04.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Matt Harrison Clough/Ikon Images Some of the most spectacular stories of corporate growth revolve around big bets — long-term investments, bold pivots, and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Phil Ozuah on enhancing ambulatory care and accessibility",
+      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/phil-ozuah-on-enhancing-ambulatory-care-and-accessibility",
+      "excerpt": "The president and CEO of Montefiore Einstein talks about technology in healthcare, opportunities to close gaps in patient access, and his own path to…",
+      "date": "2026-06-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "The president and CEO of Montefiore Einstein talks about technology in healthcare, opportunities to close gaps in patient access, and his own path to…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The health system CEO imperative: Turning AI’s promise into performance",
+      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/the-health-system-ceo-imperative-turning-ais-promise-into-performance",
+      "excerpt": "Health systems aren’t short on AI, they’re short on impact from AI. Capturing real value requires CEO-led transformation and a fundamental rethink of how care…",
+      "date": "2026-06-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Health systems aren’t short on AI, they’re short on impact from AI. Capturing real value requires CEO-led transformation and a fundamental rethink of how care…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Collective action, collective success: A CEO’s role in transformations",
+      "link": "https://www.mckinsey.com/capabilities/transformation/our-insights/collective-action-collective-success-a-ceos-role-in-transformations",
+      "excerpt": "Successful transformations require everyone in the organization to move in the same direction. That can only happen when CEOs directly address…",
+      "date": "2026-06-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Successful transformations require everyone in the organization to move in the same direction. That can only happen when CEOs directly address…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Agentic AI: What Leaders Wish They Knew Sooner",
       "link": "https://sloanreview.mit.edu/video/agentic-ai-what-leaders-wish-they-knew-sooner/",
       "excerpt": "As AI agents go beyond the hypothetical and enter actual workflows, many leaders see a gap between the promise and the reality. Are the agents ready? Moreover,…",
@@ -1088,63 +1164,6 @@
       "enriched": false
     },
     {
-      "title": "Launch of China Auto Consumer Survey, 2026",
-      "link": "https://www.mckinsey.com/cn/updates/launch-of-china-auto-consumer-survey-2026",
-      "excerpt": "",
-      "date": "2026-06-10T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "AI usage among white-collar workers and students in Hong Kong: survey findings",
-      "link": "https://www.mckinsey.com/cn/updates/ai-usage-among-white-collar-workers-and-students-in-hong-kong-survey-findings",
-      "excerpt": "",
-      "date": "2026-06-10T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Computex2026 is over. The booths are packed up. The keynotes are done. What did we actually learn?",
-      "link": "https://www.mckinsey.com/cn/updates/computex2026-is-over-what-did-we-actually-learn",
-      "excerpt": "",
-      "date": "2026-06-10T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The AI Atrophy Problem: How CIOs Fight It",
       "link": "https://sloanreview.mit.edu/video/the-ai-atrophy-problem-how-cios-fight-it/",
       "excerpt": "AI tools can help teams become faster and more efficient. But as organizations race to integrate artificial intelligence into more workflows, a problem is…",
@@ -1292,25 +1311,6 @@
       ],
       "category": "ai-management",
       "tldr": "Christian Gralingen The Research Over three years (2022-2025), two of the authors (Kevin and Ivo) engaged with 23 Swiss companies that were members of a…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Three Things to Know About Assessing Customer Reviews",
-      "link": "https://sloanreview.mit.edu/article/three-things-to-know-about-assessing-customer-reviews/",
-      "excerpt": "master1305/Getty Images How should companies effectively use or respond to an unwieldy array of customer opinions? While consumer feedback can be invaluable,…",
-      "date": "2026-06-01T11:00:49.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "master1305/Getty Images How should companies effectively use or respond to an unwieldy array of customer opinions? While consumer feedback can be invaluable,…",
       "insight": "",
       "suggestion": "",
       "enriched": false

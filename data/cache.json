@@ -1076,5 +1076,33 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/how-to-grow-without-betting-big/": {
+    "category": "ai-management",
+    "tldr": "Matt Harrison Clough/Ikon Images Some of the most spectacular stories of corporate growth revolve around big bets — long-term investments, bold pivots, and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/healthcare/our-insights/phil-ozuah-on-enhancing-ambulatory-care-and-accessibility": {
+    "category": "design-director",
+    "tldr": "The president and CEO of Montefiore Einstein talks about technology in healthcare, opportunities to close gaps in patient access, and his own path to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/healthcare/our-insights/the-health-system-ceo-imperative-turning-ais-promise-into-performance": {
+    "category": "design-director",
+    "tldr": "Health systems aren’t short on AI, they’re short on impact from AI. Capturing real value requires CEO-led transformation and a fundamental rethink of how care…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/transformation/our-insights/collective-action-collective-success-a-ceos-role-in-transformations": {
+    "category": "design-director",
+    "tldr": "Successful transformations require everyone in the organization to move in the same direction. That can only happen when CEOs directly address…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
