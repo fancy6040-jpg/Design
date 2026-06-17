@@ -1104,5 +1104,61 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/": {
+    "category": "ai-workflow",
+    "tldr": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/deployment-simulation": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/4-ways-were-using-our-mcp-server-at-figma/": {
+    "category": "ai-ux",
+    "tldr": "The Figma MCP server reaches further across the platform than it ever has. From updating a living deck to shipping a design to production—here's what that…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/audio/ai-upskilling-at-scale-bank-of-americas-bernard-hampton/": {
+    "category": "ai-management",
+    "tldr": "Today’s episode of the Me, Myself, and AI podcast, the final one of Season 13, explores how Bank of America is preparing a massive global workforce for an AI…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/quantumblack/our-insights/prompt-hungary-the-impact-of-ai-on-the-competitiveness-of-the-economy": {
+    "category": "ai-management",
+    "tldr": "AI could become a powerful growth engine for the country by helping overcome the economy’s challenges and limitations, and generating improved productivity and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-agentic-advertising-economy-from-attention-to-action": {
+    "category": "ai-management",
+    "tldr": "As AI changes how consumers discover products and impact is measured, advertising value will shift to the players that can shape what is seen, selected, and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-symbiotic-enterprise": {
+    "category": "design-director",
+    "tldr": "How cognitive and physical AI are reinventing enterprise execution",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/media-center/as-america-turns-250-unlocking-the-next-generations-potential-is-key": {
+    "category": "ai-management",
+    "tldr": "As America prepares to celebrate its 250th birthday, I've been reflecting on the generations that built the country's success and what it will take to prepare…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

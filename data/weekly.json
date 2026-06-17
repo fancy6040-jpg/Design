@@ -1,9 +1,47 @@
 {
-  "generated": "2026-06-16T07:14:42.771Z",
-  "cutoff": "2026-05-17T07:13:18.163Z",
-  "total": 69,
+  "generated": "2026-06-17T06:59:45.171Z",
+  "cutoff": "2026-05-18T06:58:17.271Z",
+  "total": 68,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "excerpt": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "date": "2026-06-16T21:29:50.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-workflow",
+      "tldr": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "link": "https://openai.com/index/deployment-simulation",
+      "excerpt": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation…",
+      "date": "2026-06-16T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Introducing the OpenAI Partner Network",
       "link": "https://openai.com/index/introducing-openai-partner-network",
@@ -81,25 +119,6 @@
       "enriched": false
     },
     {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "link": "https://openai.com/index/bbva",
-      "excerpt": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "date": "2026-06-11T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "OpenAI to acquire Ona",
       "link": "https://openai.com/index/openai-to-acquire-ona",
       "excerpt": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
@@ -114,6 +133,25 @@
       ],
       "category": "ai-agent",
       "tldr": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "link": "https://openai.com/index/bbva",
+      "excerpt": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "date": "2026-06-11T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -209,25 +247,6 @@
       ],
       "category": "ai-agent",
       "tldr": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "link": "https://openai.com/index/lseg",
-      "excerpt": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-      "date": "2026-06-10T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -518,39 +537,20 @@
       "enriched": false
     },
     {
-      "title": "Simulate real-world places with Project Genie and Street View",
-      "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
-      "excerpt": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
-      "date": "2026-05-17T19:53:18.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
+      "title": "4 ways we’re using our MCP server at Figma",
+      "link": "https://www.figma.com/blog/4-ways-were-using-our-mcp-server-at-figma/",
+      "excerpt": "The Figma MCP server reaches further across the platform than it ever has. From updating a living deck to shipping a design to production—here's what that…",
+      "date": "2026-06-16T12:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "研究",
-        "模型"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing Gemini Omni",
-      "link": "https://deepmind.google/blog/introducing-gemini-omni/",
-      "excerpt": "",
-      "date": "2026-05-17T19:50:57.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "",
+      "category": "ai-ux",
+      "tldr": "The Figma MCP server reaches further across the platform than it ever has. From updating a living deck to shipping a design to production—here's what that…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -898,25 +898,6 @@
       "enriched": false
     },
     {
-      "title": "A new chapter: Friends of Figma’s brand refresh tells the story of a global community",
-      "link": "https://www.figma.com/blog/friends-of-figma-brand-refresh/",
-      "excerpt": "From São Paulo to Seoul, Friends of Figma chapters around the world are distinct, vibrant, and locally rooted. Our new brand gives them a more authentic way to…",
-      "date": "2026-05-19T18:02:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "From São Paulo to Seoul, Friends of Figma chapters around the world are distinct, vibrant, and locally rooted. Our new brand gives them a more authentic way to…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "UX Conference August Announced (Aug 17 - Aug 28)",
       "link": "https://www.nngroup.com/training/august/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
@@ -931,6 +912,82 @@
       ],
       "category": "ai-ux",
       "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "AI Upskilling at Scale: Bank of America’s Bernard Hampton",
+      "link": "https://sloanreview.mit.edu/audio/ai-upskilling-at-scale-bank-of-americas-bernard-hampton/",
+      "excerpt": "Today’s episode of the Me, Myself, and AI podcast, the final one of Season 13, explores how Bank of America is preparing a massive global workforce for an AI…",
+      "date": "2026-06-16T11:00:14.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Today’s episode of the Me, Myself, and AI podcast, the final one of Season 13, explores how Bank of America is preparing a massive global workforce for an AI…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Prompt Hungary: The impact of AI on the competitiveness of the economy",
+      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/prompt-hungary-the-impact-of-ai-on-the-competitiveness-of-the-economy",
+      "excerpt": "AI could become a powerful growth engine for the country by helping overcome the economy’s challenges and limitations, and generating improved productivity and…",
+      "date": "2026-06-16T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "AI could become a powerful growth engine for the country by helping overcome the economy’s challenges and limitations, and generating improved productivity and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The agentic advertising economy: From attention to action",
+      "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-agentic-advertising-economy-from-attention-to-action",
+      "excerpt": "As AI changes how consumers discover products and impact is measured, advertising value will shift to the players that can shape what is seen, selected, and…",
+      "date": "2026-06-16T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As AI changes how consumers discover products and impact is measured, advertising value will shift to the players that can shape what is seen, selected, and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The symbiotic enterprise",
+      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-symbiotic-enterprise",
+      "excerpt": "How cognitive and physical AI are reinventing enterprise execution",
+      "date": "2026-06-16T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "How cognitive and physical AI are reinventing enterprise execution",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1012,6 +1069,25 @@
       "enriched": false
     },
     {
+      "title": "As America turns 250, unlocking the next generation's potential is key",
+      "link": "https://www.mckinsey.com/mgi/media-center/as-america-turns-250-unlocking-the-next-generations-potential-is-key",
+      "excerpt": "As America prepares to celebrate its 250th birthday, I've been reflecting on the generations that built the country's success and what it will take to prepare…",
+      "date": "2026-06-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As America prepares to celebrate its 250th birthday, I've been reflecting on the generations that built the country's success and what it will take to prepare…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Agentic AI: What Leaders Wish They Knew Sooner",
       "link": "https://sloanreview.mit.edu/video/agentic-ai-what-leaders-wish-they-knew-sooner/",
       "excerpt": "As AI agents go beyond the hypothetical and enter actual workflows, many leaders see a gap between the promise and the reality. Are the agents ready? Moreover,…",
@@ -1083,82 +1159,6 @@
       ],
       "category": "design-director",
       "tldr": "Much has been written about a CEO’s first 100 days, but what about the other end of the journey?",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The world is changing. Can fashion keep up?",
-      "link": "https://www.mckinsey.com/industries/retail/our-insights/the-world-is-changing-can-fashion-keep-up",
-      "excerpt": "Smart glasses. Preloved luxury. Style tips via chatbots. Tech, tariffs, and a temperamental economy are reshaping what consumers value—and how they discover,…",
-      "date": "2026-06-11T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Smart glasses. Preloved luxury. Style tips via chatbots. Tech, tariffs, and a temperamental economy are reshaping what consumers value—and how they discover,…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Elevating the customer experience: IKEA’s agentic AI journey",
-      "link": "https://www.mckinsey.com/industries/retail/our-insights/elevating-the-customer-experience-ikeas-agentic-ai-journey",
-      "excerpt": "The Swedish home-furnishing giant’s chief digital officer discusses the need to prioritize AI initiatives amid ‘the risk of doing everything but maybe nothing.’",
-      "date": "2026-06-11T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The Swedish home-furnishing giant’s chief digital officer discusses the need to prioritize AI initiatives amid ‘the risk of doing everything but maybe nothing.’",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The art, science, and technology of geopolitical scenario planning",
-      "link": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/the-art-science-and-technology-of-geopolitical-scenario-planning",
-      "excerpt": "Strategic foresight is not about predicting the future but setting strategy and building capabilities to navigate multiple potential futures. Here’s how to…",
-      "date": "2026-06-10T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Strategic foresight is not about predicting the future but setting strategy and building capabilities to navigate multiple potential futures. Here’s how to…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Productivity reimagined",
-      "link": "https://www.mckinsey.com/featured-insights/insights-on-europe/productivity-reimagined",
-      "excerpt": "Bold moves to redefine growth in Germany.",
-      "date": "2026-06-10T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Bold moves to redefine growth in Germany.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1292,25 +1292,6 @@
       ],
       "category": "ai-management",
       "tldr": "Christian Gralingen The Research From 2022 to 2025, the authors conducted in-depth, semistructured interviews with senior leaders and practitioners responsible…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Create Generative AI Value at Scale",
-      "link": "https://sloanreview.mit.edu/article/create-generative-ai-value-at-scale/",
-      "excerpt": "Christian Gralingen The Research Over three years (2022-2025), two of the authors (Kevin and Ivo) engaged with 23 Swiss companies that were members of a…",
-      "date": "2026-06-02T13:36:36.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Christian Gralingen The Research Over three years (2022-2025), two of the authors (Kevin and Ivo) engaged with 23 Swiss companies that were members of a…",
       "insight": "",
       "suggestion": "",
       "enriched": false
