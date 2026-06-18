@@ -1,9 +1,47 @@
 {
-  "generated": "2026-06-17T06:59:45.171Z",
-  "cutoff": "2026-05-18T06:58:17.271Z",
-  "total": 68,
+  "generated": "2026-06-18T06:44:22.145Z",
+  "cutoff": "2026-05-19T06:42:53.938Z",
+  "total": 66,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "link": "https://openai.com/index/ai-chemist-improves-reaction",
+      "excerpt": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "date": "2026-06-17T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing LifeSciBench",
+      "link": "https://openai.com/index/introducing-life-sci-bench",
+      "excerpt": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and…",
+      "date": "2026-06-17T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Unlocking UK house-building with AI-accelerated planning",
       "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
@@ -100,25 +138,6 @@
       "enriched": false
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "excerpt": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of…",
-      "date": "2026-06-11T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "OpenAI to acquire Ona",
       "link": "https://openai.com/index/openai-to-acquire-ona",
       "excerpt": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
@@ -138,9 +157,9 @@
       "enriched": false
     },
     {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "link": "https://openai.com/index/bbva",
-      "excerpt": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "excerpt": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of…",
       "date": "2026-06-11T00:00:00.000Z",
       "source_id": "openai",
       "source_name": "OpenAI",
@@ -151,7 +170,7 @@
         "产品"
       ],
       "category": "ai-cognition",
-      "tldr": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "tldr": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -176,10 +195,10 @@
       "enriched": false
     },
     {
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "link": "https://openai.com/index/openai-on-oracle-cloud",
-      "excerpt": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "date": "2026-06-10T20:00:00.000Z",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "link": "https://openai.com/index/bbva",
+      "excerpt": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "date": "2026-06-11T00:00:00.000Z",
       "source_id": "openai",
       "source_name": "OpenAI",
       "priority": 0,
@@ -189,7 +208,7 @@
         "产品"
       ],
       "category": "ai-cognition",
-      "tldr": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "tldr": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -209,25 +228,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "excerpt": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about…",
-      "date": "2026-06-10T12:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -499,39 +499,20 @@
       "enriched": false
     },
     {
-      "title": "Widening the conversation on frontier AI",
-      "link": "https://www.anthropic.com/news/widening-conversation-ai",
-      "excerpt": "Widening the conversation on frontier AI",
-      "date": "2026-05-19T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "Speaking the language of color",
+      "link": "https://www.figma.com/blog/pantone-speaking-the-language-of-color/",
+      "excerpt": "The Pantone Color Institute explains how brands can use color to shape meaning and drive trends.",
+      "date": "2026-06-17T15:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "Widening the conversation on frontier AI",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Fast-tracking genetic leads to reverse cellular aging",
-      "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-      "excerpt": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
-      "date": "2026-05-18T18:21:39.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "category": "ai-ux",
+      "tldr": "The Pantone Color Institute explains how brands can use color to shape meaning and drive trends.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -879,25 +860,6 @@
       "enriched": false
     },
     {
-      "title": "The Figma design agent is here",
-      "link": "https://www.figma.com/blog/the-figma-agent-is-here/",
-      "excerpt": "Starting today, work with an agent that is built for Figma—directly on the canvas.",
-      "date": "2026-05-20T12:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Starting today, work with an agent that is built for Figma—directly on the canvas.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "UX Conference August Announced (Aug 17 - Aug 28)",
       "link": "https://www.nngroup.com/training/august/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
@@ -912,6 +874,120 @@
       ],
       "category": "ai-ux",
       "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The future of Ohio: Playing to win in the next economy",
+      "link": "https://www.mckinsey.com/industries/social-sector/our-insights/the-future-of-ohio-playing-to-win-in-the-next-economy",
+      "excerpt": "Ohio has a proud legacy as a strong builder economy, but playing to win in the new arenas of competition requires a fresh and more diverse approach.",
+      "date": "2026-06-17T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Ohio has a proud legacy as a strong builder economy, but playing to win in the new arenas of competition requires a fresh and more diverse approach.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Wee Ee Cheong: Calm steward playing the long game for UOB",
+      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/wee-ee-cheong-calm-steward-playing-the-long-game-for-uob",
+      "excerpt": "As the second-generation leader of UOB, Wee Ee Cheong has devoted his career to the bank, guiding it steadily through change to safeguard the institution’s…",
+      "date": "2026-06-17T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As the second-generation leader of UOB, Wee Ee Cheong has devoted his career to the bank, guiding it steadily through change to safeguard the institution’s…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "What could rising fuel costs mean for airlines?",
+      "link": "https://www.mckinsey.com/industries/travel/our-insights/what-could-rising-fuel-costs-mean-for-airlines",
+      "excerpt": "Conflict in the Gulf region has disrupted jet fuel prices. Airlines can take action now to stay ahead of volatility.",
+      "date": "2026-06-17T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Conflict in the Gulf region has disrupted jet fuel prices. Airlines can take action now to stay ahead of volatility.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The State of Grocery North America 2026",
+      "link": "https://www.mckinsey.com/industries/retail/our-insights/the-state-of-grocery-north-america",
+      "excerpt": "North American grocery is opening new battlegrounds—and the game is getting more sophisticated, with winners building hard-to-copy models they can own.",
+      "date": "2026-06-17T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "North American grocery is opening new battlegrounds—and the game is getting more sophisticated, with winners building hard-to-copy models they can own.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How conflict in the Gulf is remapping global travel",
+      "link": "https://www.mckinsey.com/industries/travel/our-insights/how-conflict-in-the-gulf-is-remapping-global-travel",
+      "excerpt": "Geopolitics is disrupting the summer travel market, but traveler demand remains strong. Tourism players can take steps to navigate the challenge.",
+      "date": "2026-06-17T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Geopolitics is disrupting the summer travel market, but traveler demand remains strong. Tourism players can take steps to navigate the challenge.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The turning point for real-world robotics",
+      "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-turning-point-for-real-world-robotics",
+      "excerpt": "Daniela Rus, director of MIT’s Computer Science and Artificial Intelligence Laboratory, shares a vision for robots that learn faster, respond in real time, and…",
+      "date": "2026-06-17T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Daniela Rus, director of MIT’s Computer Science and Artificial Intelligence Laboratory, shares a vision for robots that learn faster, respond in real time, and…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1031,63 +1107,6 @@
       "enriched": false
     },
     {
-      "title": "The health system CEO imperative: Turning AI’s promise into performance",
-      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/the-health-system-ceo-imperative-turning-ais-promise-into-performance",
-      "excerpt": "Health systems aren’t short on AI, they’re short on impact from AI. Capturing real value requires CEO-led transformation and a fundamental rethink of how care…",
-      "date": "2026-06-15T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Health systems aren’t short on AI, they’re short on impact from AI. Capturing real value requires CEO-led transformation and a fundamental rethink of how care…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Collective action, collective success: A CEO’s role in transformations",
-      "link": "https://www.mckinsey.com/capabilities/transformation/our-insights/collective-action-collective-success-a-ceos-role-in-transformations",
-      "excerpt": "Successful transformations require everyone in the organization to move in the same direction. That can only happen when CEOs directly address…",
-      "date": "2026-06-15T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Successful transformations require everyone in the organization to move in the same direction. That can only happen when CEOs directly address…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "As America turns 250, unlocking the next generation's potential is key",
-      "link": "https://www.mckinsey.com/mgi/media-center/as-america-turns-250-unlocking-the-next-generations-potential-is-key",
-      "excerpt": "As America prepares to celebrate its 250th birthday, I've been reflecting on the generations that built the country's success and what it will take to prepare…",
-      "date": "2026-06-15T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "As America prepares to celebrate its 250th birthday, I've been reflecting on the generations that built the country's success and what it will take to prepare…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Agentic AI: What Leaders Wish They Knew Sooner",
       "link": "https://sloanreview.mit.edu/video/agentic-ai-what-leaders-wish-they-knew-sooner/",
       "excerpt": "As AI agents go beyond the hypothetical and enter actual workflows, many leaders see a gap between the promise and the reality. Are the agents ready? Moreover,…",
@@ -1102,63 +1121,6 @@
       ],
       "category": "ai-management",
       "tldr": "As AI agents go beyond the hypothetical and enter actual workflows, many leaders see a gap between the promise and the reality. Are the agents ready? Moreover,…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The seven operating truths of AI-native companies",
-      "link": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-seven-operating-truths-of-ai-native-companies",
-      "excerpt": "Almost every company has AI tools, but few really know how to use them. Leaders at 15 AI-savvy companies say the difference comes down to seven operating…",
-      "date": "2026-06-11T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Almost every company has AI tools, but few really know how to use them. Leaders at 15 AI-savvy companies say the difference comes down to seven operating…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "From risk to resilience: New approaches to navigating disruption in Asia",
-      "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/from-risk-to-resilience-new-approaches-to-navigating-disruption-in-asia",
-      "excerpt": "Facing disruption on multiple fronts, organizations in Asia are drawing on lessons from past crises to boost their resilience.",
-      "date": "2026-06-11T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Facing disruption on multiple fronts, organizations in Asia are drawing on lessons from past crises to boost their resilience.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Prudential’s Charles Lowrey on finishing strong as CEO",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/prudentials-charles-lowrey-on-finishing-strong-as-ceo",
-      "excerpt": "Much has been written about a CEO’s first 100 days, but what about the other end of the journey?",
-      "date": "2026-06-11T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Much has been written about a CEO’s first 100 days, but what about the other end of the journey?",
       "insight": "",
       "suggestion": "",
       "enriched": false

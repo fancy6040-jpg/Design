@@ -1160,5 +1160,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/ai-chemist-improves-reaction": {
+    "category": "ai-agent",
+    "tldr": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/introducing-life-sci-bench": {
+    "category": "ai-cognition",
+    "tldr": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/pantone-speaking-the-language-of-color/": {
+    "category": "ai-ux",
+    "tldr": "The Pantone Color Institute explains how brands can use color to shape meaning and drive trends.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/social-sector/our-insights/the-future-of-ohio-playing-to-win-in-the-next-economy": {
+    "category": "ai-management",
+    "tldr": "Ohio has a proud legacy as a strong builder economy, but playing to win in the new arenas of competition requires a fresh and more diverse approach.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/future-of-asia/wee-ee-cheong-calm-steward-playing-the-long-game-for-uob": {
+    "category": "ai-management",
+    "tldr": "As the second-generation leader of UOB, Wee Ee Cheong has devoted his career to the bank, guiding it steadily through change to safeguard the institution’s…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/travel/our-insights/what-could-rising-fuel-costs-mean-for-airlines": {
+    "category": "ai-management",
+    "tldr": "Conflict in the Gulf region has disrupted jet fuel prices. Airlines can take action now to stay ahead of volatility.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/retail/our-insights/the-state-of-grocery-north-america": {
+    "category": "ai-management",
+    "tldr": "North American grocery is opening new battlegrounds—and the game is getting more sophisticated, with winners building hard-to-copy models they can own.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/travel/our-insights/how-conflict-in-the-gulf-is-remapping-global-travel": {
+    "category": "ai-management",
+    "tldr": "Geopolitics is disrupting the summer travel market, but traveler demand remains strong. Tourism players can take steps to navigate the challenge.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/industrials/our-insights/the-turning-point-for-real-world-robotics": {
+    "category": "ai-management",
+    "tldr": "Daniela Rus, director of MIT’s Computer Science and Artificial Intelligence Laboratory, shares a vision for robots that learn faster, respond in real time, and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
