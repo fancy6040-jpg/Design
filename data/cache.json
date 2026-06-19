@@ -1223,5 +1223,103 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/chatgpt-enterprise-spend-controls": {
+    "category": "ai-management",
+    "tldr": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/improving-health-intelligence-in-chatgpt": {
+    "category": "ai-cognition",
+    "tldr": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/diagnose-rare-childhood-diseases": {
+    "category": "ai-cognition",
+    "tldr": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/securing-the-future-of-ai-agents/": {
+    "category": "ai-agent",
+    "tldr": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/direct-every-frame-with-runway-aleph-2/": {
+    "category": "ai-ux",
+    "tldr": "Aleph 2.0 brings frame-level creative direction to the Figma Weave canvas.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/video/leaders-at-all-levels-how-dbs-bank-makes-everyone-an-innovator/": {
+    "category": "ai-management",
+    "tldr": "DBS Bank believes that innovation is critical to its survival, and to reinforce that objective, it made innovation a KPI representing 20% of every team and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty": {
+    "category": "ai-management",
+    "tldr": "The global beauty market is expected to grow by 5 percent annually through 2030. But major disruptions are underway, driven by expanding definitions of beauty,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/what-corporate-leaders-can-learn-from-start-up-founders": {
+    "category": "design-director",
+    "tldr": "Alurx Founder and CEO Julia Stewart discusses her journey from public company CEO to health tech entrepreneur—and how corporate leaders can build confidence to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/an-update-on-consumer-sentiment-in-asia-pacific": {
+    "category": "ai-management",
+    "tldr": "Concerns about inflation, job security, and geopolitics weighed on consumers across the region. Here’s the latest research from our ConsumerWise team.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/europes-skilling-dividend-turning-talent-into-growth": {
+    "category": "ai-management",
+    "tldr": "Europe’s workforce is a source of strength, but limited mobility holds people back. Organizations that make it easier for workers to move across roles,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/retail/our-insights/the-rise-of-the-agentic-shopper-asoss-ai-investment": {
+    "category": "ai-management",
+    "tldr": "The British fashion retailer’s chief technology officer discusses why agentic AI represents ‘a structural shift’ in how consumers engage with brands.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla": {
+    "category": "ai-management",
+    "tldr": "FairPrice Group’s Vipul Chawla chats with McKinsey’s Gautam Kumra about using AI to remove friction from shopping, navigating supply chain shocks, and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/rewiring-talent-to-value-in-the-age-of-ai": {
+    "category": "ai-management",
+    "tldr": "As humans enter a new era with AI agents as coworkers, companies need to update their framework for defining their most valuable roles. Here’s how to get…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/ai-is-turning-every-company-into-a-software-company": {
+    "category": "ai-management",
+    "tldr": "As AI makes software faster and cheaper to build, the real competitive edge shifts to how it’s used—pushing leaders to rethink what work looks like and how…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
