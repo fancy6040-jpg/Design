@@ -1321,5 +1321,26 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://www.nngroup.com/articles/diary-study-incentives/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "A mindful incentive structure can keep diary study participants engaged and responding, without overloading you with low-quality responses.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/vibe-architects/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-agent",
+    "tldr": "Nondevelopers are building complex agentic AI systems on intuition developed through many hours of experimentation, YouTube videos, and Reddit threads.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/operations/our-insights/putting-ai-to-work-the-operational-excellence-imperative": {
+    "category": "ai-management",
+    "tldr": "Our survey uncovers how operational excellence becomes the hidden accelerator of AI at scale.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
