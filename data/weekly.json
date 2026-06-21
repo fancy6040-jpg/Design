@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-20T06:10:53.764Z",
-  "cutoff": "2026-05-21T06:09:24.234Z",
-  "total": 67,
+  "generated": "2026-06-21T06:43:31.106Z",
+  "cutoff": "2026-05-22T06:41:57.599Z",
+  "total": 65,
   "sources_attempted": 13,
   "items": [
     {
@@ -214,9 +214,9 @@
       "enriched": false
     },
     {
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "excerpt": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "title": "OpenAI to acquire Ona",
+      "link": "https://openai.com/index/openai-to-acquire-ona",
+      "excerpt": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "date": "2026-06-11T00:00:00.000Z",
       "source_id": "openai",
       "source_name": "OpenAI",
@@ -226,8 +226,8 @@
         "模型",
         "产品"
       ],
-      "category": "ai-ux",
-      "tldr": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "category": "ai-agent",
+      "tldr": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -475,44 +475,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Project Glasswing: An initial update",
-      "link": "https://www.anthropic.com/research/glasswing-initial-update",
-      "excerpt": "Project Glasswing: An initial update",
-      "date": "2026-05-22T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Project Glasswing: An initial update",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
-      "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-      "excerpt": "",
-      "date": "2026-05-21T19:46:42.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "",
       "insight": "",
       "suggestion": "",
       "enriched": false
