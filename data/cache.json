@@ -1342,5 +1342,61 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
+    "category": "ai-cognition",
+    "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/tcs-anthropic-partnership": {
+    "category": "ai-cognition",
+    "tldr": "TCS and Anthropic partner to bring Claude to regulated industries",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/dxc-anthropic-alliance": {
+    "category": "ai-cognition",
+    "tldr": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/claude-corps": {
+    "category": "ai-cognition",
+    "tldr": "Introducing Claude Corps",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/policy-on-the-ai-exponential": {
+    "category": "ai-cognition",
+    "tldr": "Policy on the AI Exponential",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/claude-fable-5-mythos-5": {
+    "category": "ai-cognition",
+    "tldr": "Claude Fable 5 and Claude Mythos 5",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack": {
+    "category": "ai-cognition",
+    "tldr": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/services-track-partner-hub": {
+    "category": "ai-cognition",
+    "tldr": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

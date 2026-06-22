@@ -1,9 +1,28 @@
 {
-  "generated": "2026-06-21T06:43:31.106Z",
-  "cutoff": "2026-05-22T06:41:57.599Z",
-  "total": 65,
+  "generated": "2026-06-22T07:11:36.120Z",
+  "cutoff": "2026-05-23T07:09:46.800Z",
+  "total": 66,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "excerpt": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "date": "2026-06-21T23:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "New usage analytics and updated spend controls for enterprises",
       "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
@@ -214,20 +233,58 @@
       "enriched": false
     },
     {
-      "title": "OpenAI to acquire Ona",
-      "link": "https://openai.com/index/openai-to-acquire-ona",
-      "excerpt": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "date": "2026-06-11T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "excerpt": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "date": "2026-06-12T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
       "priority": 0,
       "tags": [
         "AI",
         "模型",
-        "产品"
+        "安全"
       ],
-      "category": "ai-agent",
-      "tldr": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "category": "ai-cognition",
+      "tldr": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "excerpt": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "date": "2026-06-11T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing Claude Corps",
+      "link": "https://www.anthropic.com/news/claude-corps",
+      "excerpt": "Introducing Claude Corps",
+      "date": "2026-06-11T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Introducing Claude Corps",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -266,6 +323,25 @@
       ],
       "category": "ai-agent",
       "tldr": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Policy on the AI Exponential",
+      "link": "https://www.anthropic.com/policy-on-the-ai-exponential",
+      "excerpt": "Policy on the AI Exponential",
+      "date": "2026-06-10T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Policy on the AI Exponential",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -328,6 +404,25 @@
       "enriched": false
     },
     {
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "excerpt": "Claude Fable 5 and Claude Mythos 5",
+      "date": "2026-06-09T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Claude Fable 5 and Claude Mythos 5",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
       "link": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
       "excerpt": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
@@ -342,6 +437,44 @@
       ],
       "category": "ai-cognition",
       "tldr": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "excerpt": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "date": "2026-06-03T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/services-track-partner-hub",
+      "excerpt": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "date": "2026-06-03T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -366,44 +499,6 @@
       "enriched": false
     },
     {
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "excerpt": "Anthropic confidentially submits draft S-1 to the SEC",
-      "date": "2026-06-01T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Anthropic confidentially submits draft S-1 to the SEC",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "link": "https://www.anthropic.com/news/series-h",
-      "excerpt": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "date": "2026-05-28T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Introducing Claude Opus 4.8",
       "link": "https://www.anthropic.com/news/claude-opus-4-8",
       "excerpt": "Introducing Claude Opus 4.8",
@@ -418,44 +513,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Introducing Claude Opus 4.8",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-      "link": "https://www.anthropic.com/news/milan-office-opening",
-      "excerpt": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-      "date": "2026-05-27T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
-      "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-      "excerpt": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
-      "date": "2026-05-26T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -817,44 +874,6 @@
       ],
       "category": "ai-agent",
       "tldr": "Between new model drops and agentic tools, how design happens is changing fast.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The Case for Design Disposables",
-      "link": "https://www.nngroup.com/articles/design-disposables/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Design disposables are rough artifacts you make to think, not to deliver. Learn to tell them apart from deliverables and avoid the sunk-cost trap.",
-      "date": "2026-05-22T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Design disposables are rough artifacts you make to think, not to deliver. Learn to tell them apart from deliverables and avoid the sunk-cost trap.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "What matters when anyone can build",
-      "link": "https://www.figma.com/blog/what-matters-when-anyone-can-build/",
-      "excerpt": "If AI can make anyone a product builder, the real edge is knowing what’s worth shipping.",
-      "date": "2026-05-22T16:30:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "If AI can make anyone a product builder, the real edge is knowing what’s worth shipping.",
       "insight": "",
       "suggestion": "",
       "enriched": false
