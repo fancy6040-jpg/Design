@@ -1398,5 +1398,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/daybreak-securing-the-world": {
+    "category": "ai-management",
+    "tldr": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/patch-the-planet": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/codex-maxxing-long-running-work": {
+    "category": "ai-management",
+    "tldr": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/resolving-muddled-objectives-in-corporate-venture-capital/": {
+    "category": "ai-management",
+    "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The Research The authors compared the approaches of prominent corporate venture capital (CVC) units,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/quantumblack/our-insights/capturing-central-europes-ai-opportunity": {
+    "category": "ai-management",
+    "tldr": "AI is advancing too quickly to remain a side initiative for businesses. Central European companies can get ahead by redesigning business domains—and the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-anxiety-to-advantage-a-marketing-organization-that-thrives-with-ai": {
+    "category": "ai-management",
+    "tldr": "Marketers are using AI, but surface-level enthusiasm is masking the anxiety, indecision, and operating-model gaps holding back meaningful change.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-capturing-growth-in-a-fragmented-world": {
+    "category": "design-director",
+    "tldr": "CEOs who act nimbly and know where to place their bets can gain a competitive edge amid a shifting geopolitical landscape.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-campaigns-to-continuous-growth-ai-capabilities-shaping-marketing": {
+    "category": "ai-management",
+    "tldr": "Capabilities built around insights, creativity, personalization, agentic commerce, and orchestration form the five core pillars of the future of marketing.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer": {
+    "category": "ai-management",
+    "tldr": "The consumer is changing fast. Four trends—the tech-driven path to purchase, the health revolution, the experience economy, and the resourceful consumer—will…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
