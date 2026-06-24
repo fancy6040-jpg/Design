@@ -1461,5 +1461,54 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/gpt-5-immunology-mystery": {
+    "category": "ai-cognition",
+    "tldr": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/helping-build-shared-standards-for-advanced-ai": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/omio": {
+    "category": "ai-cognition",
+    "tldr": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/three-approaches-to-measuring-and-managing-ai-roi/": {
+    "category": "ai-management",
+    "tldr": "Matt Harrison Clough/Ikon Images After several years of AI experiments and pilot initiatives, a crucial question remains open for most companies: How much of a…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/five-client-led-shifts-reshaping-european-wealth-management": {
+    "category": "ai-management",
+    "tldr": "Survey results point to changing consumer preferences that are disrupting and transforming the industry in Europe—and highlight the need for a new set of…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/ai-data-readiness-the-key-to-scaling-impact": {
+    "category": "ai-management",
+    "tldr": "As companies push their AI pilots to scale, data is emerging as a constraint. Leaders are prioritizing data readiness, connecting structured and unstructured…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/business-building/our-insights/beyond-productivity-how-ai-creates-value-in-private-equity": {
+    "category": "ai-management",
+    "tldr": "Private equity–backed companies that broadly embrace AI have median revenue multiples more than twice those of companies focused solely on productivity…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
