@@ -1,9 +1,47 @@
 {
-  "generated": "2026-06-24T05:59:05.940Z",
-  "cutoff": "2026-05-25T05:57:38.078Z",
-  "total": 65,
+  "generated": "2026-06-25T05:58:05.309Z",
+  "cutoff": "2026-05-26T05:56:30.872Z",
+  "total": 67,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "excerpt": "",
+      "date": "2026-06-24T16:30:01.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "excerpt": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "date": "2026-06-24T06:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "link": "https://openai.com/index/gpt-5-immunology-mystery",
@@ -171,25 +209,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "excerpt": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "date": "2026-06-18T08:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -518,6 +537,158 @@
       "enriched": false
     },
     {
+      "title": "Config 2026: New materials, new tools and a more expressive canvas",
+      "link": "https://www.figma.com/blog/config-2026-recap/",
+      "excerpt": "Push past what you thought was possible with code layers, Figma Motion, shaders, generative plugins and Weave tools, all on the canvas.",
+      "date": "2026-06-24T15:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "Push past what you thought was possible with code layers, Figma Motion, shaders, generative plugins and Weave tools, all on the canvas.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Code on the Figma canvas",
+      "link": "https://www.figma.com/blog/code-on-the-figma-canvas/",
+      "excerpt": "With code layers in Figma Design, you can explore multiple directions with code, side by side with your team.",
+      "date": "2026-06-24T14:30:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "With code layers in Figma Design, you can explore multiple directions with code, side by side with your team.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Connecting Figma and Weave",
+      "link": "https://www.figma.com/blog/connecting-figma-and-weave/",
+      "excerpt": "Today, we’re announcing new ways your Weave creative workflows can live alongside your Figma frames.",
+      "date": "2026-06-24T14:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "Today, we’re announcing new ways your Weave creative workflows can live alongside your Figma frames.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing Figma Motion: Your canvas now has a timeline",
+      "link": "https://www.figma.com/blog/introducing-figma-motion/",
+      "excerpt": "Motion now lives on the canvas—in the same file as your components, your variables, and your team—so your designs can come to life from day one.",
+      "date": "2026-06-24T13:30:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-design-system",
+      "tldr": "Motion now lives on the canvas—in the same file as your components, your variables, and your team—so your designs can come to life from day one.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Figma’s design agent, now with custom tools and greater context",
+      "link": "https://www.figma.com/blog/agent-custom-tools-context-skills/",
+      "excerpt": "Prompting gets you started. Custom tools, real context, and skills take the design agent further—so what ends up on the canvas actually looks like you.",
+      "date": "2026-06-24T13:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "Prompting gets you started. Custom tools, real context, and skills take the design agent further—so what ends up on the canvas actually looks like you.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Figma's 2026 AI report: Can AI help us collaborate better?",
+      "link": "https://www.figma.com/blog/2026-ai-report/",
+      "excerpt": "AI used to be a solo act. According to our research, it’s not anymore.",
+      "date": "2026-06-24T12:45:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "AI used to be a solo act. According to our research, it’s not anymore.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Principles in motion",
+      "link": "https://www.figma.com/blog/principles-in-motion/",
+      "excerpt": "When you’re designing motion, you’re designing with time. Understanding the mechanics turns movement into meaning.",
+      "date": "2026-06-24T12:30:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "When you’re designing motion, you’re designing with time. Understanding the mechanics turns movement into meaning.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "What does the future of software look like?",
+      "link": "https://www.figma.com/blog/future-states/",
+      "excerpt": "Our community imagines how AI might bring about more human ways to interact with software.",
+      "date": "2026-06-24T12:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "Our community imagines how AI might bring about more human ways to interact with software.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Incentive Structures for Diary Studies",
       "link": "https://www.nngroup.com/articles/diary-study-incentives/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "A mindful incentive structure can keep diary study participants engaged and responding, without overloading you with low-quality responses.",
@@ -594,25 +765,6 @@
       "enriched": false
     },
     {
-      "title": "4 ways we’re using our MCP server at Figma",
-      "link": "https://www.figma.com/blog/4-ways-were-using-our-mcp-server-at-figma/",
-      "excerpt": "The Figma MCP server reaches further across the platform than it ever has. From updating a living deck to shipping a design to production—here's what that…",
-      "date": "2026-06-16T12:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "The Figma MCP server reaches further across the platform than it ever has. From updating a living deck to shipping a design to production—here's what that…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The Core Skill of Design in the AI Era: Critique",
       "link": "https://www.nngroup.com/articles/ai-era-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "To build useful and usable AI-powered systems, our understanding of users’ needs and our design judgement must be encoded into well-defined evaluation criteria.",
@@ -646,63 +798,6 @@
       ],
       "category": "ai-agent",
       "tldr": "Context architecture applies information architecture principles to AI systems, helping agents interpret information and produce better, user aligned responses.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Improving performance in the layers panel",
-      "link": "https://www.figma.com/blog/improving-performance-in-the-layers-panel/",
-      "excerpt": "The layers panel is the central blueprint of a Figma file. We rearchitected it with new computation and caching strategies, resulting in 30–50% faster…",
-      "date": "2026-06-11T17:30:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "The layers panel is the central blueprint of a Figma file. We rearchitected it with new computation and caching strategies, resulting in 30–50% faster…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Steal this template: Bring a user persona to life with Figma Weave",
-      "link": "https://www.figma.com/blog/steal-this-template-bring-a-user-persona-to-life-with-figma-weave/",
-      "excerpt": "Lead Product Designer at Dropbox Sara Clayton used Figma Weave to add dimension to an Ideal Customer Profile in under two minutes. Steal her template to make…",
-      "date": "2026-06-10T17:23:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "Lead Product Designer at Dropbox Sara Clayton used Figma Weave to add dimension to an Ideal Customer Profile in under two minutes. Steal her template to make…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "You never stop cultivating taste",
-      "link": "https://www.figma.com/blog/you-never-stop-cultivating-taste/",
-      "excerpt": "Having the right tools can only take you so far. To become a master of your craft, you need to hone a point of view.",
-      "date": "2026-06-08T16:26:36.446Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "Having the right tools can only take you so far. To become a master of your craft, you need to hone a point of view.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -803,58 +898,58 @@
       "enriched": false
     },
     {
-      "title": "4 new ways to go from idea to product with AI tools",
-      "link": "https://www.figma.com/blog/4-new-ways-to-go-from-idea-to-product-with-ai-tools/",
-      "excerpt": "AI tools are changing how teams build products—from where they start to what carries through to production. Here's what that shift looks like across four…",
-      "date": "2026-05-28T19:52:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
+      "title": "Resolve AI CEO Spiros Xanthos: AI’s impact on software production systems",
+      "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/resolve-ai-ceo-spiros-xanthos-ais-impact-on-software-production-systems",
+      "excerpt": "Automating software’s deployment, production, and monitoring systems has been challenging. Resolve AI’s CEO explains how AI could improve reliability, pace,…",
+      "date": "2026-06-24T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
       "tags": [
-        "设计",
-        "工具",
-        "产品"
+        "战略",
+        "管理",
+        "AI"
       ],
-      "category": "ai-ux",
-      "tldr": "AI tools are changing how teams build products—from where they start to what carries through to production. Here's what that shift looks like across four…",
+      "category": "design-director",
+      "tldr": "Automating software’s deployment, production, and monitoring systems has been challenging. Resolve AI’s CEO explains how AI could improve reliability, pace,…",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Figma Make, now on your local code",
-      "link": "https://www.figma.com/blog/figma-make-now-on-your-local-code/",
-      "excerpt": "From visual editing to contextual prompting and collaboration, Figma Make is expanding how teams can design with code.",
-      "date": "2026-05-28T12:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
+      "title": "AI-powered software development: How technology is rewriting the rules",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-powered-software-development-how-technology-is-rewriting-the-rules",
+      "excerpt": "From individual productivity hacks to full workflow and role reinvention—three McKinsey experts explain how AI is changing the creation of software and what…",
+      "date": "2026-06-24T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
       "tags": [
-        "设计",
-        "工具",
-        "产品"
+        "战略",
+        "管理",
+        "AI"
       ],
-      "category": "ai-ux",
-      "tldr": "From visual editing to contextual prompting and collaboration, Figma Make is expanding how teams can design with code.",
+      "category": "ai-management",
+      "tldr": "From individual productivity hacks to full workflow and role reinvention—three McKinsey experts explain how AI is changing the creation of software and what…",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Issue no.16: Trust the process",
-      "link": "https://www.figma.com/blog/trust-the-process/",
-      "excerpt": "Between new model drops and agentic tools, how design happens is changing fast.",
-      "date": "2026-05-26T17:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
+      "title": "How KPN is building an agentic AI engine for customer care",
+      "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/how-kpn-is-building-an-agentic-ai-engine-for-customer-care",
+      "excerpt": "By transforming its contact center with agentic AI, the leading Dutch telecom company is strengthening quality, improving efficiency, and building AI…",
+      "date": "2026-06-24T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
       "tags": [
-        "设计",
-        "工具",
-        "产品"
+        "战略",
+        "管理",
+        "AI"
       ],
-      "category": "ai-agent",
-      "tldr": "Between new model drops and agentic tools, how design happens is changing fast.",
+      "category": "ai-management",
+      "tldr": "By transforming its contact center with agentic AI, the leading Dutch telecom company is strengthening quality, improving efficiency, and building AI…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -898,25 +993,6 @@
       "enriched": false
     },
     {
-      "title": "AI data readiness: The key to scaling impact",
-      "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/ai-data-readiness-the-key-to-scaling-impact",
-      "excerpt": "As companies push their AI pilots to scale, data is emerging as a constraint. Leaders are prioritizing data readiness, connecting structured and unstructured…",
-      "date": "2026-06-23T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "As companies push their AI pilots to scale, data is emerging as a constraint. Leaders are prioritizing data readiness, connecting structured and unstructured…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Beyond productivity: How AI creates value in private equity",
       "link": "https://www.mckinsey.com/capabilities/business-building/our-insights/beyond-productivity-how-ai-creates-value-in-private-equity",
       "excerpt": "Private equity–backed companies that broadly embrace AI have median revenue multiples more than twice those of companies focused solely on productivity…",
@@ -931,6 +1007,25 @@
       ],
       "category": "ai-management",
       "tldr": "Private equity–backed companies that broadly embrace AI have median revenue multiples more than twice those of companies focused solely on productivity…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "AI data readiness: The key to scaling impact",
+      "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/ai-data-readiness-the-key-to-scaling-impact",
+      "excerpt": "As companies push their AI pilots to scale, data is emerging as a constraint. Leaders are prioritizing data readiness, connecting structured and unstructured…",
+      "date": "2026-06-23T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As companies push their AI pilots to scale, data is emerging as a constraint. Leaders are prioritizing data readiness, connecting structured and unstructured…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1014,7 +1109,7 @@
     {
       "title": "Capturing growth in a fragmented world",
       "link": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-capturing-growth-in-a-fragmented-world",
-      "excerpt": "CEOs who act nimbly and know where to place their bets can gain a competitive edge amid a shifting geopolitical landscape.",
+      "excerpt": "CEOs who act nimbly and reallocate capital strategically can gain a competitive edge amid a shifting geopolitical landscape.",
       "date": "2026-06-22T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
@@ -1026,44 +1121,6 @@
       ],
       "category": "design-director",
       "tldr": "CEOs who act nimbly and know where to place their bets can gain a competitive edge amid a shifting geopolitical landscape.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "State of the Consumer 2026: When tech acceleration and cost pressures collide",
-      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer",
-      "excerpt": "The consumer is changing fast. Four trends—the tech-driven path to purchase, the health revolution, the experience economy, and the resourceful consumer—will…",
-      "date": "2026-06-22T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The consumer is changing fast. Four trends—the tech-driven path to purchase, the health revolution, the experience economy, and the resourceful consumer—will…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Putting AI to work: The operational excellence imperative",
-      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/putting-ai-to-work-the-operational-excellence-imperative",
-      "excerpt": "Our survey uncovers how operational excellence becomes the hidden accelerator of AI at scale.",
-      "date": "2026-06-19T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Our survey uncovers how operational excellence becomes the hidden accelerator of AI at scale.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1083,25 +1140,6 @@
       ],
       "category": "ai-management",
       "tldr": "DBS Bank believes that innovation is critical to its survival, and to reinforce that objective, it made innovation a KPI representing 20% of every team and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "What corporate leaders can learn from start-up founders",
-      "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/what-corporate-leaders-can-learn-from-start-up-founders",
-      "excerpt": "Alurx Founder and CEO Julia Stewart discusses her journey from public company CEO to health tech entrepreneur—and how corporate leaders can build confidence to…",
-      "date": "2026-06-18T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Alurx Founder and CEO Julia Stewart discusses her journey from public company CEO to health tech entrepreneur—and how corporate leaders can build confidence to…",
       "insight": "",
       "suggestion": "",
       "enriched": false

@@ -1510,5 +1510,96 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/config-2026-recap/": {
+    "category": "ai-ux",
+    "tldr": "Push past what you thought was possible with code layers, Figma Motion, shaders, generative plugins and Weave tools, all on the canvas.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/code-on-the-figma-canvas/": {
+    "category": "ai-ux",
+    "tldr": "With code layers in Figma Design, you can explore multiple directions with code, side by side with your team.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/connecting-figma-and-weave/": {
+    "category": "ai-ux",
+    "tldr": "Today, we’re announcing new ways your Weave creative workflows can live alongside your Figma frames.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/introducing-figma-motion/": {
+    "category": "ai-design-system",
+    "tldr": "Motion now lives on the canvas—in the same file as your components, your variables, and your team—so your designs can come to life from day one.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/agent-custom-tools-context-skills/": {
+    "category": "ai-agent",
+    "tldr": "Prompting gets you started. Custom tools, real context, and skills take the design agent further—so what ends up on the canvas actually looks like you.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/2026-ai-report/": {
+    "category": "ai-ux",
+    "tldr": "AI used to be a solo act. According to our research, it’s not anymore.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/principles-in-motion/": {
+    "category": "ai-ux",
+    "tldr": "When you’re designing motion, you’re designing with time. Understanding the mechanics turns movement into meaning.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/future-states/": {
+    "category": "ai-ux",
+    "tldr": "Our community imagines how AI might bring about more human ways to interact with software.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/resolve-ai-ceo-spiros-xanthos-ais-impact-on-software-production-systems": {
+    "category": "design-director",
+    "tldr": "Automating software’s deployment, production, and monitoring systems has been challenging. Resolve AI’s CEO explains how AI could improve reliability, pace,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-powered-software-development-how-technology-is-rewriting-the-rules": {
+    "category": "ai-management",
+    "tldr": "From individual productivity hacks to full workflow and role reinvention—three McKinsey experts explain how AI is changing the creation of software and what…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/how-kpn-is-building-an-agentic-ai-engine-for-customer-care": {
+    "category": "ai-management",
+    "tldr": "By transforming its contact center with agentic AI, the leading Dutch telecom company is strengthening quality, improving efficiency, and building AI…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
