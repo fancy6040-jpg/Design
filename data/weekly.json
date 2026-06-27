@@ -1,9 +1,28 @@
 {
-  "generated": "2026-06-26T06:01:07.263Z",
-  "cutoff": "2026-05-27T05:59:58.554Z",
-  "total": 67,
+  "generated": "2026-06-27T05:46:32.861Z",
+  "cutoff": "2026-05-28T05:45:07.033Z",
+  "total": 68,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "excerpt": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety…",
+      "date": "2026-06-26T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "How agents are transforming work",
       "link": "https://openai.com/index/how-agents-are-transforming-work",
@@ -195,25 +214,6 @@
       "enriched": false
     },
     {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "excerpt": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "date": "2026-06-18T17:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Unlocking UK house-building with AI-accelerated planning",
       "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
       "excerpt": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
@@ -266,6 +266,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Results from the first Anthropic Public Record",
+      "link": "https://www.anthropic.com/news/anthropic-public-record",
+      "excerpt": "Results from the first Anthropic Public Record",
+      "date": "2026-06-12T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Results from the first Anthropic Public Record",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -518,20 +537,39 @@
       "enriched": false
     },
     {
-      "title": "Introducing Claude Opus 4.8",
-      "link": "https://www.anthropic.com/news/claude-opus-4-8",
-      "excerpt": "Introducing Claude Opus 4.8",
-      "date": "2026-05-28T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "Kick the Bots Out of Your Survey Data",
+      "link": "https://www.nngroup.com/articles/survey-bots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Learn to spot and filter out survey bots’ responses before analysis so fake data doesn’t distort your findings.",
+      "date": "2026-06-26T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "UX",
+        "设计",
+        "研究"
       ],
-      "category": "ai-cognition",
-      "tldr": "Introducing Claude Opus 4.8",
+      "category": "ai-ux",
+      "tldr": "Learn to spot and filter out survey bots’ responses before analysis so fake data doesn’t distort your findings.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Your New UX Habit: Establishing Baselines for Impact",
+      "link": "https://www.nngroup.com/articles/establishing-baselines/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Gather baseline metrics before starting a project so your team can demonstrate its impact.",
+      "date": "2026-06-26T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Gather baseline metrics before starting a project so your team can demonstrate its impact.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -879,20 +917,39 @@
       "enriched": false
     },
     {
-      "title": "Using RAS to Guide UX Research Resource Allocation and Strategy",
-      "link": "https://www.nngroup.com/articles/ras-research-resource-allocation/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "RAS helps managers allocate resources based on actual impact, shifting focus from outputs to outcomes and enabling data-driven UX strategies.",
-      "date": "2026-05-29T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
+      "title": "Building profit resilience in European private banking",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/building-profit-resilience-in-european-private-banking",
+      "excerpt": "Private banks face a critical decision point: Strengthen their business focus and monetization discipline, or risk declining profits.",
+      "date": "2026-06-26T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
       "tags": [
-        "UX",
-        "设计",
-        "研究"
+        "战略",
+        "管理",
+        "AI"
       ],
-      "category": "ai-ux",
-      "tldr": "RAS helps managers allocate resources based on actual impact, shifting focus from outputs to outcomes and enabling data-driven UX strategies.",
+      "category": "ai-management",
+      "tldr": "Private banks face a critical decision point: Strengthen their business focus and monetization discipline, or risk declining profits.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Turning sustainability compliance into a competitive edge",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/turning-sustainability-compliance-into-a-competitive-edge",
+      "excerpt": "How financial institutions can turn mandatory reporting of financed emissions into a growth opportunity.",
+      "date": "2026-06-26T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "How financial institutions can turn mandatory reporting of financed emissions into a growth opportunity.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1031,63 +1088,6 @@
       "enriched": false
     },
     {
-      "title": "AI-powered software development: How technology is rewriting the rules",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-powered-software-development-how-technology-is-rewriting-the-rules",
-      "excerpt": "From individual productivity hacks to full workflow and role reinvention—three McKinsey experts explain how AI is changing the creation of software and what…",
-      "date": "2026-06-24T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "From individual productivity hacks to full workflow and role reinvention—three McKinsey experts explain how AI is changing the creation of software and what…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Resolve AI CEO Spiros Xanthos: AI’s impact on software production systems",
-      "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/resolve-ai-ceo-spiros-xanthos-ais-impact-on-software-production-systems",
-      "excerpt": "Automating software’s deployment, production, and monitoring systems has been challenging. Resolve AI’s CEO explains how AI could improve reliability, pace,…",
-      "date": "2026-06-24T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Automating software’s deployment, production, and monitoring systems has been challenging. Resolve AI’s CEO explains how AI could improve reliability, pace,…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How KPN is building an agentic AI engine for customer care",
-      "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/how-kpn-is-building-an-agentic-ai-engine-for-customer-care",
-      "excerpt": "By transforming its contact center with agentic AI, the leading Dutch telecom company is strengthening quality, improving efficiency, and building AI…",
-      "date": "2026-06-24T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "By transforming its contact center with agentic AI, the leading Dutch telecom company is strengthening quality, improving efficiency, and building AI…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The age of thinking machines: Perspectives on the future of robotics",
       "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-age-of-thinking-machines-perspectives-on-the-future-of-robotics",
       "excerpt": "The next frontier of AI is physical. Embodied intelligence, in the form of robots, could change how we live and work by 2040.",
@@ -1102,6 +1102,25 @@
       ],
       "category": "ai-management",
       "tldr": "The next frontier of AI is physical. Embodied intelligence, in the form of robots, could change how we live and work by 2040.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "AI-powered software development: How technology is rewriting the rules",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-powered-software-development-how-technology-is-rewriting-the-rules",
+      "excerpt": "From individual productivity hacks to full workflow and role reinvention—three McKinsey experts explain how AI is changing the creation of software and what…",
+      "date": "2026-06-24T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "From individual productivity hacks to full workflow and role reinvention—three McKinsey experts explain how AI is changing the creation of software and what…",
       "insight": "",
       "suggestion": "",
       "enriched": false
