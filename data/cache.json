@@ -1706,5 +1706,12 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/hp-frontier-partnership": {
+    "category": "ai-cognition",
+    "tldr": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
