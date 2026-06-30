@@ -1,9 +1,28 @@
 {
-  "generated": "2026-06-29T06:28:14.502Z",
-  "cutoff": "2026-05-30T06:26:57.058Z",
+  "generated": "2026-06-30T06:02:18.198Z",
+  "cutoff": "2026-05-31T06:01:06.316Z",
   "total": 67,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "excerpt": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "date": "2026-06-29T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "link": "https://openai.com/index/hp-frontier-partnership",
@@ -157,25 +176,6 @@
       "enriched": false
     },
     {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "link": "https://openai.com/index/patch-the-planet",
-      "excerpt": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "date": "2026-06-22T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Daybreak: Tools for securing every organization in the world",
       "link": "https://openai.com/index/daybreak-securing-the-world",
       "excerpt": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
@@ -195,10 +195,10 @@
       "enriched": false
     },
     {
-      "title": "Codex-maxxing for long-running work",
-      "link": "https://openai.com/index/codex-maxxing-long-running-work",
-      "excerpt": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-      "date": "2026-06-22T00:00:00.000Z",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "link": "https://openai.com/index/patch-the-planet",
+      "excerpt": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "date": "2026-06-22T10:00:00.000Z",
       "source_id": "openai",
       "source_name": "OpenAI",
       "priority": 0,
@@ -207,8 +207,8 @@
         "模型",
         "产品"
       ],
-      "category": "ai-management",
-      "tldr": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "category": "ai-cognition",
+      "tldr": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -537,6 +537,44 @@
       "enriched": false
     },
     {
+      "title": "Start Anywhere, a magazine by Figma",
+      "link": "https://www.figma.com/blog/start-anywhere/",
+      "excerpt": "New tools and materials make it easier to build anything and start anywhere. The question now is, where do you want to go?",
+      "date": "2026-06-29T21:22:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "New tools and materials make it easier to build anything and start anywhere. The question now is, where do you want to go?",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Meet the artists behind Figma’s Season 5 collection",
+      "link": "https://www.figma.com/blog/how-season-5-merch-came-to-life/",
+      "excerpt": "Figma's Season 5 merch is full of surprises—smiling cubes, a tomato with arms, wooden shapes painted in gouache. We asked the eight artists behind the…",
+      "date": "2026-06-29T20:12:13.375Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "Figma's Season 5 merch is full of surprises—smiling cubes, a tomato with arms, wooden shapes painted in gouache. We asked the eight artists behind the…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Kick the Bots Out of Your Survey Data",
       "link": "https://www.nngroup.com/articles/survey-bots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Learn to spot and filter out survey bots’ responses before analysis so fake data doesn’t distort your findings.",
@@ -765,44 +803,6 @@
       "enriched": false
     },
     {
-      "title": "Direct every frame with Runway Aleph 2.0, now in Figma Weave",
-      "link": "https://www.figma.com/blog/direct-every-frame-with-runway-aleph-2/",
-      "excerpt": "Aleph 2.0 brings frame-level creative direction to the Figma Weave canvas.",
-      "date": "2026-06-18T12:05:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "Aleph 2.0 brings frame-level creative direction to the Figma Weave canvas.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Speaking the language of color",
-      "link": "https://www.figma.com/blog/pantone-speaking-the-language-of-color/",
-      "excerpt": "The Pantone Color Institute explains how brands can use color to shape meaning and drive trends.",
-      "date": "2026-06-17T15:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "The Pantone Color Institute explains how brands can use color to shape meaning and drive trends.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The Core Skill of Design in the AI Era: Critique",
       "link": "https://www.nngroup.com/articles/ai-era-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "To build useful and usable AI-powered systems, our understanding of users’ needs and our design judgement must be encoded into well-defined evaluation criteria.",
@@ -898,10 +898,10 @@
       "enriched": false
     },
     {
-      "title": "Building profit resilience in European private banking",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/building-profit-resilience-in-european-private-banking",
-      "excerpt": "Private banks face a critical decision point: Strengthen their business focus and monetization discipline, or risk declining profits.",
-      "date": "2026-06-26T00:00:00.000Z",
+      "title": "Colocation data centers: The infrastructure race behind AI",
+      "link": "https://www.mckinsey.com/mgi/our-research/colocation-data-centers-the-infrastructure-race-behind-ai",
+      "excerpt": "Data center capital expenditures are surging as AI workloads grow, yet competitiveness increasingly depends on securing advanced accelerators, reliable…",
+      "date": "2026-06-30T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
       "priority": 2,
@@ -911,16 +911,16 @@
         "AI"
       ],
       "category": "ai-management",
-      "tldr": "Private banks face a critical decision point: Strengthen their business focus and monetization discipline, or risk declining profits.",
+      "tldr": "Data center capital expenditures are surging as AI workloads grow, yet competitiveness increasingly depends on securing advanced accelerators, reliable…",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Turning sustainability compliance into a competitive edge",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/turning-sustainability-compliance-into-a-competitive-edge",
-      "excerpt": "How financial institutions can turn mandatory reporting of financed emissions into a growth opportunity.",
-      "date": "2026-06-26T00:00:00.000Z",
+      "title": "Biopharma R&D: The evolving formula for discovery and development",
+      "link": "https://www.mckinsey.com/mgi/our-research/biopharma-r-and-d-the-evolving-formula-for-discovery-and-development",
+      "excerpt": "Innovation after innovation is advancing the biopharmaceutical industry, enabling better treatment of complex diseases. The industry has historically made its…",
+      "date": "2026-06-30T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
       "priority": 2,
@@ -930,7 +930,178 @@
         "AI"
       ],
       "category": "ai-management",
-      "tldr": "How financial institutions can turn mandatory reporting of financed emissions into a growth opportunity.",
+      "tldr": "Innovation after innovation is advancing the biopharmaceutical industry, enabling better treatment of complex diseases. The industry has historically made its…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Polyethylene: Widely produced—but not one-size-fits-all",
+      "link": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all",
+      "excerpt": "Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Semiconductors: Etching the new map of strategic supply",
+      "link": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "excerpt": "As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, demand for advanced semiconductors…",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, demand for advanced semiconductors…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Solar power: From intermittent sunshine to reliable power",
+      "link": "https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power",
+      "excerpt": "Solar photovoltaic projects with battery energy storage systems are moving beyond low-cost generation by transforming intermittent output into more reliable,…",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Solar photovoltaic projects with battery energy storage systems are moving beyond low-cost generation by transforming intermittent output into more reliable,…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Batteries: Scaling the engine of electrification",
+      "link": "https://www.mckinsey.com/mgi/our-research/batteries-scaling-the-engine-of-electrification",
+      "excerpt": "Demand for batteries is surging as electric vehicles and storage grow, but competitiveness depends on securing materials, ramping up gigafactories, and…",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Demand for batteries is surging as electric vehicles and storage grow, but competitiveness depends on securing materials, ramping up gigafactories, and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Pharmaceuticals: Innovating and advancing around the world",
+      "link": "https://www.mckinsey.com/mgi/our-research/pharmaceuticals-innovating-and-advancing-around-the-world",
+      "excerpt": "The continued rise of monoclonal antibody therapies and demographic changes are powering growth in the pharmaceuticals industry.",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The continued rise of monoclonal antibody therapies and demographic changes are powering growth in the pharmaceuticals industry.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "EAF steel: Beyond the blast furnace",
+      "link": "https://www.mckinsey.com/mgi/our-research/eaf-steel-beyond-the-blast-furnace",
+      "excerpt": "Global steel investment is flat, but DRI-EAF production is gaining share in advanced economies.",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Global steel investment is flat, but DRI-EAF production is gaining share in advanced economies.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Catalyzing competitiveness: Where investment happens and why",
+      "link": "https://www.mckinsey.com/mgi/our-research/catalyzing-competitiveness-where-investment-happens-and-why",
+      "excerpt": "Competitiveness has moved to the top of the global agenda, and investment is its indicator and its outcome. In the context of dramatically diverging investment…",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Competitiveness has moved to the top of the global agenda, and investment is its indicator and its outcome. In the context of dramatically diverging investment…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "From access to assets: How early-life wealth building can shape economic mobility",
+      "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/from-access-to-assets-how-early-life-wealth-building-can-shape-economic-mobility",
+      "excerpt": "Investing in children’s financial futures can narrow disparities and expand opportunity. Different scenarios for the new 530A accounts, also known as Trump…",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Investing in children’s financial futures can narrow disparities and expand opportunity. Different scenarios for the new 530A accounts, also known as Trump…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Transforming Investing With AI at Franklin Templeton",
+      "link": "https://sloanreview.mit.edu/article/transforming-investing-with-ai-at-franklin-templeton/",
+      "excerpt": "Patrick George/Ikon Images What would you do with artificial intelligence if you were confident that it would transform your industry? What actions would you…",
+      "date": "2026-06-29T11:00:37.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Patrick George/Ikon Images What would you do with artificial intelligence if you were confident that it would transform your industry? What actions would you…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -950,158 +1121,6 @@
       ],
       "category": "ai-management",
       "tldr": "Matt Kenyon/Ikon Images “Professionalism” encompasses the broad set of shared beliefs and expectations about how people within an industry or workplace should…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How companies can strengthen their geopolitical risk readiness",
-      "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/how-companies-can-strengthen-their-geopolitical-risk-readiness",
-      "excerpt": "Survey results reveal a widening gap between leaders’ assessment of their risk exposure and responsiveness. Five actions can help leaders prepare for a range…",
-      "date": "2026-06-25T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Survey results reveal a widening gap between leaders’ assessment of their risk exposure and responsiveness. Five actions can help leaders prepare for a range…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "What matters most to investors in 2026 and what it means for companies",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-matters-most-to-investors-in-2026-and-what-it-means-for-companies",
-      "excerpt": "Even before the Middle East conflict began, geopolitics surged as the foremost investor concern. AI disruption and capital allocation discipline are also top…",
-      "date": "2026-06-25T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Even before the Middle East conflict began, geopolitics surged as the foremost investor concern. AI disruption and capital allocation discipline are also top…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Unlocking full potential: Five practices reshaping PE value creation",
-      "link": "https://www.mckinsey.com/capabilities/transformation/our-insights/unlocking-full-potential-five-practices-reshaping-pe-value-creation",
-      "excerpt": "The half-life of the initial deal thesis is shrinking. Private equity firms are shifting toward a more adaptive, execution-led model that reshapes value…",
-      "date": "2026-06-25T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "The half-life of the initial deal thesis is shrinking. Private equity firms are shifting toward a more adaptive, execution-led model that reshapes value…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How TITAN Group’s CEO is transforming a century-old company",
-      "link": "https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-titan-groups-ceo-is-transforming-a-century-old-company",
-      "excerpt": "As the first outside leader of the family-founded business, Marcel Cobuz has made some tough decisions about what to keep and what to change. His formula seems…",
-      "date": "2026-06-25T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "As the first outside leader of the family-founded business, Marcel Cobuz has made some tough decisions about what to keep and what to change. His formula seems…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Frontiers of compute: The technologies to reduce AI inference costs",
-      "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs",
-      "excerpt": "AI’s next breakthrough may not be a smarter model but a cheaper token.",
-      "date": "2026-06-25T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "AI’s next breakthrough may not be a smarter model but a cheaper token.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "What it takes to become—and remain—an effective CEO",
-      "link": "https://www.mckinsey.com/featured-insights/leadership/what-it-takes-to-become-and-remain-an-effective-ceo",
-      "excerpt": "Between the first 90 days and the last, here’s how leaders can successfully manage people, products, processes, and themselves.",
-      "date": "2026-06-25T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Between the first 90 days and the last, here’s how leaders can successfully manage people, products, processes, and themselves.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The age of thinking machines: Perspectives on the future of robotics",
-      "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-age-of-thinking-machines-perspectives-on-the-future-of-robotics",
-      "excerpt": "The next frontier of AI is physical. Embodied intelligence, in the form of robots, could change how we live and work by 2040.",
-      "date": "2026-06-24T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The next frontier of AI is physical. Embodied intelligence, in the form of robots, could change how we live and work by 2040.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "AI-powered software development: How technology is rewriting the rules",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-powered-software-development-how-technology-is-rewriting-the-rules",
-      "excerpt": "From individual productivity hacks to full workflow and role reinvention—three McKinsey experts explain how AI is changing the creation of software and what…",
-      "date": "2026-06-24T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "From individual productivity hacks to full workflow and role reinvention—three McKinsey experts explain how AI is changing the creation of software and what…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1254,25 +1273,6 @@
       ],
       "category": "ai-management",
       "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The consulting manager took a call at 7:30 p.m., while volunteering at her son’s soccer practice, from an…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How Nespresso Builds Sustainability Into Its Business Model",
-      "link": "https://sloanreview.mit.edu/article/how-nespresso-builds-sustainability-into-its-business-model/",
-      "excerpt": "Photo courtesy of Nestlé Jean-Christophe Jaunin became CEO of Nespresso North America, the Nestlé unit that sells coffee brewing machines and capsules, on Jan.…",
-      "date": "2026-06-02T14:02:57.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "design-director",
-      "tldr": "Photo courtesy of Nestlé Jean-Christophe Jaunin became CEO of Nespresso North America, the Nestlé unit that sells coffee brewing machines and capsules, on Jan.…",
       "insight": "",
       "suggestion": "",
       "enriched": false

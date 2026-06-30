@@ -1713,5 +1713,103 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/mapping-ai-jobs-transition-eu": {
+    "category": "ai-workflow",
+    "tldr": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/start-anywhere/": {
+    "category": "ai-ux",
+    "tldr": "New tools and materials make it easier to build anything and start anywhere. The question now is, where do you want to go?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/how-season-5-merch-came-to-life/": {
+    "category": "ai-ux",
+    "tldr": "Figma's Season 5 merch is full of surprises—smiling cubes, a tomato with arms, wooden shapes painted in gouache. We asked the eight artists behind the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/colocation-data-centers-the-infrastructure-race-behind-ai": {
+    "category": "ai-management",
+    "tldr": "Data center capital expenditures are surging as AI workloads grow, yet competitiveness increasingly depends on securing advanced accelerators, reliable…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/biopharma-r-and-d-the-evolving-formula-for-discovery-and-development": {
+    "category": "ai-management",
+    "tldr": "Innovation after innovation is advancing the biopharmaceutical industry, enabling better treatment of complex diseases. The industry has historically made its…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all": {
+    "category": "ai-management",
+    "tldr": "Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply": {
+    "category": "ai-management",
+    "tldr": "As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, demand for advanced semiconductors…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power": {
+    "category": "ai-management",
+    "tldr": "Solar photovoltaic projects with battery energy storage systems are moving beyond low-cost generation by transforming intermittent output into more reliable,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/batteries-scaling-the-engine-of-electrification": {
+    "category": "ai-management",
+    "tldr": "Demand for batteries is surging as electric vehicles and storage grow, but competitiveness depends on securing materials, ramping up gigafactories, and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/pharmaceuticals-innovating-and-advancing-around-the-world": {
+    "category": "ai-management",
+    "tldr": "The continued rise of monoclonal antibody therapies and demographic changes are powering growth in the pharmaceuticals industry.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/eaf-steel-beyond-the-blast-furnace": {
+    "category": "ai-management",
+    "tldr": "Global steel investment is flat, but DRI-EAF production is gaining share in advanced economies.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/catalyzing-competitiveness-where-investment-happens-and-why": {
+    "category": "ai-management",
+    "tldr": "Competitiveness has moved to the top of the global agenda, and investment is its indicator and its outcome. In the context of dramatically diverging investment…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/from-access-to-assets-how-early-life-wealth-building-can-shape-economic-mobility": {
+    "category": "ai-management",
+    "tldr": "Investing in children’s financial futures can narrow disparities and expand opportunity. Different scenarios for the new 530A accounts, also known as Trump…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/transforming-investing-with-ai-at-franklin-templeton/": {
+    "category": "ai-management",
+    "tldr": "Patrick George/Ikon Images What would you do with artificial intelligence if you were confident that it would transform your industry? What actions would you…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
