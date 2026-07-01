@@ -1,9 +1,104 @@
 {
-  "generated": "2026-06-30T06:02:18.198Z",
-  "cutoff": "2026-05-31T06:01:06.316Z",
-  "total": 67,
+  "generated": "2026-07-01T06:16:46.287Z",
+  "cutoff": "2026-06-01T06:15:46.278Z",
+  "total": 68,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "excerpt": "",
+      "date": "2026-06-30T16:02:40.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How ChatGPT adoption has expanded",
+      "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "excerpt": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across…",
+      "date": "2026-06-30T09:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing GeneBench-Pro",
+      "link": "https://openai.com/index/introducing-genebench-pro",
+      "excerpt": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "excerpt": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Inside Genebench-Pro",
+      "link": "https://openai.com/index/genebench-pro/case-studies",
+      "excerpt": "",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Mapping Europe’s AI Workforce Opportunity",
       "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
@@ -119,25 +214,6 @@
       "enriched": false
     },
     {
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "link": "https://openai.com/index/gpt-5-immunology-mystery",
-      "excerpt": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "date": "2026-06-23T17:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Helping build shared standards for advanced AI",
       "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "excerpt": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
@@ -152,63 +228,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How Omio is building the future of conversational travel",
-      "link": "https://openai.com/index/omio",
-      "excerpt": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "date": "2026-06-23T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
-      "excerpt": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "date": "2026-06-22T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "link": "https://openai.com/index/patch-the-planet",
-      "excerpt": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "date": "2026-06-22T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -898,6 +917,25 @@
       "enriched": false
     },
     {
+      "title": "The Real Question to Ask About AI Governance",
+      "link": "https://sloanreview.mit.edu/article/the-real-question-to-ask-about-ai-governance/",
+      "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images Leaders at literally every Fortune 500 company will tell you that they are governing their AI — every single…",
+      "date": "2026-06-30T11:00:22.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images Leaders at literally every Fortune 500 company will tell you that they are governing their AI — every single…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Colocation data centers: The infrastructure race behind AI",
       "link": "https://www.mckinsey.com/mgi/our-research/colocation-data-centers-the-infrastructure-race-behind-ai",
       "excerpt": "Data center capital expenditures are surging as AI workloads grow, yet competitiveness increasingly depends on securing advanced accelerators, reliable…",
@@ -936,25 +974,6 @@
       "enriched": false
     },
     {
-      "title": "Polyethylene: Widely produced—but not one-size-fits-all",
-      "link": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all",
-      "excerpt": "Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.",
-      "date": "2026-06-30T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Semiconductors: Etching the new map of strategic supply",
       "link": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
       "excerpt": "As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, demand for advanced semiconductors…",
@@ -969,6 +988,25 @@
       ],
       "category": "ai-management",
       "tldr": "As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, demand for advanced semiconductors…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Polyethylene: Widely produced—but not one-size-fits-all",
+      "link": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all",
+      "excerpt": "Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1069,9 +1107,9 @@
       "enriched": false
     },
     {
-      "title": "From access to assets: How early-life wealth building can shape economic mobility",
-      "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/from-access-to-assets-how-early-life-wealth-building-can-shape-economic-mobility",
-      "excerpt": "Investing in children’s financial futures can narrow disparities and expand opportunity. Different scenarios for the new 530A accounts, also known as Trump…",
+      "title": "Talking with Daniel Marovitz, SVP of Fintech at Booking.com",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/talking-with-daniel-marovitz-svp-of-fintech-at-booking-com",
+      "excerpt": "Booking.com’s senior vice president of fintech describes how the travel-booking company has become the global platform of choice by managing complexity and…",
       "date": "2026-06-30T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
@@ -1082,7 +1120,7 @@
         "AI"
       ],
       "category": "ai-management",
-      "tldr": "Investing in children’s financial futures can narrow disparities and expand opportunity. Different scenarios for the new 530A accounts, also known as Trump…",
+      "tldr": "Booking.com’s senior vice president of fintech describes how the travel-booking company has become the global platform of choice by managing complexity and…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1254,25 +1292,6 @@
       ],
       "category": "ai-management",
       "tldr": "AI tools can help teams become faster and more efficient. But as organizations race to integrate artificial intelligence into more workflows, a problem is…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The Empathy Tax Female Leaders Pay",
-      "link": "https://sloanreview.mit.edu/article/the-empathy-tax-female-leaders-pay/",
-      "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The consulting manager took a call at 7:30 p.m., while volunteering at her son’s soccer practice, from an…",
-      "date": "2026-06-08T12:30:26.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The consulting manager took a call at 7:30 p.m., while volunteering at her son’s soccer practice, from an…",
       "insight": "",
       "suggestion": "",
       "enriched": false
