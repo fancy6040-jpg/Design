@@ -1860,5 +1860,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://www.figma.com/blog/building-accessibility-into-a-canvas-based-product/": {
+    "category": "ai-ux",
+    "tldr": "Building on a canvas unlocks performance that a traditional HTML web app can't touch. It also strips away any accessibility the browser gives you for free.…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/got-skills-make-the-figma-agent-a-better-collaborator/": {
+    "category": "ai-agent",
+    "tldr": "From sharing your best thinking to learning from your team’s go-to prompts, here’s what skills unlock in the Figma agent.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/figma-is-now-iso-42001-certified/": {
+    "category": "ai-ux",
+    "tldr": "Saying you use AI responsibly is easy, but proving it to an accredited auditor is harder. We decided that was a standard worth meeting.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/annual-book-recommendations/mckinsey-global-publishings-book-picks": {
+    "category": "ai-management",
+    "tldr": "We asked McKinsey Global Publishing and Marketing colleagues to share what’s on their bookshelves this year—here’s what they said.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/mckinsey-explainers/lights-camera-algorithm-how-ai-is-rewriting-the-rules-of-film-and-tv": {
+    "category": "ai-management",
+    "tldr": "Artificial intelligence is reshaping film and TV production from script to screen—but the biggest disruptions may not be the ones anyone is predicting.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/annual-book-recommendations": {
+    "category": "ai-management",
+    "tldr": "McKinsey Global Publishing’s annual reading list is back, featuring compelling recommendations from a diverse group of leaders across the world. Our…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-the-united-kingdoms-36-billion-pound-opportunity": {
+    "category": "ai-management",
+    "tldr": "Closing the women’s health gap in the United Kingdom could result in ten more healthy days of life per year for every woman—and potentially boost the country’s…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/healthcare/our-insights/betsy-nabel-on-physicians-and-women-in-healthcare-leadership-roles": {
+    "category": "ai-management",
+    "tldr": "Betsy Nabel, a leader and advocate for women in healthcare, reflects on the moves she’s made in her career to stay true to herself while creating lasting…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/future-of-asia/suphachai-chearavanont-bold-moves-in-innovation-driven-transformation": {
+    "category": "ai-management",
+    "tldr": "In striving for business growth while creating value for society, Suphachai Chearavanont has based his leadership strategy on looking beyond short-term gains…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
