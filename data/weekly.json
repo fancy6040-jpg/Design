@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-02T05:48:52.780Z",
-  "cutoff": "2026-06-02T05:47:41.721Z",
-  "total": 67,
+  "generated": "2026-07-03T05:42:54.499Z",
+  "cutoff": "2026-06-03T05:41:52.689Z",
+  "total": 64,
   "sources_attempted": 13,
   "items": [
     {
@@ -499,39 +499,39 @@
       "enriched": false
     },
     {
-      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-      "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "excerpt": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-      "date": "2026-06-03T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "7 questions we had going into Config Leadership Collective",
+      "link": "https://www.figma.com/blog/7-questions-from-lc/",
+      "excerpt": "We showed up to Leadership Collective hoping to learn how leaders are guiding their teams through change, what expertise means now, and how they're keeping…",
+      "date": "2026-07-03T02:45:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "category": "ai-ux",
+      "tldr": "We showed up to Leadership Collective hoping to learn how leaders are guiding their teams through change, what expertise means now, and how they're keeping…",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-      "link": "https://www.anthropic.com/news/services-track-partner-hub",
-      "excerpt": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-      "date": "2026-06-03T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "Issue no.17: Build with joy",
+      "link": "https://www.figma.com/blog/build-with-joy/",
+      "excerpt": "The way we make things is changing, but why we make them stays constant—the thrill of seeing a vision come to life.",
+      "date": "2026-07-02T23:05:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "category": "ai-ux",
+      "tldr": "The way we make things is changing, but why we make them stays constant—the thrill of seeing a vision come to life.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -727,44 +727,6 @@
       "enriched": false
     },
     {
-      "title": "Introducing Figma Motion: Your canvas now has a timeline",
-      "link": "https://www.figma.com/blog/introducing-figma-motion/",
-      "excerpt": "Motion now lives on the canvas—in the same file as your components, your variables, and your team—so your designs can come to life from day one.",
-      "date": "2026-06-24T13:30:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-design-system",
-      "tldr": "Motion now lives on the canvas—in the same file as your components, your variables, and your team—so your designs can come to life from day one.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Figma’s design agent, now with custom tools and greater context",
-      "link": "https://www.figma.com/blog/agent-custom-tools-context-skills/",
-      "excerpt": "Prompting gets you started. Custom tools, real context, and skills take the design agent further—so what ends up on the canvas actually looks like you.",
-      "date": "2026-06-24T13:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Prompting gets you started. Custom tools, real context, and skills take the design agent further—so what ends up on the canvas actually looks like you.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Incentive Structures for Diary Studies",
       "link": "https://www.nngroup.com/articles/diary-study-incentives/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "A mindful incentive structure can keep diary study participants engaged and responding, without overloading you with low-quality responses.",
@@ -879,20 +841,58 @@
       "enriched": false
     },
     {
-      "title": "UX Conference September Announced (Sep 14 - Sep 25)",
-      "link": "https://www.nngroup.com/training/september/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
-      "date": "2026-06-03T01:25:55.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
+      "title": "The real future of work in healthcare",
+      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare",
+      "excerpt": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work…",
+      "date": "2026-07-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
       "tags": [
-        "UX",
-        "设计",
-        "研究"
+        "战略",
+        "管理",
+        "AI"
       ],
-      "category": "ai-ux",
-      "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
+      "category": "ai-management",
+      "tldr": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How Miro is redefining collaboration across the product development life cycle",
+      "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle",
+      "excerpt": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping…",
+      "date": "2026-07-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The serial builder advantage: Why repeat innovators win",
+      "link": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-serial-builder-advantage-why-repeat-innovators-win",
+      "excerpt": "New McKinsey research explains why organizations that repeatedly build new ventures outperform those that approach innovation as a one-off effort.",
+      "date": "2026-07-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "New McKinsey research explains why organizations that repeatedly build new ventures outperform those that approach innovation as a one-off effort.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -936,25 +936,6 @@
       "enriched": false
     },
     {
-      "title": "What to read next McKinsey’s 2026 annual book recommendations",
-      "link": "https://www.mckinsey.com/featured-insights/annual-book-recommendations",
-      "excerpt": "McKinsey Global Publishing’s annual reading list is back, featuring compelling recommendations from a diverse group of leaders across the world. Our…",
-      "date": "2026-07-01T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "McKinsey Global Publishing’s annual reading list is back, featuring compelling recommendations from a diverse group of leaders across the world. Our…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Closing the women’s health gap: The United Kingdom’s £36 billion opportunity",
       "link": "https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-the-united-kingdoms-36-billion-pound-opportunity",
       "excerpt": "Closing the women’s health gap in the United Kingdom could result in ten more healthy days of life per year for every woman—and potentially boost the country’s…",
@@ -988,6 +969,25 @@
       ],
       "category": "ai-management",
       "tldr": "Betsy Nabel, a leader and advocate for women in healthcare, reflects on the moves she’s made in her career to stay true to herself while creating lasting…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "What to read next McKinsey’s 2026 annual book recommendations",
+      "link": "https://www.mckinsey.com/featured-insights/annual-book-recommendations",
+      "excerpt": "McKinsey Global Publishing’s annual reading list is back, featuring compelling recommendations from a diverse group of leaders across the world. Our…",
+      "date": "2026-07-01T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "McKinsey Global Publishing’s annual reading list is back, featuring compelling recommendations from a diverse group of leaders across the world. Our…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1045,63 +1045,6 @@
       ],
       "category": "ai-management",
       "tldr": "Data center capital expenditures are surging as AI workloads grow, yet competitiveness increasingly depends on securing advanced accelerators, reliable…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Biopharma R&D: The evolving formula for discovery and development",
-      "link": "https://www.mckinsey.com/mgi/our-research/biopharma-r-and-d-the-evolving-formula-for-discovery-and-development",
-      "excerpt": "Innovation after innovation is advancing the biopharmaceutical industry, enabling better treatment of complex diseases. The industry has historically made its…",
-      "date": "2026-06-30T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Innovation after innovation is advancing the biopharmaceutical industry, enabling better treatment of complex diseases. The industry has historically made its…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Polyethylene: Widely produced—but not one-size-fits-all",
-      "link": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all",
-      "excerpt": "Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.",
-      "date": "2026-06-30T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet investment doesn’t always follow economics.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Talking with Daniel Marovitz, SVP of Fintech at Booking.com",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/talking-with-daniel-marovitz-svp-of-fintech-at-booking-com",
-      "excerpt": "Booking.com’s senior vice president of fintech describes how the travel-booking company has become the global platform of choice by managing complexity and…",
-      "date": "2026-06-30T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Booking.com’s senior vice president of fintech describes how the travel-booking company has become the global platform of choice by managing complexity and…",
       "insight": "",
       "suggestion": "",
       "enriched": false

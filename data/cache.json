@@ -1923,5 +1923,40 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://www.figma.com/blog/7-questions-from-lc/": {
+    "category": "ai-ux",
+    "tldr": "We showed up to Leadership Collective hoping to learn how leaders are guiding their teams through change, what expertise means now, and how they're keeping…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/build-with-joy/": {
+    "category": "ai-ux",
+    "tldr": "The way we make things is changing, but why we make them stays constant—the thrill of seeing a vision come to life.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare": {
+    "category": "ai-management",
+    "tldr": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle": {
+    "category": "design-director",
+    "tldr": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/business-building/our-insights/the-serial-builder-advantage-why-repeat-innovators-win": {
+    "category": "ai-management",
+    "tldr": "New McKinsey research explains why organizations that repeatedly build new ventures outperform those that approach innovation as a one-off effort.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
