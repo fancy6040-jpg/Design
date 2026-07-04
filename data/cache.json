@@ -1958,5 +1958,33 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/reporting-ux-business-outcomes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "UX teams should report business outcomes — not activity or UX metrics — to show impact on revenue, cost, risk, speed, retention, and to secure resources.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/crafting-ai-explanations/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Different enterprise roles need different types of explanations for AI outputs.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry": {
+    "category": "ai-management",
+    "tldr": "The strongest chemical company transformations in Europe perform a difficult balancing act: improving performance while radically reshaping portfolios,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
