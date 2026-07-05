@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T05:37:30.970Z",
-  "cutoff": "2026-06-04T05:36:03.318Z",
+  "generated": "2026-07-05T05:55:14.114Z",
+  "cutoff": "2026-06-05T05:54:13.944Z",
   "total": 66,
   "sources_attempted": 13,
   "items": [
@@ -898,25 +898,6 @@
       "enriched": false
     },
     {
-      "title": "How Miro is redefining collaboration across the product development life cycle",
-      "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle",
-      "excerpt": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping…",
-      "date": "2026-07-02T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The real future of work in healthcare",
       "link": "https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare",
       "excerpt": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work…",
@@ -931,6 +912,25 @@
       ],
       "category": "ai-management",
       "tldr": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How Miro is redefining collaboration across the product development life cycle",
+      "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle",
+      "excerpt": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping…",
+      "date": "2026-07-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping…",
       "insight": "",
       "suggestion": "",
       "enriched": false
