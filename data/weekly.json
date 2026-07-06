@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-05T05:55:14.114Z",
-  "cutoff": "2026-06-05T05:54:13.944Z",
-  "total": 66,
+  "generated": "2026-07-06T06:18:10.606Z",
+  "cutoff": "2026-06-06T06:17:22.384Z",
+  "total": 68,
   "sources_attempted": 13,
   "items": [
     {
@@ -114,6 +114,63 @@
       ],
       "category": "ai-cognition",
       "tldr": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "excerpt": "Claude Science, an AI workbench for scientists, is now available",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Claude Science, an AI workbench for scientists, is now available",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "excerpt": "Introducing Claude Sonnet 5",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Introducing Claude Sonnet 5",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Redeploying Fable 5",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "excerpt": "Redeploying Fable 5",
+      "date": "2026-06-30T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Redeploying Fable 5",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -252,6 +309,44 @@
       "enriched": false
     },
     {
+      "title": "Introducing Claude Tag",
+      "link": "https://www.anthropic.com/news/introducing-claude-tag",
+      "excerpt": "Introducing Claude Tag",
+      "date": "2026-06-23T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Introducing Claude Tag",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "excerpt": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "date": "2026-06-17T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Unlocking UK house-building with AI-accelerated planning",
       "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
       "excerpt": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
@@ -328,6 +423,25 @@
       "enriched": false
     },
     {
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "link": "https://www.anthropic.com/news/fable-mythos-access",
+      "excerpt": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "date": "2026-06-12T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
       "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
       "excerpt": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
@@ -342,25 +456,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing Claude Corps",
-      "link": "https://www.anthropic.com/news/claude-corps",
-      "excerpt": "Introducing Claude Corps",
-      "date": "2026-06-11T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Introducing Claude Corps",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -475,25 +570,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Claude Fable 5 and Claude Mythos 5",
-      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "excerpt": "Claude Fable 5 and Claude Mythos 5",
-      "date": "2026-06-09T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Claude Fable 5 and Claude Mythos 5",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -836,44 +912,6 @@
       ],
       "category": "ai-agent",
       "tldr": "Context architecture applies information architecture principles to AI systems, helping agents interpret information and produce better, user aligned responses.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The Hidden Why: Behavioral Economics for UX",
-      "link": "https://www.nngroup.com/articles/behavioral-economics-for-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Use behavioral-economics frameworks to uncover hidden friction in your experience and design UX solutions that better support user action.",
-      "date": "2026-06-05T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Use behavioral-economics frameworks to uncover hidden friction in your experience and design UX solutions that better support user action.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The Four Design Jobs AI Created (So Far)",
-      "link": "https://www.nngroup.com/articles/design-jobs-ai-created/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "\"AI design\" is one label but has forked into four different types of work.",
-      "date": "2026-06-05T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "\"AI design\" is one label but has forked into four different types of work.",
       "insight": "",
       "suggestion": "",
       "enriched": false
