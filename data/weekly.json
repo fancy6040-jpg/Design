@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-06T06:18:10.606Z",
-  "cutoff": "2026-06-06T06:17:22.384Z",
+  "generated": "2026-07-07T05:59:07.962Z",
+  "cutoff": "2026-06-07T05:57:46.426Z",
   "total": 68,
   "sources_attempted": 13,
   "items": [
@@ -62,9 +62,9 @@
       "enriched": false
     },
     {
-      "title": "Inside Genebench-Pro",
-      "link": "https://openai.com/index/genebench-pro/case-studies",
-      "excerpt": "",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "excerpt": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "date": "2026-06-30T00:00:00.000Z",
       "source_id": "openai",
       "source_name": "OpenAI",
@@ -75,7 +75,7 @@
         "产品"
       ],
       "category": "ai-cognition",
-      "tldr": "",
+      "tldr": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -100,9 +100,9 @@
       "enriched": false
     },
     {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "excerpt": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "title": "Inside Genebench-Pro",
+      "link": "https://openai.com/index/genebench-pro/case-studies",
+      "excerpt": "",
       "date": "2026-06-30T00:00:00.000Z",
       "source_id": "openai",
       "source_name": "OpenAI",
@@ -113,7 +113,7 @@
         "产品"
       ],
       "category": "ai-cognition",
-      "tldr": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "tldr": "",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -917,6 +917,82 @@
       "enriched": false
     },
     {
+      "title": "Why accelerated resource allocation matters in the age of AI",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-accelerated-resource-allocation-matters-in-the-age-of-ai",
+      "excerpt": "In an era of rapid AI disruption, the winners may not be the companies that predict the future most accurately, but those that learn, reallocate resources, and…",
+      "date": "2026-07-06T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "In an era of rapid AI disruption, the winners may not be the companies that predict the future most accurately, but those that learn, reallocate resources, and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Building America’s innovation engine: An interview with David Lebryk",
+      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/building-americas-innovation-engine-an-interview-with-david-lebryk",
+      "excerpt": "The former US Treasury official shares how government can deliver in moments of crisis and how America’s public–private sector dynamic can help fuel its next…",
+      "date": "2026-07-06T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The former US Treasury official shares how government can deliver in moments of crisis and how America’s public–private sector dynamic can help fuel its next…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "A microscope on small businesses: Chile’s productivity opportunity",
+      "link": "https://www.mckinsey.com/featured-insights/americas/a-microscope-on-small-businesses-chiles-productivity-opportunity",
+      "excerpt": "Overcoming scale-related barriers and strengthening ties with other firms—both large and small—can help small businesses in Chile maximize their potential and…",
+      "date": "2026-07-06T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Overcoming scale-related barriers and strengthening ties with other firms—both large and small—can help small businesses in Chile maximize their potential and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How Covista is changing education for healthcare professionals",
+      "link": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-covista-is-changing-education-for-healthcare-professionals",
+      "excerpt": "Chairman and CEO Steve Beard explains how the organization’s multiyear transformation has reshaped its purpose, structure, and culture.",
+      "date": "2026-07-06T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Chairman and CEO Steve Beard explains how the organization’s multiyear transformation has reshaped its purpose, structure, and culture.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "A dual transformation agenda for Europe’s chemicals industry",
       "link": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry",
       "excerpt": "The strongest chemical company transformations in Europe perform a difficult balancing act: improving performance while radically reshaping portfolios,…",
@@ -1026,82 +1102,6 @@
       ],
       "category": "ai-management",
       "tldr": "Artificial intelligence is reshaping film and TV production from script to screen—but the biggest disruptions may not be the ones anyone is predicting.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Closing the women’s health gap: The United Kingdom’s £36 billion opportunity",
-      "link": "https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-the-united-kingdoms-36-billion-pound-opportunity",
-      "excerpt": "Closing the women’s health gap in the United Kingdom could result in ten more healthy days of life per year for every woman—and potentially boost the country’s…",
-      "date": "2026-07-01T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Closing the women’s health gap in the United Kingdom could result in ten more healthy days of life per year for every woman—and potentially boost the country’s…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Betsy Nabel on physicians and women in healthcare leadership roles",
-      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/betsy-nabel-on-physicians-and-women-in-healthcare-leadership-roles",
-      "excerpt": "Betsy Nabel, a leader and advocate for women in healthcare, reflects on the moves she’s made in her career to stay true to herself while creating lasting…",
-      "date": "2026-07-01T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Betsy Nabel, a leader and advocate for women in healthcare, reflects on the moves she’s made in her career to stay true to herself while creating lasting…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "What to read next McKinsey’s 2026 annual book recommendations",
-      "link": "https://www.mckinsey.com/featured-insights/annual-book-recommendations",
-      "excerpt": "McKinsey Global Publishing’s annual reading list is back, featuring compelling recommendations from a diverse group of leaders across the world. Our…",
-      "date": "2026-07-01T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "McKinsey Global Publishing’s annual reading list is back, featuring compelling recommendations from a diverse group of leaders across the world. Our…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Suphachai Chearavanont: Bold moves in innovation-driven transformation",
-      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/suphachai-chearavanont-bold-moves-in-innovation-driven-transformation",
-      "excerpt": "In striving for business growth while creating value for society, Suphachai Chearavanont has based his leadership strategy on looking beyond short-term gains…",
-      "date": "2026-07-01T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "In striving for business growth while creating value for society, Suphachai Chearavanont has based his leadership strategy on looking beyond short-term gains…",
       "insight": "",
       "suggestion": "",
       "enriched": false
