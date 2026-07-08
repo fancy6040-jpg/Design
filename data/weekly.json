@@ -1,9 +1,47 @@
 {
-  "generated": "2026-07-07T05:59:07.962Z",
-  "cutoff": "2026-06-07T05:57:46.426Z",
+  "generated": "2026-07-08T04:58:28.627Z",
+  "cutoff": "2026-06-08T04:57:11.694Z",
   "total": 68,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "link": "https://openai.com/index/mufg",
+      "excerpt": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "date": "2026-07-07T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-management",
+      "tldr": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "link": "https://openai.com/index/australian-payments-plus",
+      "excerpt": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps…",
+      "date": "2026-07-07T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
       "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
@@ -266,44 +304,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "excerpt": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "date": "2026-06-24T06:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Helping build shared standards for advanced AI",
-      "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "excerpt": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "date": "2026-06-23T13:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -917,6 +917,63 @@
       "enriched": false
     },
     {
+      "title": "Leadership’s Blind Spot in the Age of AI",
+      "link": "https://sloanreview.mit.edu/article/leaderships-blind-spot-in-the-age-of-ai/",
+      "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In 1951, philosopher Martin Heidegger told a small audience, “The most thought-provoking thing in our…",
+      "date": "2026-07-07T11:00:17.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In 1951, philosopher Martin Heidegger told a small audience, “The most thought-provoking thing in our…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "From the C-suite to the boardroom: Christiana Smith Shi on what it takes",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/from-the-c-suite-to-the-boardroom-christiana-smith-shi-on-what-it-takes",
+      "excerpt": "For executives, the developmental opportunity may be clear, but what does board service really entail?",
+      "date": "2026-07-07T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "For executives, the developmental opportunity may be clear, but what does board service really entail?",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The operating model advantage: Why AI winners are rewiring their organizations",
+      "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-operating-model-advantage-why-ai-winners-are-rewiring-their-organizations",
+      "excerpt": "The real AI advantage comes from redesigning how work is done and how decisions are made. Ultimately, success will depend on people and operating models…",
+      "date": "2026-07-07T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The real AI advantage comes from redesigning how work is done and how decisions are made. Ultimately, success will depend on people and operating models…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Why accelerated resource allocation matters in the age of AI",
       "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-accelerated-resource-allocation-matters-in-the-age-of-ai",
       "excerpt": "In an era of rapid AI disruption, the winners may not be the companies that predict the future most accurately, but those that learn, reallocate resources, and…",
@@ -955,25 +1012,6 @@
       "enriched": false
     },
     {
-      "title": "A microscope on small businesses: Chile’s productivity opportunity",
-      "link": "https://www.mckinsey.com/featured-insights/americas/a-microscope-on-small-businesses-chiles-productivity-opportunity",
-      "excerpt": "Overcoming scale-related barriers and strengthening ties with other firms—both large and small—can help small businesses in Chile maximize their potential and…",
-      "date": "2026-07-06T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Overcoming scale-related barriers and strengthening ties with other firms—both large and small—can help small businesses in Chile maximize their potential and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How Covista is changing education for healthcare professionals",
       "link": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-covista-is-changing-education-for-healthcare-professionals",
       "excerpt": "Chairman and CEO Steve Beard explains how the organization’s multiyear transformation has reshaped its purpose, structure, and culture.",
@@ -988,6 +1026,25 @@
       ],
       "category": "design-director",
       "tldr": "Chairman and CEO Steve Beard explains how the organization’s multiyear transformation has reshaped its purpose, structure, and culture.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "A microscope on small businesses: Chile’s productivity opportunity",
+      "link": "https://www.mckinsey.com/featured-insights/americas/a-microscope-on-small-businesses-chiles-productivity-opportunity",
+      "excerpt": "Overcoming scale-related barriers and strengthening ties with other firms—both large and small—can help small businesses in Chile maximize their potential and…",
+      "date": "2026-07-06T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Overcoming scale-related barriers and strengthening ties with other firms—both large and small—can help small businesses in Chile maximize their potential and…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1012,25 +1069,6 @@
       "enriched": false
     },
     {
-      "title": "The real future of work in healthcare",
-      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare",
-      "excerpt": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work…",
-      "date": "2026-07-02T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How Miro is redefining collaboration across the product development life cycle",
       "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle",
       "excerpt": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping…",
@@ -1050,6 +1088,25 @@
       "enriched": false
     },
     {
+      "title": "The real future of work in healthcare",
+      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare",
+      "excerpt": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work…",
+      "date": "2026-07-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care depends on making automation work…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The serial builder advantage: Why repeat innovators win",
       "link": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-serial-builder-advantage-why-repeat-innovators-win",
       "excerpt": "New McKinsey research explains why organizations that repeatedly build new ventures outperform those that approach innovation as a one-off effort.",
@@ -1064,44 +1121,6 @@
       ],
       "category": "ai-management",
       "tldr": "New McKinsey research explains why organizations that repeatedly build new ventures outperform those that approach innovation as a one-off effort.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "McKinsey Global Publishing’s 2026 book picks",
-      "link": "https://www.mckinsey.com/featured-insights/annual-book-recommendations/mckinsey-global-publishings-book-picks",
-      "excerpt": "We asked McKinsey Global Publishing and Marketing colleagues to share what’s on their bookshelves this year—here’s what they said.",
-      "date": "2026-07-01T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "We asked McKinsey Global Publishing and Marketing colleagues to share what’s on their bookshelves this year—here’s what they said.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Lights, camera, algorithm: How AI is rewriting the rules of film and TV",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/lights-camera-algorithm-how-ai-is-rewriting-the-rules-of-film-and-tv",
-      "excerpt": "Artificial intelligence is reshaping film and TV production from script to screen—but the biggest disruptions may not be the ones anyone is predicting.",
-      "date": "2026-07-01T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Artificial intelligence is reshaping film and TV production from script to screen—but the biggest disruptions may not be the ones anyone is predicting.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1273,25 +1292,6 @@
       ],
       "category": "ai-management",
       "tldr": "As AI agents go beyond the hypothetical and enter actual workflows, many leaders see a gap between the promise and the reality. Are the agents ready? Moreover,…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The AI Atrophy Problem: How CIOs Fight It",
-      "link": "https://sloanreview.mit.edu/video/the-ai-atrophy-problem-how-cios-fight-it/",
-      "excerpt": "AI tools can help teams become faster and more efficient. But as organizations race to integrate artificial intelligence into more workflows, a problem is…",
-      "date": "2026-06-09T11:00:35.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "AI tools can help teams become faster and more efficient. But as organizations race to integrate artificial intelligence into more workflows, a problem is…",
       "insight": "",
       "suggestion": "",
       "enriched": false

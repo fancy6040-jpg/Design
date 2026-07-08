@@ -2056,5 +2056,33 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/australian-payments-plus": {
+    "category": "ai-cognition",
+    "tldr": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/leaderships-blind-spot-in-the-age-of-ai/": {
+    "category": "ai-management",
+    "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In 1951, philosopher Martin Heidegger told a small audience, “The most thought-provoking thing in our…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/from-the-c-suite-to-the-boardroom-christiana-smith-shi-on-what-it-takes": {
+    "category": "design-director",
+    "tldr": "For executives, the developmental opportunity may be clear, but what does board service really entail?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/industrials/our-insights/the-operating-model-advantage-why-ai-winners-are-rewiring-their-organizations": {
+    "category": "ai-management",
+    "tldr": "The real AI advantage comes from redesigning how work is done and how decisions are made. Ultimately, success will depend on people and operating models…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
