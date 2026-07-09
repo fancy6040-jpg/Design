@@ -2084,5 +2084,75 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/government-national-security-partnerships": {
+    "category": "ai-cognition",
+    "tldr": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
+    "category": "ai-cognition",
+    "tldr": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/k-12-educators-practical-skills": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/introducing-gpt-live": {
+    "category": "ai-cognition",
+    "tldr": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america": {
+    "category": "ai-management",
+    "tldr": "Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/genai-success-metrics-look-beyond-reduced-workload/": {
+    "category": "ai-management",
+    "tldr": "Matt Harrison Clough / Ikon Images The Research The authors performed a four-year, fixed-window observational analysis of administrative work inside a large…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/from-adoption-to-impact-three-horizons-of-ai-transformation": {
+    "category": "ai-management",
+    "tldr": "Most organizations are still early in their AI journeys. A new global survey reveals how companies can progress from individual adoption to enterprise-wide…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/quantumblack/our-insights/cost-versus-value-managing-agentic-ai-system-performance": {
+    "category": "design-director",
+    "tldr": "Per-token pricing has stopped being a useful measure for what enterprises actually pay for gen AI. A conversation with David Tepper, CEO of Pay-i, delves into…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/from-healthcare-to-health-asias-longevity-opportunity": {
+    "category": "ai-management",
+    "tldr": "On average, people are living longer than before, raising a broader conversation about how to create an ecosystem that effectively combines the delivery of…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/logistics/our-insights/reimagining-logistics-pricing": {
+    "category": "ai-management",
+    "tldr": "Logistics players can focus on four pricing strategies in the AI era.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
