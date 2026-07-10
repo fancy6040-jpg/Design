@@ -1,9 +1,85 @@
 {
-  "generated": "2026-07-09T06:04:48.544Z",
-  "cutoff": "2026-06-09T06:03:37.168Z",
-  "total": 68,
+  "generated": "2026-07-10T05:53:33.631Z",
+  "cutoff": "2026-06-10T05:52:13.953Z",
+  "total": 64,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "excerpt": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "date": "2026-07-09T13:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "excerpt": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "date": "2026-07-09T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "link": "https://openai.com/index/bio-bug-bounty",
+      "excerpt": "Details about the OpenAI Bio Bounty program",
+      "date": "2026-07-09T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Details about the OpenAI Bio Bounty program",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "link": "https://openai.com/index/gpt-5-6",
+      "excerpt": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "date": "2026-07-09T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Our approach to government and national security partnerships",
       "link": "https://openai.com/index/government-national-security-partnerships",
@@ -81,25 +157,6 @@
       "enriched": false
     },
     {
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "link": "https://openai.com/index/australian-payments-plus",
-      "excerpt": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps…",
-      "date": "2026-07-07T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "MUFG aims to become AI-native with OpenAI",
       "link": "https://openai.com/index/mufg",
       "excerpt": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
@@ -114,6 +171,25 @@
       ],
       "category": "ai-management",
       "tldr": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "link": "https://openai.com/index/australian-payments-plus",
+      "excerpt": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps…",
+      "date": "2026-07-07T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -152,82 +228,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How ChatGPT adoption has expanded",
-      "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "excerpt": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across…",
-      "date": "2026-06-30T09:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing GeneBench-Pro",
-      "link": "https://openai.com/index/introducing-genebench-pro",
-      "excerpt": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "date": "2026-06-30T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Inside Genebench-Pro",
-      "link": "https://openai.com/index/genebench-pro/case-studies",
-      "excerpt": "",
-      "date": "2026-06-30T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "excerpt": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "date": "2026-06-30T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -499,77 +499,39 @@
       "enriched": false
     },
     {
-      "title": "Policy on the AI Exponential",
-      "link": "https://www.anthropic.com/policy-on-the-ai-exponential",
-      "excerpt": "Policy on the AI Exponential",
-      "date": "2026-06-10T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "How to keep design teams steady through constant change",
+      "link": "https://www.figma.com/blog/jen-dunnam-lead-design-teams/",
+      "excerpt": "Drawing on her time at Patreon and Shopify, design leader Jen Dunnam offers her advice for this new age of AI—from building a strong team to how to think about…",
+      "date": "2026-07-09T14:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "Policy on the AI Exponential",
+      "category": "ai-ux",
+      "tldr": "Drawing on her time at Patreon and Shopify, design leader Jen Dunnam offers her advice for this new age of AI—from building a strong team to how to think about…",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-      "excerpt": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-      "date": "2026-06-09T15:16:25.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
+      "title": "GPT-5.6 is now available in Figma Make",
+      "link": "https://www.figma.com/blog/gpt-5-6-is-now-available-in-figma-make/",
+      "excerpt": "With accurate first results and fast iterations, OpenAI’s GPT-5.6 gives your builds a strong start in Figma Make.",
+      "date": "2026-07-09T12:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "研究",
-        "模型"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-      "excerpt": "",
-      "date": "2026-06-09T14:10:19.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Powering the future of robotics in Europe",
-      "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-      "excerpt": "",
-      "date": "2026-06-09T14:02:33.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "",
+      "category": "ai-ux",
+      "tldr": "With accurate first results and fast iterations, OpenAI’s GPT-5.6 gives your builds a strong start in Figma Make.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -803,44 +765,6 @@
       "enriched": false
     },
     {
-      "title": "Code on the Figma canvas",
-      "link": "https://www.figma.com/blog/code-on-the-figma-canvas/",
-      "excerpt": "With code layers in Figma Design, you can explore multiple directions with code, side by side with your team.",
-      "date": "2026-06-24T14:30:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "With code layers in Figma Design, you can explore multiple directions with code, side by side with your team.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Connecting Figma and Weave",
-      "link": "https://www.figma.com/blog/connecting-figma-and-weave/",
-      "excerpt": "Today, we’re announcing new ways your Weave creative workflows can live alongside your Figma frames.",
-      "date": "2026-06-24T14:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "Today, we’re announcing new ways your Weave creative workflows can live alongside your Figma frames.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Incentive Structures for Diary Studies",
       "link": "https://www.nngroup.com/articles/diary-study-incentives/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "A mindful incentive structure can keep diary study participants engaged and responding, without overloading you with low-quality responses.",
@@ -917,6 +841,25 @@
       "enriched": false
     },
     {
+      "title": "The Hidden Cost of AI-Assisted Creativity",
+      "link": "https://sloanreview.mit.edu/article/the-hidden-cost-of-ai-assisted-creativity/",
+      "excerpt": "Chris Gash/theispot.com The Research The authors synthesized findings from four studies spanning short-story writing, circular-economy solutions, humor caption…",
+      "date": "2026-07-09T11:00:06.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Chris Gash/theispot.com The Research The authors synthesized findings from four studies spanning short-story writing, circular-economy solutions, humor caption…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Agents, robots, and us: How AI reshapes work and skills in Latin America",
       "link": "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america",
       "excerpt": "Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.",
@@ -931,6 +874,44 @@
       ],
       "category": "ai-management",
       "tldr": "Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Author Talks: In Hollywood and in business, it’s cool to be kind",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-in-hollywood-and-in-business-its-cool-to-be-kind",
+      "excerpt": "In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in…",
+      "date": "2026-07-09T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The real AI advantage",
+      "link": "https://www.mckinsey.com/mgi/our-research/the-real-ai-advantage",
+      "excerpt": "The next wave of value from AI will flow to those leaders who redesign business models, eliminate friction, and build organizations that learn faster than the…",
+      "date": "2026-07-09T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The next wave of value from AI will flow to those leaders who redesign business models, eliminate friction, and build organizations that learn faster than the…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1088,25 +1069,6 @@
       "enriched": false
     },
     {
-      "title": "Building America’s innovation engine: An interview with David Lebryk",
-      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/building-americas-innovation-engine-an-interview-with-david-lebryk",
-      "excerpt": "The former US Treasury official shares how government can deliver in moments of crisis and how America’s public–private sector dynamic can help fuel its next…",
-      "date": "2026-07-06T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The former US Treasury official shares how government can deliver in moments of crisis and how America’s public–private sector dynamic can help fuel its next…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Why accelerated resource allocation matters in the age of AI",
       "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-accelerated-resource-allocation-matters-in-the-age-of-ai",
       "excerpt": "In an era of rapid AI disruption, the winners may not be the companies that predict the future most accurately, but those that learn, reallocate resources, and…",
@@ -1121,25 +1083,6 @@
       ],
       "category": "ai-management",
       "tldr": "In an era of rapid AI disruption, the winners may not be the companies that predict the future most accurately, but those that learn, reallocate resources, and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "A microscope on small businesses: Chile’s productivity opportunity",
-      "link": "https://www.mckinsey.com/featured-insights/americas/a-microscope-on-small-businesses-chiles-productivity-opportunity",
-      "excerpt": "Overcoming scale-related barriers and strengthening ties with other firms—both large and small—can help small businesses in Chile maximize their potential and…",
-      "date": "2026-07-06T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Overcoming scale-related barriers and strengthening ties with other firms—both large and small—can help small businesses in Chile maximize their potential and…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1273,25 +1216,6 @@
       ],
       "category": "ai-management",
       "tldr": "Today’s episode of the Me, Myself, and AI podcast, the final one of Season 13, explores how Bank of America is preparing a massive global workforce for an AI…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How to Grow Without Betting Big",
-      "link": "https://sloanreview.mit.edu/article/how-to-grow-without-betting-big/",
-      "excerpt": "Matt Harrison Clough/Ikon Images Some of the most spectacular stories of corporate growth revolve around big bets — long-term investments, bold pivots, and…",
-      "date": "2026-06-15T11:00:04.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Matt Harrison Clough/Ikon Images Some of the most spectacular stories of corporate growth revolve around big bets — long-term investments, bold pivots, and…",
       "insight": "",
       "suggestion": "",
       "enriched": false

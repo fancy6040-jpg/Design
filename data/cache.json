@@ -2154,5 +2154,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": {
+    "category": "ai-cognition",
+    "tldr": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/chatgpt-for-your-most-ambitious-work": {
+    "category": "ai-agent",
+    "tldr": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/bio-bug-bounty": {
+    "category": "ai-cognition",
+    "tldr": "Details about the OpenAI Bio Bounty program",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/gpt-5-6": {
+    "category": "ai-cognition",
+    "tldr": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/jen-dunnam-lead-design-teams/": {
+    "category": "ai-ux",
+    "tldr": "Drawing on her time at Patreon and Shopify, design leader Jen Dunnam offers her advice for this new age of AI—from building a strong team to how to think about…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/gpt-5-6-is-now-available-in-figma-make/": {
+    "category": "ai-ux",
+    "tldr": "With accurate first results and fast iterations, OpenAI’s GPT-5.6 gives your builds a strong start in Figma Make.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/the-hidden-cost-of-ai-assisted-creativity/": {
+    "category": "ai-management",
+    "tldr": "Chris Gash/theispot.com The Research The authors synthesized findings from four studies spanning short-story writing, circular-economy solutions, humor caption…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-in-hollywood-and-in-business-its-cool-to-be-kind": {
+    "category": "ai-management",
+    "tldr": "In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/the-real-ai-advantage": {
+    "category": "ai-management",
+    "tldr": "The next wave of value from AI will flow to those leaders who redesign business models, eliminate friction, and build organizations that learn faster than the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
