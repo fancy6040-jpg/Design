@@ -2217,5 +2217,40 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/deutsche-telekom": {
+    "category": "ai-workflow",
+    "tldr": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/how-decagon-uses-ai-for-design-system-saturation/": {
+    "category": "ai-design-system",
+    "tldr": "The fast-growing customer experience platform explains how Figma MCP and Figma Make helped them scale a new design system and keep pace with customer requests.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/design-system-maturity/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-design-system",
+    "tldr": "Use this maturity model to assess your design system’s health and identify where to focus next.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/dimensions-of-ai-chatbots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Handoff willingness, flexibility, proactivity, emotional responsiveness, and transparency help you build trustworthy AI chatbots that guide users well.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/media-center/mckinsey-global-institute-climate-planning-has-prioritized-floods-heat-demands-equal-attention": {
+    "category": "ai-management",
+    "tldr": "Summer in the Northern Hemisphere has gotten off to a very hot start. This has focused attention on the impacts of heat on health, infrastructure, and economic…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

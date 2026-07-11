@@ -1,9 +1,28 @@
 {
-  "generated": "2026-07-10T05:53:33.631Z",
-  "cutoff": "2026-06-10T05:52:13.953Z",
-  "total": 64,
+  "generated": "2026-07-11T04:53:07.939Z",
+  "cutoff": "2026-06-11T04:52:10.964Z",
+  "total": 63,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "link": "https://openai.com/index/deutsche-telekom",
+      "excerpt": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "date": "2026-07-10T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -19,6 +38,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "link": "https://openai.com/index/gpt-5-6",
+      "excerpt": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "date": "2026-07-09T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -57,25 +95,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Details about the OpenAI Bio Bounty program",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "link": "https://openai.com/index/gpt-5-6",
-      "excerpt": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "date": "2026-07-09T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -171,25 +190,6 @@
       ],
       "category": "ai-management",
       "tldr": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "link": "https://openai.com/index/australian-payments-plus",
-      "excerpt": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps…",
-      "date": "2026-07-07T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -442,58 +442,58 @@
       "enriched": false
     },
     {
-      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-      "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-      "excerpt": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-      "date": "2026-06-11T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "How Decagon uses AI for design system saturation",
+      "link": "https://www.figma.com/blog/how-decagon-uses-ai-for-design-system-saturation/",
+      "excerpt": "The fast-growing customer experience platform explains how Figma MCP and Figma Make helped them scale a new design system and keep pace with customer requests.",
+      "date": "2026-07-10T20:30:56.769Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "category": "ai-design-system",
+      "tldr": "The fast-growing customer experience platform explains how Figma MCP and Figma Make helped them scale a new design system and keep pace with customer requests.",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-      "excerpt": "",
-      "date": "2026-06-10T16:24:11.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
+      "title": "Design-System Maturity: A 6-Dimension Framework",
+      "link": "https://www.nngroup.com/articles/design-system-maturity/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Use this maturity model to assess your design system’s health and identify where to focus next.",
+      "date": "2026-07-10T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
       "tags": [
-        "AI",
-        "研究",
-        "模型"
+        "UX",
+        "设计",
+        "研究"
       ],
-      "category": "ai-cognition",
-      "tldr": "",
+      "category": "ai-design-system",
+      "tldr": "Use this maturity model to assess your design system’s health and identify where to focus next.",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Investing in multi-agent AI safety research",
-      "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-      "excerpt": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-      "date": "2026-06-10T10:21:19.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
+      "title": "The 5 Qualities of Site-Specific AI Chatbots",
+      "link": "https://www.nngroup.com/articles/dimensions-of-ai-chatbots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Handoff willingness, flexibility, proactivity, emotional responsiveness, and transparency help you build trustworthy AI chatbots that guide users well.",
+      "date": "2026-07-10T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
       "tags": [
-        "AI",
-        "研究",
-        "模型"
+        "UX",
+        "设计",
+        "研究"
       ],
-      "category": "ai-agent",
-      "tldr": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "category": "ai-ux",
+      "tldr": "Handoff willingness, flexibility, proactivity, emotional responsiveness, and transparency help you build trustworthy AI chatbots that guide users well.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -746,25 +746,6 @@
       "enriched": false
     },
     {
-      "title": "Config 2026: New materials, new tools and a more expressive canvas",
-      "link": "https://www.figma.com/blog/config-2026-recap/",
-      "excerpt": "Push past what you thought was possible with code layers, Figma Motion, shaders, generative plugins and Weave tools, all on the canvas.",
-      "date": "2026-06-24T15:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "Push past what you thought was possible with code layers, Figma Motion, shaders, generative plugins and Weave tools, all on the canvas.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Incentive Structures for Diary Studies",
       "link": "https://www.nngroup.com/articles/diary-study-incentives/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "A mindful incentive structure can keep diary study participants engaged and responding, without overloading you with low-quality responses.",
@@ -860,25 +841,6 @@
       "enriched": false
     },
     {
-      "title": "Agents, robots, and us: How AI reshapes work and skills in Latin America",
-      "link": "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america",
-      "excerpt": "Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.",
-      "date": "2026-07-09T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Author Talks: In Hollywood and in business, it’s cool to be kind",
       "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-in-hollywood-and-in-business-its-cool-to-be-kind",
       "excerpt": "In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in…",
@@ -893,6 +855,25 @@
       ],
       "category": "ai-management",
       "tldr": "In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Agents, robots, and us: How AI reshapes work and skills in Latin America",
+      "link": "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america",
+      "excerpt": "Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.",
+      "date": "2026-07-09T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1069,10 +1050,10 @@
       "enriched": false
     },
     {
-      "title": "Why accelerated resource allocation matters in the age of AI",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-accelerated-resource-allocation-matters-in-the-age-of-ai",
-      "excerpt": "In an era of rapid AI disruption, the winners may not be the companies that predict the future most accurately, but those that learn, reallocate resources, and…",
-      "date": "2026-07-06T00:00:00.000Z",
+      "title": "Climate planning has prioritized floods. Heat demands equal attention",
+      "link": "https://www.mckinsey.com/mgi/media-center/mckinsey-global-institute-climate-planning-has-prioritized-floods-heat-demands-equal-attention",
+      "excerpt": "Summer in the Northern Hemisphere has gotten off to a very hot start. This has focused attention on the impacts of heat on health, infrastructure, and economic…",
+      "date": "2026-07-07T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
       "priority": 2,
@@ -1082,7 +1063,7 @@
         "AI"
       ],
       "category": "ai-management",
-      "tldr": "In an era of rapid AI disruption, the winners may not be the companies that predict the future most accurately, but those that learn, reallocate resources, and…",
+      "tldr": "Summer in the Northern Hemisphere has gotten off to a very hot start. This has focused attention on the impacts of heat on health, infrastructure, and economic…",
       "insight": "",
       "suggestion": "",
       "enriched": false
