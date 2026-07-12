@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-11T04:53:07.939Z",
-  "cutoff": "2026-06-11T04:52:10.964Z",
-  "total": 63,
+  "generated": "2026-07-12T05:15:41.292Z",
+  "cutoff": "2026-06-12T05:14:55.090Z",
+  "total": 60,
   "sources_attempted": 13,
   "items": [
     {
@@ -385,63 +385,6 @@
       "enriched": false
     },
     {
-      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
-      "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
-      "excerpt": "TCS and Anthropic partner to bring Claude to regulated industries",
-      "date": "2026-06-12T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "TCS and Anthropic partner to bring Claude to regulated industries",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Results from the first Anthropic Public Record",
-      "link": "https://www.anthropic.com/news/anthropic-public-record",
-      "excerpt": "Results from the first Anthropic Public Record",
-      "date": "2026-06-12T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Results from the first Anthropic Public Record",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-      "link": "https://www.anthropic.com/news/fable-mythos-access",
-      "excerpt": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-      "date": "2026-06-12T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How Decagon uses AI for design system saturation",
       "link": "https://www.figma.com/blog/how-decagon-uses-ai-for-design-system-saturation/",
       "excerpt": "The fast-growing customer experience platform explains how Figma MCP and Figma Make helped them scale a new design system and keep pace with customer requests.",
@@ -461,25 +404,6 @@
       "enriched": false
     },
     {
-      "title": "Design-System Maturity: A 6-Dimension Framework",
-      "link": "https://www.nngroup.com/articles/design-system-maturity/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Use this maturity model to assess your design system’s health and identify where to focus next.",
-      "date": "2026-07-10T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-design-system",
-      "tldr": "Use this maturity model to assess your design system’s health and identify where to focus next.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The 5 Qualities of Site-Specific AI Chatbots",
       "link": "https://www.nngroup.com/articles/dimensions-of-ai-chatbots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Handoff willingness, flexibility, proactivity, emotional responsiveness, and transparency help you build trustworthy AI chatbots that guide users well.",
@@ -494,6 +418,25 @@
       ],
       "category": "ai-ux",
       "tldr": "Handoff willingness, flexibility, proactivity, emotional responsiveness, and transparency help you build trustworthy AI chatbots that guide users well.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Design-System Maturity: A 6-Dimension Framework",
+      "link": "https://www.nngroup.com/articles/design-system-maturity/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Use this maturity model to assess your design system’s health and identify where to focus next.",
+      "date": "2026-07-10T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-design-system",
+      "tldr": "Use this maturity model to assess your design system’s health and identify where to focus next.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1012,6 +955,25 @@
       "enriched": false
     },
     {
+      "title": "Climate planning has prioritized floods. Heat demands equal attention",
+      "link": "https://www.mckinsey.com/mgi/media-center/mckinsey-global-institute-climate-planning-has-prioritized-floods-heat-demands-equal-attention",
+      "excerpt": "Summer in the Northern Hemisphere has gotten off to a very hot start. This has focused attention on the impacts of heat on health, infrastructure, and economic…",
+      "date": "2026-07-07T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Summer in the Northern Hemisphere has gotten off to a very hot start. This has focused attention on the impacts of heat on health, infrastructure, and economic…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The operating model advantage: Why AI winners are rewiring their organizations",
       "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-operating-model-advantage-why-ai-winners-are-rewiring-their-organizations",
       "excerpt": "The real AI advantage comes from redesigning how work is done and how decisions are made. Ultimately, success will depend on people and operating models…",
@@ -1045,25 +1007,6 @@
       ],
       "category": "design-director",
       "tldr": "For executives, the developmental opportunity may be clear, but what does board service really entail?",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Climate planning has prioritized floods. Heat demands equal attention",
-      "link": "https://www.mckinsey.com/mgi/media-center/mckinsey-global-institute-climate-planning-has-prioritized-floods-heat-demands-equal-attention",
-      "excerpt": "Summer in the Northern Hemisphere has gotten off to a very hot start. This has focused attention on the impacts of heat on health, infrastructure, and economic…",
-      "date": "2026-07-07T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Summer in the Northern Hemisphere has gotten off to a very hot start. This has focused attention on the impacts of heat on health, infrastructure, and economic…",
       "insight": "",
       "suggestion": "",
       "enriched": false
