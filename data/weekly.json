@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-12T05:15:41.292Z",
-  "cutoff": "2026-06-12T05:14:55.090Z",
-  "total": 60,
+  "generated": "2026-07-13T05:25:16.709Z",
+  "cutoff": "2026-06-13T05:23:55.212Z",
+  "total": 58,
   "sources_attempted": 13,
   "items": [
     {
@@ -727,44 +727,6 @@
       "enriched": false
     },
     {
-      "title": "The Core Skill of Design in the AI Era: Critique",
-      "link": "https://www.nngroup.com/articles/ai-era-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "To build useful and usable AI-powered systems, our understanding of users’ needs and our design judgement must be encoded into well-defined evaluation criteria.",
-      "date": "2026-06-12T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "To build useful and usable AI-powered systems, our understanding of users’ needs and our design judgement must be encoded into well-defined evaluation criteria.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Context Architecture",
-      "link": "https://www.nngroup.com/articles/context-architecture/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Context architecture applies information architecture principles to AI systems, helping agents interpret information and produce better, user aligned responses.",
-      "date": "2026-06-12T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-agent",
-      "tldr": "Context architecture applies information architecture principles to AI systems, helping agents interpret information and produce better, user aligned responses.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The Hidden Cost of AI-Assisted Creativity",
       "link": "https://sloanreview.mit.edu/article/the-hidden-cost-of-ai-assisted-creativity/",
       "excerpt": "Chris Gash/theispot.com The Research The authors synthesized findings from four studies spanning short-story writing, circular-economy solutions, humor caption…",
@@ -784,25 +746,6 @@
       "enriched": false
     },
     {
-      "title": "Author Talks: In Hollywood and in business, it’s cool to be kind",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-in-hollywood-and-in-business-its-cool-to-be-kind",
-      "excerpt": "In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in…",
-      "date": "2026-07-09T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Agents, robots, and us: How AI reshapes work and skills in Latin America",
       "link": "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america",
       "excerpt": "Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.",
@@ -817,6 +760,25 @@
       ],
       "category": "ai-management",
       "tldr": "Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Author Talks: In Hollywood and in business, it’s cool to be kind",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-in-hollywood-and-in-business-its-cool-to-be-kind",
+      "excerpt": "In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in…",
+      "date": "2026-07-09T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -955,25 +917,6 @@
       "enriched": false
     },
     {
-      "title": "Climate planning has prioritized floods. Heat demands equal attention",
-      "link": "https://www.mckinsey.com/mgi/media-center/mckinsey-global-institute-climate-planning-has-prioritized-floods-heat-demands-equal-attention",
-      "excerpt": "Summer in the Northern Hemisphere has gotten off to a very hot start. This has focused attention on the impacts of heat on health, infrastructure, and economic…",
-      "date": "2026-07-07T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Summer in the Northern Hemisphere has gotten off to a very hot start. This has focused attention on the impacts of heat on health, infrastructure, and economic…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The operating model advantage: Why AI winners are rewiring their organizations",
       "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-operating-model-advantage-why-ai-winners-are-rewiring-their-organizations",
       "excerpt": "The real AI advantage comes from redesigning how work is done and how decisions are made. Ultimately, success will depend on people and operating models…",
@@ -988,6 +931,25 @@
       ],
       "category": "ai-management",
       "tldr": "The real AI advantage comes from redesigning how work is done and how decisions are made. Ultimately, success will depend on people and operating models…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Climate planning has prioritized floods. Heat demands equal attention",
+      "link": "https://www.mckinsey.com/mgi/media-center/mckinsey-global-institute-climate-planning-has-prioritized-floods-heat-demands-equal-attention",
+      "excerpt": "Summer in the Northern Hemisphere has gotten off to a very hot start. This has focused attention on the impacts of heat on health, infrastructure, and economic…",
+      "date": "2026-07-07T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Summer in the Northern Hemisphere has gotten off to a very hot start. This has focused attention on the impacts of heat on health, infrastructure, and economic…",
       "insight": "",
       "suggestion": "",
       "enriched": false
