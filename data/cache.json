@@ -2252,5 +2252,47 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/academy/getting-started": {
+    "category": "ai-cognition",
+    "tldr": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/how-genai-can-and-cant-help-manage-customer-insights/": {
+    "category": "ai-management",
+    "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images To understand their customers and markets, a growing number of customer-oriented companies are using…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model": {
+    "category": "ai-management",
+    "tldr": "As companies focus on spiraling AI costs, they need to make sure not to lose sight of the real prize.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-practical-people-lessons-for-scaling-ai-adoption": {
+    "category": "ai-management",
+    "tldr": "McKinsey Senior Partner Brooke Weddle explores how companies are successfully scaling their AI programs.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/real-estate/our-insights/how-ai-is-reshaping-value-creation-in-residential-real-estate": {
+    "category": "ai-management",
+    "tldr": "McKinsey’s Alex Wolkomir discusses how housing leaders can win with AI by improving customer experiences, redesigning workflows, and building trust between…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/how-a-180-year-old-news-institution-prepares-for-its-next-reinvention": {
+    "category": "design-director",
+    "tldr": "Associated Press CEO Daisy Veerasingham discusses AI, the economics of trusted content, and why preserving editorial independence matters more than preserving…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
