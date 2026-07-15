@@ -2294,5 +2294,75 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/managing-ai-investments-in-agentic-era": {
+    "category": "ai-agent",
+    "tldr": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
+    "category": "ai-management",
+    "tldr": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
+    "category": "ai-management",
+    "tldr": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/": {
+    "category": "ai-workflow",
+    "tldr": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation": {
+    "category": "design-director",
+    "tldr": "Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/the-global-scaling-gap-why-strategic-clarity-is-crucial-in-the-age-of-ai/": {
+    "category": "ai-management",
+    "tldr": "Michael Glenwood Gibbs/theispot.com Digital platforms and generative AI have lowered the barriers to accessing global talent, capital, and knowledge for…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/how-consumers-are-reshaping-the-future-of-mobility": {
+    "category": "ai-management",
+    "tldr": "Our recent survey reveals shifting consumer priorities, with rising expectations for affordability, sustainability, and technology and greater openness to new…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/healthcare/our-insights/how-physician-ceos-hone-the-double-edged-sword-of-clinical-training": {
+    "category": "design-director",
+    "tldr": "The journey from physician to CEO has no prescribed path, but those who’ve reached the top reveal how they evolved the strengths and instincts forged in…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-expertise-in-the-age-of-ai-who-trains-the-next-generation": {
+    "category": "ai-management",
+    "tldr": "As AI reshapes entry-level work, organizations should rethink how expertise is developed by integrating knowledge management, role design, learning, and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rewiring-customer-experience-for-the-agentic-era": {
+    "category": "ai-management",
+    "tldr": "As AI agents take on moment-to-moment decisions, leading companies are redesigning customer experience from predefined journeys to dynamic, cross-channel…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

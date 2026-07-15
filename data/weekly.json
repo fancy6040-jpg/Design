@@ -1,9 +1,85 @@
 {
-  "generated": "2026-07-14T04:40:12.252Z",
-  "cutoff": "2026-06-14T04:38:55.072Z",
-  "total": 58,
+  "generated": "2026-07-15T04:40:04.005Z",
+  "cutoff": "2026-06-15T04:38:47.326Z",
+  "total": 59,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "excerpt": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "date": "2026-07-14T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How data science teams use ChatGPT Work",
+      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "excerpt": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work…",
+      "date": "2026-07-14T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-management",
+      "tldr": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How sales teams use ChatGPT Work",
+      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "excerpt": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real…",
+      "date": "2026-07-14T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-management",
+      "tldr": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "excerpt": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "date": "2026-07-13T12:37:28.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-workflow",
+      "tldr": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "link": "https://openai.com/index/deutsche-telekom",
@@ -62,25 +138,6 @@
       "enriched": false
     },
     {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "link": "https://openai.com/index/bio-bug-bounty",
-      "excerpt": "Details about the OpenAI Bio Bounty program",
-      "date": "2026-07-09T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Details about the OpenAI Bio Bounty program",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "link": "https://openai.com/index/gpt-5-6",
       "excerpt": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
@@ -119,6 +176,25 @@
       "enriched": false
     },
     {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "link": "https://openai.com/index/bio-bug-bounty",
+      "excerpt": "Details about the OpenAI Bio Bounty program",
+      "date": "2026-07-09T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Details about the OpenAI Bio Bounty program",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Our approach to government and national security partnerships",
       "link": "https://openai.com/index/government-national-security-partnerships",
       "excerpt": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
@@ -133,63 +209,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Separating signal from noise in coding evaluations",
-      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "excerpt": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "date": "2026-07-08T13:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Helping K–12 educators build practical AI skills",
-      "link": "https://openai.com/index/k-12-educators-practical-skills",
-      "excerpt": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-      "date": "2026-07-08T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing GPT-Live",
-      "link": "https://openai.com/index/introducing-gpt-live",
-      "excerpt": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "date": "2026-07-08T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -727,6 +746,120 @@
       "enriched": false
     },
     {
+      "title": "The CEO’s role in transformation",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation",
+      "excerpt": "Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are…",
+      "date": "2026-07-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The Global Scaling Gap: Why Strategic Clarity Is Crucial in the Age of AI",
+      "link": "https://sloanreview.mit.edu/article/the-global-scaling-gap-why-strategic-clarity-is-crucial-in-the-age-of-ai/",
+      "excerpt": "Michael Glenwood Gibbs/theispot.com Digital platforms and generative AI have lowered the barriers to accessing global talent, capital, and knowledge for…",
+      "date": "2026-07-14T11:00:57.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Michael Glenwood Gibbs/theispot.com Digital platforms and generative AI have lowered the barriers to accessing global talent, capital, and knowledge for…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How consumers are reshaping the future of mobility",
+      "link": "https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/how-consumers-are-reshaping-the-future-of-mobility",
+      "excerpt": "Our recent survey reveals shifting consumer priorities, with rising expectations for affordability, sustainability, and technology and greater openness to new…",
+      "date": "2026-07-14T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Our recent survey reveals shifting consumer priorities, with rising expectations for affordability, sustainability, and technology and greater openness to new…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How physician CEOs hone the double-edged sword of clinical training",
+      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/how-physician-ceos-hone-the-double-edged-sword-of-clinical-training",
+      "excerpt": "The journey from physician to CEO has no prescribed path, but those who’ve reached the top reveal how they evolved the strengths and instincts forged in…",
+      "date": "2026-07-14T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "The journey from physician to CEO has no prescribed path, but those who’ve reached the top reveal how they evolved the strengths and instincts forged in…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Building expertise in the age of AI: Who trains the next generation?",
+      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-expertise-in-the-age-of-ai-who-trains-the-next-generation",
+      "excerpt": "As AI reshapes entry-level work, organizations should rethink how expertise is developed by integrating knowledge management, role design, learning, and…",
+      "date": "2026-07-14T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As AI reshapes entry-level work, organizations should rethink how expertise is developed by integrating knowledge management, role design, learning, and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Rewiring customer experience for the agentic era",
+      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rewiring-customer-experience-for-the-agentic-era",
+      "excerpt": "As AI agents take on moment-to-moment decisions, leading companies are redesigning customer experience from predefined journeys to dynamic, cross-channel…",
+      "date": "2026-07-14T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As AI agents take on moment-to-moment decisions, leading companies are redesigning customer experience from predefined journeys to dynamic, cross-channel…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "How GenAI Can and Can’t Help Manage Customer Insights",
       "link": "https://sloanreview.mit.edu/article/how-genai-can-and-cant-help-manage-customer-insights/",
       "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images To understand their customers and markets, a growing number of customer-oriented companies are using…",
@@ -746,25 +879,6 @@
       "enriched": false
     },
     {
-      "title": "Is that AI agent worth it? Agentic economics and the modern operating model",
-      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model",
-      "excerpt": "As companies focus on spiraling AI costs, they need to make sure not to lose sight of the real prize.",
-      "date": "2026-07-13T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "As companies focus on spiraling AI costs, they need to make sure not to lose sight of the real prize.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Rewired takes: Practical people lessons for scaling AI adoption",
       "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-practical-people-lessons-for-scaling-ai-adoption",
       "excerpt": "McKinsey Senior Partner Brooke Weddle explores how companies are successfully scaling their AI programs.",
@@ -779,6 +893,25 @@
       ],
       "category": "ai-management",
       "tldr": "McKinsey Senior Partner Brooke Weddle explores how companies are successfully scaling their AI programs.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Is that AI agent worth it? Agentic economics and the modern operating model",
+      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model",
+      "excerpt": "As companies focus on spiraling AI costs, they need to make sure not to lose sight of the real prize.",
+      "date": "2026-07-13T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As companies focus on spiraling AI costs, they need to make sure not to lose sight of the real prize.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -841,25 +974,6 @@
       "enriched": false
     },
     {
-      "title": "Author Talks: In Hollywood and in business, it’s cool to be kind",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-in-hollywood-and-in-business-its-cool-to-be-kind",
-      "excerpt": "In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in…",
-      "date": "2026-07-09T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindfulness, and collaboration can result in…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Agents, robots, and us: How AI reshapes work and skills in Latin America",
       "link": "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america",
       "excerpt": "Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.",
@@ -879,25 +993,6 @@
       "enriched": false
     },
     {
-      "title": "The real AI advantage",
-      "link": "https://www.mckinsey.com/mgi/our-research/the-real-ai-advantage",
-      "excerpt": "The next wave of value from AI will flow to those leaders who redesign business models, eliminate friction, and build organizations that learn faster than the…",
-      "date": "2026-07-09T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The next wave of value from AI will flow to those leaders who redesign business models, eliminate friction, and build organizations that learn faster than the…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "GenAI Success Metrics: Look Beyond Reduced Workload",
       "link": "https://sloanreview.mit.edu/article/genai-success-metrics-look-beyond-reduced-workload/",
       "excerpt": "Matt Harrison Clough / Ikon Images The Research The authors performed a four-year, fixed-window observational analysis of administrative work inside a large…",
@@ -912,63 +1007,6 @@
       ],
       "category": "ai-management",
       "tldr": "Matt Harrison Clough / Ikon Images The Research The authors performed a four-year, fixed-window observational analysis of administrative work inside a large…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "From adoption to impact: Three horizons of AI transformation",
-      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/from-adoption-to-impact-three-horizons-of-ai-transformation",
-      "excerpt": "Most organizations are still early in their AI journeys. A new global survey reveals how companies can progress from individual adoption to enterprise-wide…",
-      "date": "2026-07-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Most organizations are still early in their AI journeys. A new global survey reveals how companies can progress from individual adoption to enterprise-wide…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "From healthcare to health: Asia’s longevity opportunity",
-      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/from-healthcare-to-health-asias-longevity-opportunity",
-      "excerpt": "On average, people are living longer than before, raising a broader conversation about how to create an ecosystem that effectively combines the delivery of…",
-      "date": "2026-07-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "On average, people are living longer than before, raising a broader conversation about how to create an ecosystem that effectively combines the delivery of…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Cost versus value: Managing agentic AI system performance",
-      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/cost-versus-value-managing-agentic-ai-system-performance",
-      "excerpt": "Per-token pricing has stopped being a useful measure for what enterprises actually pay for gen AI. A conversation with David Tepper, CEO of Pay-i, delves into…",
-      "date": "2026-07-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Per-token pricing has stopped being a useful measure for what enterprises actually pay for gen AI. A conversation with David Tepper, CEO of Pay-i, delves into…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1083,25 +1121,6 @@
       ],
       "category": "ai-management",
       "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The Research The authors compared the approaches of prominent corporate venture capital (CVC) units,…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Leaders at All Levels: How DBS Bank Makes Everyone an Innovator",
-      "link": "https://sloanreview.mit.edu/video/leaders-at-all-levels-how-dbs-bank-makes-everyone-an-innovator/",
-      "excerpt": "DBS Bank believes that innovation is critical to its survival, and to reinforce that objective, it made innovation a KPI representing 20% of every team and…",
-      "date": "2026-06-18T11:00:12.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "DBS Bank believes that innovation is critical to its survival, and to reinforce that objective, it made innovation a KPI representing 20% of every team and…",
       "insight": "",
       "suggestion": "",
       "enriched": false
