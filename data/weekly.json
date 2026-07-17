@@ -1,9 +1,66 @@
 {
-  "generated": "2026-07-16T04:50:22.893Z",
-  "cutoff": "2026-06-16T04:48:54.847Z",
-  "total": 60,
+  "generated": "2026-07-17T04:53:00.076Z",
+  "cutoff": "2026-06-17T04:52:03.951Z",
+  "total": 58,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Why teens deserve access to safe AI",
+      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "excerpt": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "date": "2026-07-16T16:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Our approach to bioresilience",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "excerpt": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "date": "2026-07-16T09:30:42.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "link": "https://openai.com/index/cars24",
+      "excerpt": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams…",
+      "date": "2026-07-16T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "The US is advancing AI safety through state and federal action",
       "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
@@ -176,44 +233,6 @@
       "enriched": false
     },
     {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "excerpt": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "date": "2026-07-09T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "link": "https://openai.com/index/gpt-5-6",
-      "excerpt": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "date": "2026-07-09T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
       "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
       "excerpt": "",
@@ -347,58 +366,39 @@
       "enriched": false
     },
     {
-      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-      "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "excerpt": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-      "date": "2026-06-17T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "Sightlines issue no.1: Insights from Config",
+      "link": "https://www.figma.com/blog/sightlines-issue-no1/",
+      "excerpt": "The conversations we’re still replaying from Config’s Leadership Collective.",
+      "date": "2026-07-16T16:37:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "category": "ai-ux",
+      "tldr": "The conversations we’re still replaying from Config’s Leadership Collective.",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "excerpt": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-      "date": "2026-06-16T21:29:50.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
+      "title": "Workflow lab: Deploying designs directly with Figma Make",
+      "link": "https://www.figma.com/blog/workflow-lab-deploying-designs-directly-with-figma-make/",
+      "excerpt": "The handoff from design to code doesn't have to be a one-way street. This workflow shows how a designer can connect a codebase to Figma Make, make the changes…",
+      "date": "2026-07-16T12:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "研究",
-        "模型"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-workflow",
-      "tldr": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Securing the future of AI agents",
-      "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-      "excerpt": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
-      "date": "2026-06-16T15:46:31.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-agent",
-      "tldr": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "category": "ai-ux",
+      "tldr": "The handoff from design to code doesn't have to be a one-way street. This workflow shows how a designer can connect a codebase to Figma Make, make the changes…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -651,44 +651,6 @@
       "enriched": false
     },
     {
-      "title": "Start Anywhere, a magazine by Figma",
-      "link": "https://www.figma.com/blog/start-anywhere/",
-      "excerpt": "New tools and materials make it easier to build anything and start anywhere. The question now is, where do you want to go?",
-      "date": "2026-06-29T21:22:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "New tools and materials make it easier to build anything and start anywhere. The question now is, where do you want to go?",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Meet the artists behind Figma’s Season 5 collection",
-      "link": "https://www.figma.com/blog/how-season-5-merch-came-to-life/",
-      "excerpt": "Figma's Season 5 merch is full of surprises—smiling cubes, a tomato with arms, wooden shapes painted in gouache. We asked the eight artists behind the…",
-      "date": "2026-06-29T20:12:13.375Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "Figma's Season 5 merch is full of surprises—smiling cubes, a tomato with arms, wooden shapes painted in gouache. We asked the eight artists behind the…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Kick the Bots Out of Your Survey Data",
       "link": "https://www.nngroup.com/articles/survey-bots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Learn to spot and filter out survey bots’ responses before analysis so fake data doesn’t distort your findings.",
@@ -760,6 +722,101 @@
       ],
       "category": "ai-agent",
       "tldr": "Nondevelopers are building complex agentic AI systems on intuition developed through many hours of experimentation, YouTube videos, and Reddit threads.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "What CEOs Need to Know About Sovereign AI",
+      "link": "https://sloanreview.mit.edu/article/what-ceos-need-to-know-about-sovereign-ai/",
+      "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images As multinational companies implement artificial intelligence workflows and look to adopt AI across their…",
+      "date": "2026-07-16T13:52:48.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "design-director",
+      "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images As multinational companies implement artificial intelligence workflows and look to adopt AI across their…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Amid volatility, oil and gas M&A abounds. Here’s how to capture full value",
+      "link": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/amid-volatility-oil-and-gas-m-and-a-abounds-heres-how-to-capture-full-value",
+      "excerpt": "Envisioning the deal’s full potential and sequencing integration initiatives makes the most of the current wave of oil and gas mergers and combinations.",
+      "date": "2026-07-16T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Envisioning the deal’s full potential and sequencing integration initiatives makes the most of the current wave of oil and gas mergers and combinations.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "What the 2026 World Cup reveals about the next generation of sports fans",
+      "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/what-the-2026-world-cup-reveals-about-the-next-generation-of-sports-fans",
+      "excerpt": "This year’s tournament offers a window into consumers’ changing behaviors, desire for community, and focus on identity—especially among Latino fans. Are…",
+      "date": "2026-07-16T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "This year’s tournament offers a window into consumers’ changing behaviors, desire for community, and focus on identity—especially among Latino fans. Are…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How B.TECH transformed into a technology-powered retailer",
+      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-b-tech-transformed-into-a-technology-powered-retailer",
+      "excerpt": "The Egyptian electronics retailer partnered with McKinsey to reinvent customer commerce through AI-powered pricing, fulfillment, and fintech—unlocking rapid…",
+      "date": "2026-07-16T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The Egyptian electronics retailer partnered with McKinsey to reinvent customer commerce through AI-powered pricing, fulfillment, and fintech—unlocking rapid…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The future of B2B sales: How growth champions rewire their playbooks with AI",
+      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-future-of-b2b-sales-how-growth-champions-rewire-their-playbooks-with-ai",
+      "excerpt": "AI pilots are everywhere, but value is not. Growth leaders rewire commercial impact journeys with agentic AI, enabling sellers to deepen customer relations and…",
+      "date": "2026-07-16T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "AI pilots are everywhere, but value is not. Growth leaders rewire commercial impact journeys with agentic AI, enabling sellers to deepen customer relations and…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -860,9 +917,9 @@
       "enriched": false
     },
     {
-      "title": "The ‘bridge builder’ COO: Delivering results by engaging stakeholders",
-      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/the-bridge-builder-coo-delivering-results-by-engaging-stakeholders",
-      "excerpt": "Today’s COOs work with an increasingly broad set of stakeholders. Success means understanding the “why” that drives each one.",
+      "title": "AI’s next big mission is rewiring your workplace",
+      "link": "https://www.mckinsey.com/about-us/media/ais-next-big-mission-is-rewiring-your-workplace",
+      "excerpt": "Artificial intelligence is reshaping every business, but the hardest challenge is rewiring the company around it. Companies that bet on equipping good staff…",
       "date": "2026-07-15T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
@@ -873,45 +930,7 @@
         "AI"
       ],
       "category": "ai-management",
-      "tldr": "Today’s COOs work with an increasingly broad set of stakeholders. Success means understanding the “why” that drives each one.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Gigafactory delivery on time: Solving the SOP delay challenge",
-      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/gigafactory-delivery-on-time-solving-the-sop-delay-challenge",
-      "excerpt": "Battery plants are essential for the energy transition. Most miss their ramp-up deadlines, however. Here’s how to fix the delivery model.",
-      "date": "2026-07-15T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Battery plants are essential for the energy transition. Most miss their ramp-up deadlines, however. Here’s how to fix the delivery model.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Patrick Finn on how tension can lead to healthcare’s reinvention",
-      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/patrick-finn-on-how-tension-can-lead-to-healthcares-reinvention",
-      "excerpt": "McKinsey Senior Partner Patrick Finn examines the current unique moment in healthcare and why AI could help reshape who leads healthcare’s next era.",
-      "date": "2026-07-15T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "McKinsey Senior Partner Patrick Finn examines the current unique moment in healthcare and why AI could help reshape who leads healthcare’s next era.",
+      "tldr": "Artificial intelligence is reshaping every business, but the hardest challenge is rewiring the company around it. Companies that bet on equipping good staff…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -931,44 +950,6 @@
       ],
       "category": "ai-management",
       "tldr": "Michael Glenwood Gibbs/theispot.com Digital platforms and generative AI have lowered the barriers to accessing global talent, capital, and knowledge for…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How consumers are reshaping the future of mobility",
-      "link": "https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/how-consumers-are-reshaping-the-future-of-mobility",
-      "excerpt": "Our recent survey reveals shifting consumer priorities, with rising expectations for affordability, sustainability, and technology and greater openness to new…",
-      "date": "2026-07-14T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Our recent survey reveals shifting consumer priorities, with rising expectations for affordability, sustainability, and technology and greater openness to new…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How physician CEOs hone the double-edged sword of clinical training",
-      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/how-physician-ceos-hone-the-double-edged-sword-of-clinical-training",
-      "excerpt": "The journey from physician to CEO has no prescribed path, but those who’ve reached the top reveal how they evolved the strengths and instincts forged in…",
-      "date": "2026-07-14T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "The journey from physician to CEO has no prescribed path, but those who’ve reached the top reveal how they evolved the strengths and instincts forged in…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1121,25 +1102,6 @@
       ],
       "category": "ai-management",
       "tldr": "Matt Harrison Clough/Ikon Images After several years of AI experiments and pilot initiatives, a crucial question remains open for most companies: How much of a…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Resolving Muddled Objectives in Corporate Venture Capital",
-      "link": "https://sloanreview.mit.edu/article/resolving-muddled-objectives-in-corporate-venture-capital/",
-      "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The Research The authors compared the approaches of prominent corporate venture capital (CVC) units,…",
-      "date": "2026-06-22T11:00:14.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The Research The authors compared the approaches of prominent corporate venture capital (CVC) units,…",
       "insight": "",
       "suggestion": "",
       "enriched": false
