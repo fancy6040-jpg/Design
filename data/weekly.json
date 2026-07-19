@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T04:38:27.789Z",
-  "cutoff": "2026-06-18T04:37:08.740Z",
+  "generated": "2026-07-19T05:00:30.128Z",
+  "cutoff": "2026-06-19T04:59:23.541Z",
   "total": 59,
   "sources_attempted": 13,
   "items": [
@@ -898,6 +898,25 @@
       "enriched": false
     },
     {
+      "title": "The future of delivering software as a medical device",
+      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+      "excerpt": "Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by…",
+      "date": "2026-07-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The CEO’s role in transformation",
       "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation",
       "excerpt": "Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are…",
@@ -917,9 +936,9 @@
       "enriched": false
     },
     {
-      "title": "How AI is reshaping the future of the AEC industry",
-      "link": "https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry",
-      "excerpt": "AI is poised to rewire the architecture, engineering, and construction sector. Firms that move quickly to reimagine workflows, improve data use, and automate…",
+      "title": "How can the public sector meet the AI moment?",
+      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
+      "excerpt": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving…",
       "date": "2026-07-15T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
@@ -930,26 +949,7 @@
         "AI"
       ],
       "category": "ai-management",
-      "tldr": "AI is poised to rewire the architecture, engineering, and construction sector. Firms that move quickly to reimagine workflows, improve data use, and automate…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The future of delivering software as a medical device",
-      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
-      "excerpt": "Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by…",
-      "date": "2026-07-15T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by…",
+      "tldr": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving…",
       "insight": "",
       "suggestion": "",
       "enriched": false
