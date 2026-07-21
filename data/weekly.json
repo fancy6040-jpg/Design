@@ -1,9 +1,28 @@
 {
-  "generated": "2026-07-20T05:29:40.919Z",
-  "cutoff": "2026-06-20T05:28:30.467Z",
+  "generated": "2026-07-21T04:58:26.469Z",
+  "cutoff": "2026-06-21T04:57:08.991Z",
   "total": 58,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "excerpt": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative…",
+      "date": "2026-07-20T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "A scorecard for the AI age",
       "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
@@ -209,25 +228,6 @@
       ],
       "category": "ai-workflow",
       "tldr": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Getting started with ChatGPT",
-      "link": "https://openai.com/academy/getting-started",
-      "excerpt": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "date": "2026-07-10T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -727,6 +727,139 @@
       "enriched": false
     },
     {
+      "title": "How Leaders Unlock Innovation on the Front Lines",
+      "link": "https://sloanreview.mit.edu/article/how-leaders-unlock-innovation-on-the-front-lines/",
+      "excerpt": "PPaint/Ikon Images Balancing the daily grind of operations with the spark of innovation is one of the most persistent challenges managers face.1 Regulatory…",
+      "date": "2026-07-20T11:00:53.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "PPaint/Ikon Images Balancing the daily grind of operations with the spark of innovation is one of the most persistent challenges managers face.1 Regulatory…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Robot reboot",
+      "link": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-robot-reboot",
+      "excerpt": "A new generation of robotics is powering up. How can leaders capture the value at stake while ensuring successful human–machine collaboration?",
+      "date": "2026-07-20T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "A new generation of robotics is powering up. How can leaders capture the value at stake while ensuring successful human–machine collaboration?",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The cost of intelligence: How CIOs can manage AI demand at scale",
+      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-cost-of-intelligence-how-cios-can-manage-ai-demand-at-scale",
+      "excerpt": "As AI costs spiral, CIOs need to manage enterprise AI demand to optimize for outcomes, not just cost.",
+      "date": "2026-07-20T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As AI costs spiral, CIOs need to manage enterprise AI demand to optimize for outcomes, not just cost.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "From instinct to real-time insight: Transforming steel sales with AI",
+      "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/overview/from-instinct-to-real-time-insight-transforming-steel-sales-with-ai",
+      "excerpt": "ArcelorMittal Brazil partnered with McKinsey to redesign its sales journey. A gen AI–powered tool removed the friction of everyday selling, freeing salespeople…",
+      "date": "2026-07-20T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "ArcelorMittal Brazil partnered with McKinsey to redesign its sales journey. A gen AI–powered tool removed the friction of everyday selling, freeing salespeople…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Author Talks: How a CEO got faster in his 40s",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-a-ceo-got-faster-in-his-40s",
+      "excerpt": "CEO Nick Thompson ran marathons at the same pace for a decade—until the right coach, mindset, and routine helped him break through. Here’s what he learned…",
+      "date": "2026-07-20T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "CEO Nick Thompson ran marathons at the same pace for a decade—until the right coach, mindset, and routine helped him break through. Here’s what he learned…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Partnership for the decades ahead",
+      "link": "https://www.mckinsey.com/pl/en/our-insights/partnership-for-the-decades-ahead",
+      "excerpt": "Economic relations between Poland and the United States have entered a new phase. Over the past three decades, cooperation has expanded beyond trade to…",
+      "date": "2026-07-20T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Economic relations between Poland and the United States have entered a new phase. Over the past three decades, cooperation has expanded beyond trade to…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Proven growth strategies from market leaders",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/proven-growth-strategies-from-market-leaders",
+      "excerpt": "Discover how market leaders—Walmart, Builders FirstSource, Progressive, and JPMorgan Chase—achieved exceptional growth from 2019 to 2024, outperforming peers…",
+      "date": "2026-07-20T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Discover how market leaders—Walmart, Builders FirstSource, Progressive, and JPMorgan Chase—achieved exceptional growth from 2019 to 2024, outperforming peers…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "AI in the Australian for-purpose sector: Laying a strong foundation",
       "link": "https://www.mckinsey.com/au/our-insights/ai-in-the-australian-for-purpose-sector-laying-a-strong-foundation",
       "excerpt": "AI adoption in Australian for-purpose organisations is growing, but without a considered approach, AI can add pressure and prioritise output over outcomes. How…",
@@ -817,120 +950,6 @@
       ],
       "category": "ai-management",
       "tldr": "Envisioning the deal’s full potential and sequencing integration initiatives makes the most of the current wave of oil and gas mergers and combinations.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "What the 2026 World Cup reveals about the next generation of sports fans",
-      "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/what-the-2026-world-cup-reveals-about-the-next-generation-of-sports-fans",
-      "excerpt": "This year’s tournament offers a window into consumers’ changing behaviors, desire for community, and focus on identity—especially among Latino fans. Are…",
-      "date": "2026-07-16T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "This year’s tournament offers a window into consumers’ changing behaviors, desire for community, and focus on identity—especially among Latino fans. Are…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How B.TECH transformed into a technology-powered retailer",
-      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-b-tech-transformed-into-a-technology-powered-retailer",
-      "excerpt": "The Egyptian electronics retailer partnered with McKinsey to reinvent customer commerce through AI-powered pricing, fulfillment, and fintech—unlocking rapid…",
-      "date": "2026-07-16T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The Egyptian electronics retailer partnered with McKinsey to reinvent customer commerce through AI-powered pricing, fulfillment, and fintech—unlocking rapid…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The future of B2B sales: How growth champions rewire their playbooks with AI",
-      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-future-of-b2b-sales-how-growth-champions-rewire-their-playbooks-with-ai",
-      "excerpt": "AI pilots are everywhere, but value is not. Growth leaders rewire commercial impact journeys with agentic AI, enabling sellers to deepen customer relations and…",
-      "date": "2026-07-16T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "AI pilots are everywhere, but value is not. Growth leaders rewire commercial impact journeys with agentic AI, enabling sellers to deepen customer relations and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The future of delivering software as a medical device",
-      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
-      "excerpt": "Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by…",
-      "date": "2026-07-15T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The CEO’s role in transformation",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation",
-      "excerpt": "Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are…",
-      "date": "2026-07-15T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "AI’s next big mission is rewiring your workplace",
-      "link": "https://www.mckinsey.com/about-us/media/ais-next-big-mission-is-rewiring-your-workplace",
-      "excerpt": "Artificial intelligence is reshaping every business, but the hardest challenge is rewiring the company around it. Companies that bet on equipping good staff…",
-      "date": "2026-07-15T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Artificial intelligence is reshaping every business, but the hardest challenge is rewiring the company around it. Companies that bet on equipping good staff…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1083,25 +1102,6 @@
       ],
       "category": "ai-management",
       "tldr": "Matt Kenyon/Ikon Images “Professionalism” encompasses the broad set of shared beliefs and expectations about how people within an industry or workplace should…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Three Approaches to Measuring and Managing AI ROI",
-      "link": "https://sloanreview.mit.edu/article/three-approaches-to-measuring-and-managing-ai-roi/",
-      "excerpt": "Matt Harrison Clough/Ikon Images After several years of AI experiments and pilot initiatives, a crucial question remains open for most companies: How much of a…",
-      "date": "2026-06-23T11:00:27.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Matt Harrison Clough/Ikon Images After several years of AI experiments and pilot initiatives, a crucial question remains open for most companies: How much of a…",
       "insight": "",
       "suggestion": "",
       "enriched": false

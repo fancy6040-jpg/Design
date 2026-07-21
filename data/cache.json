@@ -2553,5 +2553,61 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/safety-alignment-long-horizon-models": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/how-leaders-unlock-innovation-on-the-front-lines/": {
+    "category": "ai-management",
+    "tldr": "PPaint/Ikon Images Balancing the daily grind of operations with the spark of innovation is one of the most persistent challenges managers face.1 Regulatory…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-robot-reboot": {
+    "category": "ai-management",
+    "tldr": "A new generation of robotics is powering up. How can leaders capture the value at stake while ensuring successful human–machine collaboration?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-cost-of-intelligence-how-cios-can-manage-ai-demand-at-scale": {
+    "category": "ai-management",
+    "tldr": "As AI costs spiral, CIOs need to manage enterprise AI demand to optimize for outcomes, not just cost.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/mckinsey-technology/overview/from-instinct-to-real-time-insight-transforming-steel-sales-with-ai": {
+    "category": "ai-management",
+    "tldr": "ArcelorMittal Brazil partnered with McKinsey to redesign its sales journey. A gen AI–powered tool removed the friction of everyday selling, freeing salespeople…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-a-ceo-got-faster-in-his-40s": {
+    "category": "design-director",
+    "tldr": "CEO Nick Thompson ran marathons at the same pace for a decade—until the right coach, mindset, and routine helped him break through. Here’s what he learned…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/pl/en/our-insights/partnership-for-the-decades-ahead": {
+    "category": "ai-management",
+    "tldr": "Economic relations between Poland and the United States have entered a new phase. Over the past three decades, cooperation has expanded beyond trade to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/proven-growth-strategies-from-market-leaders": {
+    "category": "ai-management",
+    "tldr": "Discover how market leaders—Walmart, Builders FirstSource, Progressive, and JPMorgan Chase—achieved exceptional growth from 2019 to 2024, outperforming peers…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
