@@ -1,9 +1,28 @@
 {
-  "generated": "2026-07-23T05:15:14.958Z",
-  "cutoff": "2026-06-23T05:13:52.075Z",
+  "generated": "2026-07-24T05:00:01.033Z",
+  "cutoff": "2026-06-24T04:58:44.670Z",
   "total": 60,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Launching Health in ChatGPT",
+      "link": "https://openai.com/index/health-in-chatgpt",
+      "excerpt": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their…",
+      "date": "2026-07-23T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
       "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
@@ -233,25 +252,6 @@
       "enriched": false
     },
     {
-      "title": "A scorecard for the AI age",
-      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "excerpt": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on…",
-      "date": "2026-07-17T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Our approach to bioresilience",
       "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
       "excerpt": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
@@ -399,6 +399,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How Figma stays ahead of vulnerabilities with agents",
+      "link": "https://www.figma.com/blog/how-figma-stays-ahead-of-vulnerabilities-with-agents/",
+      "excerpt": "For the past year, agents at Figma have guarded code as it's written, reviewed every pull request, and audited a decade-old monorepo, all on one policy.",
+      "date": "2026-07-23T21:23:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "For the past year, agents at Figma have guarded code as it's written, reviewed every pull request, and audited a decade-old monorepo, all on one policy.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -708,25 +727,6 @@
       "enriched": false
     },
     {
-      "title": "Trust you can verify: Figma is now ISO 42001 certified",
-      "link": "https://www.figma.com/blog/figma-is-now-iso-42001-certified/",
-      "excerpt": "Saying you use AI responsibly is easy, but proving it to an accredited auditor is harder. We decided that was a standard worth meeting.",
-      "date": "2026-07-01T12:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "Saying you use AI responsibly is easy, but proving it to an accredited auditor is harder. We decided that was a standard worth meeting.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Kick the Bots Out of Your Survey Data",
       "link": "https://www.nngroup.com/articles/survey-bots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Learn to spot and filter out survey bots’ responses before analysis so fake data doesn’t distort your findings.",
@@ -765,6 +765,25 @@
       "enriched": false
     },
     {
+      "title": "Robots Are Coming — but Not Everywhere",
+      "link": "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/",
+      "excerpt": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread…",
+      "date": "2026-07-23T11:00:55.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "design-director",
+      "tldr": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The global balance sheet 2026: Imbalance and divergence",
       "link": "https://www.mckinsey.com/mgi/our-research/the-global-balance-sheet-2026-imbalance-and-divergence",
       "excerpt": "",
@@ -779,6 +798,82 @@
       ],
       "category": "ai-management",
       "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The human advantage in an AI economy",
+      "link": "https://www.mckinsey.com/mhi/our-insights/the-human-advantage-in-an-ai-economy",
+      "excerpt": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
+      "date": "2026-07-23T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How AI will reshape the economics of insurance: A CEO’s guide to strategy",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy",
+      "excerpt": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that…",
+      "date": "2026-07-23T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Break to grow: Sanjiv Bajaj’s guiding business principle",
+      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/break-to-grow-sanjiv-bajajs-guiding-business-principle",
+      "excerpt": "Guided by his leadership North Star of “performing for today while transforming for tomorrow,” Sanjiv Bajaj believes in breaking businesses to grow, while…",
+      "date": "2026-07-23T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Guided by his leadership North Star of “performing for today while transforming for tomorrow,” Sanjiv Bajaj believes in breaking businesses to grow, while…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How Montefiore Einstein turned technology into enterprise value",
+      "link": "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value",
+      "excerpt": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
+      "date": "2026-07-23T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -898,25 +993,6 @@
       "enriched": false
     },
     {
-      "title": "CBAM: How companies can build from compliance to value creation",
-      "link": "https://www.mckinsey.com/capabilities/sustainability/our-insights/cbam-how-companies-can-build-from-compliance-to-value-creation",
-      "excerpt": "Verified emissions are a decarbonization tool and compliance requirement, but also a means to improve cost control and forecasting. A suite of targeted actions…",
-      "date": "2026-07-21T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Verified emissions are a decarbonization tool and compliance requirement, but also a means to improve cost control and forecasting. A suite of targeted actions…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The second look: An adaptive approach to reunderwriting",
       "link": "https://www.mckinsey.com/industries/private-capital/our-insights/the-second-look-an-adaptive-approach-to-reunderwriting",
       "excerpt": "The best-performing PE firms build on deal diligence in a disciplined way throughout the hold period, revisiting and retuning their exit options and equity…",
@@ -950,63 +1026,6 @@
       ],
       "category": "ai-management",
       "tldr": "PPaint/Ikon Images Balancing the daily grind of operations with the spark of innovation is one of the most persistent challenges managers face.1 Regulatory…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Robot reboot",
-      "link": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-robot-reboot",
-      "excerpt": "A new generation of robotics is powering up. How can leaders capture the value at stake while ensuring successful human–machine collaboration?",
-      "date": "2026-07-20T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "A new generation of robotics is powering up. How can leaders capture the value at stake while ensuring successful human–machine collaboration?",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The cost of intelligence: How CIOs can manage AI demand at scale",
-      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-cost-of-intelligence-how-cios-can-manage-ai-demand-at-scale",
-      "excerpt": "As AI costs spiral, CIOs need to manage enterprise AI demand to optimize for outcomes, not just cost.",
-      "date": "2026-07-20T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "As AI costs spiral, CIOs need to manage enterprise AI demand to optimize for outcomes, not just cost.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "From instinct to real-time insight: Transforming steel sales with AI",
-      "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/overview/from-instinct-to-real-time-insight-transforming-steel-sales-with-ai",
-      "excerpt": "ArcelorMittal Brazil partnered with McKinsey to redesign its sales journey. A gen AI–powered tool removed the friction of everyday selling, freeing salespeople…",
-      "date": "2026-07-20T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "ArcelorMittal Brazil partnered with McKinsey to redesign its sales journey. A gen AI–powered tool removed the friction of everyday selling, freeing salespeople…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1121,25 +1140,6 @@
       ],
       "category": "ai-management",
       "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In 1951, philosopher Martin Heidegger told a small audience, “The most thought-provoking thing in our…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The Real Question to Ask About AI Governance",
-      "link": "https://sloanreview.mit.edu/article/the-real-question-to-ask-about-ai-governance/",
-      "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images Leaders at literally every Fortune 500 company will tell you that they are governing their AI — every single…",
-      "date": "2026-06-30T11:00:22.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images Leaders at literally every Fortune 500 company will tell you that they are governing their AI — every single…",
       "insight": "",
       "suggestion": "",
       "enriched": false

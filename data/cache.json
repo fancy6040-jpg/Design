@@ -2749,5 +2749,54 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/health-in-chatgpt": {
+    "category": "ai-cognition",
+    "tldr": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/how-figma-stays-ahead-of-vulnerabilities-with-agents/": {
+    "category": "ai-agent",
+    "tldr": "For the past year, agents at Figma have guarded code as it's written, reviewed every pull request, and audited a decade-old monorepo, all on one policy.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/": {
+    "category": "design-director",
+    "tldr": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mhi/our-insights/the-human-advantage-in-an-ai-economy": {
+    "category": "ai-management",
+    "tldr": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy": {
+    "category": "design-director",
+    "tldr": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/future-of-asia/break-to-grow-sanjiv-bajajs-guiding-business-principle": {
+    "category": "ai-management",
+    "tldr": "Guided by his leadership North Star of “performing for today while transforming for tomorrow,” Sanjiv Bajaj believes in breaking businesses to grow, while…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value": {
+    "category": "ai-management",
+    "tldr": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
