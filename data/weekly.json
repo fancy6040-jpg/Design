@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T05:00:01.033Z",
-  "cutoff": "2026-06-24T04:58:44.670Z",
+  "generated": "2026-07-25T04:55:44.542Z",
+  "cutoff": "2026-06-25T04:54:35.670Z",
   "total": 60,
   "sources_attempted": 13,
   "items": [
@@ -385,20 +385,39 @@
       "enriched": false
     },
     {
-      "title": "Introducing computer use in Gemini 3.5 Flash",
-      "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-      "excerpt": "",
-      "date": "2026-06-24T16:30:01.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
+      "title": "A Concrete Definition of “Product Sense” (and How to Build It)",
+      "link": "https://www.nngroup.com/articles/product-sense-definition/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Product sense means predicting which product decisions will succeed based on patterns learned through experimentation — and knowing when those patterns apply.",
+      "date": "2026-07-24T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
       "tags": [
-        "AI",
-        "研究",
-        "模型"
+        "UX",
+        "设计",
+        "研究"
       ],
-      "category": "ai-cognition",
-      "tldr": "",
+      "category": "ai-ux",
+      "tldr": "Product sense means predicting which product decisions will succeed based on patterns learned through experimentation — and knowing when those patterns apply.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "UX-Context Design: Using UX Knowledge to Inform AI-Generated Design",
+      "link": "https://www.nngroup.com/articles/ux-context-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "As more interface work is AI-generated, the output of research and design shifts from documents written for humans to curated context that guides AI.",
+      "date": "2026-07-24T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "As more interface work is AI-generated, the output of research and design shifts from documents written for humans to curated context that guides AI.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -746,20 +765,39 @@
       "enriched": false
     },
     {
-      "title": "Your New UX Habit: Establishing Baselines for Impact",
-      "link": "https://www.nngroup.com/articles/establishing-baselines/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Gather baseline metrics before starting a project so your team can demonstrate its impact.",
-      "date": "2026-06-26T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
+      "title": "Author Talks: Why founders misunderstand customer demand",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-founders-misunderstand-customer-demand",
+      "excerpt": "Why do so many promising products fail to gain traction? A McKinsey alumnus explains why conventional thinking leads founders astray—and shares a practical…",
+      "date": "2026-07-24T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
       "tags": [
-        "UX",
-        "设计",
-        "研究"
+        "战略",
+        "管理",
+        "AI"
       ],
-      "category": "ai-ux",
-      "tldr": "Gather baseline metrics before starting a project so your team can demonstrate its impact.",
+      "category": "ai-management",
+      "tldr": "Why do so many promising products fail to gain traction? A McKinsey alumnus explains why conventional thinking leads founders astray—and shares a practical…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How AI agents can help FP&A better steer the business",
+      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/how-ai-agents-can-help-fp-and-a-better-steer-the-business",
+      "excerpt": "AI makes continuous financial planning practical at scale. Organizations can identify risks sooner, evaluate trade-offs faster, and intervene before…",
+      "date": "2026-07-24T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "AI makes continuous financial planning practical at scale. Organizations can identify risks sooner, evaluate trade-offs faster, and intervene before…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -779,25 +817,6 @@
       ],
       "category": "design-director",
       "tldr": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The global balance sheet 2026: Imbalance and divergence",
-      "link": "https://www.mckinsey.com/mgi/our-research/the-global-balance-sheet-2026-imbalance-and-divergence",
-      "excerpt": "",
-      "date": "2026-07-23T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -879,6 +898,25 @@
       "enriched": false
     },
     {
+      "title": "The global balance sheet 2026: Imbalance and divergence",
+      "link": "https://www.mckinsey.com/mgi/our-research/the-global-balance-sheet-2026-imbalance-and-divergence",
+      "excerpt": "",
+      "date": "2026-07-23T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "A New Way to Address Troubled Team Dynamics",
       "link": "https://sloanreview.mit.edu/article/a-new-way-to-address-troubled-team-dynamics/",
       "excerpt": "Gillian Blease/Ikon Images The Research The authors adapted the Big Five personality test into a tool for illustrating personality preferences among team…",
@@ -936,25 +974,6 @@
       "enriched": false
     },
     {
-      "title": "Powering supply chain with agentic AI",
-      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/powering-supply-chain-with-agentic-ai",
-      "excerpt": "Agentic AI could fundamentally reshape supply chain operations, but realizing its potential will require companies to move beyond isolated use cases and…",
-      "date": "2026-07-22T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Agentic AI could fundamentally reshape supply chain operations, but realizing its potential will require companies to move beyond isolated use cases and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Evolving model risk management in the age of AI",
       "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/evolving-model-risk-management-in-the-age-of-ai",
       "excerpt": "Our recent survey reveals how banks are evolving model risk management: by strengthening resilience, unlocking more confident AI adoption—and turning it into a…",
@@ -988,25 +1007,6 @@
       ],
       "category": "ai-management",
       "tldr": "Erik Brynjolfsson has a challenge for anyone worried about artificial intelligence: Stop asking what AI will do to us, and start asking what we will do with…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The second look: An adaptive approach to reunderwriting",
-      "link": "https://www.mckinsey.com/industries/private-capital/our-insights/the-second-look-an-adaptive-approach-to-reunderwriting",
-      "excerpt": "The best-performing PE firms build on deal diligence in a disciplined way throughout the hold period, revisiting and retuning their exit options and equity…",
-      "date": "2026-07-21T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The best-performing PE firms build on deal diligence in a disciplined way throughout the hold period, revisiting and retuning their exit options and equity…",
       "insight": "",
       "suggestion": "",
       "enriched": false
