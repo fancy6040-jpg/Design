@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T04:55:44.542Z",
-  "cutoff": "2026-06-25T04:54:35.670Z",
+  "generated": "2026-07-26T05:21:09.314Z",
+  "cutoff": "2026-06-26T05:19:40.901Z",
   "total": 60,
   "sources_attempted": 13,
   "items": [
@@ -822,25 +822,6 @@
       "enriched": false
     },
     {
-      "title": "The human advantage in an AI economy",
-      "link": "https://www.mckinsey.com/mhi/our-insights/the-human-advantage-in-an-ai-economy",
-      "excerpt": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
-      "date": "2026-07-23T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How AI will reshape the economics of insurance: A CEO’s guide to strategy",
       "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy",
       "excerpt": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that…",
@@ -879,9 +860,9 @@
       "enriched": false
     },
     {
-      "title": "How Montefiore Einstein turned technology into enterprise value",
-      "link": "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value",
-      "excerpt": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
+      "title": "The human advantage in an AI economy",
+      "link": "https://www.mckinsey.com/mhi/our-insights/the-human-advantage-in-an-ai-economy",
+      "excerpt": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
       "date": "2026-07-23T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
@@ -892,7 +873,7 @@
         "AI"
       ],
       "category": "ai-management",
-      "tldr": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
+      "tldr": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -912,6 +893,25 @@
       ],
       "category": "ai-management",
       "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How Montefiore Einstein turned technology into enterprise value",
+      "link": "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value",
+      "excerpt": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
+      "date": "2026-07-23T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
       "insight": "",
       "suggestion": "",
       "enriched": false
