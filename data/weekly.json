@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-26T05:21:09.314Z",
-  "cutoff": "2026-06-26T05:19:40.901Z",
-  "total": 60,
+  "generated": "2026-07-27T05:39:23.896Z",
+  "cutoff": "2026-06-27T05:38:11.608Z",
+  "total": 59,
   "sources_attempted": 13,
   "items": [
     {
@@ -746,25 +746,6 @@
       "enriched": false
     },
     {
-      "title": "Kick the Bots Out of Your Survey Data",
-      "link": "https://www.nngroup.com/articles/survey-bots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Learn to spot and filter out survey bots’ responses before analysis so fake data doesn’t distort your findings.",
-      "date": "2026-06-26T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Learn to spot and filter out survey bots’ responses before analysis so fake data doesn’t distort your findings.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Author Talks: Why founders misunderstand customer demand",
       "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-founders-misunderstand-customer-demand",
       "excerpt": "Why do so many promising products fail to gain traction? A McKinsey alumnus explains why conventional thinking leads founders astray—and shares a practical…",
@@ -822,6 +803,25 @@
       "enriched": false
     },
     {
+      "title": "The human advantage in an AI economy",
+      "link": "https://www.mckinsey.com/mhi/our-insights/the-human-advantage-in-an-ai-economy",
+      "excerpt": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
+      "date": "2026-07-23T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "How AI will reshape the economics of insurance: A CEO’s guide to strategy",
       "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy",
       "excerpt": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that…",
@@ -836,6 +836,25 @@
       ],
       "category": "design-director",
       "tldr": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How Montefiore Einstein turned technology into enterprise value",
+      "link": "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value",
+      "excerpt": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
+      "date": "2026-07-23T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -860,25 +879,6 @@
       "enriched": false
     },
     {
-      "title": "The human advantage in an AI economy",
-      "link": "https://www.mckinsey.com/mhi/our-insights/the-human-advantage-in-an-ai-economy",
-      "excerpt": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
-      "date": "2026-07-23T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The global balance sheet 2026: Imbalance and divergence",
       "link": "https://www.mckinsey.com/mgi/our-research/the-global-balance-sheet-2026-imbalance-and-divergence",
       "excerpt": "",
@@ -893,25 +893,6 @@
       ],
       "category": "ai-management",
       "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How Montefiore Einstein turned technology into enterprise value",
-      "link": "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value",
-      "excerpt": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
-      "date": "2026-07-23T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
       "insight": "",
       "suggestion": "",
       "enriched": false
