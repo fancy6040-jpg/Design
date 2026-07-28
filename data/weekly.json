@@ -1,9 +1,28 @@
 {
-  "generated": "2026-07-27T05:39:23.896Z",
-  "cutoff": "2026-06-27T05:38:11.608Z",
+  "generated": "2026-07-28T04:53:46.257Z",
+  "cutoff": "2026-06-28T04:52:28.189Z",
   "total": 59,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "How AI is expanding what people do at work",
+      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "excerpt": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "date": "2026-07-27T03:30:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Launching Health in ChatGPT",
       "link": "https://openai.com/index/health-in-chatgpt",
@@ -158,7 +177,7 @@
     },
     {
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "link": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
       "excerpt": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
       "date": "2026-07-21T15:16:30.000Z",
       "source_id": "deepmind",
@@ -209,25 +228,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "excerpt": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative…",
-      "date": "2026-07-20T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -746,6 +746,44 @@
       "enriched": false
     },
     {
+      "title": "Rewired takes: How AI is unlocking creativity and heralding the rise of the agent manager",
+      "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-how-ai-is-unlocking-creativity-and-heralding-the-rise-of-the-agent-manager",
+      "excerpt": "Companies are reassessing how they work, their team structures, and what it means to be a manager in this bracing new era.",
+      "date": "2026-07-27T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Companies are reassessing how they work, their team structures, and what it means to be a manager in this bracing new era.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Lessons in resilience, leadership, and trust: An interview with Kathy Roth-Douquet",
+      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/lessons-in-resilience-leadership-and-trust-an-interview-with-kathy-roth-douquet",
+      "excerpt": "The Blue Star Families’ CEO explains what the military family experience reveals about the meaning of service and the relationships that can strengthen…",
+      "date": "2026-07-27T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "The Blue Star Families’ CEO explains what the military family experience reveals about the meaning of service and the relationships that can strengthen…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Author Talks: Why founders misunderstand customer demand",
       "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-founders-misunderstand-customer-demand",
       "excerpt": "Why do so many promising products fail to gain traction? A McKinsey alumnus explains why conventional thinking leads founders astray—and shares a practical…",
@@ -803,25 +841,6 @@
       "enriched": false
     },
     {
-      "title": "The human advantage in an AI economy",
-      "link": "https://www.mckinsey.com/mhi/our-insights/the-human-advantage-in-an-ai-economy",
-      "excerpt": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
-      "date": "2026-07-23T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How AI will reshape the economics of insurance: A CEO’s guide to strategy",
       "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy",
       "excerpt": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that…",
@@ -841,9 +860,9 @@
       "enriched": false
     },
     {
-      "title": "How Montefiore Einstein turned technology into enterprise value",
-      "link": "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value",
-      "excerpt": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
+      "title": "The human advantage in an AI economy",
+      "link": "https://www.mckinsey.com/mhi/our-insights/the-human-advantage-in-an-ai-economy",
+      "excerpt": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
       "date": "2026-07-23T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
@@ -854,7 +873,7 @@
         "AI"
       ],
       "category": "ai-management",
-      "tldr": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
+      "tldr": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -881,7 +900,7 @@
     {
       "title": "The global balance sheet 2026: Imbalance and divergence",
       "link": "https://www.mckinsey.com/mgi/our-research/the-global-balance-sheet-2026-imbalance-and-divergence",
-      "excerpt": "",
+      "excerpt": "Several asset classes grew further out of balance with the economy, raising the possibility of corrections through inflation, asset valuation losses, or,…",
       "date": "2026-07-23T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
@@ -893,6 +912,25 @@
       ],
       "category": "ai-management",
       "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How Montefiore Einstein turned technology into enterprise value",
+      "link": "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value",
+      "excerpt": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
+      "date": "2026-07-23T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -931,44 +969,6 @@
       ],
       "category": "ai-management",
       "tldr": "As the situation in the Strait of Hormuz makes clear, business success increasingly depends on managing global disruption and risk in a three-dimensional way:…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Becoming an AI-native telco: Indosat Ooredoo Hutchison reimagines the telecom of the future",
-      "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/becoming-an-ai-native-telco-indosat-ooredoo-hutchison-reimagines-the-telecom-of-the-future",
-      "excerpt": "Indonesia’s second-largest telecom operator turned a complex merger into a platform for growth, reshaping how decisions are made, how employees work, and how…",
-      "date": "2026-07-22T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Indonesia’s second-largest telecom operator turned a complex merger into a platform for growth, reshaping how decisions are made, how employees work, and how…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Evolving model risk management in the age of AI",
-      "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/evolving-model-risk-management-in-the-age-of-ai",
-      "excerpt": "Our recent survey reveals how banks are evolving model risk management: by strengthening resilience, unlocking more confident AI adoption—and turning it into a…",
-      "date": "2026-07-22T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Our recent survey reveals how banks are evolving model risk management: by strengthening resilience, unlocking more confident AI adoption—and turning it into a…",
       "insight": "",
       "suggestion": "",
       "enriched": false
