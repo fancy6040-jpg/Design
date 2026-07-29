@@ -2854,5 +2854,96 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/scientific-computing-agentic-ai": {
+    "category": "ai-agent",
+    "tldr": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/anthropic-economic-index-connector": {
+    "category": "ai-cognition",
+    "tldr": "Ask Claude about the Anthropic Economic Index",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/donation-public-first-action": {
+    "category": "ai-cognition",
+    "tldr": "Anthropic is donating another $20 million to Public First Action",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/rare-disease-research-grants": {
+    "category": "ai-cognition",
+    "tldr": "Apply for Anthropic’s AI for Science rare disease research grants",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/canadian-ai-research": {
+    "category": "ai-cognition",
+    "tldr": "Anthropic commits $10 million to Canadian AI research",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/claude-for-teachers": {
+    "category": "ai-cognition",
+    "tldr": "Introducing Claude for Teachers",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/ust-claude": {
+    "category": "ai-cognition",
+    "tldr": "UST is bringing Claude to physical AI",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/hard-questions": {
+    "category": "ai-cognition",
+    "tldr": "Inviting hard questions",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/features/making-of-claude-code": {
+    "category": "ai-cognition",
+    "tldr": "The Making of Claude Code",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/the-visual-identity-behind-config-2026/": {
+    "category": "ai-ux",
+    "tldr": "Here’s how Figma’s Brand Studio designed a conference that captured the very human ways we remix and reinvent when working with AI tools.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/life-sciences/our-insights/bayers-sai-jasti-on-driving-productivity-in-r-and-d-with-data-science-and-ai": {
+    "category": "ai-management",
+    "tldr": "Sai Jasti, Bayer’s senior vice president and head of data science and AI, on how the company is transforming its workflows and embedding AI in research and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/business-building/our-insights/the-ceos-critical-role-in-building-new-businesses": {
+    "category": "design-director",
+    "tldr": "Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams": {
+    "category": "ai-management",
+    "tldr": "Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
