@@ -1,9 +1,85 @@
 {
-  "generated": "2026-07-29T04:58:29.641Z",
-  "cutoff": "2026-06-29T04:57:19.599Z",
-  "total": 66,
+  "generated": "2026-07-30T04:47:13.315Z",
+  "cutoff": "2026-06-30T04:45:36.650Z",
+  "total": 65,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "excerpt": "",
+      "date": "2026-07-29T16:02:10.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "excerpt": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "date": "2026-07-29T15:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "excerpt": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "date": "2026-07-29T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "excerpt": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "date": "2026-07-29T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Scientific computing in the age of agentic AI",
       "link": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -157,25 +233,6 @@
       "enriched": false
     },
     {
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "link": "https://openai.com/index/ntt-data",
-      "excerpt": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-      "date": "2026-07-22T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Ask Claude about the Anthropic Economic Index",
       "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
       "excerpt": "Ask Claude about the Anthropic Economic Index",
@@ -195,25 +252,6 @@
       "enriched": false
     },
     {
-      "title": "Introducing the ChatGPT for small business program",
-      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "excerpt": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "date": "2026-07-21T17:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
       "excerpt": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
@@ -228,25 +266,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "excerpt": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for…",
-      "date": "2026-07-21T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -480,39 +499,20 @@
       "enriched": false
     },
     {
-      "title": "Introducing Claude Sonnet 5",
-      "link": "https://www.anthropic.com/news/claude-sonnet-5",
-      "excerpt": "Introducing Claude Sonnet 5",
-      "date": "2026-06-30T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "How we secure Figma’s internal systems with agents",
+      "link": "https://www.figma.com/blog/how-we-secure-figmas-internal-systems-with-agents/",
+      "excerpt": "Our security team built an AI agent that triages alerts, conducts forensic investigations, queries our security data lake, writes code to fix issues—and…",
+      "date": "2026-07-29T20:44:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "Introducing Claude Sonnet 5",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Redeploying Fable 5",
-      "link": "https://www.anthropic.com/news/redeploying-fable-5",
-      "excerpt": "Redeploying Fable 5",
-      "date": "2026-06-30T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Redeploying Fable 5",
+      "category": "ai-agent",
+      "tldr": "Our security team built an AI agent that triages alerts, conducts forensic investigations, queries our security data lake, writes code to fix issues—and…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -860,20 +860,39 @@
       "enriched": false
     },
     {
-      "title": "Building accessibility into a canvas-based product",
-      "link": "https://www.figma.com/blog/building-accessibility-into-a-canvas-based-product/",
-      "excerpt": "Building on a canvas unlocks performance that a traditional HTML web app can't touch. It also strips away any accessibility the browser gives you for free.…",
-      "date": "2026-07-01T17:56:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
+      "title": "The Link Between Explicit AI-Generated Images and Offline Crime",
+      "link": "https://sloanreview.mit.edu/article/the-link-between-explicit-ai-generated-images-and-offline-crime/",
+      "excerpt": "Dung Hoang/theispot.com The online revolution enabled frictionless access to virtually every type of content — including adult content. Generative AI has added…",
+      "date": "2026-07-29T11:00:40.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
       "tags": [
-        "设计",
-        "工具",
-        "产品"
+        "管理",
+        "AI",
+        "战略"
       ],
-      "category": "ai-ux",
-      "tldr": "Building on a canvas unlocks performance that a traditional HTML web app can't touch. It also strips away any accessibility the browser gives you for free.…",
+      "category": "ai-management",
+      "tldr": "Dung Hoang/theispot.com The online revolution enabled frictionless access to virtually every type of content — including adult content. Generative AI has added…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Lion Finance: Competing like a fintech, winning as a bank",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/lion-finance-competing-like-a-fintech-winning-as-a-bank",
+      "excerpt": "Archil Gachechiladze, Lion Finance and Bank of Georgia CEO, describes how focused execution and cultural change have driven the group’s strong financial…",
+      "date": "2026-07-29T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Archil Gachechiladze, Lion Finance and Bank of Georgia CEO, describes how focused execution and cultural change have driven the group’s strong financial…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -898,25 +917,6 @@
       "enriched": false
     },
     {
-      "title": "The CEO’s critical role in building new businesses",
-      "link": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-ceos-critical-role-in-building-new-businesses",
-      "excerpt": "Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital…",
-      "date": "2026-07-28T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Why AI will elevate instead of replace commercial teams",
       "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams",
       "excerpt": "Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.",
@@ -931,6 +931,25 @@
       ],
       "category": "ai-management",
       "tldr": "Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The CEO’s critical role in building new businesses",
+      "link": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-ceos-critical-role-in-building-new-businesses",
+      "excerpt": "Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital…",
+      "date": "2026-07-28T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1012,6 +1031,25 @@
       "enriched": false
     },
     {
+      "title": "How SOCAR transformed a fertilizer leader in Azerbaijan with industrial AI",
+      "link": "https://www.mckinsey.com/industries/chemicals/how-we-help-clients/how-socar-transformed-a-fertilizer-leader-in-azerbaijan-with-industrial-ai",
+      "excerpt": "Azerbaijan’s national energy company set out to digitalize one of its most strategic industrial assets. With bold leadership, deep workforce upskilling, and a…",
+      "date": "2026-07-24T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Azerbaijan’s national energy company set out to digitalize one of its most strategic industrial assets. With bold leadership, deep workforce upskilling, and a…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Robots Are Coming — but Not Everywhere",
       "link": "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/",
       "excerpt": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread…",
@@ -1031,25 +1069,6 @@
       "enriched": false
     },
     {
-      "title": "The human advantage in an AI economy",
-      "link": "https://www.mckinsey.com/mhi/our-insights/the-human-advantage-in-an-ai-economy",
-      "excerpt": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
-      "date": "2026-07-23T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Tech investment alone won’t deliver a competitive edge. Organizations need systems that strengthen both brain health and AI-era skills so people can keep up…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How AI will reshape the economics of insurance: A CEO’s guide to strategy",
       "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy",
       "excerpt": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that…",
@@ -1064,25 +1083,6 @@
       ],
       "category": "design-director",
       "tldr": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Break to grow: Sanjiv Bajaj’s guiding business principle",
-      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/break-to-grow-sanjiv-bajajs-guiding-business-principle",
-      "excerpt": "Guided by his leadership North Star of “performing for today while transforming for tomorrow,” Sanjiv Bajaj believes in breaking businesses to grow, while…",
-      "date": "2026-07-23T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Guided by his leadership North Star of “performing for today while transforming for tomorrow,” Sanjiv Bajaj believes in breaking businesses to grow, while…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1235,25 +1235,6 @@
       ],
       "category": "ai-management",
       "tldr": "Matt Harrison Clough / Ikon Images The Research The authors performed a four-year, fixed-window observational analysis of administrative work inside a large…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Leadership’s Blind Spot in the Age of AI",
-      "link": "https://sloanreview.mit.edu/article/leaderships-blind-spot-in-the-age-of-ai/",
-      "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In 1951, philosopher Martin Heidegger told a small audience, “The most thought-provoking thing in our…",
-      "date": "2026-07-07T11:00:17.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In 1951, philosopher Martin Heidegger told a small audience, “The most thought-provoking thing in our…",
       "insight": "",
       "suggestion": "",
       "enriched": false
