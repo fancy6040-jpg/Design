@@ -1,9 +1,66 @@
 {
-  "generated": "2026-07-30T04:47:13.315Z",
-  "cutoff": "2026-06-30T04:45:36.650Z",
-  "total": 65,
+  "generated": "2026-07-31T05:24:10.061Z",
+  "cutoff": "2026-07-01T05:22:41.794Z",
+  "total": 66,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "excerpt": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and…",
+      "date": "2026-07-30T15:00:59.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-workflow",
+      "tldr": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "excerpt": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "date": "2026-07-30T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "link": "https://openai.com/index/avatarin",
+      "excerpt": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey…",
+      "date": "2026-07-30T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
@@ -100,6 +157,25 @@
       "enriched": false
     },
     {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "excerpt": "",
+      "date": "2026-07-28T13:21:37.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "How AI is expanding what people do at work",
       "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "excerpt": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
@@ -190,44 +266,6 @@
       ],
       "category": "ai-management",
       "tldr": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Advancing the next era of national science",
-      "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "excerpt": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate…",
-      "date": "2026-07-22T12:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing OpenAI Presence",
-      "link": "https://openai.com/index/introducing-openai-presence",
-      "excerpt": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal…",
-      "date": "2026-07-22T05:30:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -480,20 +518,20 @@
       "enriched": false
     },
     {
-      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-      "excerpt": "",
-      "date": "2026-06-30T16:02:40.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
+      "title": "A properties panel and annotations, now in Figma Make",
+      "link": "https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/",
+      "excerpt": "With visual editing and annotations, Figma Make is bridging the gap between design and code. Select any element you want to change, adjust it directly in the…",
+      "date": "2026-07-30T19:25:32.996Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "研究",
-        "模型"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "",
+      "category": "ai-ux",
+      "tldr": "With visual editing and annotations, Figma Make is bridging the gap between design and code. Select any element you want to change, adjust it directly in the…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -841,20 +879,134 @@
       "enriched": false
     },
     {
-      "title": "Issue no.17: Build with joy",
-      "link": "https://www.figma.com/blog/build-with-joy/",
-      "excerpt": "The way we make things is changing, but why we make them stays constant—the thrill of seeing a vision come to life.",
-      "date": "2026-07-02T23:05:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
+      "title": "From drift to dynamism: Reinventing Japan to compete in a new era",
+      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era",
+      "excerpt": "Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory.",
+      "date": "2026-07-31T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
       "tags": [
-        "设计",
-        "工具",
-        "产品"
+        "战略",
+        "管理",
+        "AI"
       ],
-      "category": "ai-ux",
-      "tldr": "The way we make things is changing, but why we make them stays constant—the thrill of seeing a vision come to life.",
+      "category": "ai-management",
+      "tldr": "Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How a Healthy Work Culture Help﻿s Trauma Survivors",
+      "link": "https://sloanreview.mit.edu/article/how-a-healthy-work-culture-helps-trauma-survivors/",
+      "excerpt": "Donna Grethen/Ikon Images Over the past few decades, there has been burgeoning interest in how leaders and organizations can support employees in the aftermath…",
+      "date": "2026-07-30T11:00:24.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Donna Grethen/Ikon Images Over the past few decades, there has been burgeoning interest in how leaders and organizations can support employees in the aftermath…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How utilities can rewire customer operations with agentic AI",
+      "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/how-utilities-can-rewire-customer-operations-with-agentic-ai",
+      "excerpt": "Faced with declining customer satisfaction, North American utilities are turning to agentic AI to transform the customer experience for the better while…",
+      "date": "2026-07-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Faced with declining customer satisfaction, North American utilities are turning to agentic AI to transform the customer experience for the better while…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "AI transformations: Views from AMD, Dell, Liquid AI, and Mercedes-Benz",
+      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz",
+      "excerpt": "Executives from AMD, Dell, Liquid AI, and Mercedes-Benz discuss how to structure processes with AI in mind and why enterprise-wide transformation is about…",
+      "date": "2026-07-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Executives from AMD, Dell, Liquid AI, and Mercedes-Benz discuss how to structure processes with AI in mind and why enterprise-wide transformation is about…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The new advantage in the age of AI: Building in the real world",
+      "link": "https://www.mckinsey.com/industries/real-estate/our-insights/the-new-advantage-in-the-age-of-ai-building-in-the-real-world",
+      "excerpt": "As AI accelerates the digital economy, the real constraint is physical: housing, power, and infrastructure. Laura Hines-Pierce, co-CEO of Hines, explains why…",
+      "date": "2026-07-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "As AI accelerates the digital economy, the real constraint is physical: housing, power, and infrastructure. Laura Hines-Pierce, co-CEO of Hines, explains why…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Author Talks: The daily practices that lead to exceptional performance",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-daily-practices-that-lead-to-exceptional-performance",
+      "excerpt": "What separates good from exceptional? Learning Leader Show host Ryan Hawk reveals why disciplined daily habits and purposeful ambition are the foundation of…",
+      "date": "2026-07-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "What separates good from exceptional? Learning Leader Show host Ryan Hawk reveals why disciplined daily habits and purposeful ambition are the foundation of…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The shift to 800-volt DC at data centers: Implications for providers",
+      "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-shift-to-800-volt-dc-at-data-centers-implications-for-providers",
+      "excerpt": "As AI increases energy demand, data centers are moving to higher voltage systems, creating new opportunities for electricity and component providers.",
+      "date": "2026-07-30T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As AI increases energy demand, data centers are moving to higher voltage systems, creating new opportunities for electricity and component providers.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -955,101 +1107,6 @@
       "enriched": false
     },
     {
-      "title": "Rewired takes: How AI is unlocking creativity and heralding the rise of the agent manager",
-      "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-how-ai-is-unlocking-creativity-and-heralding-the-rise-of-the-agent-manager",
-      "excerpt": "Companies are reassessing how they work, their team structures, and what it means to be a manager in this bracing new era.",
-      "date": "2026-07-27T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Companies are reassessing how they work, their team structures, and what it means to be a manager in this bracing new era.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Lessons in resilience, leadership, and trust: An interview with Kathy Roth-Douquet",
-      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/lessons-in-resilience-leadership-and-trust-an-interview-with-kathy-roth-douquet",
-      "excerpt": "The Blue Star Families’ CEO explains what the military family experience reveals about the meaning of service and the relationships that can strengthen…",
-      "date": "2026-07-27T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "The Blue Star Families’ CEO explains what the military family experience reveals about the meaning of service and the relationships that can strengthen…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Author Talks: Why founders misunderstand customer demand",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-founders-misunderstand-customer-demand",
-      "excerpt": "Why do so many promising products fail to gain traction? A McKinsey alumnus explains why conventional thinking leads founders astray—and shares a practical…",
-      "date": "2026-07-24T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Why do so many promising products fail to gain traction? A McKinsey alumnus explains why conventional thinking leads founders astray—and shares a practical…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How AI agents can help FP&A better steer the business",
-      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/how-ai-agents-can-help-fp-and-a-better-steer-the-business",
-      "excerpt": "AI makes continuous financial planning practical at scale. Organizations can identify risks sooner, evaluate trade-offs faster, and intervene before…",
-      "date": "2026-07-24T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "AI makes continuous financial planning practical at scale. Organizations can identify risks sooner, evaluate trade-offs faster, and intervene before…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How SOCAR transformed a fertilizer leader in Azerbaijan with industrial AI",
-      "link": "https://www.mckinsey.com/industries/chemicals/how-we-help-clients/how-socar-transformed-a-fertilizer-leader-in-azerbaijan-with-industrial-ai",
-      "excerpt": "Azerbaijan’s national energy company set out to digitalize one of its most strategic industrial assets. With bold leadership, deep workforce upskilling, and a…",
-      "date": "2026-07-24T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Azerbaijan’s national energy company set out to digitalize one of its most strategic industrial assets. With bold leadership, deep workforce upskilling, and a…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Robots Are Coming — but Not Everywhere",
       "link": "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/",
       "excerpt": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread…",
@@ -1064,25 +1121,6 @@
       ],
       "category": "design-director",
       "tldr": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How AI will reshape the economics of insurance: A CEO’s guide to strategy",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy",
-      "excerpt": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that…",
-      "date": "2026-07-23T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1216,25 +1254,6 @@
       ],
       "category": "ai-management",
       "tldr": "Chris Gash/theispot.com The Research The authors synthesized findings from four studies spanning short-story writing, circular-economy solutions, humor caption…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "GenAI Success Metrics: Look Beyond Reduced Workload",
-      "link": "https://sloanreview.mit.edu/article/genai-success-metrics-look-beyond-reduced-workload/",
-      "excerpt": "Matt Harrison Clough / Ikon Images The Research The authors performed a four-year, fixed-window observational analysis of administrative work inside a large…",
-      "date": "2026-07-08T11:00:17.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Matt Harrison Clough / Ikon Images The Research The authors performed a four-year, fixed-window observational analysis of administrative work inside a large…",
       "insight": "",
       "suggestion": "",
       "enriched": false

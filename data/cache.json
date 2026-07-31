@@ -3001,5 +3001,89 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/": {
+    "category": "ai-workflow",
+    "tldr": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
+    "category": "ai-workflow",
+    "tldr": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/avatarin": {
+    "category": "ai-agent",
+    "tldr": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/": {
+    "category": "ai-ux",
+    "tldr": "With visual editing and annotations, Figma Make is bridging the gap between design and code. Select any element you want to change, adjust it directly in the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era": {
+    "category": "ai-management",
+    "tldr": "Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/how-a-healthy-work-culture-helps-trauma-survivors/": {
+    "category": "ai-management",
+    "tldr": "Donna Grethen/Ikon Images Over the past few decades, there has been burgeoning interest in how leaders and organizations can support employees in the aftermath…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/how-utilities-can-rewire-customer-operations-with-agentic-ai": {
+    "category": "ai-management",
+    "tldr": "Faced with declining customer satisfaction, North American utilities are turning to agentic AI to transform the customer experience for the better while…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz": {
+    "category": "design-director",
+    "tldr": "Executives from AMD, Dell, Liquid AI, and Mercedes-Benz discuss how to structure processes with AI in mind and why enterprise-wide transformation is about…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/real-estate/our-insights/the-new-advantage-in-the-age-of-ai-building-in-the-real-world": {
+    "category": "design-director",
+    "tldr": "As AI accelerates the digital economy, the real constraint is physical: housing, power, and infrastructure. Laura Hines-Pierce, co-CEO of Hines, explains why…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-daily-practices-that-lead-to-exceptional-performance": {
+    "category": "ai-management",
+    "tldr": "What separates good from exceptional? Learning Leader Show host Ryan Hawk reveals why disciplined daily habits and purposeful ambition are the foundation of…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/industrials/our-insights/the-shift-to-800-volt-dc-at-data-centers-implications-for-providers": {
+    "category": "ai-management",
+    "tldr": "As AI increases energy demand, data centers are moving to higher voltage systems, creating new opportunities for electricity and component providers.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
