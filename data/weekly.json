@@ -1,9 +1,85 @@
 {
-  "generated": "2026-07-31T05:24:10.061Z",
-  "cutoff": "2026-07-01T05:22:41.794Z",
-  "total": 66,
+  "generated": "2026-08-01T05:17:47.601Z",
+  "cutoff": "2026-07-02T05:16:28.634Z",
+  "total": 67,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Advancing responsible AI across Europe",
+      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "excerpt": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI…",
+      "date": "2026-07-31T15:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Building abundant intelligence",
+      "link": "https://openai.com/index/building-abundant-intelligence",
+      "excerpt": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "date": "2026-07-31T15:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Univé builds an AI-ready workforce",
+      "link": "https://openai.com/index/unive",
+      "excerpt": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform…",
+      "date": "2026-07-31T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Disrupting a Criminal Scam Operation",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "excerpt": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "date": "2026-07-31T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
@@ -176,44 +252,6 @@
       "enriched": false
     },
     {
-      "title": "How AI is expanding what people do at work",
-      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "excerpt": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "date": "2026-07-27T03:30:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Launching Health in ChatGPT",
-      "link": "https://openai.com/index/health-in-chatgpt",
-      "excerpt": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their…",
-      "date": "2026-07-23T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
       "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
       "excerpt": "Google commits $40M in AI tokens and credits for the Genesis Mission",
@@ -228,44 +266,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "excerpt": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "date": "2026-07-22T13:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "link": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "excerpt": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and…",
-      "date": "2026-07-22T13:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -513,6 +513,63 @@
       ],
       "category": "ai-cognition",
       "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "AI fluency isn't the finish line",
+      "link": "https://www.figma.com/blog/ai-fluency-isnt-the-finish-line/",
+      "excerpt": "More than 90% of product builders say AI skills are essential to their future success. But what if we’re focused on the wrong ones?",
+      "date": "2026-07-31T21:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "More than 90% of product builders say AI skills are essential to their future success. But what if we’re focused on the wrong ones?",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "No New Name Has Replaced “UX”",
+      "link": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented.",
+      "date": "2026-07-31T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Why You Need Mentorship and How to Get It Right",
+      "link": "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Mentorship is an essential growth tool that offers substantial personal and career benefits, but only if you engage in it properly.",
+      "date": "2026-07-31T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Mentorship is an essential growth tool that offers substantial personal and career benefits, but only if you engage in it properly.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -841,44 +898,6 @@
       "enriched": false
     },
     {
-      "title": "Crafting AI Explanations for Every Role in Your Enterprise",
-      "link": "https://www.nngroup.com/articles/crafting-ai-explanations/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Different enterprise roles need different types of explanations for AI outputs.",
-      "date": "2026-07-03T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Different enterprise roles need different types of explanations for AI outputs.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "7 questions we had going into Config Leadership Collective",
-      "link": "https://www.figma.com/blog/7-questions-from-lc/",
-      "excerpt": "We showed up to Leadership Collective hoping to learn how leaders are guiding their teams through change, what expertise means now, and how they're keeping…",
-      "date": "2026-07-03T02:45:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "We showed up to Leadership Collective hoping to learn how leaders are guiding their teams through change, what expertise means now, and how they're keeping…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "From drift to dynamism: Reinventing Japan to compete in a new era",
       "link": "https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era",
       "excerpt": "Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory.",
@@ -893,6 +912,63 @@
       ],
       "category": "ai-management",
       "tldr": "Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Global Economics Intelligence executive summary, June 2026",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+      "excerpt": "Geopolitical uncertainty continues to drive energy price volatility, affecting growth, inflation, and sentiment. ECB raises rates by 25 basis points, while…",
+      "date": "2026-07-31T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Oil price increases impact production costs and household budgets, while growth loses momentum; nevertheless, the broader economy continues to expand, leaving…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Is the AI productivity story at a turning point?",
+      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/is-the-ai-productivity-story-at-a-turning-point",
+      "excerpt": "Stanford economist Erik Brynjolfsson reveals where we stand on the J-curve, how leaders can accelerate progress and create new value, and what gives him…",
+      "date": "2026-07-31T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Stanford economist Erik Brynjolfsson reveals where we stand on the J-curve, how leaders can accelerate progress and create new value, and what gives him…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Powering AI: How real is the risk of overbuilding?",
+      "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding",
+      "excerpt": "The power infrastructure being built for data centers in the United States is unlikely to become stranded—even if compute demand falls short of current…",
+      "date": "2026-07-31T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The power infrastructure being built for data centers in the United States is unlikely to become stranded—even if compute demand falls short of current…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1045,63 +1121,6 @@
       ],
       "category": "design-director",
       "tldr": "Archil Gachechiladze, Lion Finance and Bank of Georgia CEO, describes how focused execution and cultural change have driven the group’s strong financial…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Bayer’s Sai Jasti on driving productivity in R&D with data science and AI",
-      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/bayers-sai-jasti-on-driving-productivity-in-r-and-d-with-data-science-and-ai",
-      "excerpt": "Sai Jasti, Bayer’s senior vice president and head of data science and AI, on how the company is transforming its workflows and embedding AI in research and…",
-      "date": "2026-07-28T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Sai Jasti, Bayer’s senior vice president and head of data science and AI, on how the company is transforming its workflows and embedding AI in research and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Why AI will elevate instead of replace commercial teams",
-      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams",
-      "excerpt": "Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.",
-      "date": "2026-07-28T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The CEO’s critical role in building new businesses",
-      "link": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-ceos-critical-role-in-building-new-businesses",
-      "excerpt": "Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital…",
-      "date": "2026-07-28T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital…",
       "insight": "",
       "suggestion": "",
       "enriched": false

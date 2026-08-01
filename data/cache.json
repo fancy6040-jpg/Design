@@ -3085,5 +3085,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/advancing-responsible-ai-across-europe": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/building-abundant-intelligence": {
+    "category": "ai-cognition",
+    "tldr": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/unive": {
+    "category": "ai-cognition",
+    "tldr": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/ai-fluency-isnt-the-finish-line/": {
+    "category": "ai-ux",
+    "tldr": "More than 90% of product builders say AI skills are essential to their future success. But what if we’re focused on the wrong ones?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Mentorship is an essential growth tool that offers substantial personal and career benefits, but only if you engage in it properly.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/is-the-ai-productivity-story-at-a-turning-point": {
+    "category": "ai-management",
+    "tldr": "Stanford economist Erik Brynjolfsson reveals where we stand on the J-curve, how leaders can accelerate progress and create new value, and what gives him…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding": {
+    "category": "ai-management",
+    "tldr": "The power infrastructure being built for data centers in the United States is unlikely to become stranded—even if compute demand falls short of current…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
