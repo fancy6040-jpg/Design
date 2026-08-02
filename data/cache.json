@@ -3148,5 +3148,12 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/ten-advances-in-mathematics": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
