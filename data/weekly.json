@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-02T05:16:55.948Z",
-  "cutoff": "2026-07-03T05:15:11.919Z",
-  "total": 67,
+  "generated": "2026-08-03T05:30:44.056Z",
+  "cutoff": "2026-07-04T05:29:20.631Z",
+  "total": 65,
   "sources_attempted": 13,
   "items": [
     {
@@ -499,25 +499,6 @@
       "enriched": false
     },
     {
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "excerpt": "",
-      "date": "2026-07-03T14:25:43.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "AI fluency isn't the finish line",
       "link": "https://www.figma.com/blog/ai-fluency-isnt-the-finish-line/",
       "excerpt": "More than 90% of product builders say AI skills are essential to their future success. But what if we’re focused on the wrong ones?",
@@ -537,25 +518,6 @@
       "enriched": false
     },
     {
-      "title": "No New Name Has Replaced “UX”",
-      "link": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented.",
-      "date": "2026-07-31T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Why You Need Mentorship and How to Get It Right",
       "link": "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Mentorship is an essential growth tool that offers substantial personal and career benefits, but only if you engage in it properly.",
@@ -570,6 +532,25 @@
       ],
       "category": "ai-ux",
       "tldr": "Mentorship is an essential growth tool that offers substantial personal and career benefits, but only if you engage in it properly.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "No New Name Has Replaced “UX”",
+      "link": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented.",
+      "date": "2026-07-31T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -874,25 +855,6 @@
       ],
       "category": "ai-ux",
       "tldr": "With accurate first results and fast iterations, OpenAI’s GPT-5.6 gives your builds a strong start in Figma Make.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Stop Reporting UX Activity and Report Business Outcomes",
-      "link": "https://www.nngroup.com/articles/reporting-ux-business-outcomes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "UX teams should report business outcomes — not activity or UX metrics — to show impact on revenue, cost, risk, speed, retention, and to secure resources.",
-      "date": "2026-07-03T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "UX teams should report business outcomes — not activity or UX metrics — to show impact on revenue, cost, risk, speed, retention, and to secure resources.",
       "insight": "",
       "suggestion": "",
       "enriched": false
