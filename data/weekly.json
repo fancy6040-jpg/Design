@@ -1,9 +1,47 @@
 {
-  "generated": "2026-08-03T05:30:44.056Z",
-  "cutoff": "2026-07-04T05:29:20.631Z",
-  "total": 65,
+  "generated": "2026-08-04T04:54:08.397Z",
+  "cutoff": "2026-07-05T04:52:59.961Z",
+  "total": 66,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "excerpt": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "date": "2026-08-03T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "link": "https://openai.com/index/circles",
+      "excerpt": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "date": "2026-08-03T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
       "link": "https://openai.com/index/ten-advances-in-mathematics",
@@ -195,44 +233,6 @@
       "enriched": false
     },
     {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "excerpt": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "date": "2026-07-29T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "excerpt": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "date": "2026-07-29T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "excerpt": "",
@@ -285,6 +285,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "Ask Claude about the Anthropic Economic Index",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "A research agenda for the Economic Futures Research Fund",
+      "link": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "excerpt": "A research agenda for the Economic Futures Research Fund",
+      "date": "2026-07-22T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "A research agenda for the Economic Futures Research Fund",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -442,25 +461,6 @@
       "enriched": false
     },
     {
-      "title": "UST is bringing Claude to physical AI",
-      "link": "https://www.anthropic.com/news/ust-claude",
-      "excerpt": "UST is bringing Claude to physical AI",
-      "date": "2026-07-09T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "UST is bringing Claude to physical AI",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Inviting hard questions",
       "link": "https://www.anthropic.com/news/hard-questions",
       "excerpt": "Inviting hard questions",
@@ -494,6 +494,44 @@
       ],
       "category": "ai-cognition",
       "tldr": "The Making of Claude Code",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Code, craft, and the making of nested folders",
+      "link": "https://www.figma.com/blog/code-craft-and-the-making-of-nested-folders/",
+      "excerpt": "From treating code as a proposal to turning handoffs into conversations, here's how we shaped a new way of working to ship nested folders.",
+      "date": "2026-08-03T12:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "From treating code as a proposal to turning handoffs into conversations, here's how we shaped a new way of working to ship nested folders.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Job Opening: People & Culture Generalist (Remote, US Based)",
+      "link": "https://www.nngroup.com/news/item/people-culture-generalist-remote/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "NN/G is hiring a People & Culture Generalist. This is a fully remote, permanent role running the day-to-day of our People function. Three to five years of…",
+      "date": "2026-08-01T19:25:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "NN/G is hiring a People & Culture Generalist. This is a fully remote, permanent role running the day-to-day of our People function. Three to five years of…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -841,20 +879,39 @@
       "enriched": false
     },
     {
-      "title": "GPT-5.6 is now available in Figma Make",
-      "link": "https://www.figma.com/blog/gpt-5-6-is-now-available-in-figma-make/",
-      "excerpt": "With accurate first results and fast iterations, OpenAI’s GPT-5.6 gives your builds a strong start in Figma Make.",
-      "date": "2026-07-09T12:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
+      "title": "The Marketing Capability Paradox: Seven Forces Eroding Your Marketing Team’s Effectiveness",
+      "link": "https://sloanreview.mit.edu/article/the-marketing-capability-paradox-seven-forces-eroding-your-marketing-teams-effectiveness/",
+      "excerpt": "Alice Mollon/Ikon Images Marketing capabilities — the complex bundles of skills, processes, and organizational know-how that enable companies to implement…",
+      "date": "2026-08-03T11:00:54.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
       "tags": [
-        "设计",
-        "工具",
-        "产品"
+        "管理",
+        "AI",
+        "战略"
       ],
-      "category": "ai-ux",
-      "tldr": "With accurate first results and fast iterations, OpenAI’s GPT-5.6 gives your builds a strong start in Figma Make.",
+      "category": "ai-management",
+      "tldr": "Alice Mollon/Ikon Images Marketing capabilities — the complex bundles of skills, processes, and organizational know-how that enable companies to implement…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The McKinsey Crossword: GEoPolitics | No. 267",
+      "link": "https://www.mckinsey.com/featured-insights/the-mckinsey-crossword/august-2026",
+      "excerpt": "Sharpen your problem-solving skills with the McKinsey Quarterly crossword. Each puzzle is created with the McKinsey audience in mind and is built around a…",
+      "date": "2026-08-03T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Sharpen your problem-solving skills with the McKinsey Quarterly crossword. Each puzzle is created with the McKinsey audience in mind and is built around a…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1069,25 +1126,6 @@
       "enriched": false
     },
     {
-      "title": "Lion Finance: Competing like a fintech, winning as a bank",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/lion-finance-competing-like-a-fintech-winning-as-a-bank",
-      "excerpt": "Archil Gachechiladze, Lion Finance and Bank of Georgia CEO, describes how focused execution and cultural change have driven the group’s strong financial…",
-      "date": "2026-07-29T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Archil Gachechiladze, Lion Finance and Bank of Georgia CEO, describes how focused execution and cultural change have driven the group’s strong financial…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Robots Are Coming — but Not Everywhere",
       "link": "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/",
       "excerpt": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread…",
@@ -1216,25 +1254,6 @@
       ],
       "category": "ai-management",
       "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images To understand their customers and markets, a growing number of customer-oriented companies are using…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The Hidden Cost of AI-Assisted Creativity",
-      "link": "https://sloanreview.mit.edu/article/the-hidden-cost-of-ai-assisted-creativity/",
-      "excerpt": "Chris Gash/theispot.com The Research The authors synthesized findings from four studies spanning short-story writing, circular-economy solutions, humor caption…",
-      "date": "2026-07-09T11:00:06.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Chris Gash/theispot.com The Research The authors synthesized findings from four studies spanning short-story writing, circular-economy solutions, humor caption…",
       "insight": "",
       "suggestion": "",
       "enriched": false

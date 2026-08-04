@@ -3155,5 +3155,54 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/continuous-voice-interaction-with-gpt-live": {
+    "category": "ai-cognition",
+    "tldr": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/circles": {
+    "category": "ai-cognition",
+    "tldr": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/economic-futures-research-fund-agenda": {
+    "category": "ai-cognition",
+    "tldr": "A research agenda for the Economic Futures Research Fund",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/code-craft-and-the-making-of-nested-folders/": {
+    "category": "ai-ux",
+    "tldr": "From treating code as a proposal to turning handoffs into conversations, here's how we shaped a new way of working to ship nested folders.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/news/item/people-culture-generalist-remote/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "NN/G is hiring a People & Culture Generalist. This is a fully remote, permanent role running the day-to-day of our People function. Three to five years of…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/the-marketing-capability-paradox-seven-forces-eroding-your-marketing-teams-effectiveness/": {
+    "category": "ai-management",
+    "tldr": "Alice Mollon/Ikon Images Marketing capabilities — the complex bundles of skills, processes, and organizational know-how that enable companies to implement…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/the-mckinsey-crossword/august-2026": {
+    "category": "ai-management",
+    "tldr": "Sharpen your problem-solving skills with the McKinsey Quarterly crossword. Each puzzle is created with the McKinsey audience in mind and is built around a…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
