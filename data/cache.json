@@ -3204,5 +3204,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/learn-teach-chatgpt-work-codex": {
+    "category": "ai-cognition",
+    "tldr": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/apple-is-getting-this-wrong": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/claude-opus-5": {
+    "category": "ai-cognition",
+    "tldr": "Introducing Claude Opus 5",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/training/october-eu/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/the-elusiveness-of-merit-based-hiring/": {
+    "category": "ai-management",
+    "tldr": "Patrick George/Ikon Images Since early 2025, organizations seeking to curry favor with the current U.S. administration have disavowed earlier commitments to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/escaping-the-pilot-trap-building-hr-for-the-agentic-era": {
+    "category": "ai-management",
+    "tldr": "Organizations that create the most effective agentic HR functions don’t just scale pilots. They define the human–agent operating model for the function first,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/public-sector/our-insights/adapting-for-americas-next-chapter-an-interview-with-cq-brown": {
+    "category": "ai-management",
+    "tldr": "The former chairman of the Joint Chiefs of Staff describes the value of challenging the status quo, strengthening institutions, and inspiring the next…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-one-size-does-not-fit-all": {
+    "category": "ai-management",
+    "tldr": "From sneakers to crash test dummies, many everyday designs were developed based on the male body. Nike’s former global creative director explains why better…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
