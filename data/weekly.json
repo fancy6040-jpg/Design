@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T04:54:44.646Z",
-  "cutoff": "2026-07-06T04:53:25.127Z",
+  "generated": "2026-08-06T04:54:48.484Z",
+  "cutoff": "2026-07-07T04:53:40.934Z",
   "total": 65,
   "sources_attempted": 13,
   "items": [
@@ -480,6 +480,25 @@
       "enriched": false
     },
     {
+      "title": "Better code, fewer tokens: The benefits of Code Connect in MCP",
+      "link": "https://www.figma.com/blog/the-benefits-of-code-connect-in-mcp/",
+      "excerpt": "When going from design to code, agents lack the context of your production components. With Code Connect in Figma’s MCP, they get that context. We measured its…",
+      "date": "2026-08-05T18:16:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "When going from design to code, agents lack the context of your production components. With Code Connect in Figma’s MCP, they get that context. We measured its…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "UX Conference October Announced (Oct 26 - Oct 29)",
       "link": "https://www.nngroup.com/training/october-eu/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
@@ -841,20 +860,96 @@
       "enriched": false
     },
     {
-      "title": "How to keep design teams steady through constant change",
-      "link": "https://www.figma.com/blog/jen-dunnam-lead-design-teams/",
-      "excerpt": "Drawing on her time at Patreon and Shopify, design leader Jen Dunnam offers her advice for this new age of AI—from building a strong team to how to think about…",
-      "date": "2026-07-09T14:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
+      "title": "Stop Prompting AI. Start Directing It",
+      "link": "https://sloanreview.mit.edu/article/stop-prompting-ai-start-directing-it/",
+      "excerpt": "James Yang/theispot.com The Research The authors drew on two streams of research for this article. The first was a qualitative study of AI-assisted discovery…",
+      "date": "2026-08-05T11:00:54.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
       "tags": [
-        "设计",
-        "工具",
-        "产品"
+        "管理",
+        "AI",
+        "战略"
       ],
-      "category": "ai-ux",
-      "tldr": "Drawing on her time at Patreon and Shopify, design leader Jen Dunnam offers her advice for this new age of AI—from building a strong team to how to think about…",
+      "category": "ai-management",
+      "tldr": "James Yang/theispot.com The Research The authors drew on two streams of research for this article. The first was a qualitative study of AI-assisted discovery…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "In pursuit of progress: Americans’ aspirations for economic mobility",
+      "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/in-pursuit-of-progress-americans-aspirations-for-economic-mobility",
+      "excerpt": "As the United States celebrates 250 years, Americans share their aspirations for a better life, the barriers they face, and their priorities for expanding…",
+      "date": "2026-08-05T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As the United States celebrates 250 years, Americans share their aspirations for a better life, the barriers they face, and their priorities for expanding…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How do we reach universal prosperity by 2100?",
+      "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/how-do-we-reach-universal-prosperity-by-2100",
+      "excerpt": "Can you imagine even the poorest country in the world achieving the prosperity and quality of life of today’s Switzerland—by 2100?",
+      "date": "2026-08-05T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Can you imagine even the poorest country in the world achieving the prosperity and quality of life of today’s Switzerland—by 2100?",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "An architect of modern media, a literary champion, and a retail revolutionary",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-lives-and-legacies/2026-volume-4",
+      "excerpt": "Our latest obituaries also include the first American to scale Mount Everest, a frugal Fed chair, and a fashion cofounder tailor-made for her visionary role.",
+      "date": "2026-08-05T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Our latest obituaries also include the first American to scale Mount Everest, a frugal Fed chair, and a fashion cofounder tailor-made for her visionary role.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How AI is redefining category management in distribution",
+      "link": "https://www.mckinsey.com/industries/industrials/our-insights/how-ai-is-redefining-category-management-in-distribution",
+      "excerpt": "New AI-enabled tools have the potential to reshape how distributors price, source, negotiate, and manage assortments, with immediate financial and strategic…",
+      "date": "2026-08-05T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "New AI-enabled tools have the potential to reshape how distributors price, source, negotiate, and manage assortments, with immediate financial and strategic…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1012,44 +1107,6 @@
       "enriched": false
     },
     {
-      "title": "Powering AI: How real is the risk of overbuilding?",
-      "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding",
-      "excerpt": "The power infrastructure being built for data centers in the United States is unlikely to become stranded—even if compute demand falls short of current…",
-      "date": "2026-07-31T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The power infrastructure being built for data centers in the United States is unlikely to become stranded—even if compute demand falls short of current…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Global Economics Intelligence executive summary, June 2026",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
-      "excerpt": "Geopolitical uncertainty continues to drive energy price volatility, affecting growth, inflation, and sentiment. ECB raises rates by 25 basis points, while…",
-      "date": "2026-07-31T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Oil price increases impact production costs and household budgets, while growth loses momentum; nevertheless, the broader economy continues to expand, leaving…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How a Healthy Work Culture Help﻿s Trauma Survivors",
       "link": "https://sloanreview.mit.edu/article/how-a-healthy-work-culture-helps-trauma-survivors/",
       "excerpt": "Donna Grethen/Ikon Images Over the past few decades, there has been burgeoning interest in how leaders and organizations can support employees in the aftermath…",
@@ -1064,44 +1121,6 @@
       ],
       "category": "ai-management",
       "tldr": "Donna Grethen/Ikon Images Over the past few decades, there has been burgeoning interest in how leaders and organizations can support employees in the aftermath…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How utilities can rewire customer operations with agentic AI",
-      "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/how-utilities-can-rewire-customer-operations-with-agentic-ai",
-      "excerpt": "Faced with declining customer satisfaction, North American utilities are turning to agentic AI to transform the customer experience for the better while…",
-      "date": "2026-07-30T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Faced with declining customer satisfaction, North American utilities are turning to agentic AI to transform the customer experience for the better while…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "AI transformations: Views from AMD, Dell, Liquid AI, and Mercedes-Benz",
-      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz",
-      "excerpt": "Executives from AMD, Dell, Liquid AI, and Mercedes-Benz discuss how to structure processes with AI in mind and why enterprise-wide transformation is about…",
-      "date": "2026-07-30T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Executives from AMD, Dell, Liquid AI, and Mercedes-Benz discuss how to structure processes with AI in mind and why enterprise-wide transformation is about…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1216,25 +1235,6 @@
       ],
       "category": "design-director",
       "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images As multinational companies implement artificial intelligence workflows and look to adopt AI across their…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The Global Scaling Gap: Why Strategic Clarity Is Crucial in the Age of AI",
-      "link": "https://sloanreview.mit.edu/article/the-global-scaling-gap-why-strategic-clarity-is-crucial-in-the-age-of-ai/",
-      "excerpt": "Michael Glenwood Gibbs/theispot.com Digital platforms and generative AI have lowered the barriers to accessing global talent, capital, and knowledge for…",
-      "date": "2026-07-14T11:00:57.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Michael Glenwood Gibbs/theispot.com Digital platforms and generative AI have lowered the barriers to accessing global talent, capital, and knowledge for…",
       "insight": "",
       "suggestion": "",
       "enriched": false

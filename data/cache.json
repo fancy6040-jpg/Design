@@ -3267,5 +3267,47 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://www.figma.com/blog/the-benefits-of-code-connect-in-mcp/": {
+    "category": "ai-agent",
+    "tldr": "When going from design to code, agents lack the context of your production components. With Code Connect in Figma’s MCP, they get that context. We measured its…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/stop-prompting-ai-start-directing-it/": {
+    "category": "ai-management",
+    "tldr": "James Yang/theispot.com The Research The authors drew on two streams of research for this article. The first was a qualitative study of AI-assisted discovery…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/in-pursuit-of-progress-americans-aspirations-for-economic-mobility": {
+    "category": "ai-management",
+    "tldr": "As the United States celebrates 250 years, Americans share their aspirations for a better life, the barriers they face, and their priorities for expanding…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/how-do-we-reach-universal-prosperity-by-2100": {
+    "category": "ai-management",
+    "tldr": "Can you imagine even the poorest country in the world achieving the prosperity and quality of life of today’s Switzerland—by 2100?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/mckinsey-on-lives-and-legacies/2026-volume-4": {
+    "category": "ai-management",
+    "tldr": "Our latest obituaries also include the first American to scale Mount Everest, a frugal Fed chair, and a fashion cofounder tailor-made for her visionary role.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/industrials/our-insights/how-ai-is-redefining-category-management-in-distribution": {
+    "category": "ai-management",
+    "tldr": "New AI-enabled tools have the potential to reshape how distributors price, source, negotiate, and manage assortments, with immediate financial and strategic…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
