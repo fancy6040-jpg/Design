@@ -3358,5 +3358,54 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/hsp-gruppe": {
+    "category": "ai-cognition",
+    "tldr": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/cognizant-anthropic": {
+    "category": "ai-cognition",
+    "tldr": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap": {
+    "category": "ai-management",
+    "tldr": "At their core, AI transformations are a reinvention of how work gets done. This requires change leadership, not just change management.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/ai-fluency-the-next-foundation-of-us-economic-competitiveness": {
+    "category": "ai-management",
+    "tldr": "AI is advancing faster than organizations can adapt. Reaching the next productivity frontier will depend on workers across the economy acquiring the needed…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

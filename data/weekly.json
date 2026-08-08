@@ -1,9 +1,47 @@
 {
-  "generated": "2026-08-07T04:18:33.129Z",
-  "cutoff": "2026-07-08T04:17:16.972Z",
-  "total": 66,
+  "generated": "2026-08-08T03:16:44.676Z",
+  "cutoff": "2026-07-09T03:15:29.987Z",
+  "total": 65,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "excerpt": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "date": "2026-08-07T15:20:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "link": "https://openai.com/index/hsp-gruppe",
+      "excerpt": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "date": "2026-08-07T09:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
@@ -176,44 +214,6 @@
       "enriched": false
     },
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "link": "https://openai.com/index/ten-advances-in-mathematics",
-      "excerpt": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and…",
-      "date": "2026-08-01T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Advancing responsible AI across Europe",
-      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "excerpt": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI…",
-      "date": "2026-07-31T15:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
       "excerpt": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and…",
@@ -266,6 +266,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "link": "https://www.anthropic.com/news/cognizant-anthropic",
+      "excerpt": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "date": "2026-07-27T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -442,25 +461,6 @@
       "enriched": false
     },
     {
-      "title": "Introducing Claude for Teachers",
-      "link": "https://www.anthropic.com/news/claude-for-teachers",
-      "excerpt": "Introducing Claude for Teachers",
-      "date": "2026-07-14T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Introducing Claude for Teachers",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Empowering India’s next generation of innovators with ATL Saathi",
       "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
       "excerpt": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
@@ -480,20 +480,39 @@
       "enriched": false
     },
     {
-      "title": "Inviting hard questions",
-      "link": "https://www.anthropic.com/news/hard-questions",
-      "excerpt": "Inviting hard questions",
-      "date": "2026-07-09T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "Dogfooding vs. QA vs. User Research",
+      "link": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.",
+      "date": "2026-08-07T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "UX",
+        "设计",
+        "研究"
       ],
-      "category": "ai-cognition",
-      "tldr": "Inviting hard questions",
+      "category": "ai-ux",
+      "tldr": "Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How to Decide When an AI Tool Is Worth Keeping",
+      "link": "https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.",
+      "date": "2026-08-07T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -822,25 +841,6 @@
       "enriched": false
     },
     {
-      "title": "UX Conference October Announced (Oct 5 - Oct 16)",
-      "link": "https://www.nngroup.com/training/october/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
-      "date": "2026-07-15T06:59:07.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How Decagon uses AI for design system saturation",
       "link": "https://www.figma.com/blog/how-decagon-uses-ai-for-design-system-saturation/",
       "excerpt": "The fast-growing customer experience platform explains how Figma MCP and Figma Make helped them scale a new design system and keep pace with customer requests.",
@@ -860,20 +860,39 @@
       "enriched": false
     },
     {
-      "title": "The 5 Qualities of Site-Specific AI Chatbots",
-      "link": "https://www.nngroup.com/articles/dimensions-of-ai-chatbots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Handoff willingness, flexibility, proactivity, emotional responsiveness, and transparency help you build trustworthy AI chatbots that guide users well.",
-      "date": "2026-07-10T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
+      "title": "How to close the agentic adoption gap",
+      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap",
+      "excerpt": "At their core, AI transformations are a reinvention of how work gets done. This requires change leadership, not just change management.",
+      "date": "2026-08-07T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
       "tags": [
-        "UX",
-        "设计",
-        "研究"
+        "战略",
+        "管理",
+        "AI"
       ],
-      "category": "ai-ux",
-      "tldr": "Handoff willingness, flexibility, proactivity, emotional responsiveness, and transparency help you build trustworthy AI chatbots that guide users well.",
+      "category": "ai-management",
+      "tldr": "At their core, AI transformations are a reinvention of how work gets done. This requires change leadership, not just change management.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "AI fluency: The next foundation of US economic competitiveness",
+      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/ai-fluency-the-next-foundation-of-us-economic-competitiveness",
+      "excerpt": "AI is advancing faster than organizations can adapt. Reaching the next productivity frontier will depend on workers across the economy acquiring the needed…",
+      "date": "2026-08-07T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "AI is advancing faster than organizations can adapt. Reaching the next productivity frontier will depend on workers across the economy acquiring the needed…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1064,44 +1083,6 @@
       ],
       "category": "ai-management",
       "tldr": "Organizations that create the most effective agentic HR functions don’t just scale pilots. They define the human–agent operating model for the function first,…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Adapting for America’s next chapter: An interview with CQ Brown",
-      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/adapting-for-americas-next-chapter-an-interview-with-cq-brown",
-      "excerpt": "The former chairman of the Joint Chiefs of Staff describes the value of challenging the status quo, strengthening institutions, and inspiring the next…",
-      "date": "2026-08-04T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The former chairman of the Joint Chiefs of Staff describes the value of challenging the status quo, strengthening institutions, and inspiring the next…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Author Talks: One size does not fit all",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-one-size-does-not-fit-all",
-      "excerpt": "From sneakers to crash test dummies, many everyday designs were developed based on the male body. Nike’s former global creative director explains why better…",
-      "date": "2026-08-04T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "From sneakers to crash test dummies, many everyday designs were developed based on the male body. Nike’s former global creative director explains why better…",
       "insight": "",
       "suggestion": "",
       "enriched": false
