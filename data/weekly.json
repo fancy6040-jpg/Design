@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T03:23:49.340Z",
-  "cutoff": "2026-07-10T03:23:13.595Z",
-  "total": 65,
+  "generated": "2026-08-10T03:43:18.924Z",
+  "cutoff": "2026-07-11T03:41:58.095Z",
+  "total": 64,
   "sources_attempted": 13,
   "items": [
     {
@@ -836,25 +836,6 @@
       ],
       "category": "ai-ux",
       "tldr": "The handoff from design to code doesn't have to be a one-way street. This workflow shows how a designer can connect a codebase to Figma Make, make the changes…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How Decagon uses AI for design system saturation",
-      "link": "https://www.figma.com/blog/how-decagon-uses-ai-for-design-system-saturation/",
-      "excerpt": "The fast-growing customer experience platform explains how Figma MCP and Figma Make helped them scale a new design system and keep pace with customer requests.",
-      "date": "2026-07-10T20:30:56.769Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-design-system",
-      "tldr": "The fast-growing customer experience platform explains how Figma MCP and Figma Make helped them scale a new design system and keep pace with customer requests.",
       "insight": "",
       "suggestion": "",
       "enriched": false
