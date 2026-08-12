@@ -1,9 +1,47 @@
 {
-  "generated": "2026-08-11T03:26:15.981Z",
-  "cutoff": "2026-07-12T03:25:01.431Z",
-  "total": 64,
+  "generated": "2026-08-12T03:54:50.348Z",
+  "cutoff": "2026-07-13T03:53:31.736Z",
+  "total": 65,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Testing ads in ChatGPT",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "excerpt": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "date": "2026-08-11T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Daybreak models are now available on AWS",
+      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "excerpt": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "date": "2026-08-11T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "What building an AI-native finance function taught me",
       "link": "https://openai.com/index/building-an-ai-native-finance-function",
@@ -152,44 +190,6 @@
       ],
       "category": "ai-management",
       "tldr": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "excerpt": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "date": "2026-08-07T15:20:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "link": "https://openai.com/index/hsp-gruppe",
-      "excerpt": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-      "date": "2026-08-07T09:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -475,6 +475,25 @@
       ],
       "category": "ai-workflow",
       "tldr": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Measuring time savings from Figma Make",
+      "link": "https://www.figma.com/blog/measuring-time-savings-from-figma-make/",
+      "excerpt": "The Figma Data Science team assumed that AI saves users time—but quantifying it required a new approach to research design.",
+      "date": "2026-08-11T19:59:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "The Figma Data Science team assumed that AI saves users time—but quantifying it required a new approach to research design.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -841,6 +860,82 @@
       "enriched": false
     },
     {
+      "title": "The untapped prize: Asia’s high-net-worth insurance market",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-untapped-prize-asias-high-net-worth-insurance-market",
+      "excerpt": "The competition for Asia’s high-net-worth-individual market is underway. Insurers are well-placed to address evolving customer needs.",
+      "date": "2026-08-12T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The competition for Asia’s high-net-worth-individual market is underway. Insurers are well-placed to address evolving customer needs.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How to End Things Well",
+      "link": "https://sloanreview.mit.edu/article/how-to-end-things-well/",
+      "excerpt": "Aad Goudappel/theispot.com Most leadership advice is written for beginnings — how to launch initiatives, build momentum, scale ideas, and manage new projects.…",
+      "date": "2026-08-11T11:00:17.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Aad Goudappel/theispot.com Most leadership advice is written for beginnings — how to launch initiatives, build momentum, scale ideas, and manage new projects.…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Agentic AI and the future of global business services",
+      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-and-the-future-of-global-business-services",
+      "excerpt": "Agentic AI is reshaping global business services, but realizing its potential will require leaders to rethink workflows, talent, and operating models.",
+      "date": "2026-08-11T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Agentic AI is reshaping global business services, but realizing its potential will require leaders to rethink workflows, talent, and operating models.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How AI-led commercial transformation can power industrial growth",
+      "link": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth",
+      "excerpt": "Industrial companies are entering the most consequential commercial reset in decades—and many are less prepared than they believe.",
+      "date": "2026-08-11T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Industrial companies are entering the most consequential commercial reset in decades—and many are less prepared than they believe.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "How to Avoid Innovation One-Hit Wonders",
       "link": "https://sloanreview.mit.edu/article/how-to-avoid-innovation-one-hit-wonders/",
       "excerpt": "Andy Carter/Ikon Images Innovation leaders often know how to manage success well. A fairly good idea is recognized, a strong contributor is rewarded, and the…",
@@ -1012,63 +1107,6 @@
       "enriched": false
     },
     {
-      "title": "In pursuit of progress: Americans’ aspirations for economic mobility",
-      "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/in-pursuit-of-progress-americans-aspirations-for-economic-mobility",
-      "excerpt": "As the United States celebrates 250 years, Americans share their aspirations for a better life, the barriers they face, and their priorities for expanding…",
-      "date": "2026-08-05T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "As the United States celebrates 250 years, Americans share their aspirations for a better life, the barriers they face, and their priorities for expanding…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How do we reach universal prosperity by 2100?",
-      "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/how-do-we-reach-universal-prosperity-by-2100",
-      "excerpt": "Can you imagine even the poorest country in the world achieving the prosperity and quality of life of today’s Switzerland—by 2100?",
-      "date": "2026-08-05T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Can you imagine even the poorest country in the world achieving the prosperity and quality of life of today’s Switzerland—by 2100?",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "An architect of modern media, a literary champion, and a retail revolutionary",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-lives-and-legacies/2026-volume-4",
-      "excerpt": "Our latest obituaries also include the first American to scale Mount Everest, a frugal Fed chair, and a fashion cofounder tailor-made for her visionary role.",
-      "date": "2026-08-05T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Our latest obituaries also include the first American to scale Mount Everest, a frugal Fed chair, and a fashion cofounder tailor-made for her visionary role.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The Elusiveness of Merit-Based Hiring",
       "link": "https://sloanreview.mit.edu/article/the-elusiveness-of-merit-based-hiring/",
       "excerpt": "Patrick George/Ikon Images Since early 2025, organizations seeking to curry favor with the current U.S. administration have disavowed earlier commitments to…",
@@ -1197,25 +1235,6 @@
       ],
       "category": "ai-management",
       "tldr": "Erik Brynjolfsson has a challenge for anyone worried about artificial intelligence: Stop asking what AI will do to us, and start asking what we will do with…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How Leaders Unlock Innovation on the Front Lines",
-      "link": "https://sloanreview.mit.edu/article/how-leaders-unlock-innovation-on-the-front-lines/",
-      "excerpt": "PPaint/Ikon Images Balancing the daily grind of operations with the spark of innovation is one of the most persistent challenges managers face.1 Regulatory…",
-      "date": "2026-07-20T11:00:53.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "PPaint/Ikon Images Balancing the daily grind of operations with the spark of innovation is one of the most persistent challenges managers face.1 Regulatory…",
       "insight": "",
       "suggestion": "",
       "enriched": false

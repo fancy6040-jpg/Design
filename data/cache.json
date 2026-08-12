@@ -3484,5 +3484,54 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/testing-ads-in-chatgpt": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/daybreak-models-are-now-available-on-aws": {
+    "category": "ai-workflow",
+    "tldr": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/measuring-time-savings-from-figma-make/": {
+    "category": "ai-ux",
+    "tldr": "The Figma Data Science team assumed that AI saves users time—but quantifying it required a new approach to research design.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/the-untapped-prize-asias-high-net-worth-insurance-market": {
+    "category": "ai-management",
+    "tldr": "The competition for Asia’s high-net-worth-individual market is underway. Insurers are well-placed to address evolving customer needs.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/how-to-end-things-well/": {
+    "category": "ai-management",
+    "tldr": "Aad Goudappel/theispot.com Most leadership advice is written for beginnings — how to launch initiatives, build momentum, scale ideas, and manage new projects.…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-and-the-future-of-global-business-services": {
+    "category": "ai-management",
+    "tldr": "Agentic AI is reshaping global business services, but realizing its potential will require leaders to rethink workflows, talent, and operating models.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/transformation/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth": {
+    "category": "ai-management",
+    "tldr": "Industrial companies are entering the most consequential commercial reset in decades—and many are less prepared than they believe.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
