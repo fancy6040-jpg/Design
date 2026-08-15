@@ -3659,5 +3659,33 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://www.anthropic.com/news/position-open-weights-models": {
+    "category": "ai-cognition",
+    "tldr": "Our position on open-weights models",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/eval-ai-output/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "One output cannot establish how well an AI system performs. Evaluate with multiple representative inputs, repeated runs, and confidence intervals.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/psychological-ownership/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Psychological ownership can make you more effective, but you’ll struggle if it attaches to things you can’t control. Spot misplaced ownership and redirect it.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/how-to-move-fast-toward-the-right-thing/": {
+    "category": "ai-ux",
+    "tldr": "With AI, speed comes easy, but so does tech debt. That’s why the best teams don’t just ship something fast; they consider it carefully, build it efficiently,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

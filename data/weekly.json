@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-14T03:54:46.468Z",
-  "cutoff": "2026-07-15T03:53:25.976Z",
+  "generated": "2026-08-15T02:43:46.092Z",
+  "cutoff": "2026-07-16T02:42:43.240Z",
   "total": 66,
   "sources_attempted": 13,
   "items": [
@@ -328,6 +328,25 @@
       "enriched": false
     },
     {
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "excerpt": "Our position on open-weights models",
+      "date": "2026-07-27T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Our position on open-weights models",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Introducing Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "excerpt": "Introducing Claude Opus 5",
@@ -442,25 +461,6 @@
       "enriched": false
     },
     {
-      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
-      "link": "https://www.anthropic.com/news/rare-disease-research-grants",
-      "excerpt": "Apply for Anthropic’s AI for Science rare disease research grants",
-      "date": "2026-07-20T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Apply for Anthropic’s AI for Science rare disease research grants",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Introducing Gemini 3.5 Flash Cyber",
       "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
       "excerpt": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
@@ -494,6 +494,63 @@
       ],
       "category": "ai-cognition",
       "tldr": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "One AI Output Is an Example, Not an Evaluation",
+      "link": "https://www.nngroup.com/articles/eval-ai-output/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "One output cannot establish how well an AI system performs. Evaluate with multiple representative inputs, repeated runs, and confidence intervals.",
+      "date": "2026-08-14T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "One output cannot establish how well an AI system performs. Evaluate with multiple representative inputs, repeated runs, and confidence intervals.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Psychological Ownership: Own the Right Things",
+      "link": "https://www.nngroup.com/articles/psychological-ownership/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Psychological ownership can make you more effective, but you’ll struggle if it attaches to things you can’t control. Spot misplaced ownership and redirect it.",
+      "date": "2026-08-14T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Psychological ownership can make you more effective, but you’ll struggle if it attaches to things you can’t control. Spot misplaced ownership and redirect it.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How to move fast toward the right thing",
+      "link": "https://www.figma.com/blog/how-to-move-fast-toward-the-right-thing/",
+      "excerpt": "With AI, speed comes easy, but so does tech debt. That’s why the best teams don’t just ship something fast; they consider it carefully, build it efficiently,…",
+      "date": "2026-08-13T20:30:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "With AI, speed comes easy, but so does tech debt. That’s why the best teams don’t just ship something fast; they consider it carefully, build it efficiently,…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -822,63 +879,6 @@
       "enriched": false
     },
     {
-      "title": "Does Your Form Really Need a Dropdown List?",
-      "link": "https://www.nngroup.com/articles/dropdown-list/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Dropdown lists can be used in narrow, specific scenarios, but misuse can cause more harm than alternatives.",
-      "date": "2026-07-17T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Dropdown lists can be used in narrow, specific scenarios, but misuse can cause more harm than alternatives.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Don’t Outsource the Learning: Why Human-Led Research Still Matters in the Age of AI",
-      "link": "https://www.nngroup.com/articles/human-led-research-still-matters/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Even if AI matches researcher-output quality, human-led research will remain essential — the team learning from observing users can't be outsourced.",
-      "date": "2026-07-17T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Even if AI matches researcher-output quality, human-led research will remain essential — the team learning from observing users can't be outsourced.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Sightlines issue no.1: Insights from Config",
-      "link": "https://www.figma.com/blog/sightlines-issue-no1/",
-      "excerpt": "The conversations we’re still replaying from Config’s Leadership Collective.",
-      "date": "2026-07-16T16:37:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "The conversations we’re still replaying from Config’s Leadership Collective.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Why Water Management Is a Strategic Concern",
       "link": "https://sloanreview.mit.edu/article/why-water-management-is-a-strategic-concern/",
       "excerpt": "Dante Terzigni/theispot.com We live on a blue planet where water appears to be plentiful. But there are strong warning signs indicating that our reliance on…",
@@ -936,25 +936,6 @@
       "enriched": false
     },
     {
-      "title": "Putting innovation—and patients—in focus: A conversation with Astellas Pharma CEO Naoki Okamura",
-      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/putting-innovation-and-patients-in-focus-a-conversation-with-astellas-pharma-ceo-naoki-okamura",
-      "excerpt": "The Tokyo-based biopharmaceutical company is accelerating its pipeline by innovating at the intersection of biology, modality, and disease.",
-      "date": "2026-08-13T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "The Tokyo-based biopharmaceutical company is accelerating its pipeline by innovating at the intersection of biology, modality, and disease.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How instant payments are transforming the financial landscape",
       "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape",
       "excerpt": "Lessons from markets around the world can help commercial payments players keep pace with a rapidly evolving environment.",
@@ -969,6 +950,25 @@
       ],
       "category": "ai-management",
       "tldr": "Lessons from markets around the world can help commercial payments players keep pace with a rapidly evolving environment.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Putting innovation—and patients—in focus: A conversation with Astellas Pharma CEO Naoki Okamura",
+      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/putting-innovation-and-patients-in-focus-a-conversation-with-astellas-pharma-ceo-naoki-okamura",
+      "excerpt": "The Tokyo-based biopharmaceutical company is accelerating its pipeline by innovating at the intersection of biology, modality, and disease.",
+      "date": "2026-08-13T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "The Tokyo-based biopharmaceutical company is accelerating its pipeline by innovating at the intersection of biology, modality, and disease.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -993,25 +993,6 @@
       "enriched": false
     },
     {
-      "title": "Joseph Tsai: Putting customers at the heart of innovation",
-      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/joseph-tsai-putting-customers-at-the-heart-of-innovation",
-      "excerpt": "Joseph Tsai has reshaped Cathay United Bank by balancing innovation with a long-term view that consistently focuses on the customer.",
-      "date": "2026-08-12T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Joseph Tsai has reshaped Cathay United Bank by balancing innovation with a long-term view that consistently focuses on the customer.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The untapped prize: Asia’s high-net-worth insurance market",
       "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-untapped-prize-asias-high-net-worth-insurance-market",
       "excerpt": "The competition for Asia’s high-net-worth-individual market is underway. Insurers are well-placed to address evolving customer needs.",
@@ -1031,9 +1012,28 @@
       "enriched": false
     },
     {
+      "title": "Joseph Tsai: Putting customers at the heart of innovation",
+      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/joseph-tsai-putting-customers-at-the-heart-of-innovation",
+      "excerpt": "Joseph Tsai has reshaped Cathay United Bank by balancing innovation with a long-term view that consistently focuses on the customer.",
+      "date": "2026-08-12T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Joseph Tsai has reshaped Cathay United Bank by balancing innovation with a long-term view that consistently focuses on the customer.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Improving private equity exit prospects",
       "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/improving-private-equity-exit-prospects",
-      "excerpt": "In today’s tougher exit environment, private equity firms are facing longer holding periods, valuation gaps, and increased pressure to return capital. Kai…",
+      "excerpt": "In today’s tougher exit environment, private equity firms are facing longer holding periods, valuation gaps, and increased pressure to return capital.",
       "date": "2026-08-12T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
