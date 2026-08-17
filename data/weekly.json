@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16T02:51:49.623Z",
-  "cutoff": "2026-07-17T02:50:44.484Z",
-  "total": 65,
+  "generated": "2026-08-17T02:52:08.686Z",
+  "cutoff": "2026-07-18T02:50:53.778Z",
+  "total": 64,
   "sources_attempted": 13,
   "items": [
     {
@@ -456,25 +456,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Anthropic is donating another $20 million to Public First Action",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing Gemini 3.5 Flash Cyber",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-      "excerpt": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-      "date": "2026-07-17T15:00:11.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -936,25 +917,6 @@
       "enriched": false
     },
     {
-      "title": "Brilliant Moves: Coffee with Suzano CEO Beto Abreu",
-      "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/brilliant-moves-coffee-with-suzano-ceo-beto-abreu",
-      "excerpt": "As both organizations begin their second century, Suzano’s Beto Abreu and McKinsey’s Tracy Francis discuss what it takes to lead for the next generation.",
-      "date": "2026-08-13T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "As both organizations begin their second century, Suzano’s Beto Abreu and McKinsey’s Tracy Francis discuss what it takes to lead for the next generation.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Putting innovation—and patients—in focus: A conversation with Astellas Pharma CEO Naoki Okamura",
       "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/putting-innovation-and-patients-in-focus-a-conversation-with-astellas-pharma-ceo-naoki-okamura",
       "excerpt": "The Tokyo-based biopharmaceutical company is accelerating its pipeline by innovating at the intersection of biology, modality, and disease.",
@@ -969,6 +931,25 @@
       ],
       "category": "design-director",
       "tldr": "The Tokyo-based biopharmaceutical company is accelerating its pipeline by innovating at the intersection of biology, modality, and disease.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Brilliant Moves: Coffee with Suzano CEO Beto Abreu",
+      "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/brilliant-moves-coffee-with-suzano-ceo-beto-abreu",
+      "excerpt": "As both organizations begin their second century, Suzano’s Beto Abreu and McKinsey’s Tracy Francis discuss what it takes to lead for the next generation.",
+      "date": "2026-08-13T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "As both organizations begin their second century, Suzano’s Beto Abreu and McKinsey’s Tracy Francis discuss what it takes to lead for the next generation.",
       "insight": "",
       "suggestion": "",
       "enriched": false
