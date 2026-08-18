@@ -3687,5 +3687,40 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/the-defenders-window": {
+    "category": "ai-management",
+    "tldr": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/openai-joins-ports-pike-project": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/the-power-of-opportunity-mindset-in-hiring/": {
+    "category": "ai-management",
+    "tldr": "Patrick George/Ikon Images Every organization, and every hiring manager, wants to know how to hire the best people. And every company wants to feel like it has…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/governing-ai-with-intention-in-the-social-impact-sector": {
+    "category": "ai-management",
+    "tldr": "As AI adoption grows, mission-driven organizations must weigh how to adopt new capabilities without sacrificing the trust central to every donor relationship,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
