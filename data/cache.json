@@ -3778,5 +3778,54 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/offering-zero-data-retention-for-frontier-models": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/replit": {
+    "category": "ai-cognition",
+    "tldr": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/chatgpt-ads-expands-across-europe": {
+    "category": "ai-cognition",
+    "tldr": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/the-five-inclusive-behaviors-board-chairs-overlook/": {
+    "category": "design-director",
+    "tldr": "Curt Merlo/theispot.com Many companies around the world have made significant progress in adding a higher proportion of board directors from traditionally…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/public-sector/our-insights/advancing-american-healthcare-an-interview-with-seema-verma": {
+    "category": "design-director",
+    "tldr": "A former CMS administrator and current Oracle Health and Life Sciences executive discusses leadership, public–private collaboration, and the promise of AI and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/some-hard-questions-about-a-world-of-plenty": {
+    "category": "ai-management",
+    "tldr": "Plenty may be possible—but what would it take to make it probable?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mhi/our-insights/michelle-williams-on-why-public-health-is-public-wealth": {
+    "category": "ai-management",
+    "tldr": "Michelle Williams, a leading voice in epidemiology and public health, advocates that society view the health of a population not as charity but as…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
