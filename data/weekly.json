@@ -1,9 +1,47 @@
 {
-  "generated": "2026-08-20T02:48:21.614Z",
-  "cutoff": "2026-07-21T02:46:53.461Z",
-  "total": 63,
+  "generated": "2026-08-21T02:54:39.682Z",
+  "cutoff": "2026-07-22T02:53:21.607Z",
+  "total": 60,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Introducing AI Futures",
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "excerpt": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "date": "2026-08-20T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "link": "https://openai.com/index/stampli",
+      "excerpt": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "date": "2026-08-20T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Offering Zero Data Retention for frontier models",
       "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
@@ -138,25 +176,6 @@
       "enriched": false
     },
     {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "link": "https://openai.com/index/asana",
-      "excerpt": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-      "date": "2026-08-18T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
       "link": "https://openai.com/index/nvidia/chatgpt-work",
       "excerpt": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
@@ -171,25 +190,6 @@
       ],
       "category": "ai-management",
       "tldr": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The Defender’s Window",
-      "link": "https://openai.com/index/the-defenders-window",
-      "excerpt": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "date": "2026-08-17T05:30:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -385,58 +385,20 @@
       "enriched": false
     },
     {
-      "title": "Ask Claude about the Anthropic Economic Index",
-      "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "excerpt": "Ask Claude about the Anthropic Economic Index",
-      "date": "2026-07-22T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "Sightlines issue no.2: What leaders need to know about building agents",
+      "link": "https://www.figma.com/blog/sightlines-issue-no2/",
+      "excerpt": "Agentic products pose a unique set of design challenges. How do you build a tool that’s powerful and knowledgeable enough to be a true partner, while keeping…",
+      "date": "2026-08-20T19:36:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "Ask Claude about the Anthropic Economic Index",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "A research agenda for the Economic Futures Research Fund",
-      "link": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-      "excerpt": "A research agenda for the Economic Futures Research Fund",
-      "date": "2026-07-22T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "A research agenda for the Economic Futures Research Fund",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "excerpt": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-      "date": "2026-07-21T15:16:30.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "category": "ai-agent",
+      "tldr": "Agentic products pose a unique set of design challenges. How do you build a tool that’s powerful and knowledgeable enough to be a true partner, while keeping…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -537,25 +499,6 @@
       "enriched": false
     },
     {
-      "title": "How to Decide When an AI Tool Is Worth Keeping",
-      "link": "https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.",
-      "date": "2026-08-07T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Dogfooding vs. QA vs. User Research",
       "link": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.",
@@ -570,6 +513,25 @@
       ],
       "category": "ai-ux",
       "tldr": "Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How to Decide When an AI Tool Is Worth Keeping",
+      "link": "https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.",
+      "date": "2026-08-07T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -803,20 +765,39 @@
       "enriched": false
     },
     {
-      "title": "How Figma stays ahead of vulnerabilities with agents",
-      "link": "https://www.figma.com/blog/how-figma-stays-ahead-of-vulnerabilities-with-agents/",
-      "excerpt": "For the past year, agents at Figma have guarded code as it's written, reviewed every pull request, and audited a decade-old monorepo, all on one policy.",
-      "date": "2026-07-23T21:23:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
+      "title": "Algorithms Trap Us in the Familiar. Can They Also Spark Breakthroughs?",
+      "link": "https://sloanreview.mit.edu/article/algorithms-trap-us-in-the-familiar-can-they-also-spark-breakthroughs/",
+      "excerpt": "Gary Waters/Ikon Images Algorithmic tools promise to democratize access to knowledge and thus spark creativity and innovation, but research we conducted…",
+      "date": "2026-08-20T11:00:25.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
       "tags": [
-        "设计",
-        "工具",
-        "产品"
+        "管理",
+        "AI",
+        "战略"
       ],
-      "category": "ai-agent",
-      "tldr": "For the past year, agents at Figma have guarded code as it's written, reviewed every pull request, and audited a decade-old monorepo, all on one policy.",
+      "category": "ai-management",
+      "tldr": "Gary Waters/Ikon Images Algorithmic tools promise to democratize access to knowledge and thus spark creativity and innovation, but research we conducted…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Earning and sustaining trust in the age of AI",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai",
+      "excerpt": "Invesco President and CEO Andrew Schlossberg argues that AI should be part of a firm’s strategy, not on the sidelines, and that trust, once lost, is hard to…",
+      "date": "2026-08-20T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Invesco President and CEO Andrew Schlossberg argues that AI should be part of a firm’s strategy, not on the sidelines, and that trust, once lost, is hard to…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1069,25 +1050,6 @@
       "enriched": false
     },
     {
-      "title": "How instant payments are transforming the financial landscape",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape",
-      "excerpt": "Lessons from markets around the world can help commercial payments players keep pace with a rapidly evolving environment.",
-      "date": "2026-08-13T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Lessons from markets around the world can help commercial payments players keep pace with a rapidly evolving environment.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How to End Things Well",
       "link": "https://sloanreview.mit.edu/article/how-to-end-things-well/",
       "excerpt": "Aad Goudappel/theispot.com Most leadership advice is written for beginnings — how to launch initiatives, build momentum, scale ideas, and manage new projects.…",
@@ -1178,25 +1140,6 @@
       ],
       "category": "ai-management",
       "tldr": "Alice Mollon/Ikon Images Marketing capabilities — the complex bundles of skills, processes, and organizational know-how that enable companies to implement…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How a Healthy Work Culture Help﻿s Trauma Survivors",
-      "link": "https://sloanreview.mit.edu/article/how-a-healthy-work-culture-helps-trauma-survivors/",
-      "excerpt": "Donna Grethen/Ikon Images Over the past few decades, there has been burgeoning interest in how leaders and organizations can support employees in the aftermath…",
-      "date": "2026-07-30T11:00:24.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Donna Grethen/Ikon Images Over the past few decades, there has been burgeoning interest in how leaders and organizations can support employees in the aftermath…",
       "insight": "",
       "suggestion": "",
       "enriched": false
