@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-22T02:46:06.858Z",
-  "cutoff": "2026-07-23T02:44:41.445Z",
-  "total": 60,
+  "generated": "2026-08-23T02:54:03.897Z",
+  "cutoff": "2026-07-24T02:52:58.341Z",
+  "total": 59,
   "sources_attempted": 13,
   "items": [
     {
@@ -361,25 +361,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Our position on open-weights models",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing Claude Opus 5",
-      "link": "https://www.anthropic.com/news/claude-opus-5",
-      "excerpt": "Introducing Claude Opus 5",
-      "date": "2026-07-24T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Introducing Claude Opus 5",
       "insight": "",
       "suggestion": "",
       "enriched": false
