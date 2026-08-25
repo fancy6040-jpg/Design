@@ -3890,5 +3890,47 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/gpt-5-6-in-kiro": {
+    "category": "ai-cognition",
+    "tldr": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/tino-cuellar": {
+    "category": "ai-cognition",
+    "tldr": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals": {
+    "category": "ai-cognition",
+    "tldr": "Investigating three real-world incidents in our cybersecurity evaluations",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/training/november/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Courses focused on long-lasting skills for UX…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/develop-your-teams-social-capital-not-just-their-skills/": {
+    "category": "design-director",
+    "tldr": "Leigh Wells/Ikon Images Leaders may prioritize executing strategy and driving organizational performance, but they are also responsible for developing the next…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/quantumblack/our-insights/where-ai-agents-pay-off-a-practical-guide-to-the-economics-of-agentic-workflows": {
+    "category": "ai-management",
+    "tldr": "Early experience implementing agentic workflows highlights emerging trade-offs that frontline leaders need to understand.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

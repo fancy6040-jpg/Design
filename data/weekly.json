@@ -1,9 +1,28 @@
 {
-  "generated": "2026-08-24T02:55:10.075Z",
-  "cutoff": "2026-07-25T02:53:43.540Z",
-  "total": 59,
+  "generated": "2026-08-25T02:50:39.438Z",
+  "cutoff": "2026-07-26T02:49:08.535Z",
+  "total": 61,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "link": "https://openai.com/index/gpt-5-6-in-kiro",
+      "excerpt": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "date": "2026-08-24T12:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
@@ -195,25 +214,6 @@
       "enriched": false
     },
     {
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "link": "https://openai.com/index/nvidia/chatgpt-work",
-      "excerpt": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-      "date": "2026-08-18T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Introducing Gemini 3.7 Flash",
       "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
       "excerpt": "",
@@ -271,6 +271,25 @@
       "enriched": false
     },
     {
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "link": "https://www.anthropic.com/news/tino-cuellar",
+      "excerpt": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "date": "2026-08-04T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
       "excerpt": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and…",
@@ -285,6 +304,25 @@
       ],
       "category": "ai-workflow",
       "tldr": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "excerpt": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "date": "2026-07-30T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Investigating three real-world incidents in our cybersecurity evaluations",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -361,6 +399,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "Our position on open-weights models",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "UX Conference November Announced (Nov 9 - Nov 13)",
+      "link": "https://www.nngroup.com/training/november/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Courses focused on long-lasting skills for UX…",
+      "date": "2026-08-24T06:48:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Courses focused on long-lasting skills for UX…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -518,25 +575,6 @@
       "enriched": false
     },
     {
-      "title": "Dogfooding vs. QA vs. User Research",
-      "link": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.",
-      "date": "2026-08-07T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How to Decide When an AI Tool Is Worth Keeping",
       "link": "https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.",
@@ -551,6 +589,25 @@
       ],
       "category": "ai-ux",
       "tldr": "Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Dogfooding vs. QA vs. User Research",
+      "link": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.",
+      "date": "2026-08-07T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -670,25 +727,6 @@
       "enriched": false
     },
     {
-      "title": "Why You Need Mentorship and How to Get It Right",
-      "link": "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Mentorship is an essential growth tool that offers substantial personal and career benefits, but only if you engage in it properly.",
-      "date": "2026-07-31T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Mentorship is an essential growth tool that offers substantial personal and career benefits, but only if you engage in it properly.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "A properties panel and annotations, now in Figma Make",
       "link": "https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/",
       "excerpt": "With visual editing and annotations, Figma Make is bridging the gap between design and code. Select any element you want to change, adjust it directly in the…",
@@ -741,6 +779,44 @@
       ],
       "category": "ai-ux",
       "tldr": "Here’s how Figma’s Brand Studio designed a conference that captured the very human ways we remix and reinvent when working with AI tools.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Develop Your Team’s Social Capital, Not Just Their Skills",
+      "link": "https://sloanreview.mit.edu/article/develop-your-teams-social-capital-not-just-their-skills/",
+      "excerpt": "Leigh Wells/Ikon Images Leaders may prioritize executing strategy and driving organizational performance, but they are also responsible for developing the next…",
+      "date": "2026-08-24T11:00:55.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "design-director",
+      "tldr": "Leigh Wells/Ikon Images Leaders may prioritize executing strategy and driving organizational performance, but they are also responsible for developing the next…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Where AI agents pay off: A practical guide to the economics of agentic workflows",
+      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/where-ai-agents-pay-off-a-practical-guide-to-the-economics-of-agentic-workflows",
+      "excerpt": "Early experience implementing agentic workflows highlights emerging trade-offs that frontline leaders need to understand.",
+      "date": "2026-08-24T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Early experience implementing agentic workflows highlights emerging trade-offs that frontline leaders need to understand.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1012,25 +1088,6 @@
       "enriched": false
     },
     {
-      "title": "How premium leisure travel is rewriting airline economics",
-      "link": "https://www.mckinsey.com/industries/travel/our-insights/how-premium-leisure-travel-is-rewriting-airline-economics",
-      "excerpt": "Business class isn’t just for corporate travelers anymore. Affluent vacationers are splurging on premium cabins—and becoming one of the biggest drivers of…",
-      "date": "2026-08-13T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Business class isn’t just for corporate travelers anymore. Affluent vacationers are splurging on premium cabins—and becoming one of the biggest drivers of…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How to End Things Well",
       "link": "https://sloanreview.mit.edu/article/how-to-end-things-well/",
       "excerpt": "Aad Goudappel/theispot.com Most leadership advice is written for beginnings — how to launch initiatives, build momentum, scale ideas, and manage new projects.…",
@@ -1102,25 +1159,6 @@
       ],
       "category": "ai-management",
       "tldr": "Patrick George/Ikon Images Since early 2025, organizations seeking to curry favor with the current U.S. administration have disavowed earlier commitments to…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The Marketing Capability Paradox: Seven Forces Eroding Your Marketing Team’s Effectiveness",
-      "link": "https://sloanreview.mit.edu/article/the-marketing-capability-paradox-seven-forces-eroding-your-marketing-teams-effectiveness/",
-      "excerpt": "Alice Mollon/Ikon Images Marketing capabilities — the complex bundles of skills, processes, and organizational know-how that enable companies to implement…",
-      "date": "2026-08-03T11:00:54.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Alice Mollon/Ikon Images Marketing capabilities — the complex bundles of skills, processes, and organizational know-how that enable companies to implement…",
       "insight": "",
       "suggestion": "",
       "enriched": false
