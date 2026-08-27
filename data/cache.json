@@ -3995,5 +3995,89 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/expanding-our-presence-in-brazil": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/": {
+    "category": "ai-cognition",
+    "tldr": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
+    "category": "ai-workflow",
+    "tldr": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/learning-never-stops": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/loveholidays": {
+    "category": "ai-management",
+    "tldr": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/spot-new-tech-skills-emerging-from-the-workforce/": {
+    "category": "ai-management",
+    "tldr": "Matt Chinworth Across industries, companies are investing unprecedented sums in reskilling programs to prepare employees to use emerging technologies.1 The…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go": {
+    "category": "design-director",
+    "tldr": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/building-on-ais-unfinished-foundation/": {
+    "category": "ai-management",
+    "tldr": "Brian Stauffer/theispot.com By the ordinary measures of any new technology, the current wave of generative AI has moved fast. By some estimates, about 2.4…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future": {
+    "category": "ai-management",
+    "tldr": "As the current playbook reaches its limits, international payments is transitioning from a stand-alone product to a feature embedded in broader services. Here…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/your-ai-agents-need-performance-management-too": {
+    "category": "ai-management",
+    "tldr": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/industrials/our-insights/the-decision-dividend-how-ai-creates-economic-value": {
+    "category": "ai-management",
+    "tldr": "AI’s largest gains rarely come from labor savings alone. They come from faster decisions, better use of existing assets, and opportunities that would otherwise…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

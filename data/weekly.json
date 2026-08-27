@@ -1,9 +1,123 @@
 {
-  "generated": "2026-08-26T02:56:57.461Z",
-  "cutoff": "2026-07-27T02:55:30.272Z",
+  "generated": "2026-08-27T12:07:57.142Z",
+  "cutoff": "2026-07-28T12:06:42.807Z",
   "total": 60,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "excerpt": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "date": "2026-08-27T03:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "excerpt": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "date": "2026-08-26T17:01:00.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "excerpt": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "date": "2026-08-26T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
+      "excerpt": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "date": "2026-08-26T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "excerpt": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "date": "2026-08-26T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "link": "https://openai.com/index/loveholidays",
+      "excerpt": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "date": "2026-08-26T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-management",
+      "tldr": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "The full stack behind abundant intelligence",
       "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
@@ -114,101 +228,6 @@
       ],
       "category": "ai-workflow",
       "tldr": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing AI Futures",
-      "link": "https://openai.com/index/introducing-ai-futures",
-      "excerpt": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "date": "2026-08-20T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "link": "https://openai.com/index/stampli",
-      "excerpt": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "date": "2026-08-20T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Offering Zero Data Retention for frontier models",
-      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "excerpt": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "date": "2026-08-19T19:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "link": "https://openai.com/index/replit",
-      "excerpt": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "date": "2026-08-19T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "ChatGPT Ads expands across Europe",
-      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "excerpt": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "date": "2026-08-18T22:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -746,20 +765,115 @@
       "enriched": false
     },
     {
-      "title": "Digital tools, human expression: The visual identity behind Config 2026",
-      "link": "https://www.figma.com/blog/the-visual-identity-behind-config-2026/",
-      "excerpt": "Here’s how Figma’s Brand Studio designed a conference that captured the very human ways we remix and reinvent when working with AI tools.",
-      "date": "2026-07-27T16:30:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
+      "title": "Spot New Tech Skills Emerging From the Workforce",
+      "link": "https://sloanreview.mit.edu/article/spot-new-tech-skills-emerging-from-the-workforce/",
+      "excerpt": "Matt Chinworth Across industries, companies are investing unprecedented sums in reskilling programs to prepare employees to use emerging technologies.1 The…",
+      "date": "2026-08-27T11:00:10.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
       "tags": [
-        "设计",
-        "工具",
-        "产品"
+        "管理",
+        "AI",
+        "战略"
       ],
-      "category": "ai-ux",
-      "tldr": "Here’s how Figma’s Brand Studio designed a conference that captured the very human ways we remix and reinvent when working with AI tools.",
+      "category": "ai-management",
+      "tldr": "Matt Chinworth Across industries, companies are investing unprecedented sums in reskilling programs to prepare employees to use emerging technologies.1 The…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Pacsun’s Gen Z playbook: Listen, learn, and let go",
+      "link": "https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go",
+      "excerpt": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
+      "date": "2026-08-27T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Building on AI’s Unfinished Foundation",
+      "link": "https://sloanreview.mit.edu/article/building-on-ais-unfinished-foundation/",
+      "excerpt": "Brian Stauffer/theispot.com By the ordinary measures of any new technology, the current wave of generative AI has moved fast. By some estimates, about 2.4…",
+      "date": "2026-08-26T11:00:49.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Brian Stauffer/theispot.com By the ordinary measures of any new technology, the current wave of generative AI has moved fast. By some estimates, about 2.4…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Cross-border payments: Out of the commodity trap, into the future",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "excerpt": "As the current playbook reaches its limits, international payments is transitioning from a stand-alone product to a feature embedded in broader services. Here…",
+      "date": "2026-08-26T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As the current playbook reaches its limits, international payments is transitioning from a stand-alone product to a feature embedded in broader services. Here…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Your AI agents need performance management, too",
+      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/your-ai-agents-need-performance-management-too",
+      "excerpt": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive…",
+      "date": "2026-08-26T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The decision dividend: How AI creates economic value",
+      "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-decision-dividend-how-ai-creates-economic-value",
+      "excerpt": "AI’s largest gains rarely come from labor savings alone. They come from faster decisions, better use of existing assets, and opportunities that would otherwise…",
+      "date": "2026-08-26T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "AI’s largest gains rarely come from labor savings alone. They come from faster decisions, better use of existing assets, and opportunities that would otherwise…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -784,25 +898,6 @@
       "enriched": false
     },
     {
-      "title": "Global Economics Intelligence executive summary, July 2026",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
-      "excerpt": "With mixed economic signals and energy markets still vulnerable to disruption, central banks face an increasingly difficult balance between supporting growth…",
-      "date": "2026-08-25T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Oil price increases impact production costs and household budgets, while growth loses momentum; nevertheless, the broader economy continues to expand, leaving…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
       "link": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
       "excerpt": "AI could unlock $230 billion for oil and gas and OFSE companies. The challenge is where to concentrate, how to scale, and how to share value when efficiency…",
@@ -817,6 +912,25 @@
       ],
       "category": "ai-management",
       "tldr": "AI could unlock $230 billion for oil and gas and OFSE companies. The challenge is where to concentrate, how to scale, and how to share value when efficiency…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Global Economics Intelligence executive summary, July 2026",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+      "excerpt": "With mixed economic signals and energy markets still vulnerable to disruption, central banks face an increasingly difficult balance between supporting growth…",
+      "date": "2026-08-25T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Oil price increases impact production costs and household budgets, while growth loses momentum; nevertheless, the broader economy continues to expand, leaving…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -936,25 +1050,6 @@
       "enriched": false
     },
     {
-      "title": "Earning and sustaining trust in the age of AI",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai",
-      "excerpt": "Invesco President and CEO Andrew Schlossberg argues that AI should be part of a firm’s strategy, not on the sidelines, and that trust, once lost, is hard to…",
-      "date": "2026-08-20T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Invesco President and CEO Andrew Schlossberg argues that AI should be part of a firm’s strategy, not on the sidelines, and that trust, once lost, is hard to…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The Five Inclusive Behaviors Board Chairs Overlook",
       "link": "https://sloanreview.mit.edu/article/the-five-inclusive-behaviors-board-chairs-overlook/",
       "excerpt": "Curt Merlo/theispot.com Many companies around the world have made significant progress in adding a higher proportion of board directors from traditionally…",
@@ -969,63 +1064,6 @@
       ],
       "category": "design-director",
       "tldr": "Curt Merlo/theispot.com Many companies around the world have made significant progress in adding a higher proportion of board directors from traditionally…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Advancing American healthcare: An interview with Seema Verma",
-      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/advancing-american-healthcare-an-interview-with-seema-verma",
-      "excerpt": "A former CMS administrator and current Oracle Health and Life Sciences executive discusses leadership, public–private collaboration, and the promise of AI and…",
-      "date": "2026-08-19T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "A former CMS administrator and current Oracle Health and Life Sciences executive discusses leadership, public–private collaboration, and the promise of AI and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Some hard questions about a world of plenty",
-      "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/some-hard-questions-about-a-world-of-plenty",
-      "excerpt": "Plenty may be possible—but what would it take to make it probable?",
-      "date": "2026-08-19T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Plenty may be possible—but what would it take to make it probable?",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Michelle Williams on why public health is public wealth",
-      "link": "https://www.mckinsey.com/mhi/our-insights/michelle-williams-on-why-public-health-is-public-wealth",
-      "excerpt": "Michelle Williams, a leading voice in epidemiology and public health, advocates that society view the health of a population not as charity but as…",
-      "date": "2026-08-19T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Michelle Williams, a leading voice in epidemiology and public health, advocates that society view the health of a population not as charity but as…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1102,44 +1140,6 @@
       ],
       "category": "ai-management",
       "tldr": "Aad Goudappel/theispot.com Most leadership advice is written for beginnings — how to launch initiatives, build momentum, scale ideas, and manage new projects.…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How to Avoid Innovation One-Hit Wonders",
-      "link": "https://sloanreview.mit.edu/article/how-to-avoid-innovation-one-hit-wonders/",
-      "excerpt": "Andy Carter/Ikon Images Innovation leaders often know how to manage success well. A fairly good idea is recognized, a strong contributor is rewarded, and the…",
-      "date": "2026-08-10T11:00:41.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Andy Carter/Ikon Images Innovation leaders often know how to manage success well. A fairly good idea is recognized, a strong contributor is rewarded, and the…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Stop Prompting AI. Start Directing It",
-      "link": "https://sloanreview.mit.edu/article/stop-prompting-ai-start-directing-it/",
-      "excerpt": "James Yang/theispot.com The Research The authors drew on two streams of research for this article. The first was a qualitative study of AI-assisted discovery…",
-      "date": "2026-08-05T11:00:54.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "James Yang/theispot.com The Research The authors drew on two streams of research for this article. The first was a qualitative study of AI-assisted discovery…",
       "insight": "",
       "suggestion": "",
       "enriched": false
