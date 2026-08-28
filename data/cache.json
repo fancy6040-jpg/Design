@@ -4079,5 +4079,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
+    "category": "ai-ux",
+    "tldr": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/": {
+    "category": "ai-cognition",
+    "tldr": "Piloting the world's first double-blind AI evaluations",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
+    "category": "ai-cognition",
+    "tldr": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/wellbeing-research-grants": {
+    "category": "ai-cognition",
+    "tldr": "Funding better evaluations of AI’s impact on wellbeing",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/claude-text-watermark": {
+    "category": "ai-cognition",
+    "tldr": "How Claude’s text watermark works",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/workflow-lab-moving-between-design-and-code-with-agents/": {
+    "category": "ai-agent",
+    "tldr": "Coding agents are reshaping how developers build, but they’re only as good as the input they’re given. This workflow explores how context keeps code and canvas…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-state-of-the-us-consumer": {
+    "category": "ai-management",
+    "tldr": "Despite being wary about the economy, consumers plan to spend the same or more on holiday shopping as they did last year. Here’s the latest research from our…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/consumers-dont-trust-ai-advice-they-turn-to-it-anyway": {
+    "category": "ai-management",
+    "tldr": "Consumer behavior is more dynamic and unpredictable than ever. Our latest research highlights four converging trends redefining how consumers shop, what they…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
