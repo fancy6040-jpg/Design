@@ -4142,5 +4142,47 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
+    "category": "ai-cognition",
+    "tldr": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/measuring-the-impact-of-ai/": {
+    "category": "ai-ux",
+    "tldr": "In 2024, we kicked off a study to understand how AI would reshape design and product development. Now, AI is helping us run it.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/source-material-i-d-magazine-editor-in-chief-thom-bettridge/": {
+    "category": "ai-ux",
+    "tldr": "Thom Bettridge on which magazines have shaped his taste—and what design rule he breaks the most.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "AI can help you organize research you’ve already collected, but it can’t create research evidence about the specific, messy experience of real users.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "AI lets teams build faster than UX can evaluate. UX can adapt by building shared judgment, accelerating evaluation, and guiding AI-generated designs.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-new-management-playbook-for-ai-how-to-move-faster-and-create-more-value": {
+    "category": "ai-management",
+    "tldr": "Scale is where the value is. Enabling scale depends on how strong your foundations are.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

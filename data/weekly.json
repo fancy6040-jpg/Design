@@ -1,9 +1,28 @@
 {
-  "generated": "2026-08-28T13:30:31.224Z",
-  "cutoff": "2026-07-29T13:29:03.545Z",
-  "total": 64,
+  "generated": "2026-08-29T08:24:31.126Z",
+  "cutoff": "2026-07-30T08:23:12.436Z",
+  "total": 62,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "excerpt": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "date": "2026-08-28T06:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Supporting Thailand’s next generation of AI startups",
       "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
@@ -119,25 +138,6 @@
       "enriched": false
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "excerpt": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "date": "2026-08-26T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-workflow",
-      "tldr": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Learning never stops: How AI makes learning continuous",
       "link": "https://openai.com/index/learning-never-stops",
       "excerpt": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
@@ -152,6 +152,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "excerpt": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "date": "2026-08-26T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -228,25 +247,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "excerpt": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-      "date": "2026-08-25T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -423,39 +423,77 @@
       "enriched": false
     },
     {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "excerpt": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "date": "2026-07-30T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "How do you actually measure the impact of AI on design?",
+      "link": "https://www.figma.com/blog/measuring-the-impact-of-ai/",
+      "excerpt": "In 2024, we kicked off a study to understand how AI would reshape design and product development. Now, AI is helping us run it.",
+      "date": "2026-08-28T19:30:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "category": "ai-ux",
+      "tldr": "In 2024, we kicked off a study to understand how AI would reshape design and product development. Now, AI is helping us run it.",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "excerpt": "",
-      "date": "2026-07-29T16:02:10.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
+      "title": "Source material: i-D Magazine’s editor in chief is not afraid of visual chaos",
+      "link": "https://www.figma.com/blog/source-material-i-d-magazine-editor-in-chief-thom-bettridge/",
+      "excerpt": "Thom Bettridge on which magazines have shaped his taste—and what design rule he breaks the most.",
+      "date": "2026-08-28T19:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "研究",
-        "模型"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "",
+      "category": "ai-ux",
+      "tldr": "Thom Bettridge on which magazines have shaped his taste—and what design rule he breaks the most.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "AI Can't Replace Real Research in Empathy Mapping",
+      "link": "https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "AI can help you organize research you’ve already collected, but it can’t create research evidence about the specific, messy experience of real users.",
+      "date": "2026-08-28T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "AI can help you organize research you’ve already collected, but it can’t create research evidence about the specific, messy experience of real users.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The Custodial Era of UX: Cleaning Up After AI",
+      "link": "https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "AI lets teams build faster than UX can evaluate. UX can adapt by building shared judgment, accelerating evaluation, and guiding AI-generated designs.",
+      "date": "2026-08-28T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "AI lets teams build faster than UX can evaluate. UX can adapt by building shared judgment, accelerating evaluation, and guiding AI-generated designs.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -746,25 +784,6 @@
       "enriched": false
     },
     {
-      "title": "Job Opening: People & Culture Generalist (Remote, US Based)",
-      "link": "https://www.nngroup.com/news/item/people-culture-generalist-remote/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "NN/G is hiring a People & Culture Generalist. This is a fully remote, permanent role running the day-to-day of our People function. Three to five years of…",
-      "date": "2026-08-01T19:25:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "NN/G is hiring a People & Culture Generalist. This is a fully remote, permanent role running the day-to-day of our People function. Three to five years of…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "AI fluency isn't the finish line",
       "link": "https://www.figma.com/blog/ai-fluency-isnt-the-finish-line/",
       "excerpt": "More than 90% of product builders say AI skills are essential to their future success. But what if we’re focused on the wrong ones?",
@@ -784,58 +803,20 @@
       "enriched": false
     },
     {
-      "title": "No New Name Has Replaced “UX”",
-      "link": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented.",
-      "date": "2026-07-31T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
+      "title": "The new management playbook for AI: How to move faster and create more value",
+      "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-new-management-playbook-for-ai-how-to-move-faster-and-create-more-value",
+      "excerpt": "Scale is where the value is. Enabling scale depends on how strong your foundations are.",
+      "date": "2026-08-28T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
       "tags": [
-        "UX",
-        "设计",
-        "研究"
+        "战略",
+        "管理",
+        "AI"
       ],
-      "category": "ai-ux",
-      "tldr": "A survey of 604 tech and design professionals found that “UX” remains the default name for our field, while alternative names remain fragmented.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "A properties panel and annotations, now in Figma Make",
-      "link": "https://www.figma.com/blog/properties-panel-and-annotations-now-in-figma-make/",
-      "excerpt": "With visual editing and annotations, Figma Make is bridging the gap between design and code. Select any element you want to change, adjust it directly in the…",
-      "date": "2026-07-30T19:25:32.996Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "With visual editing and annotations, Figma Make is bridging the gap between design and code. Select any element you want to change, adjust it directly in the…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How we secure Figma’s internal systems with agents",
-      "link": "https://www.figma.com/blog/how-we-secure-figmas-internal-systems-with-agents/",
-      "excerpt": "Our security team built an AI agent that triages alerts, conducts forensic investigations, queries our security data lake, writes code to fix issues—and…",
-      "date": "2026-07-29T20:44:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Our security team built an AI agent that triages alerts, conducts forensic investigations, queries our security data lake, writes code to fix issues—and…",
+      "category": "ai-management",
+      "tldr": "Scale is where the value is. Enabling scale depends on how strong your foundations are.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -860,25 +841,6 @@
       "enriched": false
     },
     {
-      "title": "Pacsun’s Gen Z playbook: Listen, learn, and let go",
-      "link": "https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go",
-      "excerpt": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
-      "date": "2026-08-27T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "An update on US consumer sentiment: Holiday budgeting begins",
       "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-state-of-the-us-consumer",
       "excerpt": "Despite being wary about the economy, consumers plan to spend the same or more on holiday shopping as they did last year. Here’s the latest research from our…",
@@ -893,6 +855,25 @@
       ],
       "category": "ai-management",
       "tldr": "Despite being wary about the economy, consumers plan to spend the same or more on holiday shopping as they did last year. Here’s the latest research from our…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Pacsun’s Gen Z playbook: Listen, learn, and let go",
+      "link": "https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go",
+      "excerpt": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
+      "date": "2026-08-27T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -955,25 +936,6 @@
       "enriched": false
     },
     {
-      "title": "Your AI agents need performance management, too",
-      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/your-ai-agents-need-performance-management-too",
-      "excerpt": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive…",
-      "date": "2026-08-26T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The decision dividend: How AI creates economic value",
       "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-decision-dividend-how-ai-creates-economic-value",
       "excerpt": "AI’s largest gains rarely come from labor savings alone. They come from faster decisions, better use of existing assets, and opportunities that would otherwise…",
@@ -988,6 +950,25 @@
       ],
       "category": "ai-management",
       "tldr": "AI’s largest gains rarely come from labor savings alone. They come from faster decisions, better use of existing assets, and opportunities that would otherwise…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Your AI agents need performance management, too",
+      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/your-ai-agents-need-performance-management-too",
+      "excerpt": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive…",
+      "date": "2026-08-26T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1064,25 +1045,6 @@
       ],
       "category": "design-director",
       "tldr": "Oil price increases impact production costs and household budgets, while growth loses momentum; nevertheless, the broader economy continues to expand, leaving…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "McKinsey’s Fangning Zhang on China’s growing role in life sciences R&D",
-      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/mckinseys-fangning-zhang-on-chinas-growing-role-in-life-sciences-r-and-d",
-      "excerpt": "McKinsey Partner Fangning Zhang discusses what’s driving China’s acceleration in drug discovery, why intense competition is fueling speed and cost efficiency,…",
-      "date": "2026-08-25T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "McKinsey Partner Fangning Zhang discusses what’s driving China’s acceleration in drug discovery, why intense competition is fueling speed and cost efficiency,…",
       "insight": "",
       "suggestion": "",
       "enriched": false
