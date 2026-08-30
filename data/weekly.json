@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-29T08:24:31.126Z",
-  "cutoff": "2026-07-30T08:23:12.436Z",
-  "total": 62,
+  "generated": "2026-08-30T07:38:37.827Z",
+  "cutoff": "2026-07-31T07:37:14.889Z",
+  "total": 61,
   "sources_attempted": 13,
   "items": [
     {
@@ -399,25 +399,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "excerpt": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and…",
-      "date": "2026-07-30T15:00:59.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-workflow",
-      "tldr": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1031,9 +1012,9 @@
       "enriched": false
     },
     {
-      "title": "Global Economics Intelligence executive summary, July 2026",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
-      "excerpt": "With mixed economic signals and energy markets still vulnerable to disruption, central banks face an increasingly difficult balance between supporting growth…",
+      "title": "McKinsey’s Fangning Zhang on China’s growing role in life sciences R&D",
+      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/mckinseys-fangning-zhang-on-chinas-growing-role-in-life-sciences-r-and-d",
+      "excerpt": "McKinsey Partner Fangning Zhang discusses what’s driving China’s acceleration in drug discovery, why intense competition is fueling speed and cost efficiency,…",
       "date": "2026-08-25T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
@@ -1043,8 +1024,8 @@
         "管理",
         "AI"
       ],
-      "category": "design-director",
-      "tldr": "Oil price increases impact production costs and household budgets, while growth loses momentum; nevertheless, the broader economy continues to expand, leaving…",
+      "category": "ai-management",
+      "tldr": "McKinsey Partner Fangning Zhang discusses what’s driving China’s acceleration in drug discovery, why intense competition is fueling speed and cost efficiency,…",
       "insight": "",
       "suggestion": "",
       "enriched": false
