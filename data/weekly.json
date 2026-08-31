@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T07:38:37.827Z",
-  "cutoff": "2026-07-31T07:37:14.889Z",
-  "total": 61,
+  "generated": "2026-08-31T07:51:03.739Z",
+  "cutoff": "2026-08-01T07:49:43.290Z",
+  "total": 60,
   "sources_attempted": 13,
   "items": [
     {
@@ -760,25 +760,6 @@
       ],
       "category": "ai-ux",
       "tldr": "From treating code as a proposal to turning handoffs into conversations, here's how we shaped a new way of working to ship nested folders.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "AI fluency isn't the finish line",
-      "link": "https://www.figma.com/blog/ai-fluency-isnt-the-finish-line/",
-      "excerpt": "More than 90% of product builders say AI skills are essential to their future success. But what if we’re focused on the wrong ones?",
-      "date": "2026-07-31T21:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "More than 90% of product builders say AI skills are essential to their future success. But what if we’re focused on the wrong ones?",
       "insight": "",
       "suggestion": "",
       "enriched": false
