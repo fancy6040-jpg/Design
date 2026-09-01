@@ -1,9 +1,66 @@
 {
-  "generated": "2026-08-31T07:51:03.739Z",
-  "cutoff": "2026-08-01T07:49:43.290Z",
+  "generated": "2026-09-01T06:56:38.162Z",
+  "cutoff": "2026-08-02T06:55:25.382Z",
   "total": 60,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "excerpt": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "date": "2026-08-31T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "link": "https://openai.com/index/polimill",
+      "excerpt": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "date": "2026-08-31T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "excerpt": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "date": "2026-08-31T04:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
@@ -138,25 +195,6 @@
       "enriched": false
     },
     {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "link": "https://openai.com/index/learning-never-stops",
-      "excerpt": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "date": "2026-08-26T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "excerpt": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
@@ -176,6 +214,25 @@
       "enriched": false
     },
     {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
+      "excerpt": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "date": "2026-08-26T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The Hugging Face incident and the road ahead",
       "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
       "excerpt": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
@@ -190,63 +247,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "link": "https://openai.com/index/loveholidays",
-      "excerpt": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "date": "2026-08-26T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The full stack behind abundant intelligence",
-      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "excerpt": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and…",
-      "date": "2026-08-25T07:05:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "link": "https://openai.com/index/jalapeno-first-results",
-      "excerpt": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern…",
-      "date": "2026-08-25T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -765,9 +765,161 @@
       "enriched": false
     },
     {
+      "title": "Asia’s 75-point gap: Moving consumers from retirement angst to action",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/asias-75-point-gap-moving-consumers-from-retirement-angst-to-action",
+      "excerpt": "Asians are worried about retirement but largely underprepared for it. The retirement industry can close the gap between customers’ awareness and action by…",
+      "date": "2026-09-01T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Asians are worried about retirement but largely underprepared for it. The retirement industry can close the gap between customers’ awareness and action by…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Tying Purpose to Performance",
+      "link": "https://sloanreview.mit.edu/article/tying-purpose-to-performance/",
+      "excerpt": "Photo courtesy DHL John Pearson has been CEO of DHL Express and on the DHL Group board of management since 2019. He joined the global logistics and courier…",
+      "date": "2026-08-31T11:00:44.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "design-director",
+      "tldr": "Photo courtesy DHL John Pearson has been CEO of DHL Express and on the DHL Group board of management since 2019. He joined the global logistics and courier…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "A Compelling Story Can Disarm Even a Skeptical Negotiator",
+      "link": "https://sloanreview.mit.edu/article/a-compelling-story-can-disarm-even-a-skeptical-negotiator/",
+      "excerpt": "Ivan Diaz/Unsplash Human beings are not good at separating fact from fiction. But surely hard-nosed B2B professionals are different? Our research suggests…",
+      "date": "2026-08-31T11:00:41.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Ivan Diaz/Unsplash Human beings are not good at separating fact from fiction. But surely hard-nosed B2B professionals are different? Our research suggests…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Three Things to Know About Customer Resistance to AI",
+      "link": "https://sloanreview.mit.edu/article/three-things-to-know-about-customer-resistance-to-ai/",
+      "excerpt": "Microsoft Copilot/Unsplash Companies are betting that AI chatbots will deliver faster and cheaper customer service. But if you’ve ever tried to circumvent a…",
+      "date": "2026-08-31T11:00:06.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Microsoft Copilot/Unsplash Companies are betting that AI chatbots will deliver faster and cheaper customer service. But if you’ve ever tried to circumvent a…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Why Employees With Working-Class Roots Are Better at Getting Their Ideas Heard",
+      "link": "https://sloanreview.mit.edu/article/why-employees-with-working-class-roots-are-better-at-getting-their-ideas-heard/",
+      "excerpt": "Nimble Made/Unsplash Getting manager buy-in for a good idea is harder than it should be. Our research points to a communication style that reliably breaks…",
+      "date": "2026-08-31T11:00:02.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Nimble Made/Unsplash Getting manager buy-in for a good idea is harder than it should be. Our research points to a communication style that reliably breaks…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Revolutionizing semiconductor fab operations with AI",
+      "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/revolutionizing-semiconductor-fab-operations-with-ai",
+      "excerpt": "AI has the potential to improve build processes and operations within semiconductor fabs. Early adopters could see significant cost improvement and…",
+      "date": "2026-08-31T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "AI has the potential to improve build processes and operations within semiconductor fabs. Early adopters could see significant cost improvement and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Europe on the move: A conversation with Boerse Stuttgart Group’s CEO",
+      "link": "https://www.mckinsey.com/featured-insights/insights-on-europe/podcasts-and-videos/europe-on-the-move-a-conversation-with-boerse-stuttgart-groups-ceo",
+      "excerpt": "With 160 years of experience, Boerse Stuttgart Group is Europe's sixth-largest exchange group, helping position Europe for the future through digital,…",
+      "date": "2026-08-31T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "With 160 years of experience, Boerse Stuttgart Group is Europe's sixth-largest exchange group, helping position Europe for the future through digital,…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "AstraZeneca’s Bob Li on the MARS mission to eliminate cancer",
+      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/astrazenecas-bob-li-on-the-mars-mission-to-eliminate-cancer",
+      "excerpt": "Bob Li, AstraZeneca's Global Head of Medical Affairs, Oncology, on why only 7 percent of cancer patients get access to clinical trials, and what decentralized…",
+      "date": "2026-08-31T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Bob Li, AstraZeneca's Global Head of Medical Affairs, Oncology, on why only 7 percent of cancer patients get access to clinical trials, and what decentralized…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The new management playbook for AI: How to move faster and create more value",
       "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-new-management-playbook-for-ai-how-to-move-faster-and-create-more-value",
-      "excerpt": "Scale is where the value is. Enabling scale depends on how strong your foundations are.",
+      "excerpt": "There is a new management playbook emerging for how to run companies better in the age of AI.",
       "date": "2026-08-28T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
@@ -822,25 +974,6 @@
       "enriched": false
     },
     {
-      "title": "Pacsun’s Gen Z playbook: Listen, learn, and let go",
-      "link": "https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go",
-      "excerpt": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
-      "date": "2026-08-27T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Consumers don’t trust AI advice. They turn to it anyway.",
       "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/consumers-dont-trust-ai-advice-they-turn-to-it-anyway",
       "excerpt": "Consumer behavior is more dynamic and unpredictable than ever. Our latest research highlights four converging trends redefining how consumers shop, what they…",
@@ -855,6 +988,25 @@
       ],
       "category": "ai-management",
       "tldr": "Consumer behavior is more dynamic and unpredictable than ever. Our latest research highlights four converging trends redefining how consumers shop, what they…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Pacsun’s Gen Z playbook: Listen, learn, and let go",
+      "link": "https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go",
+      "excerpt": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
+      "date": "2026-08-27T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -898,25 +1050,6 @@
       "enriched": false
     },
     {
-      "title": "The decision dividend: How AI creates economic value",
-      "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-decision-dividend-how-ai-creates-economic-value",
-      "excerpt": "AI’s largest gains rarely come from labor savings alone. They come from faster decisions, better use of existing assets, and opportunities that would otherwise…",
-      "date": "2026-08-26T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "AI’s largest gains rarely come from labor savings alone. They come from faster decisions, better use of existing assets, and opportunities that would otherwise…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Your AI agents need performance management, too",
       "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/your-ai-agents-need-performance-management-too",
       "excerpt": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive…",
@@ -950,63 +1083,6 @@
       ],
       "category": "ai-management",
       "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Unsplash, Fotos After receiving some challenging feedback about my management style, I’ve done a lot of introspection,…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
-      "link": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
-      "excerpt": "AI could unlock $230 billion for oil and gas and OFSE companies. The challenge is where to concentrate, how to scale, and how to share value when efficiency…",
-      "date": "2026-08-25T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "AI could unlock $230 billion for oil and gas and OFSE companies. The challenge is where to concentrate, how to scale, and how to share value when efficiency…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The state of AI in 2026: On the road to ROI",
-      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
-      "excerpt": "Organizations are deploying agentic coding tools and coming to grips with the costs of AI while still seeking to capture more of the benefits that their…",
-      "date": "2026-08-25T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Organizations are deploying agentic coding tools and coming to grips with the costs of AI while still seeking to capture more of the benefits that their…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "McKinsey’s Fangning Zhang on China’s growing role in life sciences R&D",
-      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/mckinseys-fangning-zhang-on-chinas-growing-role-in-life-sciences-r-and-d",
-      "excerpt": "McKinsey Partner Fangning Zhang discusses what’s driving China’s acceleration in drug discovery, why intense competition is fueling speed and cost efficiency,…",
-      "date": "2026-08-25T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "McKinsey Partner Fangning Zhang discusses what’s driving China’s acceleration in drug discovery, why intense competition is fueling speed and cost efficiency,…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1064,82 +1140,6 @@
       ],
       "category": "design-director",
       "tldr": "Curt Merlo/theispot.com Many companies around the world have made significant progress in adding a higher proportion of board directors from traditionally…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "What Gets Your Best Employees to Stay",
-      "link": "https://sloanreview.mit.edu/article/what-gets-your-best-employees-to-stay/",
-      "excerpt": "Chris Gash/theispot.com A recent battle for AI talent illustrates how difficult it is for companies to retain key employees. In 2025, OpenAI’s stock-based…",
-      "date": "2026-08-18T11:00:26.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Chris Gash/theispot.com A recent battle for AI talent illustrates how difficult it is for companies to retain key employees. In 2025, OpenAI’s stock-based…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The Power of Opportunity Mindset in Hiring",
-      "link": "https://sloanreview.mit.edu/article/the-power-of-opportunity-mindset-in-hiring/",
-      "excerpt": "Patrick George/Ikon Images Every organization, and every hiring manager, wants to know how to hire the best people. And every company wants to feel like it has…",
-      "date": "2026-08-17T11:00:28.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Patrick George/Ikon Images Every organization, and every hiring manager, wants to know how to hire the best people. And every company wants to feel like it has…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Why Water Management Is a Strategic Concern",
-      "link": "https://sloanreview.mit.edu/article/why-water-management-is-a-strategic-concern/",
-      "excerpt": "Dante Terzigni/theispot.com We live on a blue planet where water appears to be plentiful. But there are strong warning signs indicating that our reliance on…",
-      "date": "2026-08-13T11:00:28.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Dante Terzigni/theispot.com We live on a blue planet where water appears to be plentiful. But there are strong warning signs indicating that our reliance on…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How to End Things Well",
-      "link": "https://sloanreview.mit.edu/article/how-to-end-things-well/",
-      "excerpt": "Aad Goudappel/theispot.com Most leadership advice is written for beginnings — how to launch initiatives, build momentum, scale ideas, and manage new projects.…",
-      "date": "2026-08-11T11:00:17.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Aad Goudappel/theispot.com Most leadership advice is written for beginnings — how to launch initiatives, build momentum, scale ideas, and manage new projects.…",
       "insight": "",
       "suggestion": "",
       "enriched": false

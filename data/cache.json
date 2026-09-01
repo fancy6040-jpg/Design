@@ -4184,5 +4184,82 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/polimill": {
+    "category": "ai-cognition",
+    "tldr": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": {
+    "category": "ai-cognition",
+    "tldr": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/asias-75-point-gap-moving-consumers-from-retirement-angst-to-action": {
+    "category": "ai-management",
+    "tldr": "Asians are worried about retirement but largely underprepared for it. The retirement industry can close the gap between customers’ awareness and action by…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/tying-purpose-to-performance/": {
+    "category": "design-director",
+    "tldr": "Photo courtesy DHL John Pearson has been CEO of DHL Express and on the DHL Group board of management since 2019. He joined the global logistics and courier…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/a-compelling-story-can-disarm-even-a-skeptical-negotiator/": {
+    "category": "ai-management",
+    "tldr": "Ivan Diaz/Unsplash Human beings are not good at separating fact from fiction. But surely hard-nosed B2B professionals are different? Our research suggests…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/three-things-to-know-about-customer-resistance-to-ai/": {
+    "category": "ai-management",
+    "tldr": "Microsoft Copilot/Unsplash Companies are betting that AI chatbots will deliver faster and cheaper customer service. But if you’ve ever tried to circumvent a…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/why-employees-with-working-class-roots-are-better-at-getting-their-ideas-heard/": {
+    "category": "ai-management",
+    "tldr": "Nimble Made/Unsplash Getting manager buy-in for a good idea is harder than it should be. Our research points to a communication style that reliably breaks…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/semiconductors/our-insights/revolutionizing-semiconductor-fab-operations-with-ai": {
+    "category": "ai-management",
+    "tldr": "AI has the potential to improve build processes and operations within semiconductor fabs. Early adopters could see significant cost improvement and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/insights-on-europe/podcasts-and-videos/europe-on-the-move-a-conversation-with-boerse-stuttgart-groups-ceo": {
+    "category": "design-director",
+    "tldr": "With 160 years of experience, Boerse Stuttgart Group is Europe's sixth-largest exchange group, helping position Europe for the future through digital,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/life-sciences/our-insights/astrazenecas-bob-li-on-the-mars-mission-to-eliminate-cancer": {
+    "category": "ai-management",
+    "tldr": "Bob Li, AstraZeneca's Global Head of Medical Affairs, Oncology, on why only 7 percent of cancer patients get access to clinical trials, and what decentralized…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
