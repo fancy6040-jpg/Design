@@ -4261,5 +4261,96 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://deepmind.google/blog/introducing-agentic-video-in-gemini/": {
+    "category": "ai-agent",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/ai-native-company-workflows": {
+    "category": "ai-agent",
+    "tldr": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/path-to-astra": {
+    "category": "ai-cognition",
+    "tldr": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
+    "category": "ai-ux",
+    "tldr": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/gilbert-tobin": {
+    "category": "ai-cognition",
+    "tldr": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/expanding-support-for-scientists": {
+    "category": "ai-cognition",
+    "tldr": "Expanding our support for scientists",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/model-hardware-standard-research-preview": {
+    "category": "ai-cognition",
+    "tldr": "Previewing the Model Hardware Standard",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/how-we-built-generative-plugins-and-shaders/": {
+    "category": "ai-ux",
+    "tldr": "Starting today, you’ll have more creative control over generative plugins and shaders, and a way to share what you’ve made with the community. Product Designer…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/over-and-out/": {
+    "category": "ai-management",
+    "tldr": "For this final issue of MIT Sloan Management Review, Benjamin Laker and Maria Papacosta offer advice on ending things well. In that spirit, we want to reflect…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/what-kind-of-chief-purpose-officer-does-your-company-need/": {
+    "category": "ai-management",
+    "tldr": "Rob Dobi The Research The authors identified 56 individuals with purpose leadership roles who were representative of a variety of industries, company sizes,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/dethroning-loyalty/": {
+    "category": "ai-management",
+    "tldr": "Rob Dobi What’s wrong with loyalty? Isn’t it a virtue to display steadfast allegiance to something or someone other than oneself? After all, loyalty has been…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/how-leadership-anxiety-derails-transformation/": {
+    "category": "ai-management",
+    "tldr": "Rob Dobi The Research This article draws on a four-year ethnographic study of a professional services firm whose leaders initiated a major transformation to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value": {
+    "category": "ai-management",
+    "tldr": "In an expanding global energy system, the next phase of the transition will require not just more low-carbon capacity but also system-wide investment in…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
