@@ -1,9 +1,104 @@
 {
-  "generated": "2026-09-03T06:38:51.274Z",
-  "cutoff": "2026-08-04T06:37:23.791Z",
+  "generated": "2026-09-04T06:44:18.759Z",
+  "cutoff": "2026-08-05T06:43:05.178Z",
   "total": 65,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "excerpt": "",
+      "date": "2026-09-03T15:02:08.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "excerpt": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "date": "2026-09-03T13:15:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "excerpt": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review…",
+      "date": "2026-09-03T12:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "excerpt": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "date": "2026-09-03T12:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Safety overview: GPT-6 Astra",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "excerpt": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "date": "2026-09-03T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Proactive cyber defense for governments and enterprises",
       "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
@@ -171,82 +266,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "link": "https://openai.com/index/polimill",
-      "excerpt": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "date": "2026-08-31T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "A milestone in expanding access to AI",
-      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "excerpt": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "date": "2026-08-31T04:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "excerpt": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "date": "2026-08-28T06:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "excerpt": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "date": "2026-08-28T02:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -461,20 +480,20 @@
       "enriched": false
     },
     {
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "excerpt": "",
-      "date": "2026-08-06T15:06:15.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
+      "title": "UX Conference November Announced (Nov 16 - Nov 19)",
+      "link": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for…",
+      "date": "2026-09-03T04:50:49.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
       "tags": [
-        "AI",
-        "研究",
-        "模型"
+        "UX",
+        "设计",
+        "研究"
       ],
-      "category": "ai-cognition",
-      "tldr": "",
+      "category": "ai-ux",
+      "tldr": "Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -822,25 +841,6 @@
       "enriched": false
     },
     {
-      "title": "Dogfooding vs. QA vs. User Research",
-      "link": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.",
-      "date": "2026-08-07T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Better code, fewer tokens: The benefits of Code Connect in MCP",
       "link": "https://www.figma.com/blog/the-benefits-of-code-connect-in-mcp/",
       "excerpt": "When going from design to code, agents lack the context of your production components. With Code Connect in Figma’s MCP, they get that context. We measured its…",
@@ -855,6 +855,120 @@
       ],
       "category": "ai-agent",
       "tldr": "When going from design to code, agents lack the context of your production components. With Code Connect in Figma’s MCP, they get that context. We measured its…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "excerpt": "European utilities face a period of discontinuity: Electrification, renewables, flexibility needs, AI, and policy shifts are reshaping economics, driving four…",
+      "date": "2026-09-04T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "European utilities face a period of discontinuity: Electrification, renewables, flexibility needs, AI, and policy shifts are reshaping economics, driving four…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Author Talks: What the world’s best owner-CEOs get right",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-what-the-worlds-best-owner-ceos-get-right",
+      "excerpt": "How do exceptional leaders create enduring institutions? Three McKinsey authors reveal the leadership core behaviors and mindsets behind Asia’s most successful…",
+      "date": "2026-09-03T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "How do exceptional leaders create enduring institutions? Three McKinsey authors reveal the leadership core behaviors and mindsets behind Asia’s most successful…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Shapers and founders: The traits behind outsized value creation in Asia",
+      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-the-traits-behind-outsized-value-creation-in-asia",
+      "excerpt": "A set of common traits underlies Asian founders’ success: Passion for their work, ongoing curiosity, boundless energy, and a strong belief in their people.",
+      "date": "2026-09-03T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "A set of common traits underlies Asian founders’ success: Passion for their work, ongoing curiosity, boundless energy, and a strong belief in their people.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The power of purpose, culture, and grit: An interview with JoAnne Bass",
+      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/the-power-of-purpose-culture-and-grit-an-interview-with-joanne-bass",
+      "excerpt": "The Air Force’s former top enlisted leader reflects on the value of lifelong learning, writing your own playbook, and preparing the next generation to serve.",
+      "date": "2026-09-03T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The Air Force’s former top enlisted leader reflects on the value of lifelong learning, writing your own playbook, and preparing the next generation to serve.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "At last, customers first: AI-powered personalization can help banks create value",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/at-last-customers-first-ai-powered-personalization-can-help-banks-create-value",
+      "excerpt": "Banks can better compete against digital-first rivals by using AI to deliver more effective, hyperpersonalized customer engagement. Here are four key…",
+      "date": "2026-09-03T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Banks can better compete against digital-first rivals by using AI to deliver more effective, hyperpersonalized customer engagement. Here are four key…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Made in America, again? Rethinking US manufacturing resilience",
+      "link": "https://www.mckinsey.com/mgi/our-research/made-in-america-again-rethinking-us-manufacturing-resilience",
+      "excerpt": "Rebuilding American manufacturing could cost up to $2 trillion. What will it take to get today’s factories up to speed?",
+      "date": "2026-09-03T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Rebuilding American manufacturing could cost up to $2 trillion. What will it take to get today’s factories up to speed?",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1012,25 +1126,6 @@
       "enriched": false
     },
     {
-      "title": "Investing in the energy transition: Time to look at whole-system value",
-      "link": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value",
-      "excerpt": "In an expanding global energy system, the next phase of the transition will require not just more low-carbon capacity but also system-wide investment in…",
-      "date": "2026-09-01T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "In an expanding global energy system, the next phase of the transition will require not just more low-carbon capacity but also system-wide investment in…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Tying Purpose to Performance",
       "link": "https://sloanreview.mit.edu/article/tying-purpose-to-performance/",
       "excerpt": "Photo courtesy DHL John Pearson has been CEO of DHL Express and on the DHL Group board of management since 2019. He joined the global logistics and courier…",
@@ -1107,82 +1202,6 @@
       "enriched": false
     },
     {
-      "title": "Europe on the move: A conversation with Boerse Stuttgart Group’s CEO",
-      "link": "https://www.mckinsey.com/featured-insights/insights-on-europe/podcasts-and-videos/europe-on-the-move-a-conversation-with-boerse-stuttgart-groups-ceo",
-      "excerpt": "With 160 years of experience, Boerse Stuttgart Group is Europe's sixth-largest exchange group, helping position Europe for the future through digital,…",
-      "date": "2026-08-31T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "With 160 years of experience, Boerse Stuttgart Group is Europe's sixth-largest exchange group, helping position Europe for the future through digital,…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Revolutionizing semiconductor fab operations with AI",
-      "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/revolutionizing-semiconductor-fab-operations-with-ai",
-      "excerpt": "AI has the potential to improve build processes and operations within semiconductor fabs. Early adopters could see significant cost improvement and…",
-      "date": "2026-08-31T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "AI has the potential to improve build processes and operations within semiconductor fabs. Early adopters could see significant cost improvement and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "AstraZeneca’s Bob Li on the MARS mission to eliminate cancer",
-      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/astrazenecas-bob-li-on-the-mars-mission-to-eliminate-cancer",
-      "excerpt": "Bob Li, AstraZeneca’s Senior Vice President, Global Head of Medical Affairs, Oncology, on why only 7 percent of cancer patients get access to clinical trials,…",
-      "date": "2026-08-31T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Bob Li, AstraZeneca's Global Head of Medical Affairs, Oncology, on why only 7 percent of cancer patients get access to clinical trials, and what decentralized…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The new management playbook for AI: How to move faster and create more value",
-      "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-new-management-playbook-for-ai-how-to-move-faster-and-create-more-value",
-      "excerpt": "There is a new management playbook emerging for how to run companies better in the age of AI.",
-      "date": "2026-08-28T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Scale is where the value is. Enabling scale depends on how strong your foundations are.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Spot New Tech Skills Emerging From the Workforce",
       "link": "https://sloanreview.mit.edu/article/spot-new-tech-skills-emerging-from-the-workforce/",
       "excerpt": "Matt Chinworth Across industries, companies are investing unprecedented sums in reskilling programs to prepare employees to use emerging technologies.1 The…",
@@ -1197,25 +1216,6 @@
       ],
       "category": "ai-management",
       "tldr": "Matt Chinworth Across industries, companies are investing unprecedented sums in reskilling programs to prepare employees to use emerging technologies.1 The…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "An update on US consumer sentiment: Holiday budgeting begins",
-      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-state-of-the-us-consumer",
-      "excerpt": "Despite being wary about the economy, consumers plan to spend the same or more on holiday shopping as they did last year. Here’s the latest research from our…",
-      "date": "2026-08-27T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Despite being wary about the economy, consumers plan to spend the same or more on holiday shopping as they did last year. Here’s the latest research from our…",
       "insight": "",
       "suggestion": "",
       "enriched": false
