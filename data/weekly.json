@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T06:44:18.759Z",
-  "cutoff": "2026-08-05T06:43:05.178Z",
-  "total": 65,
+  "generated": "2026-09-05T06:28:34.450Z",
+  "cutoff": "2026-08-06T06:27:11.539Z",
+  "total": 64,
   "sources_attempted": 13,
   "items": [
     {
@@ -43,6 +43,25 @@
       "enriched": false
     },
     {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "excerpt": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "date": "2026-09-03T12:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "excerpt": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review…",
@@ -62,10 +81,10 @@
       "enriched": false
     },
     {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "excerpt": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "date": "2026-09-03T12:00:00.000Z",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "link": "https://openai.com/index/gpt-6-astra",
+      "excerpt": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "date": "2026-09-03T11:00:00.000Z",
       "source_id": "openai",
       "source_name": "OpenAI",
       "priority": 0,
@@ -74,8 +93,8 @@
         "模型",
         "产品"
       ],
-      "category": "ai-workflow",
-      "tldr": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "category": "ai-cognition",
+      "tldr": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -247,25 +266,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "excerpt": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "date": "2026-08-31T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -475,6 +475,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "Improving Fable 5's biology safeguards",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Using AI for UX Work: Study Guide",
+      "link": "https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Unsure where to start? Use this collection of links to our articles and videos to learn about the best ways to use artificial intelligence for UX work.",
+      "date": "2026-09-04T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Unsure where to start? Use this collection of links to our articles and videos to learn about the best ways to use artificial intelligence for UX work.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -822,44 +841,6 @@
       "enriched": false
     },
     {
-      "title": "How to Decide When an AI Tool Is Worth Keeping",
-      "link": "https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.",
-      "date": "2026-08-07T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Better code, fewer tokens: The benefits of Code Connect in MCP",
-      "link": "https://www.figma.com/blog/the-benefits-of-code-connect-in-mcp/",
-      "excerpt": "When going from design to code, agents lack the context of your production components. With Code Connect in Figma’s MCP, they get that context. We measured its…",
-      "date": "2026-08-05T18:16:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "When going from design to code, agents lack the context of your production components. With Code Connect in Figma’s MCP, they get that context. We measured its…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Utilities at an inflection point: Four strategic evolutions ahead",
       "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
       "excerpt": "European utilities face a period of discontinuity: Electrification, renewables, flexibility needs, AI, and policy shifts are reshaping economics, driving four…",
@@ -879,10 +860,10 @@
       "enriched": false
     },
     {
-      "title": "Author Talks: What the world’s best owner-CEOs get right",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-what-the-worlds-best-owner-ceos-get-right",
-      "excerpt": "How do exceptional leaders create enduring institutions? Three McKinsey authors reveal the leadership core behaviors and mindsets behind Asia’s most successful…",
-      "date": "2026-09-03T00:00:00.000Z",
+      "title": "Voices on Quality: Unlocking warranty value in consumer automotive",
+      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-quality-unlocking-warranty-value-in-consumer-automotive",
+      "excerpt": "Warranty and goodwill costs automotive OEMs billions each year, but a more strategic approach can deliver significant P&L and cash impact within 12 to 24…",
+      "date": "2026-09-04T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
       "priority": 2,
@@ -891,8 +872,8 @@
         "管理",
         "AI"
       ],
-      "category": "design-director",
-      "tldr": "How do exceptional leaders create enduring institutions? Three McKinsey authors reveal the leadership core behaviors and mindsets behind Asia’s most successful…",
+      "category": "ai-management",
+      "tldr": "Warranty and goodwill costs automotive OEMs billions each year, but a more strategic approach can deliver significant P&L and cash impact within 12 to 24…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -931,6 +912,25 @@
       ],
       "category": "ai-management",
       "tldr": "The Air Force’s former top enlisted leader reflects on the value of lifelong learning, writing your own playbook, and preparing the next generation to serve.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Author Talks: What the world’s best owner-CEOs get right",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-what-the-worlds-best-owner-ceos-get-right",
+      "excerpt": "How do exceptional leaders create enduring institutions? Three McKinsey authors reveal the leadership core behaviors and mindsets behind Asia’s most successful…",
+      "date": "2026-09-03T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "How do exceptional leaders create enduring institutions? Three McKinsey authors reveal the leadership core behaviors and mindsets behind Asia’s most successful…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -993,25 +993,6 @@
       "enriched": false
     },
     {
-      "title": "Why progress is more physical than we think",
-      "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/why-progress-is-more-physical-than-we-think",
-      "excerpt": "From tomatoes and copper to data centers and steel, the modern economy depends on a material world hidden in plain sight.",
-      "date": "2026-09-02T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "From tomatoes and copper to data centers and steel, the modern economy depends on a material world hidden in plain sight.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Private equity confirms a timeless principle: Purchase price matters",
       "link": "https://www.mckinsey.com/industries/private-capital/our-insights/private-equity-confirms-a-timeless-principle-purchase-price-matters",
       "excerpt": "Recent data shows that buyout firms that maintain strict price discipline are delivering significantly higher MOIC than their peers.",
@@ -1026,6 +1007,25 @@
       ],
       "category": "ai-management",
       "tldr": "Recent data shows that buyout firms that maintain strict price discipline are delivering significantly higher MOIC than their peers.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Why progress is more physical than we think",
+      "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/why-progress-is-more-physical-than-we-think",
+      "excerpt": "From tomatoes and copper to data centers and steel, the modern economy depends on a material world hidden in plain sight.",
+      "date": "2026-09-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "From tomatoes and copper to data centers and steel, the modern economy depends on a material world hidden in plain sight.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1102,25 +1102,6 @@
       ],
       "category": "ai-management",
       "tldr": "Rob Dobi The Research This article draws on a four-year ethnographic study of a professional services firm whose leaders initiated a major transformation to…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Asia’s 75-point gap: Moving consumers from retirement angst to action",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/asias-75-point-gap-moving-consumers-from-retirement-angst-to-action",
-      "excerpt": "Asians are worried about retirement but largely underprepared for it. The retirement industry can close the gap between customers’ awareness and action by…",
-      "date": "2026-09-01T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Asians are worried about retirement but largely underprepared for it. The retirement industry can close the gap between customers’ awareness and action by…",
       "insight": "",
       "suggestion": "",
       "enriched": false

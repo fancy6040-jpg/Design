@@ -4485,5 +4485,26 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/gpt-6-astra": {
+    "category": "ai-cognition",
+    "tldr": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Unsure where to start? Use this collection of links to our articles and videos to learn about the best ways to use artificial intelligence for UX work.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-quality-unlocking-warranty-value-in-consumer-automotive": {
+    "category": "ai-management",
+    "tldr": "Warranty and goodwill costs automotive OEMs billions each year, but a more strategic approach can deliver significant P&L and cash impact within 12 to 24…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
