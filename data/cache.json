@@ -4506,5 +4506,26 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/an-alien-mind": {
+    "category": "ai-cognition",
+    "tldr": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/research-acceleration-view-inside-openai": {
+    "category": "ai-agent",
+    "tldr": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/future-of-asia/gs-caltexs-saehong-hur-leading-from-the-top-moving-forward-together": {
+    "category": "ai-management",
+    "tldr": "For Saehong Hur, continued communication and an integrated mindset are vital for adapting to changing market needs and maximizing value.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
