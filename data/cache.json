@@ -4527,5 +4527,12 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/supporting-independent-journalism-in-ukraine": {
+    "category": "ai-management",
+    "tldr": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

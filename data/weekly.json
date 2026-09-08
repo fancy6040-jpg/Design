@@ -1,9 +1,28 @@
 {
-  "generated": "2026-09-07T06:45:27.490Z",
-  "cutoff": "2026-08-08T06:44:22.713Z",
+  "generated": "2026-09-08T06:42:34.096Z",
+  "cutoff": "2026-08-09T06:41:04.915Z",
   "total": 63,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "excerpt": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "date": "2026-09-07T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-management",
+      "tldr": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "An Alien Mind",
       "link": "https://openai.com/index/an-alien-mind",
@@ -247,25 +266,6 @@
       ],
       "category": "ai-agent",
       "tldr": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "link": "https://openai.com/index/path-to-astra",
-      "excerpt": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "date": "2026-09-01T13:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -898,25 +898,6 @@
       "enriched": false
     },
     {
-      "title": "Author Talks: What the world’s best owner-CEOs get right",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-what-the-worlds-best-owner-ceos-get-right",
-      "excerpt": "How do exceptional leaders create enduring institutions? Three McKinsey authors reveal the leadership core behaviors and mindsets behind Asia’s most successful…",
-      "date": "2026-09-03T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "How do exceptional leaders create enduring institutions? Three McKinsey authors reveal the leadership core behaviors and mindsets behind Asia’s most successful…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The power of purpose, culture, and grit: An interview with JoAnne Bass",
       "link": "https://www.mckinsey.com/industries/public-sector/our-insights/the-power-of-purpose-culture-and-grit-an-interview-with-joanne-bass",
       "excerpt": "The Air Force’s former top enlisted leader reflects on the value of lifelong learning, writing your own playbook, and preparing the next generation to serve.",
@@ -931,6 +912,25 @@
       ],
       "category": "ai-management",
       "tldr": "The Air Force’s former top enlisted leader reflects on the value of lifelong learning, writing your own playbook, and preparing the next generation to serve.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Author Talks: What the world’s best owner-CEOs get right",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-what-the-worlds-best-owner-ceos-get-right",
+      "excerpt": "How do exceptional leaders create enduring institutions? Three McKinsey authors reveal the leadership core behaviors and mindsets behind Asia’s most successful…",
+      "date": "2026-09-03T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "How do exceptional leaders create enduring institutions? Three McKinsey authors reveal the leadership core behaviors and mindsets behind Asia’s most successful…",
       "insight": "",
       "suggestion": "",
       "enriched": false
