@@ -4534,5 +4534,117 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/codex-quantum-computing-experiments": {
+    "category": "ai-agent",
+    "tldr": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/": {
+    "category": "ai-cognition",
+    "tldr": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/the-work-now-within-reach": {
+    "category": "ai-cognition",
+    "tldr": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/introducing-chatgpt-images-2-5": {
+    "category": "ai-cognition",
+    "tldr": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/navier-stokes-solution": {
+    "category": "ai-cognition",
+    "tldr": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/teen-development-research-grants": {
+    "category": "ai-cognition",
+    "tldr": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms": {
+    "category": "ai-management",
+    "tldr": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/1password": {
+    "category": "ai-workflow",
+    "tldr": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/source-material-creative-technologist-marisa-chentakul-meshtimes/": {
+    "category": "ai-ux",
+    "tldr": "One of the internet’s favorite designers shares why her cyberdeck doubles as a makeup vanity, and the questions she asks herself to get into a creative space.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/responsible-ai-means-knowing-the-limits-of-agent-autonomy/": {
+    "category": "ai-management",
+    "tldr": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts that includes…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/agriculture/our-insights/global-farmer-insights": {
+    "category": "ai-management",
+    "tldr": "Our biennial global survey of 5,500 farmers finds that they are becoming selective in their spending in the face of economic pressures. AI is making inroads,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/operations/our-insights/creating-value-from-ai-and-digital-capabilities-in-logistics-operations": {
+    "category": "ai-management",
+    "tldr": "As AI and digital capabilities become more widely adopted in logistics operations, the companies seeing returns from their investments are doing three things…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/your-budget-is-killing-your-strategy-four-imperatives-for-cfos": {
+    "category": "ai-management",
+    "tldr": "The traditional annual budget process is broken. It is rigid, backward-looking, and not operationally fit to keep up with today's fast-moving markets.…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/global-trade-regional-updates": {
+    "category": "ai-management",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/pre-read-content/modernizing-for-the-mission-an-interview-with-jamie-wolff": {
+    "category": "ai-management",
+    "tldr": "The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at once—while keeping the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks": {
+    "category": "ai-management",
+    "tldr": "Adopting digital and AI advances can help rail infrastructure technology address long-standing challenges. Where should operators prioritize?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
