@@ -4709,5 +4709,103 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
+    "category": "ai-cognition",
+    "tldr": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/put-data-to-work": {
+    "category": "ai-agent",
+    "tldr": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/introducing-chatgpt-financial-services": {
+    "category": "ai-cognition",
+    "tldr": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/expanding-ai-access-us-government": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/introducing-the-agents-api": {
+    "category": "ai-agent",
+    "tldr": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/introducing-gpt-live-1-in-the-api": {
+    "category": "ai-cognition",
+    "tldr": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/improving-alignment-security-efforts": {
+    "category": "ai-cognition",
+    "tldr": "Improving our alignment and security efforts",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/when-ai-disruption-never-ends/": {
+    "category": "ai-management",
+    "tldr": "Phil Bliss/theispot.com A vice president of product opens her laptop on a Monday morning to find that the AI model her team had worked with for the past six…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/is-progress-behind-us-or-is-plenty-still-possible": {
+    "category": "ai-management",
+    "tldr": "A new podcast series based on the McKinsey Global Institute’s most recent book explains why another century of broad-based human progress is within reach.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/winning-what-the-best-athletes-teams-and-coaches-do-differently": {
+    "category": "ai-management",
+    "tldr": "Eight disciplines for defining success, building the system to achieve it, and finding an edge when the margin between good and great is razor-thin.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/operations/our-insights/capturing-untapped-value-in-capital-intensive-industries": {
+    "category": "ai-management",
+    "tldr": "Maintenance outages remain one of the largest, most complex performance drivers for operators. Here’s how digital and AI can help.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities": {
+    "category": "ai-management",
+    "tldr": "Efficient, reliable power conversion technologies are critical for global electrification. With an expected value pool of about $95 billion in 2030,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/operations/our-insights/procurement-at-the-decision-making-table-a-talk-with-nokias-sanjay-mehta": {
+    "category": "ai-management",
+    "tldr": "Nokia’s Sanjay Mehta shares how a persistently uncertain world has driven an evolution in the role and capabilities of procurement.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/brilliant-moves-coffee-with-lloyds-banking-group-ceo-charlie-nunn": {
+    "category": "design-director",
+    "tldr": "Drawing on two decades of collaboration, Lloyds Banking Group’s Charlie Nunn and McKinsey’s Tunde Olanrewaju explore how trust, curiosity, and optimism help…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

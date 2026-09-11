@@ -1,9 +1,123 @@
 {
-  "generated": "2026-09-10T06:48:43.141Z",
-  "cutoff": "2026-08-11T06:47:13.389Z",
+  "generated": "2026-09-11T06:47:56.449Z",
+  "cutoff": "2026-08-12T06:46:28.011Z",
   "total": 64,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "excerpt": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "date": "2026-09-10T16:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Now everyone can put data to work",
+      "link": "https://openai.com/index/put-data-to-work",
+      "excerpt": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "date": "2026-09-10T15:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services",
+      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "excerpt": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "date": "2026-09-10T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "link": "https://openai.com/index/expanding-ai-access-us-government",
+      "excerpt": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "date": "2026-09-10T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing the Agents API",
+      "link": "https://openai.com/index/introducing-the-agents-api",
+      "excerpt": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "date": "2026-09-10T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "excerpt": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "date": "2026-09-10T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
@@ -100,120 +214,6 @@
       "enriched": false
     },
     {
-      "title": "The Work Now Within Reach",
-      "link": "https://openai.com/index/the-work-now-within-reach",
-      "excerpt": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "date": "2026-09-08T13:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "excerpt": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "date": "2026-09-08T11:30:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "link": "https://openai.com/index/navier-stokes-solution",
-      "excerpt": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "date": "2026-09-08T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Funding grants for new research into AI and teen development",
-      "link": "https://openai.com/index/teen-development-research-grants",
-      "excerpt": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "date": "2026-09-08T09:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "excerpt": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "date": "2026-09-08T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "link": "https://openai.com/index/1password",
-      "excerpt": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
-      "date": "2026-09-08T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-workflow",
-      "tldr": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "excerpt": "",
@@ -285,6 +285,25 @@
       ],
       "category": "ai-agent",
       "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Improving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "excerpt": "Improving our alignment and security efforts",
+      "date": "2026-08-31T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Improving our alignment and security efforts",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -822,20 +841,20 @@
       "enriched": false
     },
     {
-      "title": "Measuring time savings from Figma Make",
-      "link": "https://www.figma.com/blog/measuring-time-savings-from-figma-make/",
-      "excerpt": "The Figma Data Science team assumed that AI saves users time—but quantifying it required a new approach to research design.",
-      "date": "2026-08-11T19:59:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
+      "title": "When AI Disruption Never Ends",
+      "link": "https://sloanreview.mit.edu/article/when-ai-disruption-never-ends/",
+      "excerpt": "Phil Bliss/theispot.com A vice president of product opens her laptop on a Monday morning to find that the AI model her team had worked with for the past six…",
+      "date": "2026-09-10T11:00:26.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
       "tags": [
-        "设计",
-        "工具",
-        "产品"
+        "管理",
+        "AI",
+        "战略"
       ],
-      "category": "ai-ux",
-      "tldr": "The Figma Data Science team assumed that AI saves users time—but quantifying it required a new approach to research design.",
+      "category": "ai-management",
+      "tldr": "Phil Bliss/theispot.com A vice president of product opens her laptop on a Monday morning to find that the AI model her team had worked with for the past six…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -855,6 +874,101 @@
       ],
       "category": "ai-management",
       "tldr": "AI is shaped by forces far beyond the technology itself, and its effects reach just as widely. Mapping how the pieces interact helps us see what could…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Is progress behind us, or is ‘plenty’ still possible?",
+      "link": "https://www.mckinsey.com/mgi/our-research/is-progress-behind-us-or-is-plenty-still-possible",
+      "excerpt": "A new podcast series based on the McKinsey Global Institute’s most recent book explains why another century of broad-based human progress is within reach.",
+      "date": "2026-09-10T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "A new podcast series based on the McKinsey Global Institute’s most recent book explains why another century of broad-based human progress is within reach.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Winning: What the best athletes, teams, and coaches do differently",
+      "link": "https://www.mckinsey.com/featured-insights/winning-what-the-best-athletes-teams-and-coaches-do-differently",
+      "excerpt": "Eight disciplines for defining success, building the system to achieve it, and finding an edge when the margin between good and great is razor-thin.",
+      "date": "2026-09-10T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Eight disciplines for defining success, building the system to achieve it, and finding an edge when the margin between good and great is razor-thin.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Capturing untapped value in capital-intensive industries",
+      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/capturing-untapped-value-in-capital-intensive-industries",
+      "excerpt": "Maintenance outages remain one of the largest, most complex performance drivers for operators. Here’s how digital and AI can help.",
+      "date": "2026-09-10T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Maintenance outages remain one of the largest, most complex performance drivers for operators. Here’s how digital and AI can help.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The power conversion market: Decarbonization and growth opportunities",
+      "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "excerpt": "Efficient, reliable power conversion technologies are critical for global electrification. With an expected value pool of about $95 billion in 2030,…",
+      "date": "2026-09-10T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Efficient, reliable power conversion technologies are critical for global electrification. With an expected value pool of about $95 billion in 2030,…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Procurement at the decision-making table: A talk with Nokia’s Sanjay Mehta",
+      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/procurement-at-the-decision-making-table-a-talk-with-nokias-sanjay-mehta",
+      "excerpt": "Nokia’s Sanjay Mehta shares how a persistently uncertain world has driven an evolution in the role and capabilities of procurement.",
+      "date": "2026-09-10T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Nokia’s Sanjay Mehta shares how a persistently uncertain world has driven an evolution in the role and capabilities of procurement.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -936,9 +1050,9 @@
       "enriched": false
     },
     {
-      "title": "The key to AI value is hiding in plain sight: Your operating model",
-      "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-key-to-ai-value-is-hiding-in-plain-sight-your-operating-model",
-      "excerpt": "New research shows that organizations undergoing AI transformation succeed not by adopting one “best” operating model, but by making intentional design choices…",
+      "title": "Brilliant Moves: Coffee with Lloyds Banking Group CEO Charlie Nunn",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/brilliant-moves-coffee-with-lloyds-banking-group-ceo-charlie-nunn",
+      "excerpt": "Drawing on two decades of collaboration, Lloyds Banking Group’s Charlie Nunn and McKinsey’s Tunde Olanrewaju explore how trust, curiosity, and optimism help…",
       "date": "2026-09-09T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
@@ -948,8 +1062,8 @@
         "管理",
         "AI"
       ],
-      "category": "ai-management",
-      "tldr": "New research shows that organizations undergoing AI transformation succeed not by adopting one “best” operating model, but by making intentional design choices…",
+      "category": "design-director",
+      "tldr": "Drawing on two decades of collaboration, Lloyds Banking Group’s Charlie Nunn and McKinsey’s Tunde Olanrewaju explore how trust, curiosity, and optimism help…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -969,101 +1083,6 @@
       ],
       "category": "ai-management",
       "tldr": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts that includes…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Creating value from AI and digital capabilities in logistics operations",
-      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/creating-value-from-ai-and-digital-capabilities-in-logistics-operations",
-      "excerpt": "As AI and digital capabilities become more widely adopted in logistics operations, the companies seeing returns from their investments are doing three things…",
-      "date": "2026-09-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "As AI and digital capabilities become more widely adopted in logistics operations, the companies seeing returns from their investments are doing three things…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Global Farmer Insights 2026",
-      "link": "https://www.mckinsey.com/industries/agriculture/our-insights/global-farmer-insights",
-      "excerpt": "Our biennial global survey of 5,500 farmers finds that they are becoming selective in their spending in the face of economic pressures. AI is making inroads,…",
-      "date": "2026-09-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Our biennial global survey of 5,500 farmers finds that they are becoming selective in their spending in the face of economic pressures. AI is making inroads,…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Your budget is killing your strategy: four imperatives for CFOs",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/your-budget-is-killing-your-strategy-four-imperatives-for-cfos",
-      "excerpt": "The traditional annual budget process is broken. It is rigid, backward-looking, and not operationally fit to keep up with today's fast-moving markets.…",
-      "date": "2026-09-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The traditional annual budget process is broken. It is rigid, backward-looking, and not operationally fit to keep up with today's fast-moving markets.…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Geopolitics and the geometry of global trade: September 2026 update",
-      "link": "https://www.mckinsey.com/mgi/our-research/global-trade-regional-updates",
-      "excerpt": "",
-      "date": "2026-09-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Modernizing for the mission: An interview with Jamie Wolff",
-      "link": "https://www.mckinsey.com/pre-read-content/modernizing-for-the-mission-an-interview-with-jamie-wolff",
-      "excerpt": "The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at once—while keeping the…",
-      "date": "2026-09-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at once—while keeping the…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1197,25 +1216,6 @@
       ],
       "category": "ai-management",
       "tldr": "Microsoft Copilot/Unsplash Companies are betting that AI chatbots will deliver faster and cheaper customer service. But if you’ve ever tried to circumvent a…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Why Employees With Working-Class Roots Are Better at Getting Their Ideas Heard",
-      "link": "https://sloanreview.mit.edu/article/why-employees-with-working-class-roots-are-better-at-getting-their-ideas-heard/",
-      "excerpt": "Nimble Made/Unsplash Getting manager buy-in for a good idea is harder than it should be. Our research points to a communication style that reliably breaks…",
-      "date": "2026-08-31T11:00:02.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Nimble Made/Unsplash Getting manager buy-in for a good idea is harder than it should be. Our research points to a communication style that reliably breaks…",
       "insight": "",
       "suggestion": "",
       "enriched": false
