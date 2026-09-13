@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-12T06:40:22.584Z",
-  "cutoff": "2026-08-13T06:39:07.044Z",
-  "total": 65,
+  "generated": "2026-09-13T06:56:36.343Z",
+  "cutoff": "2026-08-14T06:55:41.364Z",
+  "total": 61,
   "sources_attempted": 13,
   "items": [
     {
@@ -442,44 +442,6 @@
       "enriched": false
     },
     {
-      "title": "How Claude’s text watermark works",
-      "link": "https://www.anthropic.com/news/claude-text-watermark",
-      "excerpt": "How Claude’s text watermark works",
-      "date": "2026-08-14T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "How Claude’s text watermark works",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing Gemini 3.7 Flash",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "excerpt": "",
-      "date": "2026-08-13T17:04:18.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Test Complex Interactions Earlier with AI Prototyping",
       "link": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "AI tools make it feasible to build fully interactive prototypes of complex interfaces so you can test them with users earlier in the design process.",
@@ -817,44 +779,6 @@
       ],
       "category": "ai-agent",
       "tldr": "Agentic products pose a unique set of design challenges. How do you build a tool that’s powerful and knowledgeable enough to be a true partner, while keeping…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How to move fast toward the right thing",
-      "link": "https://www.figma.com/blog/how-to-move-fast-toward-the-right-thing/",
-      "excerpt": "With AI, speed comes easy, but so does tech debt. That’s why the best teams don’t just ship something fast; they consider it carefully, build it efficiently,…",
-      "date": "2026-08-13T20:30:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "With AI, speed comes easy, but so does tech debt. That’s why the best teams don’t just ship something fast; they consider it carefully, build it efficiently,…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Try these 10 skills—and show off your own",
-      "link": "https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/",
-      "excerpt": "Now you can author skills for our agent, directly in Figma, to put your point of view to work. Here are 10 of our favorites to get you started.",
-      "date": "2026-08-13T16:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Now you can author skills for our agent, directly in Figma, to put your point of view to work. Here are 10 of our favorites to get you started.",
       "insight": "",
       "suggestion": "",
       "enriched": false
