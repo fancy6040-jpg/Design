@@ -4933,5 +4933,12 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://www.mckinsey.com/au/our-insights/australias-next-century-of-plenty": {
+    "category": "ai-management",
+    "tldr": "Australia’s prosperity has been built through deliberate choices, investment, and reinvention. After a lost decade of growth, the nation can draw on its…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
