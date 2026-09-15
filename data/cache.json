@@ -4940,5 +4940,26 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/fyxer": {
+    "category": "ai-ux",
+    "tldr": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/how-ai-creates-a-capability-mirage/": {
+    "category": "ai-management",
+    "tldr": "PPaint/Ikon Images Dry rot. A Potemkin village. The Wizard of Oz. What do those things have in common? In each case, they may look good on the surface, but…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/operations/our-insights/stacking-the-odds-a-blueprint-for-successfully-scaling-agentic-ai": {
+    "category": "ai-management",
+    "tldr": "Many enterprises are scaling AI agents faster than they are redesigning the work underneath. A detailed blueprint supports the rollout and lays the groundwork…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
