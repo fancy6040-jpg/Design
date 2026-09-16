@@ -4961,5 +4961,61 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/source-material-zach-lieberman/": {
+    "category": "ai-ux",
+    "tldr": "The creative coder explains the throughline between drawing and computation, and why he’s jealous of pioneering artist Lillian Schwartz.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/how-b2b-marketers-misunderstand-their-customers/": {
+    "category": "ai-management",
+    "tldr": "Nick Lowndes/Ikon Images Businesses are striving to adapt ever faster to keep pace with rapid change, and yet B2B marketing practices have remained…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future": {
+    "category": "ai-management",
+    "tldr": "As their portfolios become more complex and productivity gains slow, biopharma manufacturers are investing heavily to keep pace with rising demand. But…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance": {
+    "category": "ai-management",
+    "tldr": "AI is not the only significant driver of change for insurers: 18 high-growth industries present major new opportunities even as they reconfigure industry…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-read-the-room-before-you-lead-it": {
+    "category": "design-director",
+    "tldr": "Are the signals that shape power, trust, and influence hiding in plain sight? Calibrate CEO Pamela Meyer says spotting them can help leaders avoid missteps and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech": {
+    "category": "ai-management",
+    "tldr": "Which frontier technologies matter most for companies in 2026? Our annual report highlights the latest technology innovations, developments, and talent trends…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/andrew-mcafee-on-ai-jobs-and-permissionless-innovation": {
+    "category": "ai-management",
+    "tldr": "What if the biggest risk isn’t too much technological progress—but too little?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

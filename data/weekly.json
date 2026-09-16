@@ -1,9 +1,28 @@
 {
-  "generated": "2026-09-15T06:56:05.987Z",
-  "cutoff": "2026-08-16T06:54:38.257Z",
-  "total": 61,
+  "generated": "2026-09-16T06:58:40.714Z",
+  "cutoff": "2026-08-17T06:57:13.259Z",
+  "total": 63,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "excerpt": "",
+      "date": "2026-09-15T17:05:57.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "How Fyxer built an AI executive assistant people trust",
       "link": "https://openai.com/index/fyxer",
@@ -442,6 +461,25 @@
       "enriched": false
     },
     {
+      "title": "Source material: Artist and educator Zach Lieberman likes to break things",
+      "link": "https://www.figma.com/blog/source-material-zach-lieberman/",
+      "excerpt": "The creative coder explains the throughline between drawing and computation, and why he’s jealous of pioneering artist Lillian Schwartz.",
+      "date": "2026-09-15T20:52:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "The creative coder explains the throughline between drawing and computation, and why he’s jealous of pioneering artist Lillian Schwartz.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Test Complex Interactions Earlier with AI Prototyping",
       "link": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "AI tools make it feasible to build fully interactive prototypes of complex interfaces so you can test them with users earlier in the design process.",
@@ -784,6 +822,120 @@
       "enriched": false
     },
     {
+      "title": "How B2B Marketers Misunderstand Their Customers",
+      "link": "https://sloanreview.mit.edu/article/how-b2b-marketers-misunderstand-their-customers/",
+      "excerpt": "Nick Lowndes/Ikon Images Businesses are striving to adapt ever faster to keep pace with rapid change, and yet B2B marketing practices have remained…",
+      "date": "2026-09-15T11:00:37.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Nick Lowndes/Ikon Images Businesses are striving to adapt ever faster to keep pace with rapid change, and yet B2B marketing practices have remained…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Backbones and networks: A blueprint for the biopharma plant of the future",
+      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
+      "excerpt": "As their portfolios become more complex and productivity gains slow, biopharma manufacturers are investing heavily to keep pace with rising demand. But…",
+      "date": "2026-09-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As their portfolios become more complex and productivity gains slow, biopharma manufacturers are investing heavily to keep pace with rising demand. But…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The strategic new arenas reshaping insurance",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance",
+      "excerpt": "AI is not the only significant driver of change for insurers: 18 high-growth industries present major new opportunities even as they reconfigure industry…",
+      "date": "2026-09-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "AI is not the only significant driver of change for insurers: 18 high-growth industries present major new opportunities even as they reconfigure industry…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Author Talks: Read the room before you lead it",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-read-the-room-before-you-lead-it",
+      "excerpt": "Are the signals that shape power, trust, and influence hiding in plain sight? Calibrate CEO Pamela Meyer says spotting them can help leaders avoid missteps and…",
+      "date": "2026-09-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Are the signals that shape power, trust, and influence hiding in plain sight? Calibrate CEO Pamela Meyer says spotting them can help leaders avoid missteps and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "McKinsey Technology Trends Outlook 2026",
+      "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech",
+      "excerpt": "Which frontier technologies matter most for companies in 2026? Our annual report highlights the latest technology innovations, developments, and talent trends…",
+      "date": "2026-09-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Which frontier technologies matter most for companies in 2026? Our annual report highlights the latest technology innovations, developments, and talent trends…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Andrew McAfee on AI, jobs, and ‘permissionless innovation’",
+      "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/andrew-mcafee-on-ai-jobs-and-permissionless-innovation",
+      "excerpt": "What if the biggest risk isn’t too much technological progress—but too little?",
+      "date": "2026-09-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "What if the biggest risk isn’t too much technological progress—but too little?",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "How AI Creates a Capability Mirage",
       "link": "https://sloanreview.mit.edu/article/how-ai-creates-a-capability-mirage/",
       "excerpt": "PPaint/Ikon Images Dry rot. A Potemkin village. The Wizard of Oz. What do those things have in common? In each case, they may look good on the surface, but…",
@@ -798,25 +950,6 @@
       ],
       "category": "ai-management",
       "tldr": "PPaint/Ikon Images Dry rot. A Potemkin village. The Wizard of Oz. What do those things have in common? In each case, they may look good on the surface, but…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Australia’s next century of plenty",
-      "link": "https://www.mckinsey.com/au/our-insights/australias-next-century-of-plenty",
-      "excerpt": "Australia’s prosperity has been built through deliberate choices, investment, and reinvention. After a lost decade of growth, the nation can draw on its…",
-      "date": "2026-09-14T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Australia’s prosperity has been built through deliberate choices, investment, and reinvention. After a lost decade of growth, the nation can draw on its…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -841,6 +974,25 @@
       "enriched": false
     },
     {
+      "title": "Australia’s next century of plenty",
+      "link": "https://www.mckinsey.com/au/our-insights/australias-next-century-of-plenty",
+      "excerpt": "Australia’s prosperity has been built through deliberate choices, investment, and reinvention. After a lost decade of growth, the nation can draw on its…",
+      "date": "2026-09-14T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Australia’s prosperity has been built through deliberate choices, investment, and reinvention. After a lost decade of growth, the nation can draw on its…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The future of US manufacturing",
       "link": "https://www.mckinsey.com/capabilities/operations/our-insights/the-future-of-us-manufacturing",
       "excerpt": "A quarter of America’s manufactured imports face critical trade dependencies. Strengthening US manufacturing will depend not only on capital but also on…",
@@ -855,25 +1007,6 @@
       ],
       "category": "ai-management",
       "tldr": "A quarter of America’s manufactured imports face critical trade dependencies. Strengthening US manufacturing will depend not only on capital but also on…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Strategy in the age of arenas",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/strategy-in-the-age-of-arenas",
-      "excerpt": "A group of fast-growing industries is reshaping the competitive landscape. Their rise requires business leaders to rethink strategy in two important ways.",
-      "date": "2026-09-11T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "A group of fast-growing industries is reshaping the competitive landscape. Their rise requires business leaders to rethink strategy in two important ways.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -898,9 +1031,9 @@
       "enriched": false
     },
     {
-      "title": "Zero-emission trucks: Accelerating Europe’s transition",
-      "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/zero-emission-trucks-accelerating-europes-transition",
-      "excerpt": "Challenges across the ecosystem delay the transition to zero-emission trucks, resulting in rising pressure on European OEMs due to potential CO2 penalties and…",
+      "title": "Strategy in the age of arenas",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/strategy-in-the-age-of-arenas",
+      "excerpt": "A group of fast-growing industries is reshaping the competitive landscape. Their rise requires business leaders to rethink strategy in two important ways.",
       "date": "2026-09-11T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
@@ -911,83 +1044,7 @@
         "AI"
       ],
       "category": "ai-management",
-      "tldr": "Challenges across the ecosystem delay the transition to zero-emission trucks, resulting in rising pressure on European OEMs due to potential CO2 penalties and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The speed problem: How frontier AI exposes weakness in enterprise cybersecurity",
-      "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-speed-problem-how-frontier-ai-exposes-weakness-in-enterprise-cybersecurity",
-      "excerpt": "Attackers now move at machine speed, but organizations make decisions at committee speed. To close the gap, businesses need a different operating model and…",
-      "date": "2026-09-11T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Attackers now move at machine speed, but organizations make decisions at committee speed. To close the gap, businesses need a different operating model and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "LNG buyers’ sentiment: Disruption and implications for procurement",
-      "link": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
-      "excerpt": "In the wake of disruption to transit in the Strait of Hormuz, buyers of liquefied natural gas (LNG) are anticipating shifts in their procurement strategies.…",
-      "date": "2026-09-11T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "In the wake of disruption to transit in the Strait of Hormuz, buyers of liquefied natural gas (LNG) are anticipating shifts in their procurement strategies.…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Competing against Chinese innovation speed in European trucking",
-      "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-against-chinese-innovation-speed-in-european-trucking",
-      "excerpt": "Chinese truck OEMs are building an inevitable presence in Europe—what their advantages are and how European truck OEMs could remain competitive",
-      "date": "2026-09-11T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Chinese truck OEMs are building an inevitable presence in Europe—what their advantages are and how European truck OEMs could remain competitive",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Competing in the fast lane—the future of Europe’s truck industry",
-      "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-in-the-fast-lane-the-future-of-europes-truck-industry",
-      "excerpt": "The rules of the road are changing fast for Europe’s truck industry. Here’s how it can compete in an age of AI, disruption, and automation.",
-      "date": "2026-09-11T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The rules of the road are changing fast for Europe’s truck industry. Here’s how it can compete in an age of AI, disruption, and automation.",
+      "tldr": "A group of fast-growing industries is reshaping the competitive landscape. Their rise requires business leaders to rethink strategy in two important ways.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1140,25 +1197,6 @@
       ],
       "category": "design-director",
       "tldr": "Photo courtesy DHL John Pearson has been CEO of DHL Express and on the DHL Group board of management since 2019. He joined the global logistics and courier…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "A Compelling Story Can Disarm Even a Skeptical Negotiator",
-      "link": "https://sloanreview.mit.edu/article/a-compelling-story-can-disarm-even-a-skeptical-negotiator/",
-      "excerpt": "Ivan Diaz/Unsplash Human beings are not good at separating fact from fiction. But surely hard-nosed B2B professionals are different? Our research suggests…",
-      "date": "2026-08-31T11:00:41.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Ivan Diaz/Unsplash Human beings are not good at separating fact from fiction. But surely hard-nosed B2B professionals are different? Our research suggests…",
       "insight": "",
       "suggestion": "",
       "enriched": false
