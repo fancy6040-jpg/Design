@@ -5017,5 +5017,89 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/model-misalignment-reporting-framework": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/reimagining-advertising-with-ai": {
+    "category": "ai-agent",
+    "tldr": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
+    "category": "ai-management",
+    "tldr": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/unlocking-new-ways-of-working": {
+    "category": "ai-cognition",
+    "tldr": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/try-these-5-weave-tools-and-share-your-own/": {
+    "category": "ai-ux",
+    "tldr": "Community publishing is now live for Weave tools. Here are a few tools that stand out, from turning a moodboard into a realistic room mockup to previewing your…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/training/december/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity": {
+    "category": "ai-management",
+    "tldr": "As enterprises shift from experimenting with models to redesigning workflows, new research suggests Europe could be well-positioned for this new AI application…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis": {
+    "category": "ai-management",
+    "tldr": "The energy system has proven surprisingly resilient, but shock absorbers are thinning. Energy security has no easy exits but room to maneuver.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/transformation/our-insights/the-agentic-transformation-office-redefining-the-economics-of-change": {
+    "category": "ai-management",
+    "tldr": "Successful transformations no longer require an army of people at the center.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026": {
+    "category": "ai-management",
+    "tldr": "Client loyalty evolves quickly. Leading banks are reclaiming the 12 to 25 percent of wallet share that changes hands every year instead of letting it drift.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking": {
+    "category": "ai-management",
+    "tldr": "UK banks have never been more profitable—but have rarely been more exposed. Success depends on securing customers and deposits, winning the commercial…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
