@@ -1,9 +1,47 @@
 {
-  "generated": "2026-09-17T06:53:41.635Z",
-  "cutoff": "2026-08-18T06:52:28.924Z",
-  "total": 64,
+  "generated": "2026-09-18T06:50:48.457Z",
+  "cutoff": "2026-08-19T06:49:32.835Z",
+  "total": 66,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "link": "https://openai.com/index/cooley-gopublic",
+      "excerpt": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters…",
+      "date": "2026-09-17T12:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing Astra for Law",
+      "link": "https://openai.com/index/astra-for-law",
+      "excerpt": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "date": "2026-09-17T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Our framework for reporting model misalignment",
       "link": "https://openai.com/index/model-misalignment-reporting-framework",
@@ -157,25 +195,6 @@
       "enriched": false
     },
     {
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "excerpt": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "date": "2026-09-11T16:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "excerpt": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
@@ -190,25 +209,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "excerpt": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "date": "2026-09-10T16:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -304,6 +304,44 @@
       ],
       "category": "ai-agent",
       "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "excerpt": "Developing Enterprise Frontier Safeguards with our customers",
+      "date": "2026-09-01T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Developing Enterprise Frontier Safeguards with our customers",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "excerpt": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "date": "2026-09-01T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -575,6 +613,25 @@
       "enriched": false
     },
     {
+      "title": "Issue no.18: Show your work",
+      "link": "https://www.figma.com/blog/show-your-work/",
+      "excerpt": "True collaboration isn’t always comfortable.",
+      "date": "2026-09-09T19:23:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "True collaboration isn’t always comfortable.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Using AI for UX Work: Study Guide",
       "link": "https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Unsure where to start? Use this collection of links to our articles and videos to learn about the best ways to use artificial intelligence for UX work.",
@@ -822,25 +879,6 @@
       "enriched": false
     },
     {
-      "title": "Sightlines issue no.2: What leaders need to know about building agents",
-      "link": "https://www.figma.com/blog/sightlines-issue-no2/",
-      "excerpt": "Agentic products pose a unique set of design challenges. How do you build a tool that’s powerful and knowledgeable enough to be a true partner, while keeping…",
-      "date": "2026-08-20T19:36:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Agentic products pose a unique set of design challenges. How do you build a tool that’s powerful and knowledgeable enough to be a true partner, while keeping…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Europe’s new AI edge? The emerging application layer opportunity",
       "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity",
       "excerpt": "As enterprises shift from experimenting with models to redesigning workflows, new research suggests Europe could be well-positioned for this new AI application…",
@@ -874,6 +912,63 @@
       ],
       "category": "ai-management",
       "tldr": "The energy system has proven surprisingly resilient, but shock absorbers are thinning. Energy security has no easy exits but room to maneuver.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The CMO as impact driver: A conversation with Genentech CMO Zoë Lazarre",
+      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-cmo-as-impact-driver-a-conversation-with-genentech-cmo-zoe-lazarre",
+      "excerpt": "Genentech’s chief marketing officer discusses AI, the future of marketing, patient trust, and why growth depends as much on culture as technology.",
+      "date": "2026-09-17T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Genentech’s chief marketing officer discusses AI, the future of marketing, patient trust, and why growth depends as much on culture as technology.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Why transformations stall—and where only CEOs make the difference",
+      "link": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-transformations-stall-and-where-only-ceos-make-the-difference",
+      "excerpt": "Five common behavioral patterns can cause change efforts to falter. Know the warning signs—and what to do about them.",
+      "date": "2026-09-17T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Five common behavioral patterns can cause change efforts to falter. Know the warning signs—and what to do about them.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Here’s why some US industrial companies achieve higher multiples",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/heres-why-some-us-industrial-companies-achieve-higher-multiples",
+      "excerpt": "Not every industrial company in a high-growth market earns a higher valuation. The biggest winners consistently combine four management actions.",
+      "date": "2026-09-17T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Not every industrial company in a high-growth market earns a higher valuation. The biggest winners consistently combine four management actions.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -988,63 +1083,6 @@
       ],
       "category": "ai-management",
       "tldr": "As their portfolios become more complex and productivity gains slow, biopharma manufacturers are investing heavily to keep pace with rising demand. But…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Author Talks: Read the room before you lead it",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-read-the-room-before-you-lead-it",
-      "excerpt": "Are the signals that shape power, trust, and influence hiding in plain sight? Calibrate CEO Pamela Meyer says spotting them can help leaders avoid missteps and…",
-      "date": "2026-09-15T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Are the signals that shape power, trust, and influence hiding in plain sight? Calibrate CEO Pamela Meyer says spotting them can help leaders avoid missteps and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "McKinsey Technology Trends Outlook 2026",
-      "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech",
-      "excerpt": "Which frontier technologies matter most for companies in 2026? Our annual report highlights the latest technology innovations, developments, and talent trends…",
-      "date": "2026-09-15T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Which frontier technologies matter most for companies in 2026? Our annual report highlights the latest technology innovations, developments, and talent trends…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Andrew McAfee on AI, jobs, and ‘permissionless innovation’",
-      "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/andrew-mcafee-on-ai-jobs-and-permissionless-innovation",
-      "excerpt": "What if the biggest risk isn’t too much technological progress—but too little?",
-      "date": "2026-09-15T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "What if the biggest risk isn’t too much technological progress—but too little?",
       "insight": "",
       "suggestion": "",
       "enriched": false

@@ -5101,5 +5101,61 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/cooley-gopublic": {
+    "category": "ai-cognition",
+    "tldr": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/astra-for-law": {
+    "category": "ai-workflow",
+    "tldr": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/enterprise-frontier-safeguards": {
+    "category": "ai-cognition",
+    "tldr": "Developing Enterprise Frontier Safeguards with our customers",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/claude-fable-and-mythos-5-1": {
+    "category": "ai-cognition",
+    "tldr": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/show-your-work/": {
+    "category": "ai-ux",
+    "tldr": "True collaboration isn’t always comfortable.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-cmo-as-impact-driver-a-conversation-with-genentech-cmo-zoe-lazarre": {
+    "category": "ai-management",
+    "tldr": "Genentech’s chief marketing officer discusses AI, the future of marketing, patient trust, and why growth depends as much on culture as technology.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/transformation/our-insights/why-transformations-stall-and-where-only-ceos-make-the-difference": {
+    "category": "design-director",
+    "tldr": "Five common behavioral patterns can cause change efforts to falter. Know the warning signs—and what to do about them.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/heres-why-some-us-industrial-companies-achieve-higher-multiples": {
+    "category": "ai-management",
+    "tldr": "Not every industrial company in a high-growth market earns a higher valuation. The biggest winners consistently combine four management actions.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
