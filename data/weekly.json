@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-20T07:14:08.691Z",
-  "cutoff": "2026-08-21T07:12:51.011Z",
-  "total": 67,
+  "generated": "2026-09-21T07:23:27.670Z",
+  "cutoff": "2026-08-22T07:22:14.245Z",
+  "total": 66,
   "sources_attempted": 13,
   "items": [
     {
@@ -494,25 +494,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Funding better evaluations of AI’s impact on wellbeing",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "excerpt": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "date": "2026-08-21T11:59:48.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-workflow",
-      "tldr": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
       "insight": "",
       "suggestion": "",
       "enriched": false
