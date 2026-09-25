@@ -1,9 +1,28 @@
 {
-  "generated": "2026-09-24T06:54:38.079Z",
-  "cutoff": "2026-08-25T06:53:09.106Z",
+  "generated": "2026-09-25T06:48:56.129Z",
+  "cutoff": "2026-08-26T06:47:40.775Z",
   "total": 67,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "excerpt": "",
+      "date": "2026-09-24T16:20:39.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Advancing Private AI Compute with secure, server-side memory",
       "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -461,25 +480,6 @@
       "enriched": false
     },
     {
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "excerpt": "Piloting the world's first double-blind AI evaluations",
-      "date": "2026-08-27T12:59:16.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Piloting the world's first double-blind AI evaluations",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Expanding our support for scientists",
       "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
       "excerpt": "Expanding our support for scientists",
@@ -513,6 +513,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "Previewing the Model Hardware Standard",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "What it takes to build great products now",
+      "link": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
+      "excerpt": "Getting to a prototype is easier than ever. The harder work is sustaining speed all the way to launch, choosing the right direction, and creating products that…",
+      "date": "2026-09-24T20:44:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "Getting to a prototype is easier than ever. The harder work is sustaining speed all the way to launch, choosing the right direction, and creating products that…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -841,25 +860,6 @@
       "enriched": false
     },
     {
-      "title": "How do you actually measure the impact of AI on design?",
-      "link": "https://www.figma.com/blog/measuring-the-impact-of-ai/",
-      "excerpt": "In 2024, we kicked off a study to understand how AI would reshape design and product development. Now, AI is helping us run it.",
-      "date": "2026-08-28T19:30:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "In 2024, we kicked off a study to understand how AI would reshape design and product development. Now, AI is helping us run it.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "AI Can't Replace Real Research in Empathy Mapping",
       "link": "https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "AI can help you organize research you’ve already collected, but it can’t create research evidence about the specific, messy experience of real users.",
@@ -898,6 +898,63 @@
       "enriched": false
     },
     {
+      "title": "Democratized superintelligence is coming: The world needs to get ready",
+      "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/democratized-superintelligence-is-coming-the-world-needs-to-get-ready",
+      "excerpt": "Bret Taylor, Sierra cofounder and OpenAI chair, believes AI’s near-term cybersecurity risks are real but solvable, and its greater power lies in delivering the…",
+      "date": "2026-09-24T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Bret Taylor, Sierra cofounder and OpenAI chair, believes AI’s near-term cybersecurity risks are real but solvable, and its greater power lies in delivering the…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Billion-dollar beauty: The odds of scaling a breakout brand",
+      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/billion-dollar-beauty-the-odds-of-scaling-a-breakout-brand",
+      "excerpt": "Our new analysis reveals the odds of reaching $1 billion in sales—and how the paths to that milestone differ by category and ownership.",
+      "date": "2026-09-24T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Our new analysis reveals the odds of reaching $1 billion in sales—and how the paths to that milestone differ by category and ownership.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The new growth mandate: A conversation with LinkedIn CMO Jessica Jensen",
+      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-new-growth-mandate-a-conversation-with-linkedin-cmo-jessica-jensen",
+      "excerpt": "At Cannes Lions 2026, LinkedIn CMO Jessica Jensen and McKinsey senior partner Dianne Esber discussed what it takes to turn AI from experimentation into a…",
+      "date": "2026-09-24T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "At Cannes Lions 2026, LinkedIn CMO Jessica Jensen and McKinsey senior partner Dianne Esber discussed what it takes to turn AI from experimentation into a…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Why Design Thinking Needs a Responsibility Reboot",
       "link": "https://sloanreview.mit.edu/article/why-design-thinking-needs-a-responsibility-reboot/",
       "excerpt": "Marie Montocchio/Ikon Images For years, social media companies have come under fire for promoting divisive, false, and dangerous content in order to monetize…",
@@ -917,6 +974,25 @@
       "enriched": false
     },
     {
+      "title": "Harnessing AI to make mining safer",
+      "link": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
+      "excerpt": "AI could improve both safety and productivity by anticipating problems before they arise, detecting worker fatigue, and automating dangerous tasks.",
+      "date": "2026-09-23T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "AI could improve both safety and productivity by anticipating problems before they arise, detecting worker fatigue and automating dangerous tasks.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Maintenance meets AI: A proven approach for asset-heavy industries",
       "link": "https://www.mckinsey.com/capabilities/operations/our-insights/maintenance-meets-ai-a-proven-approach-for-asset-heavy-industries",
       "excerpt": "Embedding the latest AI and technology within day-to-day operations is transforming maintenance from a cost center into a significant driver of value.",
@@ -931,25 +1007,6 @@
       ],
       "category": "ai-management",
       "tldr": "Embedding the latest AI and technology within day-to-day operations is transforming maintenance from a cost center into a significant driver of value.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Harnessing AI to make mining safer",
-      "link": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
-      "excerpt": "AI could improve both safety and productivity by anticipating problems before they arise, detecting worker fatigue and automating dangerous tasks.",
-      "date": "2026-09-23T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "AI could improve both safety and productivity by anticipating problems before they arise, detecting worker fatigue and automating dangerous tasks.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1033,7 +1090,7 @@
     {
       "title": "Powering through uncertainty: A talk with former US Energy Secretary Ernest Moniz",
       "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-through-uncertainty-a-talk-with-former-us-energy-secretary-ernest-moniz",
-      "excerpt": "The physicist and policymaker says the coming decade will be defined by a race for electrons—and that nuclear power, grid investment, and new public-private…",
+      "excerpt": "The physicist and policymaker says the coming decade will be defined by a race for electrons—and that nuclear power, grid investment, and new public–private…",
       "date": "2026-09-22T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
@@ -1064,63 +1121,6 @@
       ],
       "category": "ai-management",
       "tldr": "Travelers’ discovery and booking journeys have been reshaped. How can travel players show up at every turn on the path from search to certainty?",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The future of healthy living: A $16.4 trillion opportunity",
-      "link": "https://www.mckinsey.com/mhi/our-insights/the-future-of-healthy-living-a-16-4-trillion-opportunity",
-      "excerpt": "New McKinsey Health Institute analysis finds that addressing modifiable risk factors could add 12 years to healthy life expectancy at birth and add nearly 9…",
-      "date": "2026-09-22T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "New McKinsey Health Institute analysis finds that addressing modifiable risk factors could add 12 years to healthy life expectancy at birth and add nearly 9…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Ready to ramp? How US manufacturers can scale at pace",
-      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/ready-to-ramp-how-us-manufacturers-can-scale-at-pace",
-      "excerpt": "US manufacturers have a once-in-a-generation opportunity to reshore the production of critical and at-risk goods, but to do so, they will need to aggressively…",
-      "date": "2026-09-22T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "US manufacturers have a once-in-a-generation opportunity to reshore the production of critical and at-risk goods, but to do so, they will need to aggressively…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Value is the compass. Consumers set the pace.",
-      "link": "https://www.mckinsey.com/cn/our-insights/our-insights/value-is-the-compass-consumers-set-the-pace",
-      "excerpt": "In the 10th edition of McKinsey’s automotive consumer survey, China’s car buyers reveal where value is heading—and why the road ahead is exciting for consumers…",
-      "date": "2026-09-22T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "In the 10th edition of McKinsey’s automotive consumer survey, China’s car buyers reveal where value is heading—and why the road ahead is exciting for consumers…",
       "insight": "",
       "suggestion": "",
       "enriched": false
