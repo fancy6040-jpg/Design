@@ -5549,5 +5549,96 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/proaction": {
+    "category": "ai-management",
+    "tldr": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/": {
+    "category": "ai-cognition",
+    "tldr": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/": {
+    "category": "ai-management",
+    "tldr": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/": {
+    "category": "ai-workflow",
+    "tldr": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/": {
+    "category": "ai-cognition",
+    "tldr": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/": {
+    "category": "ai-cognition",
+    "tldr": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/": {
+    "category": "ai-cognition",
+    "tldr": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/": {
+    "category": "ai-cognition",
+    "tldr": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/": {
+    "category": "ai-cognition",
+    "tldr": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/": {
+    "category": "ai-cognition",
+    "tldr": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/": {
+    "category": "ai-agent",
+    "tldr": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/ai-functionality-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Unsure where to start? Use this collection of links to our articles and videos to learn about how artificial intelligence works, and how users think about it.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/disclose-ai-paced/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "How people react to being told that AI helped create a piece of content varies with audience, context, the nature and degree of AI use.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
