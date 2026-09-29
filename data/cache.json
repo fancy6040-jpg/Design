@@ -5640,5 +5640,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/how-we-will-do-better-for-australia": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
+    "category": "ai-cognition",
+    "tldr": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/lenfest-ai-collaborative-expansion": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/basis-tax-workbook-with-astra": {
+    "category": "ai-cognition",
+    "tldr": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/form/codex-originals": {
+    "category": "ai-cognition",
+    "tldr": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/workforce-in-motion-skills-and-pathways-to-future-jobs-in-the-united-states": {
+    "category": "ai-management",
+    "tldr": "AI, automation, and broader structural trends are accelerating the reallocation of work across the US economy. Capturing its benefits requires developing new…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/oil-and-gas/our-insights/navigating-the-new-normal-building-resilience-in-fuel-retail-trading": {
+    "category": "ai-management",
+    "tldr": "Commodity markets have entered a new era of persistent volatility. For fuel retailers, this is a chance to strengthen resilience and unlock value, but only…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/healthcare/our-insights/the-ai-powered-future-of-care": {
+    "category": "ai-management",
+    "tldr": "AI won’t replace clinicians, but it can improve quality, increase access, and reshape the workforce, payments, and patient volumes. Today, AI can perform some…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/retail/our-insights/convenience-or-discovery-which-mission-will-your-store-serve": {
+    "category": "ai-management",
+    "tldr": "As AI reshapes how consumers browse, shop, and buy, retailers must choose a mission for every location—and commit to it.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
