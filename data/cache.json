@@ -5703,5 +5703,89 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/introducing-gpt-6-1-sol": {
+    "category": "ai-cognition",
+    "tldr": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/devday-2026-recap": {
+    "category": "ai-workflow",
+    "tldr": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/introducing-dots": {
+    "category": "ai-cognition",
+    "tldr": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/london-office-expansion/": {
+    "category": "ai-ux",
+    "tldr": "With our new London office, we’re getting closer to our customers and community.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-to-drive-transformations-with-rigor": {
+    "category": "design-director",
+    "tldr": "McKinsey research finds that companies executing transformations with rigor are much more likely to meet overall organizational transformation goals. Chris…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/": {
+    "category": "ai-management",
+    "tldr": "Andy Carter/Ikon Images The in-house lawyers at real estate investment firm Alturas Capital Partners used to rely on outside counsel for much of its lease…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-can-you-fulfill-your-ambition-and-compose-a-life": {
+    "category": "ai-management",
+    "tldr": "Mayfield’s former Chief Marketing Officer Kamini Ramani draws on Indian women leaders’ experiences in corporate America to bring a culturally rooted lens to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/public-sector/our-insights/the-next-phase-of-government-ai-economics": {
+    "category": "ai-management",
+    "tldr": "Subsidized AI pilots are expiring as usage explodes. Here’s how US public sector leaders can treat AI spend as a managed category before the bill arrives.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/future-of-asia/make-life-better-mikhail-lomtadzes-customer-first-philosophy": {
+    "category": "design-director",
+    "tldr": "Mikhail Lomtadze, cofounder and CEO of Kaspi, believes the only measure that matters is whether Kaspi makes customers’ lives better or not—and why that single…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/leading-when-change-feels-threatening": {
+    "category": "design-director",
+    "tldr": "Fear and change can go hand in hand. Executives who understand this can significantly improve their odds of transformation success, while the executives who…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/how-leaders-are-turning-ai-into-growth": {
+    "category": "ai-management",
+    "tldr": "Nearly 90 percent of companies are investing in AI, but only 6 percent see material impact. The difference is in how they approach it.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-how-we-work-is-your-organization-ready": {
+    "category": "ai-management",
+    "tldr": "As AI reshapes roles, leaders face a bigger question: how to rethink jobs, teams, and the way work gets done in a fundamentally different era.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
