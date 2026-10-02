@@ -5843,5 +5843,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/the-eternal-complement": {
+    "category": "ai-cognition",
+    "tldr": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/albertsons-reimagining-retail": {
+    "category": "ai-management",
+    "tldr": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/the-den-family-social": {
+    "category": "ai-cognition",
+    "tldr": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/accenture-embedded-evaluation": {
+    "category": "ai-cognition",
+    "tldr": "Partnering with Accenture on embedded evaluation",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/workflow-lab-from-design-system-to-campaign-in-figma-weave/": {
+    "category": "ai-design-system",
+    "tldr": "Design systems can power more than just designs. This workflow shows you how to turn raw materials into brand campaign collateral using the Gen Effect and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer-africa-2026-meeting-the-pragmatic-shopper": {
+    "category": "ai-management",
+    "tldr": "Household budgets in Africa are tight and channels increasingly fragmented. Four trends are redefining how consumers discover, decide, and spend, and how…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight": {
+    "category": "ai-management",
+    "tldr": "Companies often have significant opportunities to unlock cash. Four practices can help CFOs free it up.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/public-sector/our-insights/modernizing-for-the-mission-an-interview-with-jamie-wolff": {
+    "category": "ai-management",
+    "tldr": "The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at once—while keeping the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/americas-next-growth-opportunity-an-investment-ready-heartland": {
+    "category": "ai-management",
+    "tldr": "With a more coordinated approach, smaller cities in the middle of the country could generate trillions of dollars in added economic output.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
