@@ -5906,5 +5906,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/practical-guide-building-gpt-6": {
+    "category": "ai-workflow",
+    "tldr": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/chatham-financial": {
+    "category": "ai-workflow",
+    "tldr": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/features/ebola-response": {
+    "category": "ai-cognition",
+    "tldr": "The Situation Report",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-agent",
+    "tldr": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Empathy maps help UX teams visualize user attitudes and behaviors, building a shared understanding of end users while highlighting gaps in existing user data.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai": {
+    "category": "ai-management",
+    "tldr": "Agentic AI is reshaping the case for modernization in insurance. Leaders from Guidewire, Bessemer Venture Partners, and SAP discuss how insurers can respond,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/industrials/our-insights/siemens-next-reinvention-an-interview-with-cedrik-neike": {
+    "category": "ai-management",
+    "tldr": "As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take to lead the next era of manufacturing?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-banks-digital-twin-the-future-of-nonfinancial-risk-management": {
+    "category": "ai-management",
+    "tldr": "The risk function’s fundamental purpose has not changed, but the nature of the risks, the pace at which they materialize, and the tools available to manage…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/shareholder-activism-is-changing-are-companies-ready": {
+    "category": "design-director",
+    "tldr": "Boards and CEOs can build value-creation plans that withstand and even benefit from shareholder activist scrutiny.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

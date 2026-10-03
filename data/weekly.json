@@ -1,9 +1,47 @@
 {
-  "generated": "2026-10-02T07:42:19.644Z",
-  "cutoff": "2026-09-02T07:41:06.441Z",
+  "generated": "2026-10-03T07:14:49.574Z",
+  "cutoff": "2026-09-03T07:13:21.865Z",
   "total": 62,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "A model guide for the GPT-6 family",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "excerpt": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "date": "2026-10-02T16:15:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "link": "https://openai.com/index/chatham-financial",
+      "excerpt": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "date": "2026-10-02T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "The eternal complement",
       "link": "https://openai.com/index/the-eternal-complement",
@@ -138,25 +176,6 @@
       "enriched": false
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "excerpt": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "date": "2026-09-29T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "DevDay 2026 Recap",
       "link": "https://openai.com/index/devday-2026-recap",
       "excerpt": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
@@ -176,6 +195,25 @@
       "enriched": false
     },
     {
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "excerpt": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "date": "2026-09-29T10:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Introducing dots",
       "link": "https://openai.com/index/introducing-dots",
       "excerpt": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work…",
@@ -190,44 +228,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "excerpt": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "date": "2026-09-28T19:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Towards safety cases for frontier AI training",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "excerpt": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "date": "2026-09-28T19:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -285,6 +285,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The Situation Report",
+      "link": "https://www.anthropic.com/features/ebola-response",
+      "excerpt": "The Situation Report",
+      "date": "2026-09-22T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "The Situation Report",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -404,39 +423,39 @@
       "enriched": false
     },
     {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "excerpt": "",
-      "date": "2026-09-02T16:24:24.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
+      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+      "link": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
+      "date": "2026-10-02T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
       "tags": [
-        "AI",
-        "研究",
-        "模型"
+        "UX",
+        "设计",
+        "研究"
       ],
-      "category": "ai-cognition",
-      "tldr": "",
+      "category": "ai-agent",
+      "tldr": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "excerpt": "",
-      "date": "2026-09-02T16:18:31.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
+      "title": "Empathy Mapping: The First Step in Design Thinking",
+      "link": "https://www.nngroup.com/articles/empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Empathy maps help UX teams visualize user attitudes and behaviors, building a shared understanding of end users while highlighting gaps in existing user data.",
+      "date": "2026-10-02T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
       "tags": [
-        "AI",
-        "研究",
-        "模型"
+        "UX",
+        "设计",
+        "研究"
       ],
-      "category": "ai-cognition",
-      "tldr": "",
+      "category": "ai-ux",
+      "tldr": "Empathy maps help UX teams visualize user attitudes and behaviors, building a shared understanding of end users while highlighting gaps in existing user data.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -784,25 +803,6 @@
       "enriched": false
     },
     {
-      "title": "UX Conference November Announced (Nov 16 - Nov 19)",
-      "link": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for…",
-      "date": "2026-09-03T04:50:49.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "State of Consumer Africa 2026: Meeting the pragmatic shopper",
       "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer-africa-2026-meeting-the-pragmatic-shopper",
       "excerpt": "Household budgets in Africa are tight and channels increasingly fragmented. Four trends are redefining how consumers discover, decide, and spend, and how…",
@@ -817,6 +817,82 @@
       ],
       "category": "ai-management",
       "tldr": "Household budgets in Africa are tight and channels increasingly fragmented. Four trends are redefining how consumers discover, decide, and spend, and how…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Pause, pivot, or accelerate: SaaS in the age of agentic AI",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai",
+      "excerpt": "Agentic AI is reshaping the case for modernization in insurance. Leaders from Guidewire, Bessemer Venture Partners, and SAP discuss how insurers can respond,…",
+      "date": "2026-10-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Agentic AI is reshaping the case for modernization in insurance. Leaders from Guidewire, Bessemer Venture Partners, and SAP discuss how insurers can respond,…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Siemens’s next reinvention: An interview with Cedrik Neike",
+      "link": "https://www.mckinsey.com/industries/industrials/our-insights/siemens-next-reinvention-an-interview-with-cedrik-neike",
+      "excerpt": "As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take to lead the next era of manufacturing?",
+      "date": "2026-10-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take to lead the next era of manufacturing?",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The bank’s digital twin: The future of nonfinancial risk management",
+      "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-banks-digital-twin-the-future-of-nonfinancial-risk-management",
+      "excerpt": "The risk function’s fundamental purpose has not changed, but the nature of the risks, the pace at which they materialize, and the tools available to manage…",
+      "date": "2026-10-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The risk function’s fundamental purpose has not changed, but the nature of the risks, the pace at which they materialize, and the tools available to manage…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Shareholder activism is changing. Are companies ready?",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/shareholder-activism-is-changing-are-companies-ready",
+      "excerpt": "Boards and CEOs can build value-creation plans that withstand and even benefit from shareholder activist scrutiny.",
+      "date": "2026-10-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Boards and CEOs can build value-creation plans that withstand and even benefit from shareholder activist scrutiny.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -936,63 +1012,6 @@
       "enriched": false
     },
     {
-      "title": "Economic conditions outlook, September 2026",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/economic-conditions-outlook",
-      "excerpt": "Executives’ economic pessimism has eased since June, but they remain cautious. Negative views continue to be more common than positive ones, and expectations…",
-      "date": "2026-09-30T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Executives’ economic pessimism has eased since June, but they remain cautious. Negative views continue to be more common than positive ones, and expectations…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Evidence over hype: New York’s path to a healthy-longevity economy",
-      "link": "https://www.mckinsey.com/mhi/our-insights/evidence-over-hype-new-yorks-path-to-a-healthy-longevity-economy",
-      "excerpt": "A McKinsey survey finds that New Yorkers prioritize healthy longevity—and spend accordingly.",
-      "date": "2026-09-30T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "A McKinsey survey finds that New Yorkers prioritize healthy longevity—and spend accordingly.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The CEO’s singular impact on the success—or failure—of AI in organizations",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-singular-impact-on-the-success-or-failure-of-ai-in-organizations",
-      "excerpt": "There are certain aspects of the AI opportunity that chief executives cannot hand off to others—raising the organization’s ambition, rearchitecting how it…",
-      "date": "2026-09-30T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "There are certain aspects of the AI opportunity that chief executives cannot hand off to others—raising the organization’s ambition, rearchitecting how it…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How to Outcompete Your Client’s AI",
       "link": "https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/",
       "excerpt": "Andy Carter/Ikon Images The in-house lawyers at real estate investment firm Alturas Capital Partners used to rely on outside counsel for much of its lease…",
@@ -1007,25 +1026,6 @@
       ],
       "category": "ai-management",
       "tldr": "Andy Carter/Ikon Images The in-house lawyers at real estate investment firm Alturas Capital Partners used to rely on outside counsel for much of its lease…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Author Talks: Can you fulfill your ambition and compose a life?",
-      "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-can-you-fulfill-your-ambition-and-compose-a-life",
-      "excerpt": "Mayfield’s former Chief Marketing Officer Kamini Ramani draws on Indian women leaders’ experiences in corporate America to bring a culturally rooted lens to…",
-      "date": "2026-09-29T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Mayfield’s former Chief Marketing Officer Kamini Ramani draws on Indian women leaders’ experiences in corporate America to bring a culturally rooted lens to…",
       "insight": "",
       "suggestion": "",
       "enriched": false
