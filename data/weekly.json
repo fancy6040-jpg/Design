@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-03T07:14:49.574Z",
-  "cutoff": "2026-09-03T07:13:21.865Z",
-  "total": 62,
+  "generated": "2026-10-04T07:33:48.544Z",
+  "cutoff": "2026-09-04T07:32:38.384Z",
+  "total": 60,
   "sources_attempted": 13,
   "items": [
     {
@@ -404,25 +404,6 @@
       "enriched": false
     },
     {
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "excerpt": "",
-      "date": "2026-09-03T15:02:08.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
       "link": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
@@ -784,44 +765,6 @@
       "enriched": false
     },
     {
-      "title": "Source material: Creative technologist Marisa Chentakul is tired of calling things “slop”",
-      "link": "https://www.figma.com/blog/source-material-marisa-chentakul/",
-      "excerpt": "One of the internet’s favorite designers shares why her cyberdeck doubles as a makeup vanity, and the questions she asks herself to get into a creative space.",
-      "date": "2026-09-03T15:49:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "One of the internet’s favorite designers shares why her cyberdeck doubles as a makeup vanity, and the questions she asks herself to get into a creative space.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "State of Consumer Africa 2026: Meeting the pragmatic shopper",
-      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer-africa-2026-meeting-the-pragmatic-shopper",
-      "excerpt": "Household budgets in Africa are tight and channels increasingly fragmented. Four trends are redefining how consumers discover, decide, and spend, and how…",
-      "date": "2026-10-02T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Household budgets in Africa are tight and channels increasingly fragmented. Four trends are redefining how consumers discover, decide, and spend, and how…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Pause, pivot, or accelerate: SaaS in the age of agentic AI",
       "link": "https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai",
       "excerpt": "Agentic AI is reshaping the case for modernization in insurance. Leaders from Guidewire, Bessemer Venture Partners, and SAP discuss how insurers can respond,…",
@@ -855,6 +798,25 @@
       ],
       "category": "ai-management",
       "tldr": "As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take to lead the next era of manufacturing?",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "State of Consumer Africa 2026: Meeting the pragmatic shopper",
+      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer-africa-2026-meeting-the-pragmatic-shopper",
+      "excerpt": "Household budgets in Africa are tight and channels increasingly fragmented. Four trends are redefining how consumers discover, decide, and spend, and how…",
+      "date": "2026-10-02T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Household budgets in Africa are tight and channels increasingly fragmented. Four trends are redefining how consumers discover, decide, and spend, and how…",
       "insight": "",
       "suggestion": "",
       "enriched": false
