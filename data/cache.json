@@ -5983,5 +5983,40 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/eu-text-provenance": {
+    "category": "ai-cognition",
+    "tldr": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
+    "category": "ai-workflow",
+    "tldr": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/": {
+    "category": "ai-management",
+    "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine but buggy software update to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference": {
+    "category": "ai-management",
+    "tldr": "Inference is reshaping AI economics, infrastructure architectures, and investment priorities across the semiconductor ecosystem.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization": {
+    "category": "ai-management",
+    "tldr": "The first phase of enterprise AI put powerful new tools in people’s hands. Capturing the larger opportunity from agentic AI will require leaders to rethink the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
