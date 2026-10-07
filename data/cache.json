@@ -6018,5 +6018,89 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/atlassian-partnership": {
+    "category": "ai-management",
+    "tldr": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/jump-trading": {
+    "category": "ai-workflow",
+    "tldr": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/sharing-ai-progress-in-mathematics": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/advancing-computer-use-with-ironclad": {
+    "category": "ai-agent",
+    "tldr": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/claude-opus-5-5": {
+    "category": "ai-cognition",
+    "tldr": "Introducing Claude Opus 5.5",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/": {
+    "category": "ai-agent",
+    "tldr": "Here’s how teams at Uber, Granola, and Atlassian support high-quality, fast-moving work with the Figma agent, now generally available.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/workflow-lab-staying-in-the-flow-with-the-figma-agent/": {
+    "category": "ai-agent",
+    "tldr": "Knowing what work to hand to an agent is a skill of its own. This workflow shows how a designer shapes a new temporary-access feature while the Figma agent…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/figma-agent-and-design-systems/": {
+    "category": "ai-agent",
+    "tldr": "Figma’s agent can take on repetitive work across your design system, from maintaining your library to automating how designs adhere to it. Here, we share a few…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/the-real-reasons-why-digital-projects-fail/": {
+    "category": "ai-management",
+    "tldr": "Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process but fails to obtain the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/operations/our-insights/using-production-rates-to-excel-at-executing-construction-projects": {
+    "category": "design-director",
+    "tldr": "As construction productivity stagnates, companies can stand out by employing granular, achievable rates of production to optimize schedules, improve…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-rana-foroohar-on-a-new-great-game-in-the-arctic": {
+    "category": "ai-management",
+    "tldr": "From shipping and rare earths to energy and security, the Arctic is gaining importance in the global economy. The Financial Times’ Rana Foroohar explores its…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/life-sciences/our-insights/medtech-needs-more-than-a-market-rotation-to-win-back-investors": {
+    "category": "design-director",
+    "tldr": "With industry performance plateauing, medtech leaders must earn back investor trust with fresh strategies and better execution.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
