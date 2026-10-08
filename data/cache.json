@@ -6102,5 +6102,61 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/teens-learn-and-plan": {
+    "category": "ai-management",
+    "tldr": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/radisson": {
+    "category": "ai-cognition",
+    "tldr": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/gpt-6-for-everyone": {
+    "category": "ai-cognition",
+    "tldr": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/claude-sonnet-5-5": {
+    "category": "ai-cognition",
+    "tldr": "Introducing Claude Sonnet 5.5",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": {
+    "category": "ai-cognition",
+    "tldr": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/": {
+    "category": "ai-management",
+    "tldr": "John Holcroft/Ikon Images In 2021, Barcelona-based delivery platform Glovo was faced with a law that threatened its business model. Spain had passed the Rider…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos": {
+    "category": "design-director",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
