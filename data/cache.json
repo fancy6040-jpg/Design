@@ -6158,5 +6158,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/oracle": {
+    "category": "ai-workflow",
+    "tldr": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/pollo-ai": {
+    "category": "ai-cognition",
+    "tldr": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/legalon-halves-codex-costs": {
+    "category": "ai-management",
+    "tldr": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/cyber-verification-program": {
+    "category": "ai-cognition",
+    "tldr": "Expanding the Cyber Verification Program",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/claude-frontier-academy": {
+    "category": "ai-cognition",
+    "tldr": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/barclays-scales-claude": {
+    "category": "ai-cognition",
+    "tldr": "Barclays scales Claude to upgrade operations and improve client experience",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-understanding-the-owner-mindset": {
+    "category": "design-director",
+    "tldr": "Marrying Eastern philosophy and Western management culture has given many of Asia’s owner-CEOs a unique edge in growing their businesses.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/geopolitics/our-insights/the-playbook-for-seeing-around-geopolitical-corners": {
+    "category": "ai-management",
+    "tldr": "From black swans to gray rhinos, geopolitical shocks are multiplying. Here’s the tool kit smart leaders use to see them coming.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
