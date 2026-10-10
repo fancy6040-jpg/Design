@@ -1,9 +1,47 @@
 {
-  "generated": "2026-10-09T08:08:26.073Z",
-  "cutoff": "2026-09-09T08:07:01.702Z",
-  "total": 65,
+  "generated": "2026-10-10T07:53:25.893Z",
+  "cutoff": "2026-09-10T07:51:53.708Z",
+  "total": 66,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "date": "2026-10-09T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "excerpt": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "date": "2026-10-09T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "link": "https://openai.com/index/oracle",
@@ -171,44 +209,6 @@
       ],
       "category": "ai-workflow",
       "tldr": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "excerpt": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on…",
-      "date": "2026-10-06T12:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Advancing computer use with Ironclad",
-      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "excerpt": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "date": "2026-10-06T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -499,6 +499,82 @@
       "enriched": false
     },
     {
+      "title": "4 team rituals that drive AI adoption",
+      "link": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
+      "excerpt": "Elevating AI’s impact from individual productivity gains to team-wide wins requires meeting people where they are. Here’s how teams at Figma, Sephora, Mercari,…",
+      "date": "2026-10-10T02:12:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "Elevating AI’s impact from individual productivity gains to team-wide wins requires meeting people where they are. Here’s how teams at Figma, Sephora, Mercari,…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The New Siri’s Biggest Strength Is Not Intelligence",
+      "link": "https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "A useful AI assistant needs relevant personal context, the capability to use it, and an experience that helps users understand its limits.",
+      "date": "2026-10-09T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "A useful AI assistant needs relevant personal context, the capability to use it, and an experience that helps users understand its limits.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Context Libraries: How AI Power Users Manage Context Engineering",
+      "link": "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Claude power users rarely edit their context files and often can’t find them. Your AI agent is only as powerful as its context library.",
+      "date": "2026-10-09T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-agent",
+      "tldr": "Claude power users rarely edit their context files and often can’t find them. Your AI agent is only as powerful as its context library.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Sightlines issue no.3: Raise the bar for how teams use AI",
+      "link": "https://www.figma.com/blog/sightlines-issue-no3/",
+      "excerpt": "How do you drive AI adoption and make better decisions about what to build?",
+      "date": "2026-10-09T14:05:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "How do you drive AI adoption and make better decisions about what to build?",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "3 ways product designers use the Figma agent for craft, speed, and creative expression",
       "link": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
       "excerpt": "Here’s how teams at Uber, Granola, and Atlassian support high-quality, fast-moving work with the Figma agent, now generally available.",
@@ -556,25 +632,6 @@
       "enriched": false
     },
     {
-      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
-      "link": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
-      "date": "2026-10-02T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-agent",
-      "tldr": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Empathy Mapping: The First Step in Design Thinking",
       "link": "https://www.nngroup.com/articles/empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Empathy maps help UX teams visualize user attitudes and behaviors, building a shared understanding of end users while highlighting gaps in existing user data.",
@@ -589,6 +646,25 @@
       ],
       "category": "ai-ux",
       "tldr": "Empathy maps help UX teams visualize user attitudes and behaviors, building a shared understanding of end users while highlighting gaps in existing user data.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+      "link": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
+      "date": "2026-10-02T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-agent",
+      "tldr": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -765,25 +841,6 @@
       "enriched": false
     },
     {
-      "title": "Try these 5 Weave tools—and share your own",
-      "link": "https://www.figma.com/blog/try-these-5-weave-tools-and-share-your-own/",
-      "excerpt": "Community publishing is now live for Weave tools. Here are a few tools that stand out, from turning a moodboard into a realistic room mockup to previewing your…",
-      "date": "2026-09-16T12:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "Community publishing is now live for Weave tools. Here are a few tools that stand out, from turning a moodboard into a realistic room mockup to previewing your…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "UX Conference December Announced (Dec 2 - Dec 15)",
       "link": "https://www.nngroup.com/training/december/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
@@ -798,25 +855,6 @@
       ],
       "category": "ai-ux",
       "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Source material: Artist and educator Zach Lieberman likes to break things",
-      "link": "https://www.figma.com/blog/source-material-zach-lieberman/",
-      "excerpt": "The creative coder explains the throughline between drawing and computation, and why he’s jealous of pioneering artist Lillian Schwartz.",
-      "date": "2026-09-15T20:52:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "The creative coder explains the throughline between drawing and computation, and why he’s jealous of pioneering artist Lillian Schwartz.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -841,20 +879,58 @@
       "enriched": false
     },
     {
-      "title": "AI Can Help Write an Article, but It Can’t Stand Behind It",
-      "link": "https://www.nngroup.com/articles/ai-editorial-process/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "NN/G uses AI for clarity, formatting, and critique, but humans retain editorial judgment and responsibility for every article.",
-      "date": "2026-09-11T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
+      "title": "The six strategy roles a CEO must not delegate",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate",
+      "excerpt": "Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.",
+      "date": "2026-10-09T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
       "tags": [
-        "UX",
-        "设计",
-        "研究"
+        "战略",
+        "管理",
+        "AI"
       ],
-      "category": "ai-ux",
-      "tldr": "NN/G uses AI for clarity, formatting, and critique, but humans retain editorial judgment and responsibility for every article.",
+      "category": "design-director",
+      "tldr": "Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "As the world order turns, leading companies are keeping pace. Here’s how",
+      "link": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/as-the-world-order-turns-leading-companies-are-keeping-pace-heres-how",
+      "excerpt": "Leading companies are tracking six emerging patterns of geopolitical change and realigning their businesses to achieve resilience, seize growth, and build…",
+      "date": "2026-10-09T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Leading companies are tracking six emerging patterns of geopolitical change and realigning their businesses to achieve resilience, seize growth, and build…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "For CPG companies, agentic AI’s real payoff is growth",
+      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth",
+      "excerpt": "As the relationship between consumer-packaged-goods companies and retailers becomes more complex, agentic AI can recapture lost sales. But are leaders ready to…",
+      "date": "2026-10-09T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "As the relationship between consumer-packaged-goods companies and retailers becomes more complex, agentic AI can recapture lost sales. But are leaders ready to…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1045,63 +1121,6 @@
       ],
       "category": "ai-management",
       "tldr": "Inference is reshaping AI economics, infrastructure architectures, and investment priorities across the semiconductor ecosystem.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "AI is changing work. Now it has to change the organization",
-      "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization",
-      "excerpt": "The first phase of enterprise AI put powerful new tools in people’s hands. Capturing the larger opportunity from agentic AI will require leaders to rethink the…",
-      "date": "2026-10-05T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The first phase of enterprise AI put powerful new tools in people’s hands. Capturing the larger opportunity from agentic AI will require leaders to rethink the…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Pause, pivot, or accelerate: SaaS in the age of agentic AI",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai",
-      "excerpt": "Agentic AI is reshaping the case for modernization in insurance. Leaders from Guidewire, Bessemer Venture Partners, and SAP discuss how insurers can respond,…",
-      "date": "2026-10-02T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Agentic AI is reshaping the case for modernization in insurance. Leaders from Guidewire, Bessemer Venture Partners, and SAP discuss how insurers can respond,…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Siemens’s next reinvention: An interview with Cedrik Neike",
-      "link": "https://www.mckinsey.com/industries/industrials/our-insights/siemens-next-reinvention-an-interview-with-cedrik-neike",
-      "excerpt": "As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take to lead the next era of manufacturing?",
-      "date": "2026-10-02T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take to lead the next era of manufacturing?",
       "insight": "",
       "suggestion": "",
       "enriched": false

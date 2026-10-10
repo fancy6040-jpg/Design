@@ -6221,5 +6221,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/sophos": {
+    "category": "ai-cognition",
+    "tldr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/asana-browser-agent": {
+    "category": "ai-agent",
+    "tldr": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/": {
+    "category": "ai-ux",
+    "tldr": "Elevating AI’s impact from individual productivity gains to team-wide wins requires meeting people where they are. Here’s how teams at Figma, Sephora, Mercari,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "A useful AI assistant needs relevant personal context, the capability to use it, and an experience that helps users understand its limits.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-agent",
+    "tldr": "Claude power users rarely edit their context files and often can’t find them. Your AI agent is only as powerful as its context library.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/sightlines-issue-no3/": {
+    "category": "ai-ux",
+    "tldr": "How do you drive AI adoption and make better decisions about what to build?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate": {
+    "category": "design-director",
+    "tldr": "Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/geopolitics/our-insights/as-the-world-order-turns-leading-companies-are-keeping-pace-heres-how": {
+    "category": "ai-management",
+    "tldr": "Leading companies are tracking six emerging patterns of geopolitical change and realigning their businesses to achieve resilience, seize growth, and build…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth": {
+    "category": "ai-management",
+    "tldr": "As the relationship between consumer-packaged-goods companies and retailers becomes more complex, agentic AI can recapture lost sales. But are leaders ready to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
