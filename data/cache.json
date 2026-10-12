@@ -6284,5 +6284,12 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/": {
+    "category": "ai-cognition",
+    "tldr": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
