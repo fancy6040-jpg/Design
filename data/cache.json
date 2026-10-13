@@ -6291,5 +6291,19 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/future-of-asia/meesho-making-e-commerce-everyones-business": {
+    "category": "ai-management",
+    "tldr": "Scaling an e-commerce start-up in India’s dispersed markets is challenging, but innovation, patience, and passionately solving hard problems have enabled…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few": {
+    "category": "ai-management",
+    "tldr": "A golden age for the industry is becoming a golden age for a smaller group of asset managers.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

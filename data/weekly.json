@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-12T08:14:50.252Z",
-  "cutoff": "2026-09-12T08:13:25.249Z",
+  "generated": "2026-10-13T08:40:25.105Z",
+  "cutoff": "2026-09-13T08:38:57.010Z",
   "total": 68,
   "sources_attempted": 13,
   "items": [
@@ -917,6 +917,44 @@
       "enriched": false
     },
     {
+      "title": "Meesho: Making e-commerce everyone’s business",
+      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/meesho-making-e-commerce-everyones-business",
+      "excerpt": "Scaling an e-commerce start-up in India’s dispersed markets is challenging, but innovation, patience, and passionately solving hard problems have enabled…",
+      "date": "2026-10-12T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Scaling an e-commerce start-up in India’s dispersed markets is challenging, but innovation, patience, and passionately solving hard problems have enabled…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Asset management 2026: Plenty for the few?",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few",
+      "excerpt": "A golden age for the industry is becoming a golden age for a smaller group of asset managers.",
+      "date": "2026-10-12T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "A golden age for the industry is becoming a golden age for a smaller group of asset managers.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The six strategy roles a CEO must not delegate",
       "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate",
       "excerpt": "Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.",
@@ -1107,28 +1145,9 @@
       "enriched": false
     },
     {
-      "title": "Medtech needs more than a market rotation to win back investors",
-      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/medtech-needs-more-than-a-market-rotation-to-win-back-investors",
-      "excerpt": "With industry performance plateauing, medtech leaders must earn back investor trust with fresh strategies and better execution.",
-      "date": "2026-10-06T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "With industry performance plateauing, medtech leaders must earn back investor trust with fresh strategies and better execution.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Rehearsal Intelligence: Using Digital Twins for Crisis Readiness",
       "link": "https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/",
-      "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine but buggy software update to…",
+      "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In July 2024, the cybersecurity software company CrowdStrike released a defective content configuration…",
       "date": "2026-10-05T11:00:22.000Z",
       "source_id": "mit-sloan",
       "source_name": "MIT Sloan",
@@ -1140,25 +1159,6 @@
       ],
       "category": "ai-management",
       "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine but buggy software update to…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Scaling AI inference",
-      "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference",
-      "excerpt": "Inference is reshaping AI economics, infrastructure architectures, and investment priorities across the semiconductor ecosystem.",
-      "date": "2026-10-05T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Inference is reshaping AI economics, infrastructure architectures, and investment priorities across the semiconductor ecosystem.",
       "insight": "",
       "suggestion": "",
       "enriched": false
