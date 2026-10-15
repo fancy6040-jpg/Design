@@ -1,9 +1,85 @@
 {
-  "generated": "2026-10-14T06:52:57.336Z",
-  "cutoff": "2026-09-14T06:51:29.816Z",
-  "total": 68,
+  "generated": "2026-10-15T06:40:58.000Z",
+  "cutoff": "2026-09-15T06:39:52.495Z",
+  "total": 69,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "excerpt": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "date": "2026-10-14T12:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "link": "https://openai.com/index/sentinelone",
+      "excerpt": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "date": "2026-10-14T12:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "link": "https://openai.com/index/third-moment-research",
+      "excerpt": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "date": "2026-10-14T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "link": "https://openai.com/index/block-ai-powered-security",
+      "excerpt": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "date": "2026-10-14T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-management",
+      "tldr": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
@@ -19,6 +95,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "excerpt": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "date": "2026-10-14T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -100,25 +195,6 @@
       "enriched": false
     },
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "date": "2026-10-09T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "link": "https://openai.com/index/asana-browser-agent",
       "excerpt": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
@@ -133,6 +209,25 @@
       ],
       "category": "ai-agent",
       "tldr": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "date": "2026-10-09T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -176,96 +271,39 @@
       "enriched": false
     },
     {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "link": "https://openai.com/index/legalon-halves-codex-costs",
-      "excerpt": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "date": "2026-10-08T12:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "excerpt": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "link": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "excerpt": "Introducing the Anthropic Cyber Mission",
       "date": "2026-10-08T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
       "priority": 0,
       "tags": [
         "AI",
         "模型",
-        "产品"
+        "安全"
       ],
       "category": "ai-cognition",
-      "tldr": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "tldr": "Introducing the Anthropic Cyber Mission",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "link": "https://openai.com/index/teens-learn-and-plan",
-      "excerpt": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "date": "2026-10-07T12:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "link": "https://openai.com/index/radisson",
-      "excerpt": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their…",
-      "date": "2026-10-07T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "link": "https://openai.com/index/gpt-6-for-everyone",
-      "excerpt": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use…",
+      "title": "Introducing Claude Haiku 5.5",
+      "link": "https://www.anthropic.com/claude-haiku-5-5",
+      "excerpt": "Introducing Claude Haiku 5.5",
       "date": "2026-10-07T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
       "priority": 0,
       "tags": [
         "AI",
         "模型",
-        "产品"
+        "安全"
       ],
       "category": "ai-cognition",
-      "tldr": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use…",
+      "tldr": "Introducing Claude Haiku 5.5",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -537,20 +575,96 @@
       "enriched": false
     },
     {
-      "title": "Introducing the Life Sciences Verification Program",
-      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "excerpt": "Introducing the Life Sciences Verification Program",
-      "date": "2026-09-17T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "Figma deepens investment in India with largest international Config yet",
+      "link": "https://www.figma.com/blog/figma-deepens-investment-in-india/",
+      "excerpt": "Building off the Config momentum in India, Figma is launching an education program, new research, and an MCP partnership with Sarvam.",
+      "date": "2026-10-15T04:55:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "Introducing the Life Sciences Verification Program",
+      "category": "ai-ux",
+      "tldr": "Building off the Config momentum in India, Figma is launching an education program, new research, and an MCP partnership with Sarvam.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Build by design: New workflows for new ways of building",
+      "link": "https://www.figma.com/blog/build-by-design/",
+      "excerpt": "Here’s a look at everything we launched today to bring teams and agents, and the design, code, and context they work with, into Figma’s full-stack creative…",
+      "date": "2026-10-15T04:53:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "Here’s a look at everything we launched today to bring teams and agents, and the design, code, and context they work with, into Figma’s full-stack creative…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Design together with code layers on the canvas",
+      "link": "https://www.figma.com/blog/design-together-with-code-layers/",
+      "excerpt": "Today, code layers moves into open beta. Now teams can explore and build prototypes backed by real code on the canvas.",
+      "date": "2026-10-15T04:52:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "Today, code layers moves into open beta. Now teams can explore and build prototypes backed by real code on the canvas.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing Specs: Markdown as a medium",
+      "link": "https://www.figma.com/blog/introducing-figma-specs/",
+      "excerpt": "We’re launching Specs, a container for your context that lives on the Figma canvas.",
+      "date": "2026-10-15T04:51:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "We’re launching Specs, a container for your context that lives on the Figma canvas.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Create, ship, and manage data-backed websites with Payload in Figma",
+      "link": "https://www.figma.com/blog/websites-with-payload-in-figma/",
+      "excerpt": "With Payload in Figma, teams can go from prototype to production together, managing their content and data all in one place.",
+      "date": "2026-10-15T04:50:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-ux",
+      "tldr": "With Payload in Figma, teams can go from prototype to production together, managing their content and data all in one place.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -689,25 +803,6 @@
       "enriched": false
     },
     {
-      "title": "How to lighten design system upkeep with the Figma agent",
-      "link": "https://www.figma.com/blog/figma-agent-and-design-systems/",
-      "excerpt": "Figma’s agent can take on repetitive work across your design system, from maintaining your library to automating how designs adhere to it. Here, we share a few…",
-      "date": "2026-10-06T14:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Figma’s agent can take on repetitive work across your design system, from maintaining your library to automating how designs adhere to it. Here, we share a few…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Empathy Mapping: The First Step in Design Thinking",
       "link": "https://www.nngroup.com/articles/empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Empathy maps help UX teams visualize user attitudes and behaviors, building a shared understanding of end users while highlighting gaps in existing user data.",
@@ -746,44 +841,6 @@
       "enriched": false
     },
     {
-      "title": "Workflow lab: From design system to campaign in Figma Weave",
-      "link": "https://www.figma.com/blog/workflow-lab-from-design-system-to-campaign-in-figma-weave/",
-      "excerpt": "Design systems can power more than just designs. This workflow shows you how to turn raw materials into brand campaign collateral using the Gen Effect and…",
-      "date": "2026-10-01T16:48:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-design-system",
-      "tldr": "Design systems can power more than just designs. This workflow shows you how to turn raw materials into brand campaign collateral using the Gen Effect and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Figma invests in the UK with expanded London office",
-      "link": "https://www.figma.com/blog/london-office-expansion/",
-      "excerpt": "With our new London office, we’re getting closer to our customers and community.",
-      "date": "2026-09-29T16:47:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "With our new London office, we’re getting closer to our customers and community.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How AI Works and How Users Think About It: Study Guide",
       "link": "https://www.nngroup.com/articles/ai-functionality-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Unsure where to start? Use this collection of links to our articles and videos to learn about how artificial intelligence works, and how users think about it.",
@@ -817,44 +874,6 @@
       ],
       "category": "ai-ux",
       "tldr": "How people react to being told that AI helped create a piece of content varies with audience, context, the nature and degree of AI use.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "What it takes to build great products now",
-      "link": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
-      "excerpt": "Getting to a prototype is easier than ever. The harder work is sustaining speed all the way to launch, choosing the right direction, and creating products that…",
-      "date": "2026-09-24T20:44:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "Getting to a prototype is easier than ever. The harder work is sustaining speed all the way to launch, choosing the right direction, and creating products that…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The power of product-based learning",
-      "link": "https://www.figma.com/blog/the-power-of-product-based-learning/",
-      "excerpt": "There’s a big difference between having an idea and making it real, and in that space is where learning happens. Here’s how teachers are using Figma to give…",
-      "date": "2026-09-23T15:56:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "There’s a big difference between having an idea and making it real, and in that space is where learning happens. Here’s how teachers are using Figma to give…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -912,6 +931,82 @@
       ],
       "category": "ai-ux",
       "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Why Every High-Performing Leader Needs a Pacer",
+      "link": "https://sloanreview.mit.edu/article/why-every-high-performing-leader-needs-a-pacer/",
+      "excerpt": "Matt Harrison Clough/Ikon Images Jakob Ingebrigtsen, one of the best middle-distance runners ever, has won gold medals for Norway in two Olympics, won multiple…",
+      "date": "2026-10-14T11:00:33.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Matt Harrison Clough/Ikon Images Jakob Ingebrigtsen, one of the best middle-distance runners ever, has won gold medals for Norway in two Olympics, won multiple…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The AI value curve: The economics of applying AI to existing work",
+      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work",
+      "excerpt": "Many organizations are still measuring AI adoption instead of value. The AI value curve helps identify where AI’s automation potential can be deployed most…",
+      "date": "2026-10-14T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Many organizations are still measuring AI adoption instead of value. The AI value curve helps identify where AI’s automation potential can be deployed most…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Voices on Planning: The AI-powered future of supply chain",
+      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain",
+      "excerpt": "The shift from software as a service to AI-enabled planning could move decision-making from fixed cycles to real time, but success will require the right…",
+      "date": "2026-10-14T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The shift from software as a service to AI-enabled planning could move decision-making from fixed cycles to real time, but success will require the right…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Rewiring capital projects to boost construction productivity",
+      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-capital-projects-to-boost-construction-productivity",
+      "excerpt": "McKinsey’s Capital Excellence experts discuss how AI and technology can boost construction productivity, address labor shortages, and accelerate delivery of…",
+      "date": "2026-10-14T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "McKinsey’s Capital Excellence experts discuss how AI and technology can boost construction productivity, address labor shortages, and accelerate delivery of…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1069,63 +1164,6 @@
       "enriched": false
     },
     {
-      "title": "For CPG companies, agentic AI’s real payoff is growth",
-      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth",
-      "excerpt": "As the relationship between consumer-packaged-goods companies and retailers becomes more complex, agentic AI can recapture lost sales. But are leaders ready to…",
-      "date": "2026-10-09T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "As the relationship between consumer-packaged-goods companies and retailers becomes more complex, agentic AI can recapture lost sales. But are leaders ready to…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Shapers and Founders: Understanding the owner mindset",
-      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-understanding-the-owner-mindset",
-      "excerpt": "Marrying Eastern philosophy and Western management culture has given many of Asia’s owner-CEOs a unique edge in growing their businesses.",
-      "date": "2026-10-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Marrying Eastern philosophy and Western management culture has given many of Asia’s owner-CEOs a unique edge in growing their businesses.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The playbook for seeing around geopolitical corners",
-      "link": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/the-playbook-for-seeing-around-geopolitical-corners",
-      "excerpt": "From black swans to gray rhinos, geopolitical shocks are multiplying. Here’s the tool kit smart leaders use to see them coming.",
-      "date": "2026-10-08T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "From black swans to gray rhinos, geopolitical shocks are multiplying. Here’s the tool kit smart leaders use to see them coming.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "When Compliance Workarounds Backfire",
       "link": "https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/",
       "excerpt": "John Holcroft/Ikon Images In 2021, Barcelona-based delivery platform Glovo was faced with a law that threatened its business model. Spain had passed the Rider…",
@@ -1273,25 +1311,6 @@
       ],
       "category": "ai-management",
       "tldr": "Gillian Blease/Ikon Images Corporate sustainability is facing headwinds. Net-zero pledges are being quietly walked back. Regulatory pressure is loosening in…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How B2B Marketers Misunderstand Their Customers",
-      "link": "https://sloanreview.mit.edu/article/how-b2b-marketers-misunderstand-their-customers/",
-      "excerpt": "Nick Lowndes/Ikon Images Businesses are striving to adapt ever faster to keep pace with rapid change, and yet B2B marketing practices have remained…",
-      "date": "2026-09-15T11:00:37.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Nick Lowndes/Ikon Images Businesses are striving to adapt ever faster to keep pace with rapid change, and yet B2B marketing practices have remained…",
       "insight": "",
       "suggestion": "",
       "enriched": false

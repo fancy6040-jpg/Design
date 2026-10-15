@@ -6375,5 +6375,117 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/amp-beyond-coding": {
+    "category": "ai-agent",
+    "tldr": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/sentinelone": {
+    "category": "ai-cognition",
+    "tldr": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/third-moment-research": {
+    "category": "ai-agent",
+    "tldr": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/block-ai-powered-security": {
+    "category": "ai-management",
+    "tldr": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
+    "category": "ai-agent",
+    "tldr": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/news/anthropic-cyber-mission": {
+    "category": "ai-cognition",
+    "tldr": "Introducing the Anthropic Cyber Mission",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.anthropic.com/claude-haiku-5-5": {
+    "category": "ai-cognition",
+    "tldr": "Introducing Claude Haiku 5.5",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/figma-deepens-investment-in-india/": {
+    "category": "ai-ux",
+    "tldr": "Building off the Config momentum in India, Figma is launching an education program, new research, and an MCP partnership with Sarvam.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/build-by-design/": {
+    "category": "ai-agent",
+    "tldr": "Here’s a look at everything we launched today to bring teams and agents, and the design, code, and context they work with, into Figma’s full-stack creative…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/design-together-with-code-layers/": {
+    "category": "ai-ux",
+    "tldr": "Today, code layers moves into open beta. Now teams can explore and build prototypes backed by real code on the canvas.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/introducing-figma-specs/": {
+    "category": "ai-ux",
+    "tldr": "We’re launching Specs, a container for your context that lives on the Figma canvas.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/websites-with-payload-in-figma/": {
+    "category": "ai-ux",
+    "tldr": "With Payload in Figma, teams can go from prototype to production together, managing their content and data all in one place.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/why-every-high-performing-leader-needs-a-pacer/": {
+    "category": "ai-management",
+    "tldr": "Matt Harrison Clough/Ikon Images Jakob Ingebrigtsen, one of the best middle-distance runners ever, has won gold medals for Norway in two Olympics, won multiple…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work": {
+    "category": "ai-management",
+    "tldr": "Many organizations are still measuring AI adoption instead of value. The AI value curve helps identify where AI’s automation potential can be deployed most…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain": {
+    "category": "ai-management",
+    "tldr": "The shift from software as a service to AI-enabled planning could move decision-making from fixed cycles to real time, but success will require the right…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-capital-projects-to-boost-construction-productivity": {
+    "category": "ai-management",
+    "tldr": "McKinsey’s Capital Excellence experts discuss how AI and technology can boost construction productivity, address labor shortages, and accelerate delivery of…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
