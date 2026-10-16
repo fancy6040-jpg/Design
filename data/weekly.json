@@ -1,9 +1,85 @@
 {
-  "generated": "2026-10-15T06:40:58.000Z",
-  "cutoff": "2026-09-15T06:39:52.495Z",
+  "generated": "2026-10-16T06:33:09.251Z",
+  "cutoff": "2026-09-16T06:31:49.847Z",
   "total": 69,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "excerpt": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "date": "2026-10-15T19:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "date": "2026-10-15T16:08:03.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Teaching students to think and learn through questions",
+      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "excerpt": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "date": "2026-10-15T13:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "link": "https://openai.com/index/sullivan-cromwell",
+      "excerpt": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "date": "2026-10-15T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "link": "https://openai.com/index/amp-beyond-coding",
@@ -214,63 +290,6 @@
       "enriched": false
     },
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "date": "2026-10-09T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "link": "https://openai.com/index/oracle",
-      "excerpt": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "date": "2026-10-08T16:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-workflow",
-      "tldr": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "link": "https://openai.com/index/pollo-ai",
-      "excerpt": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "date": "2026-10-08T12:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Introducing the Anthropic Cyber Mission",
       "link": "https://www.anthropic.com/news/anthropic-cyber-mission",
       "excerpt": "Introducing the Anthropic Cyber Mission",
@@ -285,6 +304,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "Introducing the Anthropic Cyber Mission",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Building on our commitment to American scientific discovery",
+      "link": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "excerpt": "Building on our commitment to American scientific discovery",
+      "date": "2026-10-08T00:00:00.000Z",
+      "source_id": "anthropic",
+      "source_name": "Anthropic",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "安全"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Building on our commitment to American scientific discovery",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -480,25 +518,6 @@
       "enriched": false
     },
     {
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "excerpt": "",
-      "date": "2026-09-23T15:25:14.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "excerpt": "Claude discovers a novel enzyme system with CRISPR-like repeats",
@@ -556,25 +575,6 @@
       "enriched": false
     },
     {
-      "title": "Partnering with Accenture on embedded evaluation",
-      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "excerpt": "Partnering with Accenture on embedded evaluation",
-      "date": "2026-09-18T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "安全"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Partnering with Accenture on embedded evaluation",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Figma deepens investment in India with largest international Config yet",
       "link": "https://www.figma.com/blog/figma-deepens-investment-in-india/",
       "excerpt": "Building off the Config momentum in India, Figma is launching an education program, new research, and an MCP partnership with Sarvam.",
@@ -615,7 +615,7 @@
     {
       "title": "Design together with code layers on the canvas",
       "link": "https://www.figma.com/blog/design-together-with-code-layers/",
-      "excerpt": "Today, code layers moves into open beta. Now teams can explore and build prototypes backed by real code on the canvas.",
+      "excerpt": "Today, code layers moves into open beta. Now teams can explore and build prototypes backed by code on the canvas.",
       "date": "2026-10-15T04:52:00.000Z",
       "source_id": "figma",
       "source_name": "Figma",
@@ -936,6 +936,82 @@
       "enriched": false
     },
     {
+      "title": "The Defining Challenge of Responsible AI Is Designing Systems That Preserve Human Judgment When and Where It Counts",
+      "link": "https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/",
+      "excerpt": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts comprising…",
+      "date": "2026-10-15T11:00:55.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts comprising…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Place, purpose, and the path to economic mobility",
+      "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility",
+      "excerpt": "Where you live shapes far more than you’d think. New research points to how community, place, and connection relate to getting ahead.",
+      "date": "2026-10-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Where you live shapes far more than you’d think. New research points to how community, place, and connection relate to getting ahead.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Strengthening supply chains behind US semiconductors",
+      "link": "https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors",
+      "excerpt": "New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make the ecosystem more…",
+      "date": "2026-10-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make the ecosystem more…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The judgment bottleneck: Balancing AI and human speeds in strategy",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy",
+      "excerpt": "Analysis now runs on AI time, but judgment still runs on human time. Three moves can help turn AI’s speed into better strategy decisions.",
+      "date": "2026-10-15T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Analysis now runs on AI time, but judgment still runs on human time. Three moves can help turn AI’s speed into better strategy decisions.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Why Every High-Performing Leader Needs a Pacer",
       "link": "https://sloanreview.mit.edu/article/why-every-high-performing-leader-needs-a-pacer/",
       "excerpt": "Matt Harrison Clough/Ikon Images Jakob Ingebrigtsen, one of the best middle-distance runners ever, has won gold medals for Norway in two Olympics, won multiple…",
@@ -1012,6 +1088,25 @@
       "enriched": false
     },
     {
+      "title": "What does AI really cost?",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-does-ai-really-cost",
+      "excerpt": "Moving an AI tool from pilot to production can nearly quadruple its cost. Three McKinsey experts explain why—and how to tell whether it’s worth it.",
+      "date": "2026-10-14T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Moving an AI tool from pilot to production can nearly quadruple its cost. Three McKinsey experts explain why—and how to tell whether it’s worth it.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The New Rules of Brand Visibility in AI Search",
       "link": "https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search/",
       "excerpt": "Alice Mollon/Ikon Images The Research The authors interviewed 15 senior marketing and digital leaders across industries, including financial services, software…",
@@ -1083,82 +1178,6 @@
       ],
       "category": "ai-management",
       "tldr": "Customer experience is a competitive imperative for medtechs. To create a durable advantage, it must be designed into products from day one, not added as a…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Meesho: Making e-commerce everyone’s business",
-      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/meesho-making-e-commerce-everyones-business",
-      "excerpt": "Scaling an e-commerce start-up in India’s dispersed markets is challenging, but innovation, patience, and passionately solving hard problems have enabled…",
-      "date": "2026-10-12T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Scaling an e-commerce start-up in India’s dispersed markets is challenging, but innovation, patience, and passionately solving hard problems have enabled…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Asset management 2026: Plenty for the few?",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few",
-      "excerpt": "A golden age for the industry is becoming a golden age for a smaller group of asset managers.",
-      "date": "2026-10-12T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "A golden age for the industry is becoming a golden age for a smaller group of asset managers.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The six strategy roles a CEO must not delegate",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate",
-      "excerpt": "Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.",
-      "date": "2026-10-09T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "design-director",
-      "tldr": "Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "As the world order turns, leading companies are keeping pace. Here’s how",
-      "link": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/as-the-world-order-turns-leading-companies-are-keeping-pace-heres-how",
-      "excerpt": "Leading companies are tracking six emerging patterns of geopolitical change and realigning their businesses to achieve resilience, seize growth, and build…",
-      "date": "2026-10-09T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Leading companies are tracking six emerging patterns of geopolitical change and realigning their businesses to achieve resilience, seize growth, and build…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1292,25 +1311,6 @@
       ],
       "category": "ai-management",
       "tldr": "Matt Harrison Clough/Ikon Images In an unpredictable economy and fractured media landscape, marketing leaders are navigating a period of profound…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "How Sustainability Transformations Quietly Lose Their Edge",
-      "link": "https://sloanreview.mit.edu/article/how-sustainability-transformations-quietly-lose-their-edge/",
-      "excerpt": "Gillian Blease/Ikon Images Corporate sustainability is facing headwinds. Net-zero pledges are being quietly walked back. Regulatory pressure is loosening in…",
-      "date": "2026-09-21T11:00:43.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Gillian Blease/Ikon Images Corporate sustainability is facing headwinds. Net-zero pledges are being quietly walked back. Regulatory pressure is loosening in…",
       "insight": "",
       "suggestion": "",
       "enriched": false
