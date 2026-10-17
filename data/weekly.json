@@ -1,9 +1,66 @@
 {
-  "generated": "2026-10-16T06:33:09.251Z",
-  "cutoff": "2026-09-16T06:31:49.847Z",
-  "total": 69,
+  "generated": "2026-10-17T06:22:34.826Z",
+  "cutoff": "2026-09-17T06:21:14.813Z",
+  "total": 70,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "excerpt": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s…",
+      "date": "2026-10-16T19:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "date": "2026-10-16T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
+      "excerpt": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "date": "2026-10-16T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Bringing GPT-Rosalind to academic research labs",
       "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
@@ -176,25 +233,6 @@
       "enriched": false
     },
     {
-      "title": "The EU’s next chapter in AI is agentic",
-      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "excerpt": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "date": "2026-10-14T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Developing Gemini 4 Argon responsibly and safely",
       "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "excerpt": "",
@@ -247,44 +285,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "excerpt": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "date": "2026-10-13T12:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "excerpt": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "date": "2026-10-09T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -570,6 +570,44 @@
       ],
       "category": "ai-cognition",
       "tldr": "Introducing Claude Opus 5.5",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "UX Maps: Glossary",
+      "link": "https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Use this glossary to quickly clarify key terms and concepts related to UX maps.",
+      "date": "2026-10-16T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Use this glossary to quickly clarify key terms and concepts related to UX maps.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation",
+      "link": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
+      "date": "2026-10-16T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -917,20 +955,39 @@
       "enriched": false
     },
     {
-      "title": "UX Conference December Announced (Dec 2 - Dec 15)",
-      "link": "https://www.nngroup.com/training/december/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
-      "date": "2026-09-16T06:59:19.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
+      "title": "Getting real about AI: How AI agents are changing the economics of software engineering",
+      "link": "https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering",
+      "excerpt": "Cognition co-founder and President Russell Kaplan explains why the next frontier of AI in software engineering is about more than writing code faster and what…",
+      "date": "2026-10-16T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
       "tags": [
-        "UX",
-        "设计",
-        "研究"
+        "战略",
+        "管理",
+        "AI"
       ],
-      "category": "ai-ux",
-      "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
+      "category": "ai-management",
+      "tldr": "Cognition co-founder and President Russell Kaplan explains why the next frontier of AI in software engineering is about more than writing code faster and what…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "What is a forward-deployed engineer?",
+      "link": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-a-forward-deployed-engineer",
+      "excerpt": "Forward-deployed engineers work inside another company’s own systems. Three McKinsey leaders explain how FDEs help companies derive impact from AI.",
+      "date": "2026-10-16T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Forward-deployed engineers work inside another company’s own systems. Three McKinsey leaders explain how FDEs help companies derive impact from AI.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1140,44 +1197,6 @@
       ],
       "category": "design-director",
       "tldr": "An AI operating system can become an enterprise’s “second brain,” but only if CEOs rethink how management itself evolves.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Why the future of capital projects belongs to digital and AI-enabled teams",
-      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/why-the-future-of-capital-projects-belongs-to-digital-and-ai-enabled-teams",
-      "excerpt": "Digital and AI are changing the way capital projects are selected, designed, procured, built, and steered. Leaders are moving beyond pilots to rewire how…",
-      "date": "2026-10-13T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Digital and AI are changing the way capital projects are selected, designed, procured, built, and steered. Leaders are moving beyond pilots to rewire how…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Why medtechs can’t afford to overlook customer experience",
-      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/why-medtechs-cant-afford-to-overlook-customer-experience",
-      "excerpt": "Customer experience is a competitive imperative for medtechs. To create a durable advantage, it must be designed into products from day one, not added as a…",
-      "date": "2026-10-13T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Customer experience is a competitive imperative for medtechs. To create a durable advantage, it must be designed into products from day one, not added as a…",
       "insight": "",
       "suggestion": "",
       "enriched": false
