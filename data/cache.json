@@ -6606,5 +6606,26 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://www.anthropic.com/news/2026-usage-policy-update": {
+    "category": "ai-cognition",
+    "tldr": "2026 Usage Policy update",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade": {
+    "category": "ai-management",
+    "tldr": "Our latest research finds that distinctive capabilities unique to Latino business owners and consumers in the United States could create significant growth in…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity": {
+    "category": "ai-management",
+    "tldr": "Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year for every woman and potentially contribute more than 7…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
