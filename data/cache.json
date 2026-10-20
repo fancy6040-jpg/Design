@@ -6627,5 +6627,47 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/low-resource-programming-languages": {
+    "category": "ai-cognition",
+    "tldr": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+    "category": "ai-cognition",
+    "tldr": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/": {
+    "category": "ai-management",
+    "tldr": "Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data science. Your data science team has…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition": {
+    "category": "ai-management",
+    "tldr": "The US retirement industry is entering a new era. Four shifts, from AI to product innovation, are redefining where value will be created.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds": {
+    "category": "ai-management",
+    "tldr": "Our inaugural business aviation article finds that demand for private aviation services continues to grow, straining supply chains and infrastructure. Leaders…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-building-businesses-that-last": {
+    "category": "ai-management",
+    "tldr": "What comes after launch? Successful founders and venture builders offer lessons in what it takes to keep growing.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

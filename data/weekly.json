@@ -1,9 +1,28 @@
 {
-  "generated": "2026-10-19T07:05:25.326Z",
-  "cutoff": "2026-09-19T07:03:57.455Z",
-  "total": 68,
+  "generated": "2026-10-20T06:50:50.022Z",
+  "cutoff": "2026-09-20T06:48:55.939Z",
+  "total": 63,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Advancing coding in low‑resource programming languages",
+      "link": "https://openai.com/index/low-resource-programming-languages",
+      "excerpt": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "date": "2026-10-19T12:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "How Itaú is building generative AI for its entire customer base",
       "link": "https://openai.com/index/itau-generative-ai",
@@ -76,25 +95,6 @@
       ],
       "category": "ai-workflow",
       "tldr": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "date": "2026-10-15T16:08:03.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -195,86 +195,10 @@
       "enriched": false
     },
     {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "link": "https://openai.com/index/block-ai-powered-security",
-      "excerpt": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "date": "2026-10-14T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data…",
-      "date": "2026-10-14T02:00:14.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "excerpt": "",
-      "date": "2026-10-13T19:43:07.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "excerpt": "",
-      "date": "2026-10-13T16:01:58.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "excerpt": "",
-      "date": "2026-10-13T16:01:52.000Z",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "excerpt": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "date": "2026-10-13T16:00:00.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -284,7 +208,7 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "",
+      "tldr": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -347,6 +271,25 @@
       "enriched": false
     },
     {
+      "title": "Introducing Playground: Create and play custom games",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "excerpt": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "date": "2026-10-07T12:00:00.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Introducing Claude Haiku 5.5",
       "link": "https://www.anthropic.com/claude-haiku-5-5",
       "excerpt": "Introducing Claude Haiku 5.5",
@@ -366,25 +309,6 @@
       "enriched": false
     },
     {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "excerpt": "",
-      "date": "2026-10-06T19:57:04.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Expanding the Cyber Verification Program",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
       "excerpt": "Expanding the Cyber Verification Program",
@@ -399,6 +323,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "Expanding the Cyber Verification Program",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The latest AI news we announced in September 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "excerpt": "Here are Google’s latest AI updates from September 2026",
+      "date": "2026-10-02T15:00:00.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Here are Google’s latest AI updates from September 2026",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -442,10 +385,10 @@
       "enriched": false
     },
     {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "excerpt": "",
-      "date": "2026-09-30T20:01:45.000Z",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "excerpt": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "date": "2026-09-28T19:00:00.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -455,26 +398,7 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "excerpt": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "date": "2026-09-30T15:03:07.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "tldr": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -499,10 +423,10 @@
       "enriched": false
     },
     {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "excerpt": "",
-      "date": "2026-09-24T16:20:39.000Z",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "excerpt": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "date": "2026-09-23T18:00:00.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -512,26 +436,7 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "date": "2026-09-23T16:00:57.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "tldr": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -917,20 +822,20 @@
       "enriched": false
     },
     {
-      "title": "The hidden opportunity in the next $2 trillion of US–Latin America trade",
-      "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade",
-      "excerpt": "Our latest research finds that distinctive capabilities unique to Latino business owners and consumers in the United States could create significant growth in…",
-      "date": "2026-10-19T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
+      "title": "Why Data Modeling Is Not Enough",
+      "link": "https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/",
+      "excerpt": "Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data science. Your data science team has…",
+      "date": "2026-10-19T11:00:59.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
       "priority": 2,
       "tags": [
-        "战略",
         "管理",
-        "AI"
+        "AI",
+        "战略"
       ],
       "category": "ai-management",
-      "tldr": "Our latest research finds that distinctive capabilities unique to Latino business owners and consumers in the United States could create significant growth in…",
+      "tldr": "Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data science. Your data science team has…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -950,6 +855,82 @@
       ],
       "category": "ai-management",
       "tldr": "Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year for every woman and potentially contribute more than 7…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The hidden opportunity in the next $2 trillion of US–Latin America trade",
+      "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade",
+      "excerpt": "Our latest research finds that distinctive capabilities unique to Latino business owners and consumers in the United States could create significant growth in…",
+      "date": "2026-10-19T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Our latest research finds that distinctive capabilities unique to Latino business owners and consumers in the United States could create significant growth in…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The next era of US retirement: Four shifts redefining competition",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition",
+      "excerpt": "The US retirement industry is entering a new era. Four shifts, from AI to product innovation, are redefining where value will be created.",
+      "date": "2026-10-19T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The US retirement industry is entering a new era. Four shifts, from AI to product innovation, are redefining where value will be created.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "The state of business aviation in 2026: Resilient, despite headwinds",
+      "link": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds",
+      "excerpt": "Our inaugural business aviation article finds that demand for private aviation services continues to grow, straining supply chains and infrastructure. Leaders…",
+      "date": "2026-10-19T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Our inaugural business aviation article finds that demand for private aviation services continues to grow, straining supply chains and infrastructure. Leaders…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Building businesses that last",
+      "link": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-building-businesses-that-last",
+      "excerpt": "What comes after launch? Successful founders and venture builders offer lessons in what it takes to keep growing.",
+      "date": "2026-10-19T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "What comes after launch? Successful founders and venture builders offer lessons in what it takes to keep growing.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1088,63 +1069,6 @@
       "enriched": false
     },
     {
-      "title": "The AI value curve: The economics of applying AI to existing work",
-      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work",
-      "excerpt": "Many organizations are still measuring AI adoption instead of value. The AI value curve helps identify where AI’s automation potential can be deployed most…",
-      "date": "2026-10-14T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Many organizations are still measuring AI adoption instead of value. The AI value curve helps identify where AI’s automation potential can be deployed most…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Voices on Planning: The AI-powered future of supply chain",
-      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain",
-      "excerpt": "The shift from software as a service to AI-enabled planning could move decision-making from fixed cycles to real time, but success will require the right…",
-      "date": "2026-10-14T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The shift from software as a service to AI-enabled planning could move decision-making from fixed cycles to real time, but success will require the right…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Rewiring capital projects to boost construction productivity",
-      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-capital-projects-to-boost-construction-productivity",
-      "excerpt": "McKinsey’s Capital Excellence experts discuss how AI and technology can boost construction productivity, address labor shortages, and accelerate delivery of…",
-      "date": "2026-10-14T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "McKinsey’s Capital Excellence experts discuss how AI and technology can boost construction productivity, address labor shortages, and accelerate delivery of…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The New Rules of Brand Visibility in AI Search",
       "link": "https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search/",
       "excerpt": "Alice Mollon/Ikon Images The Research The authors interviewed 15 senior marketing and digital leaders across industries, including financial services, software…",
@@ -1204,7 +1128,7 @@
     {
       "title": "Rehearsal Intelligence: Using Digital Twins for Crisis Readiness",
       "link": "https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/",
-      "excerpt": "Carolyn Geason-Beissel/MIT SMR | Getty Images In July 2024, the cybersecurity software company CrowdStrike released a defective content configuration update.…",
+      "excerpt": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In July 2024, the cybersecurity software company CrowdStrike released a defective content configuration…",
       "date": "2026-10-05T11:00:22.000Z",
       "source_id": "mit-sloan",
       "source_name": "MIT Sloan",
@@ -1273,25 +1197,6 @@
       ],
       "category": "ai-management",
       "tldr": "Marie Montocchio/Ikon Images For years, social media companies have come under fire for promoting divisive, false, and dangerous content in order to monetize…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Five Urgent Priorities for CMOs in 2027",
-      "link": "https://sloanreview.mit.edu/article/five-urgent-priorities-for-cmos-in-2027/",
-      "excerpt": "Matt Harrison Clough/Ikon Images In an unpredictable economy and fractured media landscape, marketing leaders are navigating a period of profound…",
-      "date": "2026-09-22T11:00:03.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Matt Harrison Clough/Ikon Images In an unpredictable economy and fractured media landscape, marketing leaders are navigating a period of profound…",
       "insight": "",
       "suggestion": "",
       "enriched": false
