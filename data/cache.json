@@ -6669,5 +6669,61 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/": {
+    "category": "ai-cognition",
+    "tldr": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/ted-taylor-restaurant": {
+    "category": "ai-workflow",
+    "tldr": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/terminal-x": {
+    "category": "ai-agent",
+    "tldr": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/openai-to-acquire-orchestra-bio": {
+    "category": "ai-management",
+    "tldr": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/source-material-ben-ganz/": {
+    "category": "ai-ux",
+    "tldr": "From experimental typography and print artifacts to architecture, furniture, and fashion, PIN-UP Magazine’s creative director explores how materials, systems,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy": {
+    "category": "ai-management",
+    "tldr": "In the next decade, quantum technology could create trillions in value and break encryption, delivering opportunity but also risk. Leading companies are acting…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright": {
+    "category": "ai-management",
+    "tldr": "Open-source veteran Chris Wright explains why AI-driven vulnerability discovery is forcing a reckoning for software security, and how the industry can emerge…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/switch-tracks-rewiring-rolling-stock-for-a-new-era": {
+    "category": "ai-management",
+    "tldr": "Fast-growing markets in Asia are difficult for global rail OEMs to access. Value could shift from new builds toward servicing and renewals—while OEMs prepare…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
