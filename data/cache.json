@@ -6809,5 +6809,75 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/openai-nask-ai-safety-security-partnership": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/decisions-api": {
+    "category": "ai-cognition",
+    "tldr": "Fast, focused, low-cost decisions for any application.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/": {
+    "category": "ai-cognition",
+    "tldr": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/forward-deployed-engineering-means": {
+    "category": "ai-cognition",
+    "tldr": "What forward deployed engineering means at OpenAI",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/uber-chatgpt-work-rollout": {
+    "category": "ai-management",
+    "tldr": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/": {
+    "category": "ai-agent",
+    "tldr": "Your design system can help the Figma agent understand the principles and guidelines that define your product. Here’s how to make that context useful to the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/lufthansa-figma-make/": {
+    "category": "ai-ux",
+    "tldr": "Pilots depend on in-flight software to navigate routes, see air traffic, avoid turbulence, and more. To bring more dynamic prototypes to user testing,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing": {
+    "category": "ai-management",
+    "tldr": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players": {
+    "category": "ai-management",
+    "tldr": "Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment, cost competitiveness remains…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it": {
+    "category": "ai-management",
+    "tldr": "Permitting delays ripple unevenly across states depending on their industry mix. Companies with projects in the queue can take steps to manage delays.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
