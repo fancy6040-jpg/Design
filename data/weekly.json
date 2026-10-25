@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-24T06:38:57.559Z",
-  "cutoff": "2026-09-24T06:37:40.646Z",
-  "total": 63,
+  "generated": "2026-10-25T07:05:22.082Z",
+  "cutoff": "2026-09-25T07:03:57.454Z",
+  "total": 67,
   "sources_attempted": 13,
   "items": [
     {
@@ -76,6 +76,25 @@
       ],
       "category": "ai-cognition",
       "tldr": "Fast, focused, low-cost decisions for any application.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "date": "2026-10-22T14:30:24.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -195,10 +214,10 @@
       "enriched": false
     },
     {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "excerpt": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-      "date": "2026-10-21T04:00:00.000Z",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "date": "2026-10-15T16:08:03.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -208,16 +227,73 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "tldr": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data…",
+      "date": "2026-10-14T02:00:14.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "excerpt": "",
+      "date": "2026-10-13T19:43:07.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "excerpt": "",
+      "date": "2026-10-13T16:01:58.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "excerpt": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "date": "2026-10-13T16:00:00.000Z",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "excerpt": "",
+      "date": "2026-10-13T16:01:52.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -227,7 +303,7 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "tldr": "",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -290,25 +366,6 @@
       "enriched": false
     },
     {
-      "title": "Introducing Playground: Create and play custom games",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "excerpt": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "date": "2026-10-07T12:00:00.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Introducing Claude Haiku 5.5",
       "link": "https://www.anthropic.com/claude-haiku-5-5",
       "excerpt": "Introducing Claude Haiku 5.5",
@@ -328,6 +385,25 @@
       "enriched": false
     },
     {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "excerpt": "",
+      "date": "2026-10-06T19:57:04.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Expanding the Cyber Verification Program",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
       "excerpt": "Expanding the Cyber Verification Program",
@@ -342,25 +418,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Expanding the Cyber Verification Program",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The latest AI news we announced in September 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "excerpt": "Here are Google’s latest AI updates from September 2026",
-      "date": "2026-10-02T15:00:00.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Here are Google’s latest AI updates from September 2026",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -404,10 +461,10 @@
       "enriched": false
     },
     {
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "excerpt": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "date": "2026-09-28T19:00:00.000Z",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "excerpt": "",
+      "date": "2026-09-30T20:01:45.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -417,7 +474,26 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "excerpt": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "date": "2026-09-30T15:03:07.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -556,25 +632,6 @@
       "enriched": false
     },
     {
-      "title": "UX Maps: Glossary",
-      "link": "https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Use this glossary to quickly clarify key terms and concepts related to UX maps.",
-      "date": "2026-10-16T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Use this glossary to quickly clarify key terms and concepts related to UX maps.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation",
       "link": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
@@ -589,6 +646,25 @@
       ],
       "category": "ai-ux",
       "tldr": "Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "UX Maps: Glossary",
+      "link": "https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Use this glossary to quickly clarify key terms and concepts related to UX maps.",
+      "date": "2026-10-16T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Use this glossary to quickly clarify key terms and concepts related to UX maps.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -860,25 +936,6 @@
       "enriched": false
     },
     {
-      "title": "Asia’s energy reckoning: Securing the energy system to drive growth",
-      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth",
-      "excerpt": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could focus on five priority investment areas to support…",
-      "date": "2026-10-22T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could focus on five priority investment areas to support…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Focus, scale, fund: The AI playbook CPG leaders are missing",
       "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
       "excerpt": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of…",
@@ -893,6 +950,25 @@
       ],
       "category": "ai-management",
       "tldr": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Asia’s energy reckoning: Securing the energy system to drive growth",
+      "link": "https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth",
+      "excerpt": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could focus on five priority investment areas to support…",
+      "date": "2026-10-22T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could focus on five priority investment areas to support…",
       "insight": "",
       "suggestion": "",
       "enriched": false
