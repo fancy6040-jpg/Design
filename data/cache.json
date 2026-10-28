@@ -7012,5 +7012,54 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+    "category": "ai-cognition",
+    "tldr": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/retell-ai": {
+    "category": "ai-agent",
+    "tldr": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/oracle-apps-in-chatgpt": {
+    "category": "ai-agent",
+    "tldr": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/check-point-daybreak": {
+    "category": "ai-cognition",
+    "tldr": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/": {
+    "category": "ai-management",
+    "tldr": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the like. But employees watch for the moments…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value": {
+    "category": "ai-management",
+    "tldr": "AI may be deepening our crisis of connection, says Stanford research psychologist Jamil Zaki. Managing change with empathy helps leaders build trust,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/hold-course-and-adapt-as-you-go-an-interview-with-manon-van-beek": {
+    "category": "design-director",
+    "tldr": "As she prepares to step down, the CEO of leading European grid operator TenneT reflects on scaling energy infrastructure, navigating geopolitical shocks, and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

@@ -1,9 +1,85 @@
 {
-  "generated": "2026-10-27T06:59:32.271Z",
-  "cutoff": "2026-09-27T06:58:05.441Z",
+  "generated": "2026-10-28T07:41:42.797Z",
+  "cutoff": "2026-09-28T07:40:34.767Z",
   "total": 65,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Genie 4: A new generation of world simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "date": "2026-10-27T16:01:38.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai",
+      "excerpt": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "date": "2026-10-27T15:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "excerpt": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "date": "2026-10-27T07:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "link": "https://openai.com/index/check-point-daybreak",
+      "excerpt": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into…",
+      "date": "2026-10-27T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "link": "https://openai.com/index/greptile-code-review-codex-astra",
@@ -133,63 +209,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Bringing fast and capable computer use to everyone",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "excerpt": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "date": "2026-10-23T17:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "excerpt": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "date": "2026-10-23T10:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "excerpt": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "date": "2026-10-23T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -499,20 +518,20 @@
       "enriched": false
     },
     {
-      "title": "Introducing Claude Sonnet 5.5",
-      "link": "https://www.anthropic.com/claude-sonnet-5-5",
-      "excerpt": "Introducing Claude Sonnet 5.5",
-      "date": "2026-09-28T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "6 ways teams are experimenting with code layers",
+      "link": "https://www.figma.com/blog/6-ways-teams-are-experimenting-with-code-layers/",
+      "excerpt": "Now that code layers is in open beta, you can bring code to the canvas. Here’s how six teams are using it to experiment, get stakeholders aligned, and move…",
+      "date": "2026-10-23T22:43:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "Introducing Claude Sonnet 5.5",
+      "category": "ai-ux",
+      "tldr": "Now that code layers is in open beta, you can bring code to the canvas. Here’s how six teams are using it to experiment, get stakeholders aligned, and move…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -765,25 +784,6 @@
       "enriched": false
     },
     {
-      "title": "4 team rituals that drive AI adoption",
-      "link": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
-      "excerpt": "Elevating AI’s impact from individual productivity gains to team-wide wins requires meeting people where they are. Here’s how teams at Figma, Sephora, Mercari,…",
-      "date": "2026-10-10T02:12:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "Elevating AI’s impact from individual productivity gains to team-wide wins requires meeting people where they are. Here’s how teams at Figma, Sephora, Mercari,…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "The New Siri’s Biggest Strength Is Not Intelligence",
       "link": "https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "A useful AI assistant needs relevant personal context, the capability to use it, and an experience that helps users understand its limits.",
@@ -855,6 +855,63 @@
       ],
       "category": "ai-agent",
       "tldr": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "What Interruptions Say About Your Organizational Culture",
+      "link": "https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/",
+      "excerpt": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the like. But employees watch for the moments…",
+      "date": "2026-10-27T11:00:35.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the like. But employees watch for the moments…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "What AI can’t replace—and why it matters for value",
+      "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value",
+      "excerpt": "AI may be deepening our crisis of connection, says Stanford research psychologist Jamil Zaki. Managing change with empathy helps leaders build trust,…",
+      "date": "2026-10-27T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "AI may be deepening our crisis of connection, says Stanford research psychologist Jamil Zaki. Managing change with empathy helps leaders build trust,…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "‘Hold course and adapt as you go’: An interview with Manon van Beek",
+      "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/hold-course-and-adapt-as-you-go-an-interview-with-manon-van-beek",
+      "excerpt": "As she prepares to step down, the CEO of leading European grid operator TenneT reflects on scaling energy infrastructure, navigating geopolitical shocks, and…",
+      "date": "2026-10-27T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "As she prepares to step down, the CEO of leading European grid operator TenneT reflects on scaling energy infrastructure, navigating geopolitical shocks, and…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -974,6 +1031,25 @@
       "enriched": false
     },
     {
+      "title": "What trends are influencing the food and beverage industry?",
+      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/what-trends-are-influencing-the-food-and-beverage-industry",
+      "excerpt": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. To thrive, companies will need real product…",
+      "date": "2026-10-22T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. To thrive, companies will need real product…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The State of Grocery Retail Europe: Implications for packaging players",
       "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
       "excerpt": "Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment, cost competitiveness remains…",
@@ -1007,63 +1083,6 @@
       ],
       "category": "ai-management",
       "tldr": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could focus on five priority investment areas to support…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Federal permitting’s uneven economic impact, and what companies can do about it",
-      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it",
-      "excerpt": "Permitting delays ripple unevenly across states depending on their industry mix. Companies with projects in the queue can take steps to manage delays.",
-      "date": "2026-10-22T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Permitting delays ripple unevenly across states depending on their industry mix. Companies with projects in the queue can take steps to manage delays.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The UK’s regional talent trap and how it restricts regional growth: UK Productivity Series, part 2",
-      "link": "https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2",
-      "excerpt": "The regional distribution of Britain’s economy traps operational leadership talent in London and the South East and prevents businesses across the country from…",
-      "date": "2026-10-22T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "The regional distribution of Britain’s economy traps operational leadership talent in London and the South East and prevents businesses across the country from…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "What trends are influencing the food and beverage industry?",
-      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/what-trends-are-influencing-the-food-and-beverage-industry",
-      "excerpt": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. To thrive, companies will need real product…",
-      "date": "2026-10-22T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. To thrive, companies will need real product…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1216,25 +1235,6 @@
       ],
       "category": "ai-management",
       "tldr": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine but buggy software update to…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Turn Energy Efficiency Into Strategic Advantage",
-      "link": "https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/",
-      "excerpt": "Grundini/Ikon Images The Research The authors interviewed 39 executives representing 10 countries and multiple industries and hosted an online workshop with 36…",
-      "date": "2026-09-30T11:00:08.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "design-director",
-      "tldr": "Grundini/Ikon Images The Research The authors interviewed 39 executives representing 10 countries and multiple industries and hosted an online workshop with 36…",
       "insight": "",
       "suggestion": "",
       "enriched": false
