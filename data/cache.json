@@ -7124,5 +7124,61 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/updated-model-spec": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/how-we-detect-frontier-model-misalignment": {
+    "category": "ai-agent",
+    "tldr": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/ropes-gray-ai-diligence": {
+    "category": "ai-cognition",
+    "tldr": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/": {
+    "category": "ai-cognition",
+    "tldr": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/training-a-figma-fluent-editing-model/": {
+    "category": "ai-ux",
+    "tldr": "We’ve increasingly seen that specialized post-training can compete with frontier models. Here, we’re sharing the research behind how we’re translating that to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/making-something-human-4-things-we-took-away-from-config-india/": {
+    "category": "ai-ux",
+    "tldr": "AI can help us create almost anything now. But from icons and NFTs to art installations and fashion design, it's still up to the maker to deliver something…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is": {
+    "category": "design-director",
+    "tldr": "FICO CEO Will Lansing says a strong ownership culture, not a smarter computational method, will set the data analytics company apart from competitors in this…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management": {
+    "category": "ai-management",
+    "tldr": "Banks increasingly deploy AI in distressed credit management. But few have adjusted their operating models to deliver distinctive customer experiences and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
