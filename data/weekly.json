@@ -1,9 +1,47 @@
 {
-  "generated": "2026-11-06T08:43:15.913Z",
-  "cutoff": "2026-10-07T08:41:46.036Z",
-  "total": 61,
+  "generated": "2026-11-07T07:57:43.878Z",
+  "cutoff": "2026-10-08T07:56:18.118Z",
+  "total": 60,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "excerpt": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "date": "2026-11-06T08:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "date": "2026-11-06T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Cult.fit builds operational muscle with Codex",
       "link": "https://openai.com/index/cultfit-builds-with-codex",
@@ -171,44 +209,6 @@
       ],
       "category": "ai-workflow",
       "tldr": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "A thousand fewer paths to root",
-      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "excerpt": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "date": "2026-11-04T08:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "excerpt": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "date": "2026-11-04T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -385,58 +385,77 @@
       "enriched": false
     },
     {
-      "title": "Introducing the Anthropic Cyber Mission",
-      "link": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "excerpt": "Introducing the Anthropic Cyber Mission",
-      "date": "2026-10-08T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "In conversation: Dylan Field and David Friedberg on the human role in creating with AI",
+      "link": "https://www.figma.com/blog/in-conversation-dylan-field-and-david-friedberg/",
+      "excerpt": "On why design is the new code, shaping AI’s creative output, and the human vision and judgment behind what we make.",
+      "date": "2026-11-06T20:31:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "设计",
+        "工具",
+        "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "Introducing the Anthropic Cyber Mission",
+      "category": "ai-ux",
+      "tldr": "On why design is the new code, shaping AI’s creative output, and the human vision and judgment behind what we make.",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Building on our commitment to American scientific discovery",
-      "link": "https://www.anthropic.com/news/genesis-mission-commitment",
-      "excerpt": "Building on our commitment to American scientific discovery",
-      "date": "2026-10-08T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "Agent Harness: Definition",
+      "link": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+      "date": "2026-11-06T18:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "UX",
+        "设计",
+        "研究"
       ],
-      "category": "ai-cognition",
-      "tldr": "Building on our commitment to American scientific discovery",
+      "category": "ai-agent",
+      "tldr": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "2026 Usage Policy update",
-      "link": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "excerpt": "2026 Usage Policy update",
-      "date": "2026-10-08T00:00:00.000Z",
-      "source_id": "anthropic",
-      "source_name": "Anthropic",
-      "priority": 0,
+      "title": "Usability 101: Introduction to Usability",
+      "link": "https://www.nngroup.com/articles/usability-101-introduction-to-usability/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Usability refers to how easily people can complete tasks with a design. Improve it by watching representative users do realistic tasks, early and repeatedly.",
+      "date": "2026-11-06T18:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
       "tags": [
-        "AI",
-        "模型",
-        "安全"
+        "UX",
+        "设计",
+        "研究"
       ],
-      "category": "ai-cognition",
-      "tldr": "2026 Usage Policy update",
+      "category": "ai-ux",
+      "tldr": "Usability refers to how easily people can complete tasks with a design. Improve it by watching representative users do realistic tasks, early and repeatedly.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "UX Conference January Announced (Jan 19 - Feb 1)",
+      "link": "https://www.nngroup.com/training/january/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
+      "date": "2026-11-06T04:34:21.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -689,25 +708,6 @@
       "enriched": false
     },
     {
-      "title": "How to put your design system to work with the Figma agent",
-      "link": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
-      "excerpt": "Your design system can help the Figma agent understand the principles and guidelines that define your product. Here’s how to make that context useful to the…",
-      "date": "2026-10-23T02:27:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Your design system can help the Figma agent understand the principles and guidelines that define your product. Here’s how to make that context useful to the…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation",
       "link": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
@@ -765,25 +765,6 @@
       "enriched": false
     },
     {
-      "title": "Context Libraries: How AI Power Users Manage Context Engineering",
-      "link": "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Claude power users rarely edit their context files and often can’t find them. Your AI agent is only as powerful as its context library.",
-      "date": "2026-10-09T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-agent",
-      "tldr": "Claude power users rarely edit their context files and often can’t find them. Your AI agent is only as powerful as its context library.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Suomen suuryritysten kasvumahdollisuus: välikatsaus",
       "link": "https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus",
       "excerpt": "Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä…",
@@ -817,6 +798,44 @@
       ],
       "category": "ai-management",
       "tldr": "A year after revealing the growth gap between the country’s largest publicly listed companies and their global peers, we find positive movement—now it’s time…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Could aviation at last be close to earning its wings?",
+      "link": "https://www.mckinsey.com/industries/travel/our-insights/could-aviation-at-last-be-close-to-earning-its-wings",
+      "excerpt": "The aviation value chain’s recent performance tells divergent stories: More airlines are creating value, and more are doing so consistently—yet the industry…",
+      "date": "2026-11-06T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "The aviation value chain’s recent performance tells divergent stories: More airlines are creating value, and more are doing so consistently—yet the industry…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How AI is transforming automotive quality operations",
+      "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations",
+      "excerpt": "Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early issue detection, accelerated investigations, and…",
+      "date": "2026-11-06T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "design-director",
+      "tldr": "Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early issue detection, accelerated investigations, and…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -936,25 +955,6 @@
       "enriched": false
     },
     {
-      "title": "The AI-enabled risk function of the future",
-      "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future",
-      "excerpt": "AI is reshaping how banks manage risk. The next challenge is scaling AI capabilities through a redesigned risk operating model.",
-      "date": "2026-11-04T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "AI is reshaping how banks manage risk. The next challenge is scaling AI capabilities through a redesigned risk operating model.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Why growth and specialization matter more than ever in private equity",
       "link": "https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity",
       "excerpt": "Creating value in private equity increasingly depends on transforming businesses, growing them profitably, and building operational excellence, as Providence…",
@@ -969,25 +969,6 @@
       ],
       "category": "ai-management",
       "tldr": "Creating value in private equity increasingly depends on transforming businesses, growing them profitably, and building operational excellence, as Providence…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Rethinking growth with AI: A conversation with Slack CMO Ryan Gavin",
-      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rethinking-growth-with-ai-a-conversation-with-slack-cmo-ryan-gavin",
-      "excerpt": "At Cannes Lions 2026, Slack CMO Ryan Gavin and McKinsey Partner Jeff Jacobs discussed how AI can turn productivity gains into a lever for growth.",
-      "date": "2026-11-04T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "At Cannes Lions 2026, Slack CMO Ryan Gavin and McKinsey Partner Jeff Jacobs discussed how AI can turn productivity gains into a lever for growth.",
       "insight": "",
       "suggestion": "",
       "enriched": false

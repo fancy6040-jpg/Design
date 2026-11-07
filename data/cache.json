@@ -7628,5 +7628,61 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/partnering-with-hacktron": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
+    "category": "ai-agent",
+    "tldr": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/in-conversation-dylan-field-and-david-friedberg/": {
+    "category": "ai-ux",
+    "tldr": "On why design is the new code, shaping AI’s creative output, and the human vision and judgment behind what we make.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-agent",
+    "tldr": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/usability-101-introduction-to-usability/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Usability refers to how easily people can complete tasks with a design. Improve it by watching representative users do realistic tasks, early and repeatedly.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/training/january/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/travel/our-insights/could-aviation-at-last-be-close-to-earning-its-wings": {
+    "category": "ai-management",
+    "tldr": "The aviation value chain’s recent performance tells divergent stories: More airlines are creating value, and more are doing so consistently—yet the industry…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations": {
+    "category": "design-director",
+    "tldr": "Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early issue detection, accelerated investigations, and…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
