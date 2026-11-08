@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T07:57:43.878Z",
-  "cutoff": "2026-10-08T07:56:18.118Z",
+  "generated": "2026-11-08T08:15:39.951Z",
+  "cutoff": "2026-10-09T08:14:07.969Z",
   "total": 60,
   "sources_attempted": 13,
   "items": [
@@ -765,44 +765,6 @@
       "enriched": false
     },
     {
-      "title": "Suomen suuryritysten kasvumahdollisuus: välikatsaus",
-      "link": "https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus",
-      "excerpt": "Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä…",
-      "date": "2026-11-06T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Assessing the growth trajectory of Finland’s largest companies",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/assessing-the-growth-trajectory-of-finlands-largest-companies",
-      "excerpt": "A year after revealing the growth gap between the country’s largest publicly listed companies and their global peers, we find positive movement—now it’s time…",
-      "date": "2026-11-06T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "A year after revealing the growth gap between the country’s largest publicly listed companies and their global peers, we find positive movement—now it’s time…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Could aviation at last be close to earning its wings?",
       "link": "https://www.mckinsey.com/industries/travel/our-insights/could-aviation-at-last-be-close-to-earning-its-wings",
       "excerpt": "The aviation value chain’s recent performance tells divergent stories: More airlines are creating value, and more are doing so consistently—yet the industry…",
@@ -822,6 +784,25 @@
       "enriched": false
     },
     {
+      "title": "Suomen suuryritysten kasvumahdollisuus: välikatsaus",
+      "link": "https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus",
+      "excerpt": "Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä…",
+      "date": "2026-11-06T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "How AI is transforming automotive quality operations",
       "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations",
       "excerpt": "Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early issue detection, accelerated investigations, and…",
@@ -836,6 +817,25 @@
       ],
       "category": "design-director",
       "tldr": "Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early issue detection, accelerated investigations, and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Assessing the growth trajectory of Finland’s largest companies",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/assessing-the-growth-trajectory-of-finlands-largest-companies",
+      "excerpt": "A year after revealing the growth gap between the country’s largest publicly listed companies and their global peers, we find positive movement—now it’s time…",
+      "date": "2026-11-06T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "A year after revealing the growth gap between the country’s largest publicly listed companies and their global peers, we find positive movement—now it’s time…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -879,25 +879,6 @@
       "enriched": false
     },
     {
-      "title": "Beauty, redefined",
-      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined",
-      "excerpt": "Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking to connect…",
-      "date": "2026-11-05T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking to connect…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How AI can help unlock insurance growth in Latin America",
       "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america",
       "excerpt": "Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers reach even more customers and operate more…",
@@ -912,6 +893,25 @@
       ],
       "category": "ai-management",
       "tldr": "Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers reach even more customers and operate more…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Beauty, redefined",
+      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined",
+      "excerpt": "Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking to connect…",
+      "date": "2026-11-05T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking to connect…",
       "insight": "",
       "suggestion": "",
       "enriched": false
