@@ -7684,5 +7684,75 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/closing-ai-guidance-gap-education": {
+    "category": "ai-cognition",
+    "tldr": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/chatgpt-enterprise-aws-marketplace": {
+    "category": "ai-management",
+    "tldr": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/control-room": {
+    "category": "ai-cognition",
+    "tldr": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/coderabbit-codex-daybreak": {
+    "category": "ai-agent",
+    "tldr": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/kuken": {
+    "category": "ai-cognition",
+    "tldr": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/": {
+    "category": "ai-agent",
+    "tldr": "From making designs more expressive and automating busywork, to exploring more possibilities on the canvas, here are six ways to push designers further with…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/do-more-with-sustainability-data/": {
+    "category": "ai-management",
+    "tldr": "Maria Bloom/Ikon Images Many large companies have invested significant amounts of time and capital into sustainability reporting. In 2022, the European Union’s…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/public-sector/our-insights/beyond-agency-boundaries-building-a-statewide-approach-to-customer-experience": {
+    "category": "ai-management",
+    "tldr": "As expectations for government evolve, three opportunities can help US states strengthen customer experience and service delivery to better meet residents’…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare": {
+    "category": "ai-management",
+    "tldr": "Shapers of healthcare’s future must evolve under relentless economic pressure. To avoid extinction, they must harness AI and biopharma breakthroughs to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-cfos-can-make-ai-pay-off": {
+    "category": "ai-management",
+    "tldr": "Creating value from AI in finance—and beyond—requires setting measurable targets and redesigning processes. Here’s how.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
