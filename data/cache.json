@@ -7859,5 +7859,82 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/": {
+    "category": "ai-cognition",
+    "tldr": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/": {
+    "category": "ai-management",
+    "tldr": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/": {
+    "category": "ai-cognition",
+    "tldr": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/jiostar-vijay-seshadri": {
+    "category": "ai-cognition",
+    "tldr": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/": {
+    "category": "ai-cognition",
+    "tldr": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/": {
+    "category": "ai-workflow",
+    "tldr": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/": {
+    "category": "ai-workflow",
+    "tldr": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/": {
+    "category": "ai-cognition",
+    "tldr": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/programmatic-m-and-a-in-australia-the-most-reliable-way-to-unlock-value": {
+    "category": "ai-management",
+    "tldr": "Fewer than one in 20 Australian-listed companies pursued programmatic M&A over the past decade, but they delivered the highest excess shareholder returns of…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/rural-healthcare-and-americas-340-billion-dollar-workforce-earnings-opportunity": {
+    "category": "ai-management",
+    "tldr": "Rural facilities are closing as staffing shortages worsen. Yet 38 million “bridge workers”—nearly 100 times the national workforce shortage—could move into…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/mgi/our-research/the-achilles-heel-of-global-trade-building-resilience-where-it-matters-most": {
+    "category": "ai-management",
+    "tldr": "International trade has been resilient, but important vulnerabilities lurk beneath the surface. Identifying and managing these Achilles’ heels could help…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
