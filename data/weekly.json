@@ -1,9 +1,85 @@
 {
-  "generated": "2026-11-12T08:56:52.737Z",
-  "cutoff": "2026-10-13T08:55:37.118Z",
+  "generated": "2026-11-13T08:53:48.084Z",
+  "cutoff": "2026-10-14T08:52:20.335Z",
   "total": 59,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "link": "https://openai.com/business/customer-stories/amplitude",
+      "excerpt": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and…",
+      "date": "2026-11-12T20:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "excerpt": "",
+      "date": "2026-11-12T18:00:50.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "excerpt": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "date": "2026-11-12T12:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-management",
+      "tldr": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "excerpt": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "date": "2026-11-12T09:30:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -24,10 +100,29 @@
       "enriched": false
     },
     {
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "excerpt": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "date": "2026-11-11T18:00:00.000Z",
+      "title": "Supporting research on AI and children’s safety",
+      "link": "https://openai.com/index/children-first-declaration",
+      "excerpt": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "date": "2026-11-12T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-workflow",
+      "tldr": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "date": "2026-11-11T15:00:15.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -37,45 +132,7 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "excerpt": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "date": "2026-11-11T16:00:00.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-management",
-      "tldr": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "excerpt": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
-      "date": "2026-11-11T09:00:00.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+      "tldr": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -119,10 +176,10 @@
       "enriched": false
     },
     {
-      "title": "Gemini Intelligence: New features, on more devices",
-      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "excerpt": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "date": "2026-11-10T19:00:00.000Z",
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "excerpt": "",
+      "date": "2026-11-10T16:03:47.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -132,16 +189,16 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "tldr": "",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "excerpt": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "date": "2026-11-10T14:00:00.000Z",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "date": "2026-11-10T12:02:28.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -150,27 +207,8 @@
         "研究",
         "模型"
       ],
-      "category": "ai-workflow",
-      "tldr": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "excerpt": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "date": "2026-11-10T13:00:00.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-workflow",
-      "tldr": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "category": "ai-agent",
+      "tldr": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -233,86 +271,29 @@
       "enriched": false
     },
     {
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "link": "https://openai.com/index/singapore-airlines-travel-work",
-      "excerpt": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris…",
-      "date": "2026-11-10T08:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
       "priority": 0,
       "tags": [
         "AI",
-        "模型",
-        "产品"
+        "研究",
+        "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "link": "https://openai.com/index/ai-effect-on-freelance-work",
-      "excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "date": "2026-11-10T07:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "link": "https://openai.com/index/cogent-security",
-      "excerpt": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "date": "2026-11-10T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "excerpt": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing…",
-      "date": "2026-11-09T19:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing…",
+      "tldr": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "excerpt": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "date": "2026-11-05T17:00:00.000Z",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "excerpt": "",
+      "date": "2026-11-05T17:05:16.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -322,16 +303,16 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "tldr": "",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "The latest AI news we announced in October 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "excerpt": "Here are Google’s latest AI updates from October 2026",
-      "date": "2026-11-02T17:45:00.000Z",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "date": "2026-11-03T17:01:49.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -340,17 +321,17 @@
         "研究",
         "模型"
       ],
-      "category": "ai-cognition",
-      "tldr": "Here are Google’s latest AI updates from October 2026",
+      "category": "ai-agent",
+      "tldr": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "excerpt": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
-      "date": "2026-10-26T16:00:00.000Z",
+      "title": "Speeding up planning decisions with AI",
+      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "excerpt": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "date": "2026-10-30T14:18:30.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -360,16 +341,16 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "tldr": "Google DeepMind and UK government work together to reduce planning assessment times",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "excerpt": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-      "date": "2026-10-21T04:00:00.000Z",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "excerpt": "",
+      "date": "2026-10-28T17:00:58.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -379,7 +360,45 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Genie 4: A new generation of world simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "date": "2026-10-27T16:01:38.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "How 3D transforms and Figma’s agent brought a launch video to life",
+      "link": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
+      "excerpt": "See how Figma’s Brand Studio team combined 3D design, agent-built plugins, shaders, and motion to create a video together on the canvas.",
+      "date": "2026-11-12T14:00:00.000Z",
+      "source_id": "figma",
+      "source_name": "Figma",
+      "priority": 1,
+      "tags": [
+        "设计",
+        "工具",
+        "产品"
+      ],
+      "category": "ai-agent",
+      "tldr": "See how Figma’s Brand Studio team combined 3D design, agent-built plugins, shaders, and motion to create a video together on the canvas.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -651,25 +670,6 @@
       "enriched": false
     },
     {
-      "title": "Source material: \"BRAT\" Art Director Brent David Freaney finds design inspiration from everyday life",
-      "link": "https://www.figma.com/blog/source-material-brent-david-freaney/",
-      "excerpt": "The designer takes us through his world of color theory, photography, graphic systems, and found ephemeral.",
-      "date": "2026-10-28T13:00:00.000Z",
-      "source_id": "figma",
-      "source_name": "Figma",
-      "priority": 1,
-      "tags": [
-        "设计",
-        "工具",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "The designer takes us through his world of color theory, photography, graphic systems, and found ephemeral.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "UX Disciplines: Glossary",
       "link": "https://www.nngroup.com/articles/ux-disciplines-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Definitions of fields related to user experience, including UX design, UI design, visual design, interaction design, service design, UX research, and DesignOps",
@@ -746,6 +746,25 @@
       "enriched": false
     },
     {
+      "title": "Lessons From Tech’s Diversity Disclosures",
+      "link": "https://sloanreview.mit.edu/article/lessons-from-techs-diversity-disclosures/",
+      "excerpt": "Aron Vellekoop León/Ikon Images Transparency can be a powerful lever, yet it is also combustible. When businesses raise visibility faster than they build the…",
+      "date": "2026-11-12T12:00:12.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Aron Vellekoop León/Ikon Images Transparency can be a powerful lever, yet it is also combustible. When businesses raise visibility faster than they build the…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Programmatic M&A in Australia: The most reliable way to unlock value",
       "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/programmatic-m-and-a-in-australia-the-most-reliable-way-to-unlock-value",
       "excerpt": "Fewer than one in 20 Australian-listed companies pursued programmatic M&A over the past decade, but they delivered the highest excess shareholder returns of…",
@@ -798,6 +817,63 @@
       ],
       "category": "ai-management",
       "tldr": "International trade has been resilient, but important vulnerabilities lurk beneath the surface. Identifying and managing these Achilles’ heels could help…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Proving AI’s business value: Views from PayPal Ads SVP and GM Mark Grether",
+      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/proving-ais-business-value-views-from-paypal-ads-svp-and-gm-mark-grether",
+      "excerpt": "PayPal Ads’ Mark Grether describes how marketers connect technology investment to measurable outcomes by using proprietary transaction data, CMO–CFO alignment,…",
+      "date": "2026-11-12T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "PayPal Ads’ Mark Grether describes how marketers connect technology investment to measurable outcomes by using proprietary transaction data, CMO–CFO alignment,…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Beyond delivery: The human and economic toll of preeclampsia in the US",
+      "link": "https://www.mckinsey.com/mhi/our-insights/beyond-delivery-the-human-and-economic-toll-of-preeclampsia-in-the-us",
+      "excerpt": "Preeclampsia affects about one in 11 births a year in the United States, causing complications for mothers and babies and contributing to $28 billion in costs.…",
+      "date": "2026-11-12T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Preeclampsia affects about one in 11 births a year in the United States, causing complications for mothers and babies and contributing to $28 billion in costs.…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Shaping the intelligent age: How Europe can thrive",
+      "link": "https://www.mckinsey.com/featured-insights/insights-on-europe/shaping-the-intelligent-age-how-europe-can-thrive",
+      "excerpt": "Europe has been one of the winners of the industrial age, but it cannot win the intelligent age on cost alone; it must win on innovation and scale.",
+      "date": "2026-11-12T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Europe has been one of the winners of the industrial age, but it cannot win the intelligent age on cost alone; it must win on innovation and scale.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -879,25 +955,6 @@
       "enriched": false
     },
     {
-      "title": "Global Banking Annual Review 2026: The AI disruption dividend",
-      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review",
-      "excerpt": "Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend is up for grabs, and it will go to the banks that…",
-      "date": "2026-11-10T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend is up for grabs, and it will go to the banks that…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Do More With Sustainability Data",
       "link": "https://sloanreview.mit.edu/article/do-more-with-sustainability-data/",
       "excerpt": "Maria Bloom/Ikon Images Many large companies have invested significant amounts of time and capital into sustainability reporting. In 2022, the European Union’s…",
@@ -912,44 +969,6 @@
       ],
       "category": "ai-management",
       "tldr": "Maria Bloom/Ikon Images Many large companies have invested significant amounts of time and capital into sustainability reporting. In 2022, the European Union’s…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Beyond agency boundaries: Building a statewide approach to customer experience",
-      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/beyond-agency-boundaries-building-a-statewide-approach-to-customer-experience",
-      "excerpt": "As expectations for government evolve, three opportunities can help US states strengthen customer experience and service delivery to better meet residents’…",
-      "date": "2026-11-09T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "As expectations for government evolve, three opportunities can help US states strengthen customer experience and service delivery to better meet residents’…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Future of healthcare: Extinction or accelerated evolution?",
-      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare",
-      "excerpt": "Shapers of healthcare’s future must evolve under relentless economic pressure. To avoid extinction, they must harness AI and biopharma breakthroughs to…",
-      "date": "2026-11-09T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Shapers of healthcare’s future must evolve under relentless economic pressure. To avoid extinction, they must harness AI and biopharma breakthroughs to…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1102,25 +1121,6 @@
       ],
       "category": "ai-management",
       "tldr": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts comprising…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Why Every High-Performing Leader Needs a Pacer",
-      "link": "https://sloanreview.mit.edu/article/why-every-high-performing-leader-needs-a-pacer/",
-      "excerpt": "Matt Harrison Clough/Ikon Images Jakob Ingebrigtsen, one of the best middle-distance runners ever, has won gold medals for Norway in two Olympics, won multiple…",
-      "date": "2026-10-14T11:00:33.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Matt Harrison Clough/Ikon Images Jakob Ingebrigtsen, one of the best middle-distance runners ever, has won gold medals for Norway in two Olympics, won multiple…",
       "insight": "",
       "suggestion": "",
       "enriched": false
