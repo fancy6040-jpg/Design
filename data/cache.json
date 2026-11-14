@@ -8013,5 +8013,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/introducing-chatgpt-wallet": {
+    "category": "ai-agent",
+    "tldr": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/business/customer-stories/shield": {
+    "category": "ai-agent",
+    "tldr": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/": {
+    "category": "ai-cognition",
+    "tldr": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/ai-role-in-the-creative-process/": {
+    "category": "ai-ux",
+    "tldr": "Which parts of the creative process can AI do for us—and which do we insist on keeping for ourselves?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/research-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "As AI speeds up development, it can be a challenge for research to adapt. Research can define what each release must measure and what it can help teams…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/journey-mapping-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "A journey map is a visualization of the process that a person goes through in order to accomplish a goal.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive": {
+    "category": "ai-management",
+    "tldr": "The founder of the whole-body MRI company explains why disease is a process, not binary, and how data and coaching can change a patient’s health trajectory.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/travel/our-insights/always-orbiting-how-consumers-plan-travel-experiences-now": {
+    "category": "ai-management",
+    "tldr": "Most travelers keep researching after they book a trip. The travel industry needs to spark interest early, stay engaged with customers, and give them reasons…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer": {
+    "category": "ai-management",
+    "tldr": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
