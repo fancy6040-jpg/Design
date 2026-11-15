@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-14T08:15:57.776Z",
-  "cutoff": "2026-10-15T08:15:07.188Z",
-  "total": 60,
+  "generated": "2026-11-15T08:36:20.086Z",
+  "cutoff": "2026-10-16T08:34:48.632Z",
+  "total": 59,
   "sources_attempted": 13,
   "items": [
     {
@@ -1121,25 +1121,6 @@
       ],
       "category": "ai-management",
       "tldr": "Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data science. Your data science team has…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The Defining Challenge of Responsible AI Is Designing Systems That Preserve Human Judgment When and Where It Counts",
-      "link": "https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/",
-      "excerpt": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts comprising…",
-      "date": "2026-10-15T11:00:55.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts comprising…",
       "insight": "",
       "suggestion": "",
       "enriched": false
