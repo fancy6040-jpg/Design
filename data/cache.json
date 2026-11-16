@@ -8076,5 +8076,19 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/step-toward-defining-the-standard-model": {
+    "category": "ai-cognition",
+    "tldr": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/our-new-blog-for-science": {
+    "category": "ai-cognition",
+    "tldr": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

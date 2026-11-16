@@ -1,9 +1,47 @@
 {
-  "generated": "2026-11-15T08:36:20.086Z",
-  "cutoff": "2026-10-16T08:34:48.632Z",
-  "total": 59,
+  "generated": "2026-11-16T08:45:06.620Z",
+  "cutoff": "2026-10-17T08:43:42.928Z",
+  "total": 58,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "A step toward defining the Standard Model on a lattice",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "excerpt": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "date": "2026-11-15T22:00:01.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Our new blog for science",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "excerpt": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "date": "2026-11-15T22:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Introducing ChatGPT Wallet",
       "link": "https://openai.com/index/introducing-chatgpt-wallet",
@@ -233,25 +271,6 @@
       "enriched": false
     },
     {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "link": "https://openai.com/index/jiostar-vijay-seshadri",
-      "excerpt": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "date": "2026-11-11T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Gemini Intelligence: New features, on more devices",
       "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
       "excerpt": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
@@ -304,25 +323,6 @@
       ],
       "category": "ai-workflow",
       "tldr": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Helping caregivers use AI in everyday life",
-      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "excerpt": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "date": "2026-11-10T12:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -741,25 +741,6 @@
       ],
       "category": "ai-ux",
       "tldr": "AI saves UX practitioners time on nearly every task, yet most feel lukewarm about it: mandates, unreliable output, and inflated expectations eat the gains.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation",
-      "link": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
-      "date": "2026-10-16T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "Data from AI-generated respondents pointed to the same conclusion as a survey of 604 humans but contained far fewer distinct answers.",
       "insight": "",
       "suggestion": "",
       "enriched": false
