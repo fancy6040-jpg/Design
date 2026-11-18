@@ -1,9 +1,85 @@
 {
-  "generated": "2026-11-17T09:53:14.135Z",
-  "cutoff": "2026-10-18T09:51:56.425Z",
+  "generated": "2026-11-18T09:26:31.434Z",
+  "cutoff": "2026-10-19T09:25:04.393Z",
   "total": 59,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "excerpt": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "date": "2026-11-18T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "excerpt": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "date": "2026-11-17T17:45:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Put Gemini to work for you",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "excerpt": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on…",
+      "date": "2026-11-17T17:00:00.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "excerpt": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals…",
+      "date": "2026-11-17T08:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
@@ -19,6 +95,44 @@
       ],
       "category": "ai-ux",
       "tldr": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "excerpt": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "date": "2026-11-17T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "excerpt": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI…",
+      "date": "2026-11-17T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -114,101 +228,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "link": "https://openai.com/index/lvmh-media-division-partnership",
-      "excerpt": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "date": "2026-11-16T09:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Our first phase of embedded assessments",
-      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "excerpt": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and…",
-      "date": "2026-11-16T08:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-cognition",
-      "tldr": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "excerpt": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "date": "2026-11-16T06:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "excerpt": "",
-      "date": "2026-11-16T06:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-agent",
-      "tldr": "",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "link": "https://openai.com/index/the-kings-trust-and-openai",
-      "excerpt": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "date": "2026-11-16T00:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-ux",
-      "tldr": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -361,25 +380,6 @@
       ],
       "category": "ai-cognition",
       "tldr": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "The latest AI news we announced in October 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "excerpt": "Here are Google’s latest AI updates from October 2026",
-      "date": "2026-11-02T17:45:00.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Here are Google’s latest AI updates from October 2026",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -746,6 +746,63 @@
       "enriched": false
     },
     {
+      "title": "What is cloud computing? -test",
+      "link": "https://www.mckinsey.com/what-is-cloud-computing--test",
+      "excerpt": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+      "date": "2026-11-18T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "What is cloud computing? -test",
+      "link": "https://www.mckinsey.com/our-people/what-is-cloud-computing--test",
+      "excerpt": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+      "date": "2026-11-18T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Designing Customization Journeys to Build More Valuable Customer Relationships",
+      "link": "https://sloanreview.mit.edu/article/designing-customization-journeys-to-build-more-valuable-customer-relationships/",
+      "excerpt": "Gillian Blease/Ikon Images When fast-casual restaurant chain Sweetgreen had its 2021 initial public offering, it highlighted its customizable salads (like the…",
+      "date": "2026-11-17T12:00:16.000Z",
+      "source_id": "mit-sloan",
+      "source_name": "MIT Sloan",
+      "priority": 2,
+      "tags": [
+        "管理",
+        "AI",
+        "战略"
+      ],
+      "category": "ai-management",
+      "tldr": "Gillian Blease/Ikon Images When fast-casual restaurant chain Sweetgreen had its 2021 initial public offering, it highlighted its customizable salads (like the…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "Steel: Forging the foundation for the future of India",
       "link": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/steel-forging-the-foundation-for-the-future-of-india",
       "excerpt": "As India’s steel industry expands capacity to meet rising demand, it has an opportunity to sharpen cost competitiveness, secure raw materials, and lower…",
@@ -760,6 +817,25 @@
       ],
       "category": "ai-management",
       "tldr": "As India’s steel industry expands capacity to meet rising demand, it has an opportunity to sharpen cost competitiveness, secure raw materials, and lower…",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Global Banking Annual Review 2026: Precision with speed",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review",
+      "excerpt": "Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend is up for grabs, and it will go to the banks that…",
+      "date": "2026-11-17T00:00:00.000Z",
+      "source_id": "mckinsey",
+      "source_name": "McKinsey",
+      "priority": 2,
+      "tags": [
+        "战略",
+        "管理",
+        "AI"
+      ],
+      "category": "ai-management",
+      "tldr": "Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend is up for grabs, and it will go to the banks that…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -898,25 +974,6 @@
       "enriched": false
     },
     {
-      "title": "Separating signal from noise: The always-on finance intelligence layer",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer",
-      "excerpt": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how.",
-      "date": "2026-11-13T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Lessons From Tech’s Diversity Disclosures",
       "link": "https://sloanreview.mit.edu/article/lessons-from-techs-diversity-disclosures/",
       "excerpt": "Aron Vellekoop León/Ikon Images Transparency can be a powerful lever, yet it is also combustible. When businesses raise visibility faster than they build the…",
@@ -931,44 +988,6 @@
       ],
       "category": "ai-management",
       "tldr": "Aron Vellekoop León/Ikon Images Transparency can be a powerful lever, yet it is also combustible. When businesses raise visibility faster than they build the…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Programmatic M&A in Australia: The most reliable way to unlock value",
-      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/programmatic-m-and-a-in-australia-the-most-reliable-way-to-unlock-value",
-      "excerpt": "Fewer than one in 20 Australian-listed companies pursued programmatic M&A over the past decade, but they delivered the highest excess shareholder returns of…",
-      "date": "2026-11-12T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Fewer than one in 20 Australian-listed companies pursued programmatic M&A over the past decade, but they delivered the highest excess shareholder returns of…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Rural healthcare and America’s $340 billion workforce earnings opportunity",
-      "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/rural-healthcare-and-americas-340-billion-dollar-workforce-earnings-opportunity",
-      "excerpt": "Rural facilities are closing as staffing shortages worsen. Yet 38 million “bridge workers”—nearly 100 times the national workforce shortage—could move into…",
-      "date": "2026-11-12T00:00:00.000Z",
-      "source_id": "mckinsey",
-      "source_name": "McKinsey",
-      "priority": 2,
-      "tags": [
-        "战略",
-        "管理",
-        "AI"
-      ],
-      "category": "ai-management",
-      "tldr": "Rural facilities are closing as staffing shortages worsen. Yet 38 million “bridge workers”—nearly 100 times the national workforce shortage—could move into…",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1102,25 +1121,6 @@
       ],
       "category": "ai-management",
       "tldr": "Alice Mollon/Ikon Images Employee stress is a major social issue both within and outside of our workplaces. As of 2022, stress had increased medical expenses…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Why Data Modeling Is Not Enough",
-      "link": "https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/",
-      "excerpt": "Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data science. Your data science team has…",
-      "date": "2026-10-19T11:00:59.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data science. Your data science team has…",
       "insight": "",
       "suggestion": "",
       "enriched": false

@@ -8216,5 +8216,68 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership": {
+    "category": "ai-cognition",
+    "tldr": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/introducing-gpt-6-2-astra-sol": {
+    "category": "ai-cognition",
+    "tldr": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/": {
+    "category": "ai-cognition",
+    "tldr": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/introducing-chatgpt-for-sales": {
+    "category": "ai-cognition",
+    "tldr": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/astra-law-6-2": {
+    "category": "ai-cognition",
+    "tldr": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/introducing-openai-for-chile": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/what-is-cloud-computing--test": {
+    "category": "ai-management",
+    "tldr": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/our-people/what-is-cloud-computing--test": {
+    "category": "ai-management",
+    "tldr": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/designing-customization-journeys-to-build-more-valuable-customer-relationships/": {
+    "category": "ai-management",
+    "tldr": "Gillian Blease/Ikon Images When fast-casual restaurant chain Sweetgreen had its 2021 initial public offering, it highlighted its customizable salads (like the…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
