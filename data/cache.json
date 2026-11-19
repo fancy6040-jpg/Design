@@ -8279,5 +8279,89 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/": {
+    "category": "ai-cognition",
+    "tldr": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/the-silent-consensus": {
+    "category": "ai-cognition",
+    "tldr": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/research-acceleration-jagged-frontier": {
+    "category": "ai-agent",
+    "tldr": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/business/customer-stories/sumitomo-life": {
+    "category": "ai-management",
+    "tldr": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/inside-the-codex-sandbox": {
+    "category": "ai-ux",
+    "tldr": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/managing-frontier-ai-risk": {
+    "category": "ai-management",
+    "tldr": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/advancing-chip-design-with-our-models": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/source-material-chase-rutherford/": {
+    "category": "ai-ux",
+    "tldr": "From internet ephemera and fashion to found images, objects, and cultural oddities, Chase explores how the things around us can be pulled apart,…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/a-bold-vision-for-belgium": {
+    "category": "ai-management",
+    "tldr": "A productivity revolution could more than double the country’s economic growth and ensure future prosperity.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/operations/our-insights/capex-in-chemicals-generating-value-through-performance-excellence": {
+    "category": "ai-management",
+    "tldr": "With the chemicals industry, especially in Europe, under pressure from converging external challenges, capital excellence is one of the largest untapped levers…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-technologys-next-frontier": {
+    "category": "ai-management",
+    "tldr": "Five of the 14 trends in McKinsey’s 2026 tech trends report are on pace to attract at least twice as much investment as in 2025. What does this rapid growth…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/business-building/our-insights/infrastructure-entrepreneurs-how-hochtief-captures-growth-in-the-ai-age": {
+    "category": "ai-management",
+    "tldr": "How does a 150-year-old engineering company become a growth champion? McKinsey Partner Jerome Königsfeld interviews two leaders from HOCHTIEF PPP Solutions to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
