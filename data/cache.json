@@ -8454,5 +8454,82 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://openai.com/index/combatting-adversarial-distillation": {
+    "category": "ai-cognition",
+    "tldr": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/business/customer-stories/hebbia": {
+    "category": "ai-cognition",
+    "tldr": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/introducing-medchembench": {
+    "category": "ai-cognition",
+    "tldr": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/introducing-gemini-4-neon/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/genie-4-is-now-available/": {
+    "category": "ai-cognition",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/": {
+    "category": "ai-cognition",
+    "tldr": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/": {
+    "category": "ai-agent",
+    "tldr": "Bringing scattered context onto the canvas helps teams connect the diagrams, designs, and technical decisions they need to build, all in one place. This…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/qual-research-methods/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Want to know why users struggle or what they need? Start by choosing the right method. Here are 4 of the most popular qualitative UX-research methods.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media": {
+    "category": "ai-management",
+    "tldr": "As Europe’s media landscape evolves, our analysis identifies the deal archetypes driving consolidation and where the next transactions are most likely to…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box": {
+    "category": "ai-management",
+    "tldr": "As physical AI scales, the biggest opportunities may extend well beyond today’s most visible applications and best-funded technologies.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
