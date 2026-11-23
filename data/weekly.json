@@ -1,9 +1,28 @@
 {
-  "generated": "2026-11-22T08:59:42.163Z",
-  "cutoff": "2026-10-23T08:58:18.450Z",
+  "generated": "2026-11-23T09:58:29.502Z",
+  "cutoff": "2026-10-24T09:57:12.809Z",
   "total": 59,
   "sources_attempted": 13,
   "items": [
+    {
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "excerpt": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "date": "2026-11-22T00:00:00.000Z",
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "模型",
+        "产品"
+      ],
+      "category": "ai-cognition",
+      "tldr": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
     {
       "title": "Combatting adversarial distillation",
       "link": "https://openai.com/index/combatting-adversarial-distillation",
@@ -62,44 +81,6 @@
       "enriched": false
     },
     {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "excerpt": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "date": "2026-11-19T18:00:00.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-agent",
-      "tldr": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "excerpt": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "date": "2026-11-19T17:00:00.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-cognition",
-      "tldr": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "excerpt": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
@@ -119,9 +100,9 @@
       "enriched": false
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "excerpt": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "excerpt": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "date": "2026-11-19T00:00:00.000Z",
       "source_id": "openai",
       "source_name": "OpenAI",
@@ -131,8 +112,8 @@
         "模型",
         "产品"
       ],
-      "category": "ai-workflow",
-      "tldr": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "category": "ai-cognition",
+      "tldr": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -176,9 +157,9 @@
       "enriched": false
     },
     {
-      "title": "Deploying Daybreak Red",
-      "link": "https://openai.com/business/learn/deploying-daybreak-red",
-      "excerpt": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "excerpt": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "date": "2026-11-19T00:00:00.000Z",
       "source_id": "openai",
       "source_name": "OpenAI",
@@ -188,17 +169,17 @@
         "模型",
         "产品"
       ],
-      "category": "ai-cognition",
-      "tldr": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "category": "ai-workflow",
+      "tldr": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "excerpt": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-      "date": "2026-11-18T17:00:00.000Z",
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "excerpt": "",
+      "date": "2026-11-18T21:35:43.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -208,7 +189,26 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Genie 4 is now available",
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "excerpt": "",
+      "date": "2026-11-18T18:13:42.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-cognition",
+      "tldr": "",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -233,29 +233,10 @@
       "enriched": false
     },
     {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "link": "https://openai.com/business/customer-stories/sumitomo-life",
-      "excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive…",
-      "date": "2026-11-18T08:00:00.000Z",
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "模型",
-        "产品"
-      ],
-      "category": "ai-management",
-      "tldr": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Put Gemini to work for you",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "excerpt": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on…",
-      "date": "2026-11-17T17:00:00.000Z",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "excerpt": "",
+      "date": "2026-11-12T18:00:50.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -265,16 +246,16 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on…",
+      "tldr": "",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "excerpt": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-      "date": "2026-11-16T14:00:00.000Z",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "date": "2026-11-11T15:00:15.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -284,16 +265,16 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "tldr": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "excerpt": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "date": "2026-11-12T18:00:00.000Z",
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "excerpt": "",
+      "date": "2026-11-10T16:03:47.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -303,16 +284,35 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "tldr": "",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "excerpt": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "date": "2026-11-11T18:00:00.000Z",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "date": "2026-11-10T12:02:28.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-agent",
+      "tldr": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "excerpt": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "date": "2026-11-10T11:13:04.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -322,35 +322,16 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "tldr": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "excerpt": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "date": "2026-11-11T16:00:00.000Z",
-      "source_id": "deepmind",
-      "source_name": "Google DeepMind",
-      "priority": 0,
-      "tags": [
-        "AI",
-        "研究",
-        "模型"
-      ],
-      "category": "ai-management",
-      "tldr": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "excerpt": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
-      "date": "2026-11-11T09:00:00.000Z",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "date": "2026-11-09T19:51:47.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -360,16 +341,16 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+      "tldr": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
       "insight": "",
       "suggestion": "",
       "enriched": false
     },
     {
-      "title": "Gemini Intelligence: New features, on more devices",
-      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "excerpt": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "date": "2026-11-10T19:00:00.000Z",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "excerpt": "",
+      "date": "2026-11-05T17:05:16.000Z",
       "source_id": "deepmind",
       "source_name": "Google DeepMind",
       "priority": 0,
@@ -379,7 +360,26 @@
         "模型"
       ],
       "category": "ai-cognition",
-      "tldr": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "tldr": "",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "date": "2026-11-03T17:01:49.000Z",
+      "source_id": "deepmind",
+      "source_name": "Google DeepMind",
+      "priority": 0,
+      "tags": [
+        "AI",
+        "研究",
+        "模型"
+      ],
+      "category": "ai-agent",
+      "tldr": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -404,25 +404,6 @@
       "enriched": false
     },
     {
-      "title": "Can AI Generate Good Designs from Raw User Data?",
-      "link": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone.",
-      "date": "2026-11-20T18:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-ux",
-      "tldr": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "Qualitative User-Research Methods: An Overview",
       "link": "https://www.nngroup.com/articles/qual-research-methods/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "excerpt": "Want to know why users struggle or what they need? Start by choosing the right method. Here are 4 of the most popular qualitative UX-research methods.",
@@ -437,6 +418,25 @@
       ],
       "category": "ai-ux",
       "tldr": "Want to know why users struggle or what they need? Start by choosing the right method. Here are 4 of the most popular qualitative UX-research methods.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
+      "title": "Can AI Generate Good Designs from Raw User Data?",
+      "link": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone.",
+      "date": "2026-11-20T18:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone.",
       "insight": "",
       "suggestion": "",
       "enriched": false
