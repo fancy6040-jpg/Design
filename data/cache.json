@@ -8615,5 +8615,75 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/": {
+    "category": "ai-management",
+    "tldr": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": {
+    "category": "ai-cognition",
+    "tldr": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/index/searching-for-distant-planets-with-astra": {
+    "category": "ai-cognition",
+    "tldr": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/business/customer-stories/intentful-dots": {
+    "category": "ai-cognition",
+    "tldr": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/business/customer-stories/ifood": {
+    "category": "ai-agent",
+    "tldr": "",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://openai.com/business/customer-stories/clay-plugins-openai": {
+    "category": "ai-management",
+    "tldr": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/": {
+    "category": "ai-agent",
+    "tldr": "Whether you’re exploring an idea, preparing for a meeting, or presenting your designs, the Figma agent can help you move work forward.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://sloanreview.mit.edu/article/four-habits-of-tech-savvy-leaders/": {
+    "category": "ai-management",
+    "tldr": "Sidsel Sorensen / Ikon Images The new technology thundered onto the scene, generating fear and elation. Financial markets gyrated. An army of workers trained…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-ai-readiness-gap": {
+    "category": "ai-management",
+    "tldr": "Employees are ready for the AI transition. What’s preventing leaders from turning that readiness into results?",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/industrials/our-insights/regaining-the-competitiveness-of-europes-industrials-the-european-way": {
+    "category": "ai-management",
+    "tldr": "Our research shows that 45 percent of European industrial companies exhibit heightened levels of financial stress or even distress. Six proven turnaround…",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
