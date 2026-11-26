@@ -8685,5 +8685,26 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/": {
+    "category": "ai-cognition",
+    "tldr": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/": {
+    "category": "ai-agent",
+    "tldr": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
+  },
+  "https://www.mckinsey.com/industries/healthcare/our-insights/testing-article-cs": {
+    "category": "ai-management",
+    "tldr": "Testing Article CS updated dek",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }
