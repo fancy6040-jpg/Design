@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-26T10:11:02.089Z",
-  "cutoff": "2026-10-27T10:09:34.975Z",
-  "total": 60,
+  "generated": "2026-11-27T10:16:07.719Z",
+  "cutoff": "2026-10-28T10:15:06.185Z",
+  "total": 59,
   "sources_attempted": 13,
   "items": [
     {
@@ -765,10 +765,10 @@
       "enriched": false
     },
     {
-      "title": "Testing Article CS",
-      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/testing-article-cs",
-      "excerpt": "Testing Article CS updated dek",
-      "date": "2026-11-26T00:00:00.000Z",
+      "title": "A blueprint for the United Kingdom’s next era of growth",
+      "link": "https://www.mckinsey.com/uk/our-insights/a-blueprint-for-the-united-kingdoms-next-era-of-growth",
+      "excerpt": "After years of economic stagnation, the United Kingdom has an opportunity to renew its economic dynamism through investment.",
+      "date": "2026-11-27T00:00:00.000Z",
       "source_id": "mckinsey",
       "source_name": "McKinsey",
       "priority": 2,
@@ -778,7 +778,7 @@
         "AI"
       ],
       "category": "ai-management",
-      "tldr": "Testing Article CS updated dek",
+      "tldr": "After years of economic stagnation, the United Kingdom has an opportunity to renew its economic dynamism through investment.",
       "insight": "",
       "suggestion": "",
       "enriched": false
@@ -1121,25 +1121,6 @@
       ],
       "category": "ai-management",
       "tldr": "Eliot Wyatt/Ikon Images If one were making a list of the companies that have most exploited the potential of data, analytics, and artificial intelligence in…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "What Interruptions Say About Your Organizational Culture",
-      "link": "https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/",
-      "excerpt": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the like. But employees watch for the moments…",
-      "date": "2026-10-27T11:00:35.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the like. But employees watch for the moments…",
       "insight": "",
       "suggestion": "",
       "enriched": false
