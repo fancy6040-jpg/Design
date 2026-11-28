@@ -8713,5 +8713,12 @@
     "insight": "",
     "suggestion": "",
     "enriched": false
+  },
+  "https://www.nngroup.com/articles/usability-testing-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication": {
+    "category": "ai-ux",
+    "tldr": "Usability testing involves watching people use a design to uncover problems and opportunities. Anyone on a product team can learn this.",
+    "insight": "",
+    "suggestion": "",
+    "enriched": false
   }
 }

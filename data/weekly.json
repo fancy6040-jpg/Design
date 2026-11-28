@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-27T10:16:07.719Z",
-  "cutoff": "2026-10-28T10:15:06.185Z",
-  "total": 59,
+  "generated": "2026-11-28T09:35:08.600Z",
+  "cutoff": "2026-10-29T09:33:41.450Z",
+  "total": 58,
   "sources_attempted": 13,
   "items": [
     {
@@ -385,6 +385,25 @@
       "enriched": false
     },
     {
+      "title": "Usability Testing 101",
+      "link": "https://www.nngroup.com/articles/usability-testing-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "excerpt": "Usability testing involves watching people use a design to uncover problems and opportunities. Anyone on a product team can learn this.",
+      "date": "2026-11-27T17:00:00.000Z",
+      "source_id": "nngroup",
+      "source_name": "NNGroup",
+      "priority": 1,
+      "tags": [
+        "UX",
+        "设计",
+        "研究"
+      ],
+      "category": "ai-ux",
+      "tldr": "Usability testing involves watching people use a design to uncover problems and opportunities. Anyone on a product team can learn this.",
+      "insight": "",
+      "suggestion": "",
+      "enriched": false
+    },
+    {
       "title": "The Figma agent is now available in FigJam and Slides",
       "link": "https://www.figma.com/blog/introducing-figma-agent-in-figjam-and-slides/",
       "excerpt": "Whether you’re exploring an idea, preparing for a meeting, or presenting your designs, the Figma agent can help you move work forward.",
@@ -746,25 +765,6 @@
       "enriched": false
     },
     {
-      "title": "The Role of UX in Agentic Software Factories",
-      "link": "https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "excerpt": "AI-native software development lifecycles reduce UX to AI context. UX must discover user needs, shape what’s built, and evaluate it before and after launch.",
-      "date": "2026-10-30T17:00:00.000Z",
-      "source_id": "nngroup",
-      "source_name": "NNGroup",
-      "priority": 1,
-      "tags": [
-        "UX",
-        "设计",
-        "研究"
-      ],
-      "category": "ai-agent",
-      "tldr": "AI-native software development lifecycles reduce UX to AI context. UX must discover user needs, shape what’s built, and evaluate it before and after launch.",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
       "title": "A blueprint for the United Kingdom’s next era of growth",
       "link": "https://www.mckinsey.com/uk/our-insights/a-blueprint-for-the-united-kingdoms-next-era-of-growth",
       "excerpt": "After years of economic stagnation, the United Kingdom has an opportunity to renew its economic dynamism through investment.",
@@ -1102,25 +1102,6 @@
       ],
       "category": "ai-management",
       "tldr": "Getty Images Operations that run under extreme risk — such as nuclear power plants, aircraft carriers, and air traffic control centers — have long understood…",
-      "insight": "",
-      "suggestion": "",
-      "enriched": false
-    },
-    {
-      "title": "AI Is Thriving at Capital One",
-      "link": "https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/",
-      "excerpt": "Eliot Wyatt/Ikon Images If one were making a list of the companies that have most exploited the potential of data, analytics, and artificial intelligence in…",
-      "date": "2026-10-28T11:00:15.000Z",
-      "source_id": "mit-sloan",
-      "source_name": "MIT Sloan",
-      "priority": 2,
-      "tags": [
-        "管理",
-        "AI",
-        "战略"
-      ],
-      "category": "ai-management",
-      "tldr": "Eliot Wyatt/Ikon Images If one were making a list of the companies that have most exploited the potential of data, analytics, and artificial intelligence in…",
       "insight": "",
       "suggestion": "",
       "enriched": false
